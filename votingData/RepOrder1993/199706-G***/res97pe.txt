@@ -1,0 +1,1332 @@
+event_number	ed_code	ballot_sequence_number	candidate_first_name	candidate_middle_name	candidate_last_name	candidate_gender_code	elected_indicator	incumbent_indicator	candidate_ed_vote_count	candidate_party_english_name	candidate_party_french_name	poll_number	polling_station_name	candidate_poll_vote_count
+3600	ED11-001	01	Larry		Duchesne	M	N	N	1761	N.D.P.	N.P.D.	1	Grand Tracadie	43
+3600	ED11-001	01	Larry		Duchesne	M	N	N	1761	N.D.P.	N.P.D.	1	Mount Stewart	5
+3600	ED11-001	01	Larry		Duchesne	M	N	N	1761	N.D.P.	N.P.D.	10	Fort Augustus	29
+3600	ED11-001	01	Larry		Duchesne	M	N	N	1761	N.D.P.	N.P.D.	11	Waterside	30
+3600	ED11-001	01	Larry		Duchesne	M	N	N	1761	N.D.P.	N.P.D.	12	Donagh	35
+3600	ED11-001	01	Larry		Duchesne	M	N	N	1761	N.D.P.	N.P.D.	13	Mermaid	60
+3600	ED11-001	01	Larry		Duchesne	M	N	N	1761	N.D.P.	N.P.D.	14	Hazelbrook	33
+3600	ED11-001	01	Larry		Duchesne	M	N	N	1761	N.D.P.	N.P.D.	15	Cross Roads	59
+3600	ED11-001	01	Larry		Duchesne	M	N	N	1761	N.D.P.	N.P.D.	16	Cross Roads	24
+3600	ED11-001	01	Larry		Duchesne	M	N	N	1761	N.D.P.	N.P.D.	17	Cross Roads	35
+3600	ED11-001	01	Larry		Duchesne	M	N	N	1761	N.D.P.	N.P.D.	18	Cross Roads	21
+3600	ED11-001	01	Larry		Duchesne	M	N	N	1761	N.D.P.	N.P.D.	19	Pownall	42
+3600	ED11-001	01	Larry		Duchesne	M	N	N	1761	N.D.P.	N.P.D.	2	Dunstaffnage	35
+3600	ED11-001	01	Larry		Duchesne	M	N	N	1761	N.D.P.	N.P.D.	2	Cross Roads	22
+3600	ED11-001	01	Larry		Duchesne	M	N	N	1761	N.D.P.	N.P.D.	20	Pownall	41
+3600	ED11-001	01	Larry		Duchesne	M	N	N	1761	N.D.P.	N.P.D.	21	Cherry Valley	20
+3600	ED11-001	01	Larry		Duchesne	M	N	N	1761	N.D.P.	N.P.D.	22	Vernon River	26
+3600	ED11-001	01	Larry		Duchesne	M	N	N	1761	N.D.P.	N.P.D.	23	Iona	15
+3600	ED11-001	01	Larry		Duchesne	M	N	N	1761	N.D.P.	N.P.D.	24	Iona	33
+3600	ED11-001	01	Larry		Duchesne	M	N	N	1761	N.D.P.	N.P.D.	25	Eldon	27
+3600	ED11-001	01	Larry		Duchesne	M	N	N	1761	N.D.P.	N.P.D.	26	Belfast	23
+3600	ED11-001	01	Larry		Duchesne	M	N	N	1761	N.D.P.	N.P.D.	27	Belle River	46
+3600	ED11-001	01	Larry		Duchesne	M	N	N	1761	N.D.P.	N.P.D.	28	High Bank	33
+3600	ED11-001	01	Larry		Duchesne	M	N	N	1761	N.D.P.	N.P.D.	29	Murray Harbour	28
+3600	ED11-001	01	Larry		Duchesne	M	N	N	1761	N.D.P.	N.P.D.	3	Tracadie	28
+3600	ED11-001	01	Larry		Duchesne	M	N	N	1761	N.D.P.	N.P.D.	3	Montague	19
+3600	ED11-001	01	Larry		Duchesne	M	N	N	1761	N.D.P.	N.P.D.	30	Murray Harbour	27
+3600	ED11-001	01	Larry		Duchesne	M	N	N	1761	N.D.P.	N.P.D.	31	Murray River	24
+3600	ED11-001	01	Larry		Duchesne	M	N	N	1761	N.D.P.	N.P.D.	32	Murray River	27
+3600	ED11-001	01	Larry		Duchesne	M	N	N	1761	N.D.P.	N.P.D.	33	Glenwilliam	22
+3600	ED11-001	01	Larry		Duchesne	M	N	N	1761	N.D.P.	N.P.D.	34	Murray Harbour North	19
+3600	ED11-001	01	Larry		Duchesne	M	N	N	1761	N.D.P.	N.P.D.	35	Sturgeon	14
+3600	ED11-001	01	Larry		Duchesne	M	N	N	1761	N.D.P.	N.P.D.	36	St. Marys Road	13
+3600	ED11-001	01	Larry		Duchesne	M	N	N	1761	N.D.P.	N.P.D.	37	Kilmuir	18
+3600	ED11-001	01	Larry		Duchesne	M	N	N	1761	N.D.P.	N.P.D.	38	Lower Montague	15
+3600	ED11-001	01	Larry		Duchesne	M	N	N	1761	N.D.P.	N.P.D.	39	Georgetown	14
+3600	ED11-001	01	Larry		Duchesne	M	N	N	1761	N.D.P.	N.P.D.	4	Mount Stewart	26
+3600	ED11-001	01	Larry		Duchesne	M	N	N	1761	N.D.P.	N.P.D.	4	Souris	14
+3600	ED11-001	01	Larry		Duchesne	M	N	N	1761	N.D.P.	N.P.D.	40	Georgetown	21
+3600	ED11-001	01	Larry		Duchesne	M	N	N	1761	N.D.P.	N.P.D.	41	Montague	11
+3600	ED11-001	01	Larry		Duchesne	M	N	N	1761	N.D.P.	N.P.D.	42	Montague	11
+3600	ED11-001	01	Larry		Duchesne	M	N	N	1761	N.D.P.	N.P.D.	43	Montague	30
+3600	ED11-001	01	Larry		Duchesne	M	N	N	1761	N.D.P.	N.P.D.	44	Montague	23
+3600	ED11-001	01	Larry		Duchesne	M	N	N	1761	N.D.P.	N.P.D.	45	Montague	26
+3600	ED11-001	01	Larry		Duchesne	M	N	N	1761	N.D.P.	N.P.D.	46	Montague	18
+3600	ED11-001	01	Larry		Duchesne	M	N	N	1761	N.D.P.	N.P.D.	47	Victoria Cross	16
+3600	ED11-001	01	Larry		Duchesne	M	N	N	1761	N.D.P.	N.P.D.	48	Victoria Cross	13
+3600	ED11-001	01	Larry		Duchesne	M	N	N	1761	N.D.P.	N.P.D.	49	Georgetown	21
+3600	ED11-001	01	Larry		Duchesne	M	N	N	1761	N.D.P.	N.P.D.	5	Mount Stewart	32
+3600	ED11-001	01	Larry		Duchesne	M	N	N	1761	N.D.P.	N.P.D.	50	Baldwin Road	35
+3600	ED11-001	01	Larry		Duchesne	M	N	N	1761	N.D.P.	N.P.D.	500	Mobile poll/Bureau itinérant	1
+3600	ED11-001	01	Larry		Duchesne	M	N	N	1761	N.D.P.	N.P.D.	501	Mobile poll/Bureau itinérant	2
+3600	ED11-001	01	Larry		Duchesne	M	N	N	1761	N.D.P.	N.P.D.	51	Cardigan	15
+3600	ED11-001	01	Larry		Duchesne	M	N	N	1761	N.D.P.	N.P.D.	52	St. Peters Bay	15
+3600	ED11-001	01	Larry		Duchesne	M	N	N	1761	N.D.P.	N.P.D.	53	St. Peters Bay	15
+3600	ED11-001	01	Larry		Duchesne	M	N	N	1761	N.D.P.	N.P.D.	54	Monticello	13
+3600	ED11-001	01	Larry		Duchesne	M	N	N	1761	N.D.P.	N.P.D.	55	Dundas	45
+3600	ED11-001	01	Larry		Duchesne	M	N	N	1761	N.D.P.	N.P.D.	56	Newport	21
+3600	ED11-001	01	Larry		Duchesne	M	N	N	1761	N.D.P.	N.P.D.	57	Fortune Bay	14
+3600	ED11-001	01	Larry		Duchesne	M	N	N	1761	N.D.P.	N.P.D.	58	St. Margarets	14
+3600	ED11-001	01	Larry		Duchesne	M	N	N	1761	N.D.P.	N.P.D.	59	St. Margarets	13
+3600	ED11-001	01	Larry		Duchesne	M	N	N	1761	N.D.P.	N.P.D.	6	Head of Hillsborough	49
+3600	ED11-001	01	Larry		Duchesne	M	N	N	1761	N.D.P.	N.P.D.	60	New Zealand	21
+3600	ED11-001	01	Larry		Duchesne	M	N	N	1761	N.D.P.	N.P.D.	61	Souris	23
+3600	ED11-001	01	Larry		Duchesne	M	N	N	1761	N.D.P.	N.P.D.	62	Souris	6
+3600	ED11-001	01	Larry		Duchesne	M	N	N	1761	N.D.P.	N.P.D.	63	Souris	18
+3600	ED11-001	01	Larry		Duchesne	M	N	N	1761	N.D.P.	N.P.D.	64	Souris	25
+3600	ED11-001	01	Larry		Duchesne	M	N	N	1761	N.D.P.	N.P.D.	65	Greenvale	19
+3600	ED11-001	01	Larry		Duchesne	M	N	N	1761	N.D.P.	N.P.D.	66	Munns Road	27
+3600	ED11-001	01	Larry		Duchesne	M	N	N	1761	N.D.P.	N.P.D.	67	Bothwell	20
+3600	ED11-001	01	Larry		Duchesne	M	N	N	1761	N.D.P.	N.P.D.	7	Morell	16
+3600	ED11-001	01	Larry		Duchesne	M	N	N	1761	N.D.P.	N.P.D.	8	Morell	22
+3600	ED11-001	01	Larry		Duchesne	M	N	N	1761	N.D.P.	N.P.D.	9	Sinnott Road	20
+3600	ED11-001	01	Larry		Duchesne	M	N	N	1761	N.D.P.	N.P.D.	SVR/RÉS-1		7
+3600	ED11-001	01	Larry		Duchesne	M	N	N	1761	N.D.P.	N.P.D.	SVR/RÉS-2		18
+3600	ED11-001	02	Dan		Hughes	M	N	N	7456	Progressive Conservative	Progressiste-Conservateur	1	Grand Tracadie	122
+3600	ED11-001	02	Dan		Hughes	M	N	N	7456	Progressive Conservative	Progressiste-Conservateur	1	Mount Stewart	46
+3600	ED11-001	02	Dan		Hughes	M	N	N	7456	Progressive Conservative	Progressiste-Conservateur	10	Fort Augustus	92
+3600	ED11-001	02	Dan		Hughes	M	N	N	7456	Progressive Conservative	Progressiste-Conservateur	11	Waterside	120
+3600	ED11-001	02	Dan		Hughes	M	N	N	7456	Progressive Conservative	Progressiste-Conservateur	12	Donagh	110
+3600	ED11-001	02	Dan		Hughes	M	N	N	7456	Progressive Conservative	Progressiste-Conservateur	13	Mermaid	120
+3600	ED11-001	02	Dan		Hughes	M	N	N	7456	Progressive Conservative	Progressiste-Conservateur	14	Hazelbrook	114
+3600	ED11-001	02	Dan		Hughes	M	N	N	7456	Progressive Conservative	Progressiste-Conservateur	15	Cross Roads	94
+3600	ED11-001	02	Dan		Hughes	M	N	N	7456	Progressive Conservative	Progressiste-Conservateur	16	Cross Roads	88
+3600	ED11-001	02	Dan		Hughes	M	N	N	7456	Progressive Conservative	Progressiste-Conservateur	17	Cross Roads	51
+3600	ED11-001	02	Dan		Hughes	M	N	N	7456	Progressive Conservative	Progressiste-Conservateur	18	Cross Roads	65
+3600	ED11-001	02	Dan		Hughes	M	N	N	7456	Progressive Conservative	Progressiste-Conservateur	19	Pownall	71
+3600	ED11-001	02	Dan		Hughes	M	N	N	7456	Progressive Conservative	Progressiste-Conservateur	2	Dunstaffnage	103
+3600	ED11-001	02	Dan		Hughes	M	N	N	7456	Progressive Conservative	Progressiste-Conservateur	2	Cross Roads	62
+3600	ED11-001	02	Dan		Hughes	M	N	N	7456	Progressive Conservative	Progressiste-Conservateur	20	Pownall	112
+3600	ED11-001	02	Dan		Hughes	M	N	N	7456	Progressive Conservative	Progressiste-Conservateur	21	Cherry Valley	76
+3600	ED11-001	02	Dan		Hughes	M	N	N	7456	Progressive Conservative	Progressiste-Conservateur	22	Vernon River	147
+3600	ED11-001	02	Dan		Hughes	M	N	N	7456	Progressive Conservative	Progressiste-Conservateur	23	Iona	84
+3600	ED11-001	02	Dan		Hughes	M	N	N	7456	Progressive Conservative	Progressiste-Conservateur	24	Iona	171
+3600	ED11-001	02	Dan		Hughes	M	N	N	7456	Progressive Conservative	Progressiste-Conservateur	25	Eldon	93
+3600	ED11-001	02	Dan		Hughes	M	N	N	7456	Progressive Conservative	Progressiste-Conservateur	26	Belfast	90
+3600	ED11-001	02	Dan		Hughes	M	N	N	7456	Progressive Conservative	Progressiste-Conservateur	27	Belle River	144
+3600	ED11-001	02	Dan		Hughes	M	N	N	7456	Progressive Conservative	Progressiste-Conservateur	28	High Bank	87
+3600	ED11-001	02	Dan		Hughes	M	N	N	7456	Progressive Conservative	Progressiste-Conservateur	29	Murray Harbour	91
+3600	ED11-001	02	Dan		Hughes	M	N	N	7456	Progressive Conservative	Progressiste-Conservateur	3	Tracadie	74
+3600	ED11-001	02	Dan		Hughes	M	N	N	7456	Progressive Conservative	Progressiste-Conservateur	3	Montague	140
+3600	ED11-001	02	Dan		Hughes	M	N	N	7456	Progressive Conservative	Progressiste-Conservateur	30	Murray Harbour	116
+3600	ED11-001	02	Dan		Hughes	M	N	N	7456	Progressive Conservative	Progressiste-Conservateur	31	Murray River	107
+3600	ED11-001	02	Dan		Hughes	M	N	N	7456	Progressive Conservative	Progressiste-Conservateur	32	Murray River	107
+3600	ED11-001	02	Dan		Hughes	M	N	N	7456	Progressive Conservative	Progressiste-Conservateur	33	Glenwilliam	101
+3600	ED11-001	02	Dan		Hughes	M	N	N	7456	Progressive Conservative	Progressiste-Conservateur	34	Murray Harbour North	111
+3600	ED11-001	02	Dan		Hughes	M	N	N	7456	Progressive Conservative	Progressiste-Conservateur	35	Sturgeon	74
+3600	ED11-001	02	Dan		Hughes	M	N	N	7456	Progressive Conservative	Progressiste-Conservateur	36	St. Marys Road	82
+3600	ED11-001	02	Dan		Hughes	M	N	N	7456	Progressive Conservative	Progressiste-Conservateur	37	Kilmuir	141
+3600	ED11-001	02	Dan		Hughes	M	N	N	7456	Progressive Conservative	Progressiste-Conservateur	38	Lower Montague	115
+3600	ED11-001	02	Dan		Hughes	M	N	N	7456	Progressive Conservative	Progressiste-Conservateur	39	Georgetown	155
+3600	ED11-001	02	Dan		Hughes	M	N	N	7456	Progressive Conservative	Progressiste-Conservateur	4	Mount Stewart	96
+3600	ED11-001	02	Dan		Hughes	M	N	N	7456	Progressive Conservative	Progressiste-Conservateur	4	Souris	77
+3600	ED11-001	02	Dan		Hughes	M	N	N	7456	Progressive Conservative	Progressiste-Conservateur	40	Georgetown	158
+3600	ED11-001	02	Dan		Hughes	M	N	N	7456	Progressive Conservative	Progressiste-Conservateur	41	Montague	91
+3600	ED11-001	02	Dan		Hughes	M	N	N	7456	Progressive Conservative	Progressiste-Conservateur	42	Montague	97
+3600	ED11-001	02	Dan		Hughes	M	N	N	7456	Progressive Conservative	Progressiste-Conservateur	43	Montague	112
+3600	ED11-001	02	Dan		Hughes	M	N	N	7456	Progressive Conservative	Progressiste-Conservateur	44	Montague	90
+3600	ED11-001	02	Dan		Hughes	M	N	N	7456	Progressive Conservative	Progressiste-Conservateur	45	Montague	84
+3600	ED11-001	02	Dan		Hughes	M	N	N	7456	Progressive Conservative	Progressiste-Conservateur	46	Montague	90
+3600	ED11-001	02	Dan		Hughes	M	N	N	7456	Progressive Conservative	Progressiste-Conservateur	47	Victoria Cross	140
+3600	ED11-001	02	Dan		Hughes	M	N	N	7456	Progressive Conservative	Progressiste-Conservateur	48	Victoria Cross	69
+3600	ED11-001	02	Dan		Hughes	M	N	N	7456	Progressive Conservative	Progressiste-Conservateur	49	Georgetown	88
+3600	ED11-001	02	Dan		Hughes	M	N	N	7456	Progressive Conservative	Progressiste-Conservateur	5	Mount Stewart	101
+3600	ED11-001	02	Dan		Hughes	M	N	N	7456	Progressive Conservative	Progressiste-Conservateur	50	Baldwin Road	97
+3600	ED11-001	02	Dan		Hughes	M	N	N	7456	Progressive Conservative	Progressiste-Conservateur	500	Mobile poll/Bureau itinérant	11
+3600	ED11-001	02	Dan		Hughes	M	N	N	7456	Progressive Conservative	Progressiste-Conservateur	501	Mobile poll/Bureau itinérant	37
+3600	ED11-001	02	Dan		Hughes	M	N	N	7456	Progressive Conservative	Progressiste-Conservateur	51	Cardigan	158
+3600	ED11-001	02	Dan		Hughes	M	N	N	7456	Progressive Conservative	Progressiste-Conservateur	52	St. Peters Bay	125
+3600	ED11-001	02	Dan		Hughes	M	N	N	7456	Progressive Conservative	Progressiste-Conservateur	53	St. Peters Bay	118
+3600	ED11-001	02	Dan		Hughes	M	N	N	7456	Progressive Conservative	Progressiste-Conservateur	54	Monticello	87
+3600	ED11-001	02	Dan		Hughes	M	N	N	7456	Progressive Conservative	Progressiste-Conservateur	55	Dundas	121
+3600	ED11-001	02	Dan		Hughes	M	N	N	7456	Progressive Conservative	Progressiste-Conservateur	56	Newport	101
+3600	ED11-001	02	Dan		Hughes	M	N	N	7456	Progressive Conservative	Progressiste-Conservateur	57	Fortune Bay	121
+3600	ED11-001	02	Dan		Hughes	M	N	N	7456	Progressive Conservative	Progressiste-Conservateur	58	St. Margarets	112
+3600	ED11-001	02	Dan		Hughes	M	N	N	7456	Progressive Conservative	Progressiste-Conservateur	59	St. Margarets	83
+3600	ED11-001	02	Dan		Hughes	M	N	N	7456	Progressive Conservative	Progressiste-Conservateur	6	Head of Hillsborough	120
+3600	ED11-001	02	Dan		Hughes	M	N	N	7456	Progressive Conservative	Progressiste-Conservateur	60	New Zealand	102
+3600	ED11-001	02	Dan		Hughes	M	N	N	7456	Progressive Conservative	Progressiste-Conservateur	61	Souris	109
+3600	ED11-001	02	Dan		Hughes	M	N	N	7456	Progressive Conservative	Progressiste-Conservateur	62	Souris	50
+3600	ED11-001	02	Dan		Hughes	M	N	N	7456	Progressive Conservative	Progressiste-Conservateur	63	Souris	74
+3600	ED11-001	02	Dan		Hughes	M	N	N	7456	Progressive Conservative	Progressiste-Conservateur	64	Souris	120
+3600	ED11-001	02	Dan		Hughes	M	N	N	7456	Progressive Conservative	Progressiste-Conservateur	65	Greenvale	79
+3600	ED11-001	02	Dan		Hughes	M	N	N	7456	Progressive Conservative	Progressiste-Conservateur	66	Munns Road	80
+3600	ED11-001	02	Dan		Hughes	M	N	N	7456	Progressive Conservative	Progressiste-Conservateur	67	Bothwell	123
+3600	ED11-001	02	Dan		Hughes	M	N	N	7456	Progressive Conservative	Progressiste-Conservateur	7	Morell	102
+3600	ED11-001	02	Dan		Hughes	M	N	N	7456	Progressive Conservative	Progressiste-Conservateur	8	Morell	111
+3600	ED11-001	02	Dan		Hughes	M	N	N	7456	Progressive Conservative	Progressiste-Conservateur	9	Sinnott Road	129
+3600	ED11-001	02	Dan		Hughes	M	N	N	7456	Progressive Conservative	Progressiste-Conservateur	SVR/RÉS-1		24
+3600	ED11-001	02	Dan		Hughes	M	N	N	7456	Progressive Conservative	Progressiste-Conservateur	SVR/RÉS-2		93
+3600	ED11-001	03	Lawrence		MacAulay	M	Y	Y	7555	Liberal	Libéral	1	Grand Tracadie	137
+3600	ED11-001	03	Lawrence		MacAulay	M	Y	Y	7555	Liberal	Libéral	1	Mount Stewart	62
+3600	ED11-001	03	Lawrence		MacAulay	M	Y	Y	7555	Liberal	Libéral	10	Fort Augustus	80
+3600	ED11-001	03	Lawrence		MacAulay	M	Y	Y	7555	Liberal	Libéral	11	Waterside	128
+3600	ED11-001	03	Lawrence		MacAulay	M	Y	Y	7555	Liberal	Libéral	12	Donagh	106
+3600	ED11-001	03	Lawrence		MacAulay	M	Y	Y	7555	Liberal	Libéral	13	Mermaid	110
+3600	ED11-001	03	Lawrence		MacAulay	M	Y	Y	7555	Liberal	Libéral	14	Hazelbrook	78
+3600	ED11-001	03	Lawrence		MacAulay	M	Y	Y	7555	Liberal	Libéral	15	Cross Roads	85
+3600	ED11-001	03	Lawrence		MacAulay	M	Y	Y	7555	Liberal	Libéral	16	Cross Roads	94
+3600	ED11-001	03	Lawrence		MacAulay	M	Y	Y	7555	Liberal	Libéral	17	Cross Roads	129
+3600	ED11-001	03	Lawrence		MacAulay	M	Y	Y	7555	Liberal	Libéral	18	Cross Roads	80
+3600	ED11-001	03	Lawrence		MacAulay	M	Y	Y	7555	Liberal	Libéral	19	Pownall	98
+3600	ED11-001	03	Lawrence		MacAulay	M	Y	Y	7555	Liberal	Libéral	2	Dunstaffnage	70
+3600	ED11-001	03	Lawrence		MacAulay	M	Y	Y	7555	Liberal	Libéral	2	Cross Roads	72
+3600	ED11-001	03	Lawrence		MacAulay	M	Y	Y	7555	Liberal	Libéral	20	Pownall	109
+3600	ED11-001	03	Lawrence		MacAulay	M	Y	Y	7555	Liberal	Libéral	21	Cherry Valley	107
+3600	ED11-001	03	Lawrence		MacAulay	M	Y	Y	7555	Liberal	Libéral	22	Vernon River	121
+3600	ED11-001	03	Lawrence		MacAulay	M	Y	Y	7555	Liberal	Libéral	23	Iona	105
+3600	ED11-001	03	Lawrence		MacAulay	M	Y	Y	7555	Liberal	Libéral	24	Iona	127
+3600	ED11-001	03	Lawrence		MacAulay	M	Y	Y	7555	Liberal	Libéral	25	Eldon	118
+3600	ED11-001	03	Lawrence		MacAulay	M	Y	Y	7555	Liberal	Libéral	26	Belfast	101
+3600	ED11-001	03	Lawrence		MacAulay	M	Y	Y	7555	Liberal	Libéral	27	Belle River	102
+3600	ED11-001	03	Lawrence		MacAulay	M	Y	Y	7555	Liberal	Libéral	28	High Bank	80
+3600	ED11-001	03	Lawrence		MacAulay	M	Y	Y	7555	Liberal	Libéral	29	Murray Harbour	86
+3600	ED11-001	03	Lawrence		MacAulay	M	Y	Y	7555	Liberal	Libéral	3	Tracadie	87
+3600	ED11-001	03	Lawrence		MacAulay	M	Y	Y	7555	Liberal	Libéral	3	Montague	142
+3600	ED11-001	03	Lawrence		MacAulay	M	Y	Y	7555	Liberal	Libéral	30	Murray Harbour	91
+3600	ED11-001	03	Lawrence		MacAulay	M	Y	Y	7555	Liberal	Libéral	31	Murray River	101
+3600	ED11-001	03	Lawrence		MacAulay	M	Y	Y	7555	Liberal	Libéral	32	Murray River	107
+3600	ED11-001	03	Lawrence		MacAulay	M	Y	Y	7555	Liberal	Libéral	33	Glenwilliam	68
+3600	ED11-001	03	Lawrence		MacAulay	M	Y	Y	7555	Liberal	Libéral	34	Murray Harbour North	102
+3600	ED11-001	03	Lawrence		MacAulay	M	Y	Y	7555	Liberal	Libéral	35	Sturgeon	83
+3600	ED11-001	03	Lawrence		MacAulay	M	Y	Y	7555	Liberal	Libéral	36	St. Marys Road	98
+3600	ED11-001	03	Lawrence		MacAulay	M	Y	Y	7555	Liberal	Libéral	37	Kilmuir	115
+3600	ED11-001	03	Lawrence		MacAulay	M	Y	Y	7555	Liberal	Libéral	38	Lower Montague	109
+3600	ED11-001	03	Lawrence		MacAulay	M	Y	Y	7555	Liberal	Libéral	39	Georgetown	81
+3600	ED11-001	03	Lawrence		MacAulay	M	Y	Y	7555	Liberal	Libéral	4	Mount Stewart	98
+3600	ED11-001	03	Lawrence		MacAulay	M	Y	Y	7555	Liberal	Libéral	4	Souris	120
+3600	ED11-001	03	Lawrence		MacAulay	M	Y	Y	7555	Liberal	Libéral	40	Georgetown	105
+3600	ED11-001	03	Lawrence		MacAulay	M	Y	Y	7555	Liberal	Libéral	41	Montague	80
+3600	ED11-001	03	Lawrence		MacAulay	M	Y	Y	7555	Liberal	Libéral	42	Montague	70
+3600	ED11-001	03	Lawrence		MacAulay	M	Y	Y	7555	Liberal	Libéral	43	Montague	119
+3600	ED11-001	03	Lawrence		MacAulay	M	Y	Y	7555	Liberal	Libéral	44	Montague	103
+3600	ED11-001	03	Lawrence		MacAulay	M	Y	Y	7555	Liberal	Libéral	45	Montague	98
+3600	ED11-001	03	Lawrence		MacAulay	M	Y	Y	7555	Liberal	Libéral	46	Montague	120
+3600	ED11-001	03	Lawrence		MacAulay	M	Y	Y	7555	Liberal	Libéral	47	Victoria Cross	109
+3600	ED11-001	03	Lawrence		MacAulay	M	Y	Y	7555	Liberal	Libéral	48	Victoria Cross	84
+3600	ED11-001	03	Lawrence		MacAulay	M	Y	Y	7555	Liberal	Libéral	49	Georgetown	137
+3600	ED11-001	03	Lawrence		MacAulay	M	Y	Y	7555	Liberal	Libéral	5	Mount Stewart	101
+3600	ED11-001	03	Lawrence		MacAulay	M	Y	Y	7555	Liberal	Libéral	50	Baldwin Road	119
+3600	ED11-001	03	Lawrence		MacAulay	M	Y	Y	7555	Liberal	Libéral	500	Mobile poll/Bureau itinérant	21
+3600	ED11-001	03	Lawrence		MacAulay	M	Y	Y	7555	Liberal	Libéral	501	Mobile poll/Bureau itinérant	36
+3600	ED11-001	03	Lawrence		MacAulay	M	Y	Y	7555	Liberal	Libéral	51	Cardigan	151
+3600	ED11-001	03	Lawrence		MacAulay	M	Y	Y	7555	Liberal	Libéral	52	St. Peters Bay	128
+3600	ED11-001	03	Lawrence		MacAulay	M	Y	Y	7555	Liberal	Libéral	53	St. Peters Bay	122
+3600	ED11-001	03	Lawrence		MacAulay	M	Y	Y	7555	Liberal	Libéral	54	Monticello	91
+3600	ED11-001	03	Lawrence		MacAulay	M	Y	Y	7555	Liberal	Libéral	55	Dundas	147
+3600	ED11-001	03	Lawrence		MacAulay	M	Y	Y	7555	Liberal	Libéral	56	Newport	121
+3600	ED11-001	03	Lawrence		MacAulay	M	Y	Y	7555	Liberal	Libéral	57	Fortune Bay	119
+3600	ED11-001	03	Lawrence		MacAulay	M	Y	Y	7555	Liberal	Libéral	58	St. Margarets	132
+3600	ED11-001	03	Lawrence		MacAulay	M	Y	Y	7555	Liberal	Libéral	59	St. Margarets	79
+3600	ED11-001	03	Lawrence		MacAulay	M	Y	Y	7555	Liberal	Libéral	6	Head of Hillsborough	97
+3600	ED11-001	03	Lawrence		MacAulay	M	Y	Y	7555	Liberal	Libéral	60	New Zealand	145
+3600	ED11-001	03	Lawrence		MacAulay	M	Y	Y	7555	Liberal	Libéral	61	Souris	132
+3600	ED11-001	03	Lawrence		MacAulay	M	Y	Y	7555	Liberal	Libéral	62	Souris	61
+3600	ED11-001	03	Lawrence		MacAulay	M	Y	Y	7555	Liberal	Libéral	63	Souris	74
+3600	ED11-001	03	Lawrence		MacAulay	M	Y	Y	7555	Liberal	Libéral	64	Souris	148
+3600	ED11-001	03	Lawrence		MacAulay	M	Y	Y	7555	Liberal	Libéral	65	Greenvale	91
+3600	ED11-001	03	Lawrence		MacAulay	M	Y	Y	7555	Liberal	Libéral	66	Munns Road	95
+3600	ED11-001	03	Lawrence		MacAulay	M	Y	Y	7555	Liberal	Libéral	67	Bothwell	110
+3600	ED11-001	03	Lawrence		MacAulay	M	Y	Y	7555	Liberal	Libéral	7	Morell	67
+3600	ED11-001	03	Lawrence		MacAulay	M	Y	Y	7555	Liberal	Libéral	8	Morell	147
+3600	ED11-001	03	Lawrence		MacAulay	M	Y	Y	7555	Liberal	Libéral	9	Sinnott Road	89
+3600	ED11-001	03	Lawrence		MacAulay	M	Y	Y	7555	Liberal	Libéral	SVR/RÉS-1		31
+3600	ED11-001	03	Lawrence		MacAulay	M	Y	Y	7555	Liberal	Libéral	SVR/RÉS-2		89
+3600	ED11-002	01	John	J.	MacDonald	M	N	N	7754	Progressive Conservative	Progressiste-Conservateur	1	Anglo Tignish	132
+3600	ED11-002	01	John	J.	MacDonald	M	N	N	7754	Progressive Conservative	Progressiste-Conservateur	1	Tignish	102
+3600	ED11-002	01	John	J.	MacDonald	M	N	N	7754	Progressive Conservative	Progressiste-Conservateur	10	St. Louis	79
+3600	ED11-002	01	John	J.	MacDonald	M	N	N	7754	Progressive Conservative	Progressiste-Conservateur	11	Greenmount	110
+3600	ED11-002	01	John	J.	MacDonald	M	N	N	7754	Progressive Conservative	Progressiste-Conservateur	12	St. Lawrence	108
+3600	ED11-002	01	John	J.	MacDonald	M	N	N	7754	Progressive Conservative	Progressiste-Conservateur	13	Kildare	146
+3600	ED11-002	01	John	J.	MacDonald	M	N	N	7754	Progressive Conservative	Progressiste-Conservateur	14	Alberton	96
+3600	ED11-002	01	John	J.	MacDonald	M	N	N	7754	Progressive Conservative	Progressiste-Conservateur	15	Alberton	104
+3600	ED11-002	01	John	J.	MacDonald	M	N	N	7754	Progressive Conservative	Progressiste-Conservateur	16	Alberton	117
+3600	ED11-002	01	John	J.	MacDonald	M	N	N	7754	Progressive Conservative	Progressiste-Conservateur	17	Alberton	168
+3600	ED11-002	01	John	J.	MacDonald	M	N	N	7754	Progressive Conservative	Progressiste-Conservateur	18	Elmsdale	84
+3600	ED11-002	01	John	J.	MacDonald	M	N	N	7754	Progressive Conservative	Progressiste-Conservateur	19	Campbellton	46
+3600	ED11-002	01	John	J.	MacDonald	M	N	N	7754	Progressive Conservative	Progressiste-Conservateur	2	Tignish Corner	106
+3600	ED11-002	01	John	J.	MacDonald	M	N	N	7754	Progressive Conservative	Progressiste-Conservateur	2	O'Leary	85
+3600	ED11-002	01	John	J.	MacDonald	M	N	N	7754	Progressive Conservative	Progressiste-Conservateur	20	Bloomfield Station	89
+3600	ED11-002	01	John	J.	MacDonald	M	N	N	7754	Progressive Conservative	Progressiste-Conservateur	21	Cape Wolfe	60
+3600	ED11-002	01	John	J.	MacDonald	M	N	N	7754	Progressive Conservative	Progressiste-Conservateur	22	Cape Wolfe	81
+3600	ED11-002	01	John	J.	MacDonald	M	N	N	7754	Progressive Conservative	Progressiste-Conservateur	23	West Point	119
+3600	ED11-002	01	John	J.	MacDonald	M	N	N	7754	Progressive Conservative	Progressiste-Conservateur	24	Milburn	91
+3600	ED11-002	01	John	J.	MacDonald	M	N	N	7754	Progressive Conservative	Progressiste-Conservateur	25	O'Leary	100
+3600	ED11-002	01	John	J.	MacDonald	M	N	N	7754	Progressive Conservative	Progressiste-Conservateur	26	O'Leary	80
+3600	ED11-002	01	John	J.	MacDonald	M	N	N	7754	Progressive Conservative	Progressiste-Conservateur	27	O'Leary	76
+3600	ED11-002	01	John	J.	MacDonald	M	N	N	7754	Progressive Conservative	Progressiste-Conservateur	28	O'Leary	93
+3600	ED11-002	01	John	J.	MacDonald	M	N	N	7754	Progressive Conservative	Progressiste-Conservateur	29	Cascumpec	146
+3600	ED11-002	01	John	J.	MacDonald	M	N	N	7754	Progressive Conservative	Progressiste-Conservateur	3	Tignish	73
+3600	ED11-002	01	John	J.	MacDonald	M	N	N	7754	Progressive Conservative	Progressiste-Conservateur	3	Wellington	44
+3600	ED11-002	01	John	J.	MacDonald	M	N	N	7754	Progressive Conservative	Progressiste-Conservateur	30	Conway	68
+3600	ED11-002	01	John	J.	MacDonald	M	N	N	7754	Progressive Conservative	Progressiste-Conservateur	31	West Devon	74
+3600	ED11-002	01	John	J.	MacDonald	M	N	N	7754	Progressive Conservative	Progressiste-Conservateur	32	Ellerslie	68
+3600	ED11-002	01	John	J.	MacDonald	M	N	N	7754	Progressive Conservative	Progressiste-Conservateur	33	Ellerslie-Bideford	83
+3600	ED11-002	01	John	J.	MacDonald	M	N	N	7754	Progressive Conservative	Progressiste-Conservateur	34	Lennox Island 1	26
+3600	ED11-002	01	John	J.	MacDonald	M	N	N	7754	Progressive Conservative	Progressiste-Conservateur	35	Tyne Valley	93
+3600	ED11-002	01	John	J.	MacDonald	M	N	N	7754	Progressive Conservative	Progressiste-Conservateur	36	Tyne Valley	104
+3600	ED11-002	01	John	J.	MacDonald	M	N	N	7754	Progressive Conservative	Progressiste-Conservateur	37	Egmont Bay	98
+3600	ED11-002	01	John	J.	MacDonald	M	N	N	7754	Progressive Conservative	Progressiste-Conservateur	38	Richmond	73
+3600	ED11-002	01	John	J.	MacDonald	M	N	N	7754	Progressive Conservative	Progressiste-Conservateur	39	Richmond	77
+3600	ED11-002	01	John	J.	MacDonald	M	N	N	7754	Progressive Conservative	Progressiste-Conservateur	4	Tignish	85
+3600	ED11-002	01	John	J.	MacDonald	M	N	N	7754	Progressive Conservative	Progressiste-Conservateur	4	Summerside	72
+3600	ED11-002	01	John	J.	MacDonald	M	N	N	7754	Progressive Conservative	Progressiste-Conservateur	40	Central Lot 16	105
+3600	ED11-002	01	John	J.	MacDonald	M	N	N	7754	Progressive Conservative	Progressiste-Conservateur	41	Wellington	99
+3600	ED11-002	01	John	J.	MacDonald	M	N	N	7754	Progressive Conservative	Progressiste-Conservateur	42	Abrams Village	74
+3600	ED11-002	01	John	J.	MacDonald	M	N	N	7754	Progressive Conservative	Progressiste-Conservateur	43	Mount Carmel	117
+3600	ED11-002	01	John	J.	MacDonald	M	N	N	7754	Progressive Conservative	Progressiste-Conservateur	44	Mount Carmel	104
+3600	ED11-002	01	John	J.	MacDonald	M	N	N	7754	Progressive Conservative	Progressiste-Conservateur	45	Miscouche	113
+3600	ED11-002	01	John	J.	MacDonald	M	N	N	7754	Progressive Conservative	Progressiste-Conservateur	46	Miscouche	83
+3600	ED11-002	01	John	J.	MacDonald	M	N	N	7754	Progressive Conservative	Progressiste-Conservateur	47	Miscouche	87
+3600	ED11-002	01	John	J.	MacDonald	M	N	N	7754	Progressive Conservative	Progressiste-Conservateur	48	St. Eleanors	122
+3600	ED11-002	01	John	J.	MacDonald	M	N	N	7754	Progressive Conservative	Progressiste-Conservateur	49	Slemon Park	60
+3600	ED11-002	01	John	J.	MacDonald	M	N	N	7754	Progressive Conservative	Progressiste-Conservateur	5	Tignish	70
+3600	ED11-002	01	John	J.	MacDonald	M	N	N	7754	Progressive Conservative	Progressiste-Conservateur	5	Summerside	108
+3600	ED11-002	01	John	J.	MacDonald	M	N	N	7754	Progressive Conservative	Progressiste-Conservateur	50	Sherbrooke	94
+3600	ED11-002	01	John	J.	MacDonald	M	N	N	7754	Progressive Conservative	Progressiste-Conservateur	500	Mobile poll/Bureau itinérant	20
+3600	ED11-002	01	John	J.	MacDonald	M	N	N	7754	Progressive Conservative	Progressiste-Conservateur	51	Sherbrooke	65
+3600	ED11-002	01	John	J.	MacDonald	M	N	N	7754	Progressive Conservative	Progressiste-Conservateur	52	St. Eleanors	107
+3600	ED11-002	01	John	J.	MacDonald	M	N	N	7754	Progressive Conservative	Progressiste-Conservateur	53	St. Eleanors	114
+3600	ED11-002	01	John	J.	MacDonald	M	N	N	7754	Progressive Conservative	Progressiste-Conservateur	54	St. Eleanors	87
+3600	ED11-002	01	John	J.	MacDonald	M	N	N	7754	Progressive Conservative	Progressiste-Conservateur	55	St. Eleanors	58
+3600	ED11-002	01	John	J.	MacDonald	M	N	N	7754	Progressive Conservative	Progressiste-Conservateur	56	St. Eleanors	53
+3600	ED11-002	01	John	J.	MacDonald	M	N	N	7754	Progressive Conservative	Progressiste-Conservateur	57	Summerside	74
+3600	ED11-002	01	John	J.	MacDonald	M	N	N	7754	Progressive Conservative	Progressiste-Conservateur	58	Summerside	85
+3600	ED11-002	01	John	J.	MacDonald	M	N	N	7754	Progressive Conservative	Progressiste-Conservateur	59	Summerside	73
+3600	ED11-002	01	John	J.	MacDonald	M	N	N	7754	Progressive Conservative	Progressiste-Conservateur	6	Peterville	124
+3600	ED11-002	01	John	J.	MacDonald	M	N	N	7754	Progressive Conservative	Progressiste-Conservateur	60	Summerside	56
+3600	ED11-002	01	John	J.	MacDonald	M	N	N	7754	Progressive Conservative	Progressiste-Conservateur	61	Summerside	89
+3600	ED11-002	01	John	J.	MacDonald	M	N	N	7754	Progressive Conservative	Progressiste-Conservateur	62	Summerside	70
+3600	ED11-002	01	John	J.	MacDonald	M	N	N	7754	Progressive Conservative	Progressiste-Conservateur	63	Summerside	62
+3600	ED11-002	01	John	J.	MacDonald	M	N	N	7754	Progressive Conservative	Progressiste-Conservateur	64	Summerside	62
+3600	ED11-002	01	John	J.	MacDonald	M	N	N	7754	Progressive Conservative	Progressiste-Conservateur	65	Summerside	94
+3600	ED11-002	01	John	J.	MacDonald	M	N	N	7754	Progressive Conservative	Progressiste-Conservateur	66	Summerside	83
+3600	ED11-002	01	John	J.	MacDonald	M	N	N	7754	Progressive Conservative	Progressiste-Conservateur	67	Summerside	75
+3600	ED11-002	01	John	J.	MacDonald	M	N	N	7754	Progressive Conservative	Progressiste-Conservateur	68	Summerside	129
+3600	ED11-002	01	John	J.	MacDonald	M	N	N	7754	Progressive Conservative	Progressiste-Conservateur	69	Summerside	76
+3600	ED11-002	01	John	J.	MacDonald	M	N	N	7754	Progressive Conservative	Progressiste-Conservateur	7	Skinners Pond	99
+3600	ED11-002	01	John	J.	MacDonald	M	N	N	7754	Progressive Conservative	Progressiste-Conservateur	70	Summerside	87
+3600	ED11-002	01	John	J.	MacDonald	M	N	N	7754	Progressive Conservative	Progressiste-Conservateur	71	Summerside	60
+3600	ED11-002	01	John	J.	MacDonald	M	N	N	7754	Progressive Conservative	Progressiste-Conservateur	72A	Summerside	67
+3600	ED11-002	01	John	J.	MacDonald	M	N	N	7754	Progressive Conservative	Progressiste-Conservateur	72B	Summerside	89
+3600	ED11-002	01	John	J.	MacDonald	M	N	N	7754	Progressive Conservative	Progressiste-Conservateur	73	Summerside	107
+3600	ED11-002	01	John	J.	MacDonald	M	N	N	7754	Progressive Conservative	Progressiste-Conservateur	74	Summerside	120
+3600	ED11-002	01	John	J.	MacDonald	M	N	N	7754	Progressive Conservative	Progressiste-Conservateur	75	Wilmot	60
+3600	ED11-002	01	John	J.	MacDonald	M	N	N	7754	Progressive Conservative	Progressiste-Conservateur	76	Wilmot	73
+3600	ED11-002	01	John	J.	MacDonald	M	N	N	7754	Progressive Conservative	Progressiste-Conservateur	77	Wilmot	118
+3600	ED11-002	01	John	J.	MacDonald	M	N	N	7754	Progressive Conservative	Progressiste-Conservateur	78	Wilmot	84
+3600	ED11-002	01	John	J.	MacDonald	M	N	N	7754	Progressive Conservative	Progressiste-Conservateur	79	Wilmot	112
+3600	ED11-002	01	John	J.	MacDonald	M	N	N	7754	Progressive Conservative	Progressiste-Conservateur	8	Miminegash	92
+3600	ED11-002	01	John	J.	MacDonald	M	N	N	7754	Progressive Conservative	Progressiste-Conservateur	9	St. Louis	126
+3600	ED11-002	01	John	J.	MacDonald	M	N	N	7754	Progressive Conservative	Progressiste-Conservateur	SVR/RÉS-1	Group 1/Groupe 1 *	33
+3600	ED11-002	01	John	J.	MacDonald	M	N	N	7754	Progressive Conservative	Progressiste-Conservateur	SVR/RÉS-2		79
+3600	ED11-002	02	Joe		McGuire	M	Y	Y	8498	Liberal	Libéral	1	Anglo Tignish	134
+3600	ED11-002	02	Joe		McGuire	M	Y	Y	8498	Liberal	Libéral	1	Tignish	98
+3600	ED11-002	02	Joe		McGuire	M	Y	Y	8498	Liberal	Libéral	10	St. Louis	115
+3600	ED11-002	02	Joe		McGuire	M	Y	Y	8498	Liberal	Libéral	11	Greenmount	128
+3600	ED11-002	02	Joe		McGuire	M	Y	Y	8498	Liberal	Libéral	12	St. Lawrence	106
+3600	ED11-002	02	Joe		McGuire	M	Y	Y	8498	Liberal	Libéral	13	Kildare	151
+3600	ED11-002	02	Joe		McGuire	M	Y	Y	8498	Liberal	Libéral	14	Alberton	123
+3600	ED11-002	02	Joe		McGuire	M	Y	Y	8498	Liberal	Libéral	15	Alberton	116
+3600	ED11-002	02	Joe		McGuire	M	Y	Y	8498	Liberal	Libéral	16	Alberton	90
+3600	ED11-002	02	Joe		McGuire	M	Y	Y	8498	Liberal	Libéral	17	Alberton	132
+3600	ED11-002	02	Joe		McGuire	M	Y	Y	8498	Liberal	Libéral	18	Elmsdale	102
+3600	ED11-002	02	Joe		McGuire	M	Y	Y	8498	Liberal	Libéral	19	Campbellton	45
+3600	ED11-002	02	Joe		McGuire	M	Y	Y	8498	Liberal	Libéral	2	Tignish Corner	163
+3600	ED11-002	02	Joe		McGuire	M	Y	Y	8498	Liberal	Libéral	2	O'Leary	77
+3600	ED11-002	02	Joe		McGuire	M	Y	Y	8498	Liberal	Libéral	20	Bloomfield Station	56
+3600	ED11-002	02	Joe		McGuire	M	Y	Y	8498	Liberal	Libéral	21	Cape Wolfe	81
+3600	ED11-002	02	Joe		McGuire	M	Y	Y	8498	Liberal	Libéral	22	Cape Wolfe	114
+3600	ED11-002	02	Joe		McGuire	M	Y	Y	8498	Liberal	Libéral	23	West Point	71
+3600	ED11-002	02	Joe		McGuire	M	Y	Y	8498	Liberal	Libéral	24	Milburn	74
+3600	ED11-002	02	Joe		McGuire	M	Y	Y	8498	Liberal	Libéral	25	O'Leary	95
+3600	ED11-002	02	Joe		McGuire	M	Y	Y	8498	Liberal	Libéral	26	O'Leary	68
+3600	ED11-002	02	Joe		McGuire	M	Y	Y	8498	Liberal	Libéral	27	O'Leary	58
+3600	ED11-002	02	Joe		McGuire	M	Y	Y	8498	Liberal	Libéral	28	O'Leary	65
+3600	ED11-002	02	Joe		McGuire	M	Y	Y	8498	Liberal	Libéral	29	Cascumpec	104
+3600	ED11-002	02	Joe		McGuire	M	Y	Y	8498	Liberal	Libéral	3	Tignish	131
+3600	ED11-002	02	Joe		McGuire	M	Y	Y	8498	Liberal	Libéral	3	Wellington	35
+3600	ED11-002	02	Joe		McGuire	M	Y	Y	8498	Liberal	Libéral	30	Conway	107
+3600	ED11-002	02	Joe		McGuire	M	Y	Y	8498	Liberal	Libéral	31	West Devon	60
+3600	ED11-002	02	Joe		McGuire	M	Y	Y	8498	Liberal	Libéral	32	Ellerslie	85
+3600	ED11-002	02	Joe		McGuire	M	Y	Y	8498	Liberal	Libéral	33	Ellerslie-Bideford	98
+3600	ED11-002	02	Joe		McGuire	M	Y	Y	8498	Liberal	Libéral	34	Lennox Island 1	53
+3600	ED11-002	02	Joe		McGuire	M	Y	Y	8498	Liberal	Libéral	35	Tyne Valley	194
+3600	ED11-002	02	Joe		McGuire	M	Y	Y	8498	Liberal	Libéral	36	Tyne Valley	118
+3600	ED11-002	02	Joe		McGuire	M	Y	Y	8498	Liberal	Libéral	37	Egmont Bay	149
+3600	ED11-002	02	Joe		McGuire	M	Y	Y	8498	Liberal	Libéral	38	Richmond	131
+3600	ED11-002	02	Joe		McGuire	M	Y	Y	8498	Liberal	Libéral	39	Richmond	173
+3600	ED11-002	02	Joe		McGuire	M	Y	Y	8498	Liberal	Libéral	4	Tignish	102
+3600	ED11-002	02	Joe		McGuire	M	Y	Y	8498	Liberal	Libéral	4	Summerside	107
+3600	ED11-002	02	Joe		McGuire	M	Y	Y	8498	Liberal	Libéral	40	Central Lot 16	114
+3600	ED11-002	02	Joe		McGuire	M	Y	Y	8498	Liberal	Libéral	41	Wellington	161
+3600	ED11-002	02	Joe		McGuire	M	Y	Y	8498	Liberal	Libéral	42	Abrams Village	92
+3600	ED11-002	02	Joe		McGuire	M	Y	Y	8498	Liberal	Libéral	43	Mount Carmel	154
+3600	ED11-002	02	Joe		McGuire	M	Y	Y	8498	Liberal	Libéral	44	Mount Carmel	51
+3600	ED11-002	02	Joe		McGuire	M	Y	Y	8498	Liberal	Libéral	45	Miscouche	130
+3600	ED11-002	02	Joe		McGuire	M	Y	Y	8498	Liberal	Libéral	46	Miscouche	130
+3600	ED11-002	02	Joe		McGuire	M	Y	Y	8498	Liberal	Libéral	47	Miscouche	52
+3600	ED11-002	02	Joe		McGuire	M	Y	Y	8498	Liberal	Libéral	48	St. Eleanors	142
+3600	ED11-002	02	Joe		McGuire	M	Y	Y	8498	Liberal	Libéral	49	Slemon Park	77
+3600	ED11-002	02	Joe		McGuire	M	Y	Y	8498	Liberal	Libéral	5	Tignish	68
+3600	ED11-002	02	Joe		McGuire	M	Y	Y	8498	Liberal	Libéral	5	Summerside	115
+3600	ED11-002	02	Joe		McGuire	M	Y	Y	8498	Liberal	Libéral	50	Sherbrooke	78
+3600	ED11-002	02	Joe		McGuire	M	Y	Y	8498	Liberal	Libéral	500	Mobile poll/Bureau itinérant	30
+3600	ED11-002	02	Joe		McGuire	M	Y	Y	8498	Liberal	Libéral	51	Sherbrooke	36
+3600	ED11-002	02	Joe		McGuire	M	Y	Y	8498	Liberal	Libéral	52	St. Eleanors	100
+3600	ED11-002	02	Joe		McGuire	M	Y	Y	8498	Liberal	Libéral	53	St. Eleanors	116
+3600	ED11-002	02	Joe		McGuire	M	Y	Y	8498	Liberal	Libéral	54	St. Eleanors	108
+3600	ED11-002	02	Joe		McGuire	M	Y	Y	8498	Liberal	Libéral	55	St. Eleanors	64
+3600	ED11-002	02	Joe		McGuire	M	Y	Y	8498	Liberal	Libéral	56	St. Eleanors	78
+3600	ED11-002	02	Joe		McGuire	M	Y	Y	8498	Liberal	Libéral	57	Summerside	94
+3600	ED11-002	02	Joe		McGuire	M	Y	Y	8498	Liberal	Libéral	58	Summerside	94
+3600	ED11-002	02	Joe		McGuire	M	Y	Y	8498	Liberal	Libéral	59	Summerside	76
+3600	ED11-002	02	Joe		McGuire	M	Y	Y	8498	Liberal	Libéral	6	Peterville	144
+3600	ED11-002	02	Joe		McGuire	M	Y	Y	8498	Liberal	Libéral	60	Summerside	84
+3600	ED11-002	02	Joe		McGuire	M	Y	Y	8498	Liberal	Libéral	61	Summerside	113
+3600	ED11-002	02	Joe		McGuire	M	Y	Y	8498	Liberal	Libéral	62	Summerside	81
+3600	ED11-002	02	Joe		McGuire	M	Y	Y	8498	Liberal	Libéral	63	Summerside	62
+3600	ED11-002	02	Joe		McGuire	M	Y	Y	8498	Liberal	Libéral	64	Summerside	73
+3600	ED11-002	02	Joe		McGuire	M	Y	Y	8498	Liberal	Libéral	65	Summerside	107
+3600	ED11-002	02	Joe		McGuire	M	Y	Y	8498	Liberal	Libéral	66	Summerside	78
+3600	ED11-002	02	Joe		McGuire	M	Y	Y	8498	Liberal	Libéral	67	Summerside	71
+3600	ED11-002	02	Joe		McGuire	M	Y	Y	8498	Liberal	Libéral	68	Summerside	145
+3600	ED11-002	02	Joe		McGuire	M	Y	Y	8498	Liberal	Libéral	69	Summerside	58
+3600	ED11-002	02	Joe		McGuire	M	Y	Y	8498	Liberal	Libéral	7	Skinners Pond	108
+3600	ED11-002	02	Joe		McGuire	M	Y	Y	8498	Liberal	Libéral	70	Summerside	94
+3600	ED11-002	02	Joe		McGuire	M	Y	Y	8498	Liberal	Libéral	71	Summerside	58
+3600	ED11-002	02	Joe		McGuire	M	Y	Y	8498	Liberal	Libéral	72A	Summerside	65
+3600	ED11-002	02	Joe		McGuire	M	Y	Y	8498	Liberal	Libéral	72B	Summerside	52
+3600	ED11-002	02	Joe		McGuire	M	Y	Y	8498	Liberal	Libéral	73	Summerside	96
+3600	ED11-002	02	Joe		McGuire	M	Y	Y	8498	Liberal	Libéral	74	Summerside	109
+3600	ED11-002	02	Joe		McGuire	M	Y	Y	8498	Liberal	Libéral	75	Wilmot	50
+3600	ED11-002	02	Joe		McGuire	M	Y	Y	8498	Liberal	Libéral	76	Wilmot	69
+3600	ED11-002	02	Joe		McGuire	M	Y	Y	8498	Liberal	Libéral	77	Wilmot	135
+3600	ED11-002	02	Joe		McGuire	M	Y	Y	8498	Liberal	Libéral	78	Wilmot	77
+3600	ED11-002	02	Joe		McGuire	M	Y	Y	8498	Liberal	Libéral	79	Wilmot	103
+3600	ED11-002	02	Joe		McGuire	M	Y	Y	8498	Liberal	Libéral	8	Miminegash	93
+3600	ED11-002	02	Joe		McGuire	M	Y	Y	8498	Liberal	Libéral	9	St. Louis	134
+3600	ED11-002	02	Joe		McGuire	M	Y	Y	8498	Liberal	Libéral	SVR/RÉS-1	Group 1/Groupe 1 *	46
+3600	ED11-002	02	Joe		McGuire	M	Y	Y	8498	Liberal	Libéral	SVR/RÉS-2		124
+3600	ED11-002	03	Adelard		Pitre	M	N	N	1300	N.D.P.	N.P.D.	1	Anglo Tignish	4
+3600	ED11-002	03	Adelard		Pitre	M	N	N	1300	N.D.P.	N.P.D.	1	Tignish	5
+3600	ED11-002	03	Adelard		Pitre	M	N	N	1300	N.D.P.	N.P.D.	10	St. Louis	12
+3600	ED11-002	03	Adelard		Pitre	M	N	N	1300	N.D.P.	N.P.D.	11	Greenmount	10
+3600	ED11-002	03	Adelard		Pitre	M	N	N	1300	N.D.P.	N.P.D.	12	St. Lawrence	16
+3600	ED11-002	03	Adelard		Pitre	M	N	N	1300	N.D.P.	N.P.D.	13	Kildare	20
+3600	ED11-002	03	Adelard		Pitre	M	N	N	1300	N.D.P.	N.P.D.	14	Alberton	13
+3600	ED11-002	03	Adelard		Pitre	M	N	N	1300	N.D.P.	N.P.D.	15	Alberton	18
+3600	ED11-002	03	Adelard		Pitre	M	N	N	1300	N.D.P.	N.P.D.	16	Alberton	6
+3600	ED11-002	03	Adelard		Pitre	M	N	N	1300	N.D.P.	N.P.D.	17	Alberton	13
+3600	ED11-002	03	Adelard		Pitre	M	N	N	1300	N.D.P.	N.P.D.	18	Elmsdale	14
+3600	ED11-002	03	Adelard		Pitre	M	N	N	1300	N.D.P.	N.P.D.	19	Campbellton	6
+3600	ED11-002	03	Adelard		Pitre	M	N	N	1300	N.D.P.	N.P.D.	2	Tignish Corner	9
+3600	ED11-002	03	Adelard		Pitre	M	N	N	1300	N.D.P.	N.P.D.	2	O'Leary	18
+3600	ED11-002	03	Adelard		Pitre	M	N	N	1300	N.D.P.	N.P.D.	20	Bloomfield Station	16
+3600	ED11-002	03	Adelard		Pitre	M	N	N	1300	N.D.P.	N.P.D.	21	Cape Wolfe	8
+3600	ED11-002	03	Adelard		Pitre	M	N	N	1300	N.D.P.	N.P.D.	22	Cape Wolfe	14
+3600	ED11-002	03	Adelard		Pitre	M	N	N	1300	N.D.P.	N.P.D.	23	West Point	18
+3600	ED11-002	03	Adelard		Pitre	M	N	N	1300	N.D.P.	N.P.D.	24	Milburn	17
+3600	ED11-002	03	Adelard		Pitre	M	N	N	1300	N.D.P.	N.P.D.	25	O'Leary	24
+3600	ED11-002	03	Adelard		Pitre	M	N	N	1300	N.D.P.	N.P.D.	26	O'Leary	24
+3600	ED11-002	03	Adelard		Pitre	M	N	N	1300	N.D.P.	N.P.D.	27	O'Leary	19
+3600	ED11-002	03	Adelard		Pitre	M	N	N	1300	N.D.P.	N.P.D.	28	O'Leary	16
+3600	ED11-002	03	Adelard		Pitre	M	N	N	1300	N.D.P.	N.P.D.	29	Cascumpec	14
+3600	ED11-002	03	Adelard		Pitre	M	N	N	1300	N.D.P.	N.P.D.	3	Tignish	2
+3600	ED11-002	03	Adelard		Pitre	M	N	N	1300	N.D.P.	N.P.D.	3	Wellington	15
+3600	ED11-002	03	Adelard		Pitre	M	N	N	1300	N.D.P.	N.P.D.	30	Conway	21
+3600	ED11-002	03	Adelard		Pitre	M	N	N	1300	N.D.P.	N.P.D.	31	West Devon	12
+3600	ED11-002	03	Adelard		Pitre	M	N	N	1300	N.D.P.	N.P.D.	32	Ellerslie	11
+3600	ED11-002	03	Adelard		Pitre	M	N	N	1300	N.D.P.	N.P.D.	33	Ellerslie-Bideford	5
+3600	ED11-002	03	Adelard		Pitre	M	N	N	1300	N.D.P.	N.P.D.	34	Lennox Island 1	7
+3600	ED11-002	03	Adelard		Pitre	M	N	N	1300	N.D.P.	N.P.D.	35	Tyne Valley	16
+3600	ED11-002	03	Adelard		Pitre	M	N	N	1300	N.D.P.	N.P.D.	36	Tyne Valley	14
+3600	ED11-002	03	Adelard		Pitre	M	N	N	1300	N.D.P.	N.P.D.	37	Egmont Bay	18
+3600	ED11-002	03	Adelard		Pitre	M	N	N	1300	N.D.P.	N.P.D.	38	Richmond	11
+3600	ED11-002	03	Adelard		Pitre	M	N	N	1300	N.D.P.	N.P.D.	39	Richmond	9
+3600	ED11-002	03	Adelard		Pitre	M	N	N	1300	N.D.P.	N.P.D.	4	Tignish	6
+3600	ED11-002	03	Adelard		Pitre	M	N	N	1300	N.D.P.	N.P.D.	4	Summerside	8
+3600	ED11-002	03	Adelard		Pitre	M	N	N	1300	N.D.P.	N.P.D.	40	Central Lot 16	26
+3600	ED11-002	03	Adelard		Pitre	M	N	N	1300	N.D.P.	N.P.D.	41	Wellington	20
+3600	ED11-002	03	Adelard		Pitre	M	N	N	1300	N.D.P.	N.P.D.	42	Abrams Village	19
+3600	ED11-002	03	Adelard		Pitre	M	N	N	1300	N.D.P.	N.P.D.	43	Mount Carmel	18
+3600	ED11-002	03	Adelard		Pitre	M	N	N	1300	N.D.P.	N.P.D.	44	Mount Carmel	10
+3600	ED11-002	03	Adelard		Pitre	M	N	N	1300	N.D.P.	N.P.D.	45	Miscouche	29
+3600	ED11-002	03	Adelard		Pitre	M	N	N	1300	N.D.P.	N.P.D.	46	Miscouche	16
+3600	ED11-002	03	Adelard		Pitre	M	N	N	1300	N.D.P.	N.P.D.	47	Miscouche	15
+3600	ED11-002	03	Adelard		Pitre	M	N	N	1300	N.D.P.	N.P.D.	48	St. Eleanors	37
+3600	ED11-002	03	Adelard		Pitre	M	N	N	1300	N.D.P.	N.P.D.	49	Slemon Park	27
+3600	ED11-002	03	Adelard		Pitre	M	N	N	1300	N.D.P.	N.P.D.	5	Tignish	6
+3600	ED11-002	03	Adelard		Pitre	M	N	N	1300	N.D.P.	N.P.D.	5	Summerside	16
+3600	ED11-002	03	Adelard		Pitre	M	N	N	1300	N.D.P.	N.P.D.	50	Sherbrooke	19
+3600	ED11-002	03	Adelard		Pitre	M	N	N	1300	N.D.P.	N.P.D.	500	Mobile poll/Bureau itinérant	4
+3600	ED11-002	03	Adelard		Pitre	M	N	N	1300	N.D.P.	N.P.D.	51	Sherbrooke	7
+3600	ED11-002	03	Adelard		Pitre	M	N	N	1300	N.D.P.	N.P.D.	52	St. Eleanors	11
+3600	ED11-002	03	Adelard		Pitre	M	N	N	1300	N.D.P.	N.P.D.	53	St. Eleanors	30
+3600	ED11-002	03	Adelard		Pitre	M	N	N	1300	N.D.P.	N.P.D.	54	St. Eleanors	12
+3600	ED11-002	03	Adelard		Pitre	M	N	N	1300	N.D.P.	N.P.D.	55	St. Eleanors	22
+3600	ED11-002	03	Adelard		Pitre	M	N	N	1300	N.D.P.	N.P.D.	56	St. Eleanors	9
+3600	ED11-002	03	Adelard		Pitre	M	N	N	1300	N.D.P.	N.P.D.	57	Summerside	14
+3600	ED11-002	03	Adelard		Pitre	M	N	N	1300	N.D.P.	N.P.D.	58	Summerside	8
+3600	ED11-002	03	Adelard		Pitre	M	N	N	1300	N.D.P.	N.P.D.	59	Summerside	17
+3600	ED11-002	03	Adelard		Pitre	M	N	N	1300	N.D.P.	N.P.D.	6	Peterville	7
+3600	ED11-002	03	Adelard		Pitre	M	N	N	1300	N.D.P.	N.P.D.	60	Summerside	7
+3600	ED11-002	03	Adelard		Pitre	M	N	N	1300	N.D.P.	N.P.D.	61	Summerside	17
+3600	ED11-002	03	Adelard		Pitre	M	N	N	1300	N.D.P.	N.P.D.	62	Summerside	15
+3600	ED11-002	03	Adelard		Pitre	M	N	N	1300	N.D.P.	N.P.D.	63	Summerside	11
+3600	ED11-002	03	Adelard		Pitre	M	N	N	1300	N.D.P.	N.P.D.	64	Summerside	7
+3600	ED11-002	03	Adelard		Pitre	M	N	N	1300	N.D.P.	N.P.D.	65	Summerside	29
+3600	ED11-002	03	Adelard		Pitre	M	N	N	1300	N.D.P.	N.P.D.	66	Summerside	14
+3600	ED11-002	03	Adelard		Pitre	M	N	N	1300	N.D.P.	N.P.D.	67	Summerside	20
+3600	ED11-002	03	Adelard		Pitre	M	N	N	1300	N.D.P.	N.P.D.	68	Summerside	30
+3600	ED11-002	03	Adelard		Pitre	M	N	N	1300	N.D.P.	N.P.D.	69	Summerside	10
+3600	ED11-002	03	Adelard		Pitre	M	N	N	1300	N.D.P.	N.P.D.	7	Skinners Pond	7
+3600	ED11-002	03	Adelard		Pitre	M	N	N	1300	N.D.P.	N.P.D.	70	Summerside	17
+3600	ED11-002	03	Adelard		Pitre	M	N	N	1300	N.D.P.	N.P.D.	71	Summerside	10
+3600	ED11-002	03	Adelard		Pitre	M	N	N	1300	N.D.P.	N.P.D.	72A	Summerside	11
+3600	ED11-002	03	Adelard		Pitre	M	N	N	1300	N.D.P.	N.P.D.	72B	Summerside	14
+3600	ED11-002	03	Adelard		Pitre	M	N	N	1300	N.D.P.	N.P.D.	73	Summerside	24
+3600	ED11-002	03	Adelard		Pitre	M	N	N	1300	N.D.P.	N.P.D.	74	Summerside	23
+3600	ED11-002	03	Adelard		Pitre	M	N	N	1300	N.D.P.	N.P.D.	75	Wilmot	12
+3600	ED11-002	03	Adelard		Pitre	M	N	N	1300	N.D.P.	N.P.D.	76	Wilmot	12
+3600	ED11-002	03	Adelard		Pitre	M	N	N	1300	N.D.P.	N.P.D.	77	Wilmot	12
+3600	ED11-002	03	Adelard		Pitre	M	N	N	1300	N.D.P.	N.P.D.	78	Wilmot	14
+3600	ED11-002	03	Adelard		Pitre	M	N	N	1300	N.D.P.	N.P.D.	79	Wilmot	16
+3600	ED11-002	03	Adelard		Pitre	M	N	N	1300	N.D.P.	N.P.D.	8	Miminegash	37
+3600	ED11-002	03	Adelard		Pitre	M	N	N	1300	N.D.P.	N.P.D.	9	St. Louis	20
+3600	ED11-002	03	Adelard		Pitre	M	N	N	1300	N.D.P.	N.P.D.	SVR/RÉS-1	Group 1/Groupe 1 *	11
+3600	ED11-002	03	Adelard		Pitre	M	N	N	1300	N.D.P.	N.P.D.	SVR/RÉS-2		12
+3600	ED11-003	01	Dolores		Crane	F	N	N	5751	N.D.P.	N.P.D.	1	West Royalty	40
+3600	ED11-003	01	Dolores		Crane	F	N	N	5751	N.D.P.	N.P.D.	1	Charlottetown	57
+3600	ED11-003	01	Dolores		Crane	F	N	N	5751	N.D.P.	N.P.D.	10	Charlottetown	98
+3600	ED11-003	01	Dolores		Crane	F	N	N	5751	N.D.P.	N.P.D.	11	Charlottetown	72
+3600	ED11-003	01	Dolores		Crane	F	N	N	5751	N.D.P.	N.P.D.	12	Charlottetown	60
+3600	ED11-003	01	Dolores		Crane	F	N	N	5751	N.D.P.	N.P.D.	13	Charlottetown	73
+3600	ED11-003	01	Dolores		Crane	F	N	N	5751	N.D.P.	N.P.D.	14	Charlottetown	59
+3600	ED11-003	01	Dolores		Crane	F	N	N	5751	N.D.P.	N.P.D.	15	Charlottetown	62
+3600	ED11-003	01	Dolores		Crane	F	N	N	5751	N.D.P.	N.P.D.	16	Charlottetown	73
+3600	ED11-003	01	Dolores		Crane	F	N	N	5751	N.D.P.	N.P.D.	17	Charlottetown	49
+3600	ED11-003	01	Dolores		Crane	F	N	N	5751	N.D.P.	N.P.D.	18	Charlottetown	91
+3600	ED11-003	01	Dolores		Crane	F	N	N	5751	N.D.P.	N.P.D.	19	Charlottetown	49
+3600	ED11-003	01	Dolores		Crane	F	N	N	5751	N.D.P.	N.P.D.	2	West Royalty	110
+3600	ED11-003	01	Dolores		Crane	F	N	N	5751	N.D.P.	N.P.D.	2	Sherwood	55
+3600	ED11-003	01	Dolores		Crane	F	N	N	5751	N.D.P.	N.P.D.	20	Charlottetown	93
+3600	ED11-003	01	Dolores		Crane	F	N	N	5751	N.D.P.	N.P.D.	21	Charlottetown	75
+3600	ED11-003	01	Dolores		Crane	F	N	N	5751	N.D.P.	N.P.D.	22	Charlottetown	50
+3600	ED11-003	01	Dolores		Crane	F	N	N	5751	N.D.P.	N.P.D.	23	Parkdale	81
+3600	ED11-003	01	Dolores		Crane	F	N	N	5751	N.D.P.	N.P.D.	24	Parkdale	112
+3600	ED11-003	01	Dolores		Crane	F	N	N	5751	N.D.P.	N.P.D.	25	Sherwood	35
+3600	ED11-003	01	Dolores		Crane	F	N	N	5751	N.D.P.	N.P.D.	26	Sherwood	42
+3600	ED11-003	01	Dolores		Crane	F	N	N	5751	N.D.P.	N.P.D.	27	Sherwood	66
+3600	ED11-003	01	Dolores		Crane	F	N	N	5751	N.D.P.	N.P.D.	28	Sherwood	66
+3600	ED11-003	01	Dolores		Crane	F	N	N	5751	N.D.P.	N.P.D.	29	Sherwood	39
+3600	ED11-003	01	Dolores		Crane	F	N	N	5751	N.D.P.	N.P.D.	3	West Royalty	116
+3600	ED11-003	01	Dolores		Crane	F	N	N	5751	N.D.P.	N.P.D.	3	Charlottetown	67
+3600	ED11-003	01	Dolores		Crane	F	N	N	5751	N.D.P.	N.P.D.	30	Sherwood	47
+3600	ED11-003	01	Dolores		Crane	F	N	N	5751	N.D.P.	N.P.D.	31	Charlottetown	14
+3600	ED11-003	01	Dolores		Crane	F	N	N	5751	N.D.P.	N.P.D.	32	Sherwood	73
+3600	ED11-003	01	Dolores		Crane	F	N	N	5751	N.D.P.	N.P.D.	33	Sherwood	115
+3600	ED11-003	01	Dolores		Crane	F	N	N	5751	N.D.P.	N.P.D.	34	Sherwood	66
+3600	ED11-003	01	Dolores		Crane	F	N	N	5751	N.D.P.	N.P.D.	35	Sherwood	78
+3600	ED11-003	01	Dolores		Crane	F	N	N	5751	N.D.P.	N.P.D.	36	Sherwood	76
+3600	ED11-003	01	Dolores		Crane	F	N	N	5751	N.D.P.	N.P.D.	37	Sherwood	64
+3600	ED11-003	01	Dolores		Crane	F	N	N	5751	N.D.P.	N.P.D.	38	East Royalty	29
+3600	ED11-003	01	Dolores		Crane	F	N	N	5751	N.D.P.	N.P.D.	39	East Royalty	70
+3600	ED11-003	01	Dolores		Crane	F	N	N	5751	N.D.P.	N.P.D.	4	West Royalty	13
+3600	ED11-003	01	Dolores		Crane	F	N	N	5751	N.D.P.	N.P.D.	4	Keppoch-Kinlock	39
+3600	ED11-003	01	Dolores		Crane	F	N	N	5751	N.D.P.	N.P.D.	40	East Royalty	86
+3600	ED11-003	01	Dolores		Crane	F	N	N	5751	N.D.P.	N.P.D.	41	East Royalty	69
+3600	ED11-003	01	Dolores		Crane	F	N	N	5751	N.D.P.	N.P.D.	42	East Royalty	82
+3600	ED11-003	01	Dolores		Crane	F	N	N	5751	N.D.P.	N.P.D.	43	Hillsborough Park	84
+3600	ED11-003	01	Dolores		Crane	F	N	N	5751	N.D.P.	N.P.D.	44	Hillsborough Park	63
+3600	ED11-003	01	Dolores		Crane	F	N	N	5751	N.D.P.	N.P.D.	45	Hillsborough Park	60
+3600	ED11-003	01	Dolores		Crane	F	N	N	5751	N.D.P.	N.P.D.	46	Sherwood	34
+3600	ED11-003	01	Dolores		Crane	F	N	N	5751	N.D.P.	N.P.D.	47	Sherwood	87
+3600	ED11-003	01	Dolores		Crane	F	N	N	5751	N.D.P.	N.P.D.	48	Sherwood	45
+3600	ED11-003	01	Dolores		Crane	F	N	N	5751	N.D.P.	N.P.D.	49	Parkdale	44
+3600	ED11-003	01	Dolores		Crane	F	N	N	5751	N.D.P.	N.P.D.	5	West Royalty	46
+3600	ED11-003	01	Dolores		Crane	F	N	N	5751	N.D.P.	N.P.D.	50	Parkdale	77
+3600	ED11-003	01	Dolores		Crane	F	N	N	5751	N.D.P.	N.P.D.	500	Mobile poll/Bureau itinérant	12
+3600	ED11-003	01	Dolores		Crane	F	N	N	5751	N.D.P.	N.P.D.	501	Mobile poll/Bureau itinérant	16
+3600	ED11-003	01	Dolores		Crane	F	N	N	5751	N.D.P.	N.P.D.	502	Mobile poll/Bureau itinérant	9
+3600	ED11-003	01	Dolores		Crane	F	N	N	5751	N.D.P.	N.P.D.	51	Parkdale	57
+3600	ED11-003	01	Dolores		Crane	F	N	N	5751	N.D.P.	N.P.D.	52	Charlottetown	61
+3600	ED11-003	01	Dolores		Crane	F	N	N	5751	N.D.P.	N.P.D.	53	Charlottetown	71
+3600	ED11-003	01	Dolores		Crane	F	N	N	5751	N.D.P.	N.P.D.	54	Charlottetown	60
+3600	ED11-003	01	Dolores		Crane	F	N	N	5751	N.D.P.	N.P.D.	55	Charlottetown	57
+3600	ED11-003	01	Dolores		Crane	F	N	N	5751	N.D.P.	N.P.D.	56	Charlottetown	56
+3600	ED11-003	01	Dolores		Crane	F	N	N	5751	N.D.P.	N.P.D.	57	Charlottetown	70
+3600	ED11-003	01	Dolores		Crane	F	N	N	5751	N.D.P.	N.P.D.	58	Charlottetown	59
+3600	ED11-003	01	Dolores		Crane	F	N	N	5751	N.D.P.	N.P.D.	59	Charlottetown	57
+3600	ED11-003	01	Dolores		Crane	F	N	N	5751	N.D.P.	N.P.D.	6	West Royalty	86
+3600	ED11-003	01	Dolores		Crane	F	N	N	5751	N.D.P.	N.P.D.	60	Charlottetown	86
+3600	ED11-003	01	Dolores		Crane	F	N	N	5751	N.D.P.	N.P.D.	61	Charlottetown	50
+3600	ED11-003	01	Dolores		Crane	F	N	N	5751	N.D.P.	N.P.D.	62	Charlottetown	60
+3600	ED11-003	01	Dolores		Crane	F	N	N	5751	N.D.P.	N.P.D.	63	Charlottetown	56
+3600	ED11-003	01	Dolores		Crane	F	N	N	5751	N.D.P.	N.P.D.	64	Charlottetown	31
+3600	ED11-003	01	Dolores		Crane	F	N	N	5751	N.D.P.	N.P.D.	65	Charlottetown	40
+3600	ED11-003	01	Dolores		Crane	F	N	N	5751	N.D.P.	N.P.D.	66	Charlottetown	31
+3600	ED11-003	01	Dolores		Crane	F	N	N	5751	N.D.P.	N.P.D.	67	Charlottetown	72
+3600	ED11-003	01	Dolores		Crane	F	N	N	5751	N.D.P.	N.P.D.	68	Charlottetown	88
+3600	ED11-003	01	Dolores		Crane	F	N	N	5751	N.D.P.	N.P.D.	69	Charlottetown	80
+3600	ED11-003	01	Dolores		Crane	F	N	N	5751	N.D.P.	N.P.D.	7	West Royalty	49
+3600	ED11-003	01	Dolores		Crane	F	N	N	5751	N.D.P.	N.P.D.	70	Charlottetown	76
+3600	ED11-003	01	Dolores		Crane	F	N	N	5751	N.D.P.	N.P.D.	71	Charlottetown	34
+3600	ED11-003	01	Dolores		Crane	F	N	N	5751	N.D.P.	N.P.D.	72	Charlottetown	55
+3600	ED11-003	01	Dolores		Crane	F	N	N	5751	N.D.P.	N.P.D.	73	Charlottetown	56
+3600	ED11-003	01	Dolores		Crane	F	N	N	5751	N.D.P.	N.P.D.	74	Charlottetown	27
+3600	ED11-003	01	Dolores		Crane	F	N	N	5751	N.D.P.	N.P.D.	75	Charlottetown	64
+3600	ED11-003	01	Dolores		Crane	F	N	N	5751	N.D.P.	N.P.D.	76	Keppoch-Kinlock	127
+3600	ED11-003	01	Dolores		Crane	F	N	N	5751	N.D.P.	N.P.D.	77	Keppoch-Kinlock	121
+3600	ED11-003	01	Dolores		Crane	F	N	N	5751	N.D.P.	N.P.D.	78	Keppoch-Kinlock	74
+3600	ED11-003	01	Dolores		Crane	F	N	N	5751	N.D.P.	N.P.D.	79	Southport	103
+3600	ED11-003	01	Dolores		Crane	F	N	N	5751	N.D.P.	N.P.D.	8	West Royalty	57
+3600	ED11-003	01	Dolores		Crane	F	N	N	5751	N.D.P.	N.P.D.	80	Southport	111
+3600	ED11-003	01	Dolores		Crane	F	N	N	5751	N.D.P.	N.P.D.	81	Bunbury	85
+3600	ED11-003	01	Dolores		Crane	F	N	N	5751	N.D.P.	N.P.D.	82	Bunbury	89
+3600	ED11-003	01	Dolores		Crane	F	N	N	5751	N.D.P.	N.P.D.	9	West Royalty	52
+3600	ED11-003	01	Dolores		Crane	F	N	N	5751	N.D.P.	N.P.D.	SVR/R+S-1	Group 1/Groupe 1 *	5
+3600	ED11-003	01	Dolores		Crane	F	N	N	5751	N.D.P.	N.P.D.	SVR/R+S-2	Group 2/Groupe 2 **	50
+3600	ED11-003	02	Blaine		Jensen	M	N	N	476	Reform	Réforme	1	West Royalty	7
+3600	ED11-003	02	Blaine		Jensen	M	N	N	476	Reform	Réforme	1	Charlottetown	13
+3600	ED11-003	02	Blaine		Jensen	M	N	N	476	Reform	Réforme	10	Charlottetown	9
+3600	ED11-003	02	Blaine		Jensen	M	N	N	476	Reform	Réforme	11	Charlottetown	6
+3600	ED11-003	02	Blaine		Jensen	M	N	N	476	Reform	Réforme	12	Charlottetown	6
+3600	ED11-003	02	Blaine		Jensen	M	N	N	476	Reform	Réforme	13	Charlottetown	3
+3600	ED11-003	02	Blaine		Jensen	M	N	N	476	Reform	Réforme	14	Charlottetown	1
+3600	ED11-003	02	Blaine		Jensen	M	N	N	476	Reform	Réforme	15	Charlottetown	2
+3600	ED11-003	02	Blaine		Jensen	M	N	N	476	Reform	Réforme	16	Charlottetown	3
+3600	ED11-003	02	Blaine		Jensen	M	N	N	476	Reform	Réforme	17	Charlottetown	1
+3600	ED11-003	02	Blaine		Jensen	M	N	N	476	Reform	Réforme	18	Charlottetown	4
+3600	ED11-003	02	Blaine		Jensen	M	N	N	476	Reform	Réforme	19	Charlottetown	8
+3600	ED11-003	02	Blaine		Jensen	M	N	N	476	Reform	Réforme	2	West Royalty	15
+3600	ED11-003	02	Blaine		Jensen	M	N	N	476	Reform	Réforme	2	Sherwood	5
+3600	ED11-003	02	Blaine		Jensen	M	N	N	476	Reform	Réforme	20	Charlottetown	7
+3600	ED11-003	02	Blaine		Jensen	M	N	N	476	Reform	Réforme	21	Charlottetown	4
+3600	ED11-003	02	Blaine		Jensen	M	N	N	476	Reform	Réforme	22	Charlottetown	3
+3600	ED11-003	02	Blaine		Jensen	M	N	N	476	Reform	Réforme	23	Parkdale	10
+3600	ED11-003	02	Blaine		Jensen	M	N	N	476	Reform	Réforme	24	Parkdale	6
+3600	ED11-003	02	Blaine		Jensen	M	N	N	476	Reform	Réforme	25	Sherwood	6
+3600	ED11-003	02	Blaine		Jensen	M	N	N	476	Reform	Réforme	26	Sherwood	7
+3600	ED11-003	02	Blaine		Jensen	M	N	N	476	Reform	Réforme	27	Sherwood	5
+3600	ED11-003	02	Blaine		Jensen	M	N	N	476	Reform	Réforme	28	Sherwood	5
+3600	ED11-003	02	Blaine		Jensen	M	N	N	476	Reform	Réforme	29	Sherwood	3
+3600	ED11-003	02	Blaine		Jensen	M	N	N	476	Reform	Réforme	3	West Royalty	9
+3600	ED11-003	02	Blaine		Jensen	M	N	N	476	Reform	Réforme	3	Charlottetown	6
+3600	ED11-003	02	Blaine		Jensen	M	N	N	476	Reform	Réforme	30	Sherwood	3
+3600	ED11-003	02	Blaine		Jensen	M	N	N	476	Reform	Réforme	31	Charlottetown	2
+3600	ED11-003	02	Blaine		Jensen	M	N	N	476	Reform	Réforme	32	Sherwood	5
+3600	ED11-003	02	Blaine		Jensen	M	N	N	476	Reform	Réforme	33	Sherwood	6
+3600	ED11-003	02	Blaine		Jensen	M	N	N	476	Reform	Réforme	34	Sherwood	4
+3600	ED11-003	02	Blaine		Jensen	M	N	N	476	Reform	Réforme	35	Sherwood	7
+3600	ED11-003	02	Blaine		Jensen	M	N	N	476	Reform	Réforme	36	Sherwood	5
+3600	ED11-003	02	Blaine		Jensen	M	N	N	476	Reform	Réforme	37	Sherwood	6
+3600	ED11-003	02	Blaine		Jensen	M	N	N	476	Reform	Réforme	38	East Royalty	2
+3600	ED11-003	02	Blaine		Jensen	M	N	N	476	Reform	Réforme	39	East Royalty	6
+3600	ED11-003	02	Blaine		Jensen	M	N	N	476	Reform	Réforme	4	West Royalty	3
+3600	ED11-003	02	Blaine		Jensen	M	N	N	476	Reform	Réforme	4	Keppoch-Kinlock	5
+3600	ED11-003	02	Blaine		Jensen	M	N	N	476	Reform	Réforme	40	East Royalty	12
+3600	ED11-003	02	Blaine		Jensen	M	N	N	476	Reform	Réforme	41	East Royalty	3
+3600	ED11-003	02	Blaine		Jensen	M	N	N	476	Reform	Réforme	42	East Royalty	4
+3600	ED11-003	02	Blaine		Jensen	M	N	N	476	Reform	Réforme	43	Hillsborough Park	6
+3600	ED11-003	02	Blaine		Jensen	M	N	N	476	Reform	Réforme	44	Hillsborough Park	7
+3600	ED11-003	02	Blaine		Jensen	M	N	N	476	Reform	Réforme	45	Hillsborough Park	3
+3600	ED11-003	02	Blaine		Jensen	M	N	N	476	Reform	Réforme	46	Sherwood	2
+3600	ED11-003	02	Blaine		Jensen	M	N	N	476	Reform	Réforme	47	Sherwood	6
+3600	ED11-003	02	Blaine		Jensen	M	N	N	476	Reform	Réforme	48	Sherwood	1
+3600	ED11-003	02	Blaine		Jensen	M	N	N	476	Reform	Réforme	49	Parkdale	3
+3600	ED11-003	02	Blaine		Jensen	M	N	N	476	Reform	Réforme	5	West Royalty	8
+3600	ED11-003	02	Blaine		Jensen	M	N	N	476	Reform	Réforme	50	Parkdale	1
+3600	ED11-003	02	Blaine		Jensen	M	N	N	476	Reform	Réforme	500	Mobile poll/Bureau itinérant	1
+3600	ED11-003	02	Blaine		Jensen	M	N	N	476	Reform	Réforme	501	Mobile poll/Bureau itinérant	2
+3600	ED11-003	02	Blaine		Jensen	M	N	N	476	Reform	Réforme	502	Mobile poll/Bureau itinérant	1
+3600	ED11-003	02	Blaine		Jensen	M	N	N	476	Reform	Réforme	51	Parkdale	10
+3600	ED11-003	02	Blaine		Jensen	M	N	N	476	Reform	Réforme	52	Charlottetown	0
+3600	ED11-003	02	Blaine		Jensen	M	N	N	476	Reform	Réforme	53	Charlottetown	8
+3600	ED11-003	02	Blaine		Jensen	M	N	N	476	Reform	Réforme	54	Charlottetown	3
+3600	ED11-003	02	Blaine		Jensen	M	N	N	476	Reform	Réforme	55	Charlottetown	2
+3600	ED11-003	02	Blaine		Jensen	M	N	N	476	Reform	Réforme	56	Charlottetown	3
+3600	ED11-003	02	Blaine		Jensen	M	N	N	476	Reform	Réforme	57	Charlottetown	2
+3600	ED11-003	02	Blaine		Jensen	M	N	N	476	Reform	Réforme	58	Charlottetown	6
+3600	ED11-003	02	Blaine		Jensen	M	N	N	476	Reform	Réforme	59	Charlottetown	1
+3600	ED11-003	02	Blaine		Jensen	M	N	N	476	Reform	Réforme	6	West Royalty	11
+3600	ED11-003	02	Blaine		Jensen	M	N	N	476	Reform	Réforme	60	Charlottetown	4
+3600	ED11-003	02	Blaine		Jensen	M	N	N	476	Reform	Réforme	61	Charlottetown	4
+3600	ED11-003	02	Blaine		Jensen	M	N	N	476	Reform	Réforme	62	Charlottetown	9
+3600	ED11-003	02	Blaine		Jensen	M	N	N	476	Reform	Réforme	63	Charlottetown	0
+3600	ED11-003	02	Blaine		Jensen	M	N	N	476	Reform	Réforme	64	Charlottetown	3
+3600	ED11-003	02	Blaine		Jensen	M	N	N	476	Reform	Réforme	65	Charlottetown	5
+3600	ED11-003	02	Blaine		Jensen	M	N	N	476	Reform	Réforme	66	Charlottetown	2
+3600	ED11-003	02	Blaine		Jensen	M	N	N	476	Reform	Réforme	67	Charlottetown	0
+3600	ED11-003	02	Blaine		Jensen	M	N	N	476	Reform	Réforme	68	Charlottetown	4
+3600	ED11-003	02	Blaine		Jensen	M	N	N	476	Reform	Réforme	69	Charlottetown	5
+3600	ED11-003	02	Blaine		Jensen	M	N	N	476	Reform	Réforme	7	West Royalty	7
+3600	ED11-003	02	Blaine		Jensen	M	N	N	476	Reform	Réforme	70	Charlottetown	12
+3600	ED11-003	02	Blaine		Jensen	M	N	N	476	Reform	Réforme	71	Charlottetown	0
+3600	ED11-003	02	Blaine		Jensen	M	N	N	476	Reform	Réforme	72	Charlottetown	0
+3600	ED11-003	02	Blaine		Jensen	M	N	N	476	Reform	Réforme	73	Charlottetown	3
+3600	ED11-003	02	Blaine		Jensen	M	N	N	476	Reform	Réforme	74	Charlottetown	6
+3600	ED11-003	02	Blaine		Jensen	M	N	N	476	Reform	Réforme	75	Charlottetown	3
+3600	ED11-003	02	Blaine		Jensen	M	N	N	476	Reform	Réforme	76	Keppoch-Kinlock	16
+3600	ED11-003	02	Blaine		Jensen	M	N	N	476	Reform	Réforme	77	Keppoch-Kinlock	18
+3600	ED11-003	02	Blaine		Jensen	M	N	N	476	Reform	Réforme	78	Keppoch-Kinlock	9
+3600	ED11-003	02	Blaine		Jensen	M	N	N	476	Reform	Réforme	79	Southport	4
+3600	ED11-003	02	Blaine		Jensen	M	N	N	476	Reform	Réforme	8	West Royalty	3
+3600	ED11-003	02	Blaine		Jensen	M	N	N	476	Reform	Réforme	80	Southport	6
+3600	ED11-003	02	Blaine		Jensen	M	N	N	476	Reform	Réforme	81	Bunbury	10
+3600	ED11-003	02	Blaine		Jensen	M	N	N	476	Reform	Réforme	82	Bunbury	3
+3600	ED11-003	02	Blaine		Jensen	M	N	N	476	Reform	Réforme	9	West Royalty	10
+3600	ED11-003	02	Blaine		Jensen	M	N	N	476	Reform	Réforme	SVR/R+S-1	Group 1/Groupe 1 *	6
+3600	ED11-003	02	Blaine		Jensen	M	N	N	476	Reform	Réforme	SVR/R+S-2	Group 2/Groupe 2 **	10
+3600	ED11-003	03	Baird		Judson	M	N	N	145	C.H.P. of Canada	P.H.C. du Canada	1	West Royalty	7
+3600	ED11-003	03	Baird		Judson	M	N	N	145	C.H.P. of Canada	P.H.C. du Canada	1	Charlottetown	1
+3600	ED11-003	03	Baird		Judson	M	N	N	145	C.H.P. of Canada	P.H.C. du Canada	10	Charlottetown	3
+3600	ED11-003	03	Baird		Judson	M	N	N	145	C.H.P. of Canada	P.H.C. du Canada	11	Charlottetown	0
+3600	ED11-003	03	Baird		Judson	M	N	N	145	C.H.P. of Canada	P.H.C. du Canada	12	Charlottetown	1
+3600	ED11-003	03	Baird		Judson	M	N	N	145	C.H.P. of Canada	P.H.C. du Canada	13	Charlottetown	3
+3600	ED11-003	03	Baird		Judson	M	N	N	145	C.H.P. of Canada	P.H.C. du Canada	14	Charlottetown	0
+3600	ED11-003	03	Baird		Judson	M	N	N	145	C.H.P. of Canada	P.H.C. du Canada	15	Charlottetown	0
+3600	ED11-003	03	Baird		Judson	M	N	N	145	C.H.P. of Canada	P.H.C. du Canada	16	Charlottetown	2
+3600	ED11-003	03	Baird		Judson	M	N	N	145	C.H.P. of Canada	P.H.C. du Canada	17	Charlottetown	0
+3600	ED11-003	03	Baird		Judson	M	N	N	145	C.H.P. of Canada	P.H.C. du Canada	18	Charlottetown	1
+3600	ED11-003	03	Baird		Judson	M	N	N	145	C.H.P. of Canada	P.H.C. du Canada	19	Charlottetown	0
+3600	ED11-003	03	Baird		Judson	M	N	N	145	C.H.P. of Canada	P.H.C. du Canada	2	West Royalty	1
+3600	ED11-003	03	Baird		Judson	M	N	N	145	C.H.P. of Canada	P.H.C. du Canada	2	Sherwood	0
+3600	ED11-003	03	Baird		Judson	M	N	N	145	C.H.P. of Canada	P.H.C. du Canada	20	Charlottetown	2
+3600	ED11-003	03	Baird		Judson	M	N	N	145	C.H.P. of Canada	P.H.C. du Canada	21	Charlottetown	2
+3600	ED11-003	03	Baird		Judson	M	N	N	145	C.H.P. of Canada	P.H.C. du Canada	22	Charlottetown	1
+3600	ED11-003	03	Baird		Judson	M	N	N	145	C.H.P. of Canada	P.H.C. du Canada	23	Parkdale	1
+3600	ED11-003	03	Baird		Judson	M	N	N	145	C.H.P. of Canada	P.H.C. du Canada	24	Parkdale	5
+3600	ED11-003	03	Baird		Judson	M	N	N	145	C.H.P. of Canada	P.H.C. du Canada	25	Sherwood	1
+3600	ED11-003	03	Baird		Judson	M	N	N	145	C.H.P. of Canada	P.H.C. du Canada	26	Sherwood	2
+3600	ED11-003	03	Baird		Judson	M	N	N	145	C.H.P. of Canada	P.H.C. du Canada	27	Sherwood	1
+3600	ED11-003	03	Baird		Judson	M	N	N	145	C.H.P. of Canada	P.H.C. du Canada	28	Sherwood	1
+3600	ED11-003	03	Baird		Judson	M	N	N	145	C.H.P. of Canada	P.H.C. du Canada	29	Sherwood	1
+3600	ED11-003	03	Baird		Judson	M	N	N	145	C.H.P. of Canada	P.H.C. du Canada	3	West Royalty	2
+3600	ED11-003	03	Baird		Judson	M	N	N	145	C.H.P. of Canada	P.H.C. du Canada	3	Charlottetown	3
+3600	ED11-003	03	Baird		Judson	M	N	N	145	C.H.P. of Canada	P.H.C. du Canada	30	Sherwood	7
+3600	ED11-003	03	Baird		Judson	M	N	N	145	C.H.P. of Canada	P.H.C. du Canada	31	Charlottetown	0
+3600	ED11-003	03	Baird		Judson	M	N	N	145	C.H.P. of Canada	P.H.C. du Canada	32	Sherwood	1
+3600	ED11-003	03	Baird		Judson	M	N	N	145	C.H.P. of Canada	P.H.C. du Canada	33	Sherwood	3
+3600	ED11-003	03	Baird		Judson	M	N	N	145	C.H.P. of Canada	P.H.C. du Canada	34	Sherwood	1
+3600	ED11-003	03	Baird		Judson	M	N	N	145	C.H.P. of Canada	P.H.C. du Canada	35	Sherwood	0
+3600	ED11-003	03	Baird		Judson	M	N	N	145	C.H.P. of Canada	P.H.C. du Canada	36	Sherwood	2
+3600	ED11-003	03	Baird		Judson	M	N	N	145	C.H.P. of Canada	P.H.C. du Canada	37	Sherwood	1
+3600	ED11-003	03	Baird		Judson	M	N	N	145	C.H.P. of Canada	P.H.C. du Canada	38	East Royalty	1
+3600	ED11-003	03	Baird		Judson	M	N	N	145	C.H.P. of Canada	P.H.C. du Canada	39	East Royalty	0
+3600	ED11-003	03	Baird		Judson	M	N	N	145	C.H.P. of Canada	P.H.C. du Canada	4	West Royalty	0
+3600	ED11-003	03	Baird		Judson	M	N	N	145	C.H.P. of Canada	P.H.C. du Canada	4	Keppoch-Kinlock	1
+3600	ED11-003	03	Baird		Judson	M	N	N	145	C.H.P. of Canada	P.H.C. du Canada	40	East Royalty	2
+3600	ED11-003	03	Baird		Judson	M	N	N	145	C.H.P. of Canada	P.H.C. du Canada	41	East Royalty	1
+3600	ED11-003	03	Baird		Judson	M	N	N	145	C.H.P. of Canada	P.H.C. du Canada	42	East Royalty	2
+3600	ED11-003	03	Baird		Judson	M	N	N	145	C.H.P. of Canada	P.H.C. du Canada	43	Hillsborough Park	3
+3600	ED11-003	03	Baird		Judson	M	N	N	145	C.H.P. of Canada	P.H.C. du Canada	44	Hillsborough Park	10
+3600	ED11-003	03	Baird		Judson	M	N	N	145	C.H.P. of Canada	P.H.C. du Canada	45	Hillsborough Park	1
+3600	ED11-003	03	Baird		Judson	M	N	N	145	C.H.P. of Canada	P.H.C. du Canada	46	Sherwood	0
+3600	ED11-003	03	Baird		Judson	M	N	N	145	C.H.P. of Canada	P.H.C. du Canada	47	Sherwood	3
+3600	ED11-003	03	Baird		Judson	M	N	N	145	C.H.P. of Canada	P.H.C. du Canada	48	Sherwood	1
+3600	ED11-003	03	Baird		Judson	M	N	N	145	C.H.P. of Canada	P.H.C. du Canada	49	Parkdale	0
+3600	ED11-003	03	Baird		Judson	M	N	N	145	C.H.P. of Canada	P.H.C. du Canada	5	West Royalty	2
+3600	ED11-003	03	Baird		Judson	M	N	N	145	C.H.P. of Canada	P.H.C. du Canada	50	Parkdale	0
+3600	ED11-003	03	Baird		Judson	M	N	N	145	C.H.P. of Canada	P.H.C. du Canada	500	Mobile poll/Bureau itinérant	2
+3600	ED11-003	03	Baird		Judson	M	N	N	145	C.H.P. of Canada	P.H.C. du Canada	501	Mobile poll/Bureau itinérant	1
+3600	ED11-003	03	Baird		Judson	M	N	N	145	C.H.P. of Canada	P.H.C. du Canada	502	Mobile poll/Bureau itinérant	2
+3600	ED11-003	03	Baird		Judson	M	N	N	145	C.H.P. of Canada	P.H.C. du Canada	51	Parkdale	2
+3600	ED11-003	03	Baird		Judson	M	N	N	145	C.H.P. of Canada	P.H.C. du Canada	52	Charlottetown	2
+3600	ED11-003	03	Baird		Judson	M	N	N	145	C.H.P. of Canada	P.H.C. du Canada	53	Charlottetown	0
+3600	ED11-003	03	Baird		Judson	M	N	N	145	C.H.P. of Canada	P.H.C. du Canada	54	Charlottetown	1
+3600	ED11-003	03	Baird		Judson	M	N	N	145	C.H.P. of Canada	P.H.C. du Canada	55	Charlottetown	1
+3600	ED11-003	03	Baird		Judson	M	N	N	145	C.H.P. of Canada	P.H.C. du Canada	56	Charlottetown	0
+3600	ED11-003	03	Baird		Judson	M	N	N	145	C.H.P. of Canada	P.H.C. du Canada	57	Charlottetown	2
+3600	ED11-003	03	Baird		Judson	M	N	N	145	C.H.P. of Canada	P.H.C. du Canada	58	Charlottetown	0
+3600	ED11-003	03	Baird		Judson	M	N	N	145	C.H.P. of Canada	P.H.C. du Canada	59	Charlottetown	2
+3600	ED11-003	03	Baird		Judson	M	N	N	145	C.H.P. of Canada	P.H.C. du Canada	6	West Royalty	5
+3600	ED11-003	03	Baird		Judson	M	N	N	145	C.H.P. of Canada	P.H.C. du Canada	60	Charlottetown	0
+3600	ED11-003	03	Baird		Judson	M	N	N	145	C.H.P. of Canada	P.H.C. du Canada	61	Charlottetown	1
+3600	ED11-003	03	Baird		Judson	M	N	N	145	C.H.P. of Canada	P.H.C. du Canada	62	Charlottetown	3
+3600	ED11-003	03	Baird		Judson	M	N	N	145	C.H.P. of Canada	P.H.C. du Canada	63	Charlottetown	0
+3600	ED11-003	03	Baird		Judson	M	N	N	145	C.H.P. of Canada	P.H.C. du Canada	64	Charlottetown	0
+3600	ED11-003	03	Baird		Judson	M	N	N	145	C.H.P. of Canada	P.H.C. du Canada	65	Charlottetown	2
+3600	ED11-003	03	Baird		Judson	M	N	N	145	C.H.P. of Canada	P.H.C. du Canada	66	Charlottetown	0
+3600	ED11-003	03	Baird		Judson	M	N	N	145	C.H.P. of Canada	P.H.C. du Canada	67	Charlottetown	1
+3600	ED11-003	03	Baird		Judson	M	N	N	145	C.H.P. of Canada	P.H.C. du Canada	68	Charlottetown	1
+3600	ED11-003	03	Baird		Judson	M	N	N	145	C.H.P. of Canada	P.H.C. du Canada	69	Charlottetown	1
+3600	ED11-003	03	Baird		Judson	M	N	N	145	C.H.P. of Canada	P.H.C. du Canada	7	West Royalty	2
+3600	ED11-003	03	Baird		Judson	M	N	N	145	C.H.P. of Canada	P.H.C. du Canada	70	Charlottetown	3
+3600	ED11-003	03	Baird		Judson	M	N	N	145	C.H.P. of Canada	P.H.C. du Canada	71	Charlottetown	0
+3600	ED11-003	03	Baird		Judson	M	N	N	145	C.H.P. of Canada	P.H.C. du Canada	72	Charlottetown	4
+3600	ED11-003	03	Baird		Judson	M	N	N	145	C.H.P. of Canada	P.H.C. du Canada	73	Charlottetown	2
+3600	ED11-003	03	Baird		Judson	M	N	N	145	C.H.P. of Canada	P.H.C. du Canada	74	Charlottetown	0
+3600	ED11-003	03	Baird		Judson	M	N	N	145	C.H.P. of Canada	P.H.C. du Canada	75	Charlottetown	1
+3600	ED11-003	03	Baird		Judson	M	N	N	145	C.H.P. of Canada	P.H.C. du Canada	76	Keppoch-Kinlock	1
+3600	ED11-003	03	Baird		Judson	M	N	N	145	C.H.P. of Canada	P.H.C. du Canada	77	Keppoch-Kinlock	4
+3600	ED11-003	03	Baird		Judson	M	N	N	145	C.H.P. of Canada	P.H.C. du Canada	78	Keppoch-Kinlock	1
+3600	ED11-003	03	Baird		Judson	M	N	N	145	C.H.P. of Canada	P.H.C. du Canada	79	Southport	7
+3600	ED11-003	03	Baird		Judson	M	N	N	145	C.H.P. of Canada	P.H.C. du Canada	8	West Royalty	0
+3600	ED11-003	03	Baird		Judson	M	N	N	145	C.H.P. of Canada	P.H.C. du Canada	80	Southport	2
+3600	ED11-003	03	Baird		Judson	M	N	N	145	C.H.P. of Canada	P.H.C. du Canada	81	Bunbury	0
+3600	ED11-003	03	Baird		Judson	M	N	N	145	C.H.P. of Canada	P.H.C. du Canada	82	Bunbury	1
+3600	ED11-003	03	Baird		Judson	M	N	N	145	C.H.P. of Canada	P.H.C. du Canada	9	West Royalty	3
+3600	ED11-003	03	Baird		Judson	M	N	N	145	C.H.P. of Canada	P.H.C. du Canada	SVR/R+S-1	Group 1/Groupe 1 *	0
+3600	ED11-003	03	Baird		Judson	M	N	N	145	C.H.P. of Canada	P.H.C. du Canada	SVR/R+S-2	Group 2/Groupe 2 **	2
+3600	ED11-003	04	Paula		Price	F	N	N	74	Natural Law Party	Parti de la loi naturelle	1	West Royalty	0
+3600	ED11-003	04	Paula		Price	F	N	N	74	Natural Law Party	Parti de la loi naturelle	1	Charlottetown	1
+3600	ED11-003	04	Paula		Price	F	N	N	74	Natural Law Party	Parti de la loi naturelle	10	Charlottetown	3
+3600	ED11-003	04	Paula		Price	F	N	N	74	Natural Law Party	Parti de la loi naturelle	11	Charlottetown	0
+3600	ED11-003	04	Paula		Price	F	N	N	74	Natural Law Party	Parti de la loi naturelle	12	Charlottetown	0
+3600	ED11-003	04	Paula		Price	F	N	N	74	Natural Law Party	Parti de la loi naturelle	13	Charlottetown	1
+3600	ED11-003	04	Paula		Price	F	N	N	74	Natural Law Party	Parti de la loi naturelle	14	Charlottetown	1
+3600	ED11-003	04	Paula		Price	F	N	N	74	Natural Law Party	Parti de la loi naturelle	15	Charlottetown	2
+3600	ED11-003	04	Paula		Price	F	N	N	74	Natural Law Party	Parti de la loi naturelle	16	Charlottetown	1
+3600	ED11-003	04	Paula		Price	F	N	N	74	Natural Law Party	Parti de la loi naturelle	17	Charlottetown	1
+3600	ED11-003	04	Paula		Price	F	N	N	74	Natural Law Party	Parti de la loi naturelle	18	Charlottetown	0
+3600	ED11-003	04	Paula		Price	F	N	N	74	Natural Law Party	Parti de la loi naturelle	19	Charlottetown	0
+3600	ED11-003	04	Paula		Price	F	N	N	74	Natural Law Party	Parti de la loi naturelle	2	West Royalty	0
+3600	ED11-003	04	Paula		Price	F	N	N	74	Natural Law Party	Parti de la loi naturelle	2	Sherwood	0
+3600	ED11-003	04	Paula		Price	F	N	N	74	Natural Law Party	Parti de la loi naturelle	20	Charlottetown	1
+3600	ED11-003	04	Paula		Price	F	N	N	74	Natural Law Party	Parti de la loi naturelle	21	Charlottetown	0
+3600	ED11-003	04	Paula		Price	F	N	N	74	Natural Law Party	Parti de la loi naturelle	22	Charlottetown	0
+3600	ED11-003	04	Paula		Price	F	N	N	74	Natural Law Party	Parti de la loi naturelle	23	Parkdale	1
+3600	ED11-003	04	Paula		Price	F	N	N	74	Natural Law Party	Parti de la loi naturelle	24	Parkdale	3
+3600	ED11-003	04	Paula		Price	F	N	N	74	Natural Law Party	Parti de la loi naturelle	25	Sherwood	0
+3600	ED11-003	04	Paula		Price	F	N	N	74	Natural Law Party	Parti de la loi naturelle	26	Sherwood	0
+3600	ED11-003	04	Paula		Price	F	N	N	74	Natural Law Party	Parti de la loi naturelle	27	Sherwood	1
+3600	ED11-003	04	Paula		Price	F	N	N	74	Natural Law Party	Parti de la loi naturelle	28	Sherwood	1
+3600	ED11-003	04	Paula		Price	F	N	N	74	Natural Law Party	Parti de la loi naturelle	29	Sherwood	0
+3600	ED11-003	04	Paula		Price	F	N	N	74	Natural Law Party	Parti de la loi naturelle	3	West Royalty	0
+3600	ED11-003	04	Paula		Price	F	N	N	74	Natural Law Party	Parti de la loi naturelle	3	Charlottetown	1
+3600	ED11-003	04	Paula		Price	F	N	N	74	Natural Law Party	Parti de la loi naturelle	30	Sherwood	0
+3600	ED11-003	04	Paula		Price	F	N	N	74	Natural Law Party	Parti de la loi naturelle	31	Charlottetown	0
+3600	ED11-003	04	Paula		Price	F	N	N	74	Natural Law Party	Parti de la loi naturelle	32	Sherwood	3
+3600	ED11-003	04	Paula		Price	F	N	N	74	Natural Law Party	Parti de la loi naturelle	33	Sherwood	0
+3600	ED11-003	04	Paula		Price	F	N	N	74	Natural Law Party	Parti de la loi naturelle	34	Sherwood	2
+3600	ED11-003	04	Paula		Price	F	N	N	74	Natural Law Party	Parti de la loi naturelle	35	Sherwood	0
+3600	ED11-003	04	Paula		Price	F	N	N	74	Natural Law Party	Parti de la loi naturelle	36	Sherwood	0
+3600	ED11-003	04	Paula		Price	F	N	N	74	Natural Law Party	Parti de la loi naturelle	37	Sherwood	0
+3600	ED11-003	04	Paula		Price	F	N	N	74	Natural Law Party	Parti de la loi naturelle	38	East Royalty	0
+3600	ED11-003	04	Paula		Price	F	N	N	74	Natural Law Party	Parti de la loi naturelle	39	East Royalty	2
+3600	ED11-003	04	Paula		Price	F	N	N	74	Natural Law Party	Parti de la loi naturelle	4	West Royalty	1
+3600	ED11-003	04	Paula		Price	F	N	N	74	Natural Law Party	Parti de la loi naturelle	4	Keppoch-Kinlock	0
+3600	ED11-003	04	Paula		Price	F	N	N	74	Natural Law Party	Parti de la loi naturelle	40	East Royalty	1
+3600	ED11-003	04	Paula		Price	F	N	N	74	Natural Law Party	Parti de la loi naturelle	41	East Royalty	1
+3600	ED11-003	04	Paula		Price	F	N	N	74	Natural Law Party	Parti de la loi naturelle	42	East Royalty	1
+3600	ED11-003	04	Paula		Price	F	N	N	74	Natural Law Party	Parti de la loi naturelle	43	Hillsborough Park	1
+3600	ED11-003	04	Paula		Price	F	N	N	74	Natural Law Party	Parti de la loi naturelle	44	Hillsborough Park	1
+3600	ED11-003	04	Paula		Price	F	N	N	74	Natural Law Party	Parti de la loi naturelle	45	Hillsborough Park	0
+3600	ED11-003	04	Paula		Price	F	N	N	74	Natural Law Party	Parti de la loi naturelle	46	Sherwood	2
+3600	ED11-003	04	Paula		Price	F	N	N	74	Natural Law Party	Parti de la loi naturelle	47	Sherwood	0
+3600	ED11-003	04	Paula		Price	F	N	N	74	Natural Law Party	Parti de la loi naturelle	48	Sherwood	4
+3600	ED11-003	04	Paula		Price	F	N	N	74	Natural Law Party	Parti de la loi naturelle	49	Parkdale	0
+3600	ED11-003	04	Paula		Price	F	N	N	74	Natural Law Party	Parti de la loi naturelle	5	West Royalty	2
+3600	ED11-003	04	Paula		Price	F	N	N	74	Natural Law Party	Parti de la loi naturelle	50	Parkdale	1
+3600	ED11-003	04	Paula		Price	F	N	N	74	Natural Law Party	Parti de la loi naturelle	500	Mobile poll/Bureau itinérant	2
+3600	ED11-003	04	Paula		Price	F	N	N	74	Natural Law Party	Parti de la loi naturelle	501	Mobile poll/Bureau itinérant	1
+3600	ED11-003	04	Paula		Price	F	N	N	74	Natural Law Party	Parti de la loi naturelle	502	Mobile poll/Bureau itinérant	0
+3600	ED11-003	04	Paula		Price	F	N	N	74	Natural Law Party	Parti de la loi naturelle	51	Parkdale	1
+3600	ED11-003	04	Paula		Price	F	N	N	74	Natural Law Party	Parti de la loi naturelle	52	Charlottetown	1
+3600	ED11-003	04	Paula		Price	F	N	N	74	Natural Law Party	Parti de la loi naturelle	53	Charlottetown	1
+3600	ED11-003	04	Paula		Price	F	N	N	74	Natural Law Party	Parti de la loi naturelle	54	Charlottetown	0
+3600	ED11-003	04	Paula		Price	F	N	N	74	Natural Law Party	Parti de la loi naturelle	55	Charlottetown	1
+3600	ED11-003	04	Paula		Price	F	N	N	74	Natural Law Party	Parti de la loi naturelle	56	Charlottetown	0
+3600	ED11-003	04	Paula		Price	F	N	N	74	Natural Law Party	Parti de la loi naturelle	57	Charlottetown	0
+3600	ED11-003	04	Paula		Price	F	N	N	74	Natural Law Party	Parti de la loi naturelle	58	Charlottetown	0
+3600	ED11-003	04	Paula		Price	F	N	N	74	Natural Law Party	Parti de la loi naturelle	59	Charlottetown	4
+3600	ED11-003	04	Paula		Price	F	N	N	74	Natural Law Party	Parti de la loi naturelle	6	West Royalty	1
+3600	ED11-003	04	Paula		Price	F	N	N	74	Natural Law Party	Parti de la loi naturelle	60	Charlottetown	3
+3600	ED11-003	04	Paula		Price	F	N	N	74	Natural Law Party	Parti de la loi naturelle	61	Charlottetown	1
+3600	ED11-003	04	Paula		Price	F	N	N	74	Natural Law Party	Parti de la loi naturelle	62	Charlottetown	0
+3600	ED11-003	04	Paula		Price	F	N	N	74	Natural Law Party	Parti de la loi naturelle	63	Charlottetown	0
+3600	ED11-003	04	Paula		Price	F	N	N	74	Natural Law Party	Parti de la loi naturelle	64	Charlottetown	0
+3600	ED11-003	04	Paula		Price	F	N	N	74	Natural Law Party	Parti de la loi naturelle	65	Charlottetown	0
+3600	ED11-003	04	Paula		Price	F	N	N	74	Natural Law Party	Parti de la loi naturelle	66	Charlottetown	0
+3600	ED11-003	04	Paula		Price	F	N	N	74	Natural Law Party	Parti de la loi naturelle	67	Charlottetown	1
+3600	ED11-003	04	Paula		Price	F	N	N	74	Natural Law Party	Parti de la loi naturelle	68	Charlottetown	0
+3600	ED11-003	04	Paula		Price	F	N	N	74	Natural Law Party	Parti de la loi naturelle	69	Charlottetown	0
+3600	ED11-003	04	Paula		Price	F	N	N	74	Natural Law Party	Parti de la loi naturelle	7	West Royalty	1
+3600	ED11-003	04	Paula		Price	F	N	N	74	Natural Law Party	Parti de la loi naturelle	70	Charlottetown	1
+3600	ED11-003	04	Paula		Price	F	N	N	74	Natural Law Party	Parti de la loi naturelle	71	Charlottetown	0
+3600	ED11-003	04	Paula		Price	F	N	N	74	Natural Law Party	Parti de la loi naturelle	72	Charlottetown	2
+3600	ED11-003	04	Paula		Price	F	N	N	74	Natural Law Party	Parti de la loi naturelle	73	Charlottetown	1
+3600	ED11-003	04	Paula		Price	F	N	N	74	Natural Law Party	Parti de la loi naturelle	74	Charlottetown	0
+3600	ED11-003	04	Paula		Price	F	N	N	74	Natural Law Party	Parti de la loi naturelle	75	Charlottetown	1
+3600	ED11-003	04	Paula		Price	F	N	N	74	Natural Law Party	Parti de la loi naturelle	76	Keppoch-Kinlock	2
+3600	ED11-003	04	Paula		Price	F	N	N	74	Natural Law Party	Parti de la loi naturelle	77	Keppoch-Kinlock	3
+3600	ED11-003	04	Paula		Price	F	N	N	74	Natural Law Party	Parti de la loi naturelle	78	Keppoch-Kinlock	1
+3600	ED11-003	04	Paula		Price	F	N	N	74	Natural Law Party	Parti de la loi naturelle	79	Southport	2
+3600	ED11-003	04	Paula		Price	F	N	N	74	Natural Law Party	Parti de la loi naturelle	8	West Royalty	0
+3600	ED11-003	04	Paula		Price	F	N	N	74	Natural Law Party	Parti de la loi naturelle	80	Southport	0
+3600	ED11-003	04	Paula		Price	F	N	N	74	Natural Law Party	Parti de la loi naturelle	81	Bunbury	0
+3600	ED11-003	04	Paula		Price	F	N	N	74	Natural Law Party	Parti de la loi naturelle	82	Bunbury	0
+3600	ED11-003	04	Paula		Price	F	N	N	74	Natural Law Party	Parti de la loi naturelle	9	West Royalty	0
+3600	ED11-003	04	Paula		Price	F	N	N	74	Natural Law Party	Parti de la loi naturelle	SVR/R+S-1	Group 1/Groupe 1 *	1
+3600	ED11-003	04	Paula		Price	F	N	N	74	Natural Law Party	Parti de la loi naturelle	SVR/R+S-2	Group 2/Groupe 2 **	2
+3600	ED11-003	05	George		Proud	M	Y	Y	7630	Liberal	Libéral	1	West Royalty	48
+3600	ED11-003	05	George		Proud	M	Y	Y	7630	Liberal	Libéral	1	Charlottetown	180
+3600	ED11-003	05	George		Proud	M	Y	Y	7630	Liberal	Libéral	10	Charlottetown	136
+3600	ED11-003	05	George		Proud	M	Y	Y	7630	Liberal	Libéral	11	Charlottetown	77
+3600	ED11-003	05	George		Proud	M	Y	Y	7630	Liberal	Libéral	12	Charlottetown	114
+3600	ED11-003	05	George		Proud	M	Y	Y	7630	Liberal	Libéral	13	Charlottetown	71
+3600	ED11-003	05	George		Proud	M	Y	Y	7630	Liberal	Libéral	14	Charlottetown	99
+3600	ED11-003	05	George		Proud	M	Y	Y	7630	Liberal	Libéral	15	Charlottetown	98
+3600	ED11-003	05	George		Proud	M	Y	Y	7630	Liberal	Libéral	16	Charlottetown	72
+3600	ED11-003	05	George		Proud	M	Y	Y	7630	Liberal	Libéral	17	Charlottetown	70
+3600	ED11-003	05	George		Proud	M	Y	Y	7630	Liberal	Libéral	18	Charlottetown	115
+3600	ED11-003	05	George		Proud	M	Y	Y	7630	Liberal	Libéral	19	Charlottetown	76
+3600	ED11-003	05	George		Proud	M	Y	Y	7630	Liberal	Libéral	2	West Royalty	123
+3600	ED11-003	05	George		Proud	M	Y	Y	7630	Liberal	Libéral	2	Sherwood	123
+3600	ED11-003	05	George		Proud	M	Y	Y	7630	Liberal	Libéral	20	Charlottetown	102
+3600	ED11-003	05	George		Proud	M	Y	Y	7630	Liberal	Libéral	21	Charlottetown	85
+3600	ED11-003	05	George		Proud	M	Y	Y	7630	Liberal	Libéral	22	Charlottetown	62
+3600	ED11-003	05	George		Proud	M	Y	Y	7630	Liberal	Libéral	23	Parkdale	115
+3600	ED11-003	05	George		Proud	M	Y	Y	7630	Liberal	Libéral	24	Parkdale	116
+3600	ED11-003	05	George		Proud	M	Y	Y	7630	Liberal	Libéral	25	Sherwood	95
+3600	ED11-003	05	George		Proud	M	Y	Y	7630	Liberal	Libéral	26	Sherwood	76
+3600	ED11-003	05	George		Proud	M	Y	Y	7630	Liberal	Libéral	27	Sherwood	62
+3600	ED11-003	05	George		Proud	M	Y	Y	7630	Liberal	Libéral	28	Sherwood	96
+3600	ED11-003	05	George		Proud	M	Y	Y	7630	Liberal	Libéral	29	Sherwood	55
+3600	ED11-003	05	George		Proud	M	Y	Y	7630	Liberal	Libéral	3	West Royalty	98
+3600	ED11-003	05	George		Proud	M	Y	Y	7630	Liberal	Libéral	3	Charlottetown	164
+3600	ED11-003	05	George		Proud	M	Y	Y	7630	Liberal	Libéral	30	Sherwood	73
+3600	ED11-003	05	George		Proud	M	Y	Y	7630	Liberal	Libéral	31	Charlottetown	12
+3600	ED11-003	05	George		Proud	M	Y	Y	7630	Liberal	Libéral	32	Sherwood	79
+3600	ED11-003	05	George		Proud	M	Y	Y	7630	Liberal	Libéral	33	Sherwood	108
+3600	ED11-003	05	George		Proud	M	Y	Y	7630	Liberal	Libéral	34	Sherwood	92
+3600	ED11-003	05	George		Proud	M	Y	Y	7630	Liberal	Libéral	35	Sherwood	92
+3600	ED11-003	05	George		Proud	M	Y	Y	7630	Liberal	Libéral	36	Sherwood	95
+3600	ED11-003	05	George		Proud	M	Y	Y	7630	Liberal	Libéral	37	Sherwood	89
+3600	ED11-003	05	George		Proud	M	Y	Y	7630	Liberal	Libéral	38	East Royalty	44
+3600	ED11-003	05	George		Proud	M	Y	Y	7630	Liberal	Libéral	39	East Royalty	96
+3600	ED11-003	05	George		Proud	M	Y	Y	7630	Liberal	Libéral	4	West Royalty	42
+3600	ED11-003	05	George		Proud	M	Y	Y	7630	Liberal	Libéral	4	Keppoch-Kinlock	42
+3600	ED11-003	05	George		Proud	M	Y	Y	7630	Liberal	Libéral	40	East Royalty	82
+3600	ED11-003	05	George		Proud	M	Y	Y	7630	Liberal	Libéral	41	East Royalty	82
+3600	ED11-003	05	George		Proud	M	Y	Y	7630	Liberal	Libéral	42	East Royalty	65
+3600	ED11-003	05	George		Proud	M	Y	Y	7630	Liberal	Libéral	43	Hillsborough Park	121
+3600	ED11-003	05	George		Proud	M	Y	Y	7630	Liberal	Libéral	44	Hillsborough Park	69
+3600	ED11-003	05	George		Proud	M	Y	Y	7630	Liberal	Libéral	45	Hillsborough Park	129
+3600	ED11-003	05	George		Proud	M	Y	Y	7630	Liberal	Libéral	46	Sherwood	64
+3600	ED11-003	05	George		Proud	M	Y	Y	7630	Liberal	Libéral	47	Sherwood	92
+3600	ED11-003	05	George		Proud	M	Y	Y	7630	Liberal	Libéral	48	Sherwood	88
+3600	ED11-003	05	George		Proud	M	Y	Y	7630	Liberal	Libéral	49	Parkdale	77
+3600	ED11-003	05	George		Proud	M	Y	Y	7630	Liberal	Libéral	5	West Royalty	79
+3600	ED11-003	05	George		Proud	M	Y	Y	7630	Liberal	Libéral	50	Parkdale	79
+3600	ED11-003	05	George		Proud	M	Y	Y	7630	Liberal	Libéral	500	Mobile poll/Bureau itinérant	66
+3600	ED11-003	05	George		Proud	M	Y	Y	7630	Liberal	Libéral	501	Mobile poll/Bureau itinérant	24
+3600	ED11-003	05	George		Proud	M	Y	Y	7630	Liberal	Libéral	502	Mobile poll/Bureau itinérant	37
+3600	ED11-003	05	George		Proud	M	Y	Y	7630	Liberal	Libéral	51	Parkdale	93
+3600	ED11-003	05	George		Proud	M	Y	Y	7630	Liberal	Libéral	52	Charlottetown	88
+3600	ED11-003	05	George		Proud	M	Y	Y	7630	Liberal	Libéral	53	Charlottetown	84
+3600	ED11-003	05	George		Proud	M	Y	Y	7630	Liberal	Libéral	54	Charlottetown	51
+3600	ED11-003	05	George		Proud	M	Y	Y	7630	Liberal	Libéral	55	Charlottetown	66
+3600	ED11-003	05	George		Proud	M	Y	Y	7630	Liberal	Libéral	56	Charlottetown	84
+3600	ED11-003	05	George		Proud	M	Y	Y	7630	Liberal	Libéral	57	Charlottetown	50
+3600	ED11-003	05	George		Proud	M	Y	Y	7630	Liberal	Libéral	58	Charlottetown	57
+3600	ED11-003	05	George		Proud	M	Y	Y	7630	Liberal	Libéral	59	Charlottetown	81
+3600	ED11-003	05	George		Proud	M	Y	Y	7630	Liberal	Libéral	6	West Royalty	117
+3600	ED11-003	05	George		Proud	M	Y	Y	7630	Liberal	Libéral	60	Charlottetown	70
+3600	ED11-003	05	George		Proud	M	Y	Y	7630	Liberal	Libéral	61	Charlottetown	86
+3600	ED11-003	05	George		Proud	M	Y	Y	7630	Liberal	Libéral	62	Charlottetown	82
+3600	ED11-003	05	George		Proud	M	Y	Y	7630	Liberal	Libéral	63	Charlottetown	55
+3600	ED11-003	05	George		Proud	M	Y	Y	7630	Liberal	Libéral	64	Charlottetown	48
+3600	ED11-003	05	George		Proud	M	Y	Y	7630	Liberal	Libéral	65	Charlottetown	50
+3600	ED11-003	05	George		Proud	M	Y	Y	7630	Liberal	Libéral	66	Charlottetown	69
+3600	ED11-003	05	George		Proud	M	Y	Y	7630	Liberal	Libéral	67	Charlottetown	75
+3600	ED11-003	05	George		Proud	M	Y	Y	7630	Liberal	Libéral	68	Charlottetown	113
+3600	ED11-003	05	George		Proud	M	Y	Y	7630	Liberal	Libéral	69	Charlottetown	97
+3600	ED11-003	05	George		Proud	M	Y	Y	7630	Liberal	Libéral	7	West Royalty	55
+3600	ED11-003	05	George		Proud	M	Y	Y	7630	Liberal	Libéral	70	Charlottetown	104
+3600	ED11-003	05	George		Proud	M	Y	Y	7630	Liberal	Libéral	71	Charlottetown	54
+3600	ED11-003	05	George		Proud	M	Y	Y	7630	Liberal	Libéral	72	Charlottetown	67
+3600	ED11-003	05	George		Proud	M	Y	Y	7630	Liberal	Libéral	73	Charlottetown	70
+3600	ED11-003	05	George		Proud	M	Y	Y	7630	Liberal	Libéral	74	Charlottetown	58
+3600	ED11-003	05	George		Proud	M	Y	Y	7630	Liberal	Libéral	75	Charlottetown	64
+3600	ED11-003	05	George		Proud	M	Y	Y	7630	Liberal	Libéral	76	Keppoch-Kinlock	125
+3600	ED11-003	05	George		Proud	M	Y	Y	7630	Liberal	Libéral	77	Keppoch-Kinlock	101
+3600	ED11-003	05	George		Proud	M	Y	Y	7630	Liberal	Libéral	78	Keppoch-Kinlock	70
+3600	ED11-003	05	George		Proud	M	Y	Y	7630	Liberal	Libéral	79	Southport	105
+3600	ED11-003	05	George		Proud	M	Y	Y	7630	Liberal	Libéral	8	West Royalty	94
+3600	ED11-003	05	George		Proud	M	Y	Y	7630	Liberal	Libéral	80	Southport	124
+3600	ED11-003	05	George		Proud	M	Y	Y	7630	Liberal	Libéral	81	Bunbury	92
+3600	ED11-003	05	George		Proud	M	Y	Y	7630	Liberal	Libéral	82	Bunbury	92
+3600	ED11-003	05	George		Proud	M	Y	Y	7630	Liberal	Libéral	9	West Royalty	103
+3600	ED11-003	05	George		Proud	M	Y	Y	7630	Liberal	Libéral	SVR/R+S-1	Group 1/Groupe 1 *	50
+3600	ED11-003	05	George		Proud	M	Y	Y	7630	Liberal	Libéral	SVR/R+S-2	Group 2/Groupe 2 **	140
+3600	ED11-003	06	Mitchell	G.	Tweel	M	N	N	4594	Progressive Conservative	Progressiste-Conservateur	1	West Royalty	32
+3600	ED11-003	06	Mitchell	G.	Tweel	M	N	N	4594	Progressive Conservative	Progressiste-Conservateur	1	Charlottetown	78
+3600	ED11-003	06	Mitchell	G.	Tweel	M	N	N	4594	Progressive Conservative	Progressiste-Conservateur	10	Charlottetown	71
+3600	ED11-003	06	Mitchell	G.	Tweel	M	N	N	4594	Progressive Conservative	Progressiste-Conservateur	11	Charlottetown	40
+3600	ED11-003	06	Mitchell	G.	Tweel	M	N	N	4594	Progressive Conservative	Progressiste-Conservateur	12	Charlottetown	44
+3600	ED11-003	06	Mitchell	G.	Tweel	M	N	N	4594	Progressive Conservative	Progressiste-Conservateur	13	Charlottetown	39
+3600	ED11-003	06	Mitchell	G.	Tweel	M	N	N	4594	Progressive Conservative	Progressiste-Conservateur	14	Charlottetown	63
+3600	ED11-003	06	Mitchell	G.	Tweel	M	N	N	4594	Progressive Conservative	Progressiste-Conservateur	15	Charlottetown	74
+3600	ED11-003	06	Mitchell	G.	Tweel	M	N	N	4594	Progressive Conservative	Progressiste-Conservateur	16	Charlottetown	40
+3600	ED11-003	06	Mitchell	G.	Tweel	M	N	N	4594	Progressive Conservative	Progressiste-Conservateur	17	Charlottetown	25
+3600	ED11-003	06	Mitchell	G.	Tweel	M	N	N	4594	Progressive Conservative	Progressiste-Conservateur	18	Charlottetown	41
+3600	ED11-003	06	Mitchell	G.	Tweel	M	N	N	4594	Progressive Conservative	Progressiste-Conservateur	19	Charlottetown	32
+3600	ED11-003	06	Mitchell	G.	Tweel	M	N	N	4594	Progressive Conservative	Progressiste-Conservateur	2	West Royalty	55
+3600	ED11-003	06	Mitchell	G.	Tweel	M	N	N	4594	Progressive Conservative	Progressiste-Conservateur	2	Sherwood	99
+3600	ED11-003	06	Mitchell	G.	Tweel	M	N	N	4594	Progressive Conservative	Progressiste-Conservateur	20	Charlottetown	45
+3600	ED11-003	06	Mitchell	G.	Tweel	M	N	N	4594	Progressive Conservative	Progressiste-Conservateur	21	Charlottetown	50
+3600	ED11-003	06	Mitchell	G.	Tweel	M	N	N	4594	Progressive Conservative	Progressiste-Conservateur	22	Charlottetown	50
+3600	ED11-003	06	Mitchell	G.	Tweel	M	N	N	4594	Progressive Conservative	Progressiste-Conservateur	23	Parkdale	84
+3600	ED11-003	06	Mitchell	G.	Tweel	M	N	N	4594	Progressive Conservative	Progressiste-Conservateur	24	Parkdale	58
+3600	ED11-003	06	Mitchell	G.	Tweel	M	N	N	4594	Progressive Conservative	Progressiste-Conservateur	25	Sherwood	41
+3600	ED11-003	06	Mitchell	G.	Tweel	M	N	N	4594	Progressive Conservative	Progressiste-Conservateur	26	Sherwood	35
+3600	ED11-003	06	Mitchell	G.	Tweel	M	N	N	4594	Progressive Conservative	Progressiste-Conservateur	27	Sherwood	42
+3600	ED11-003	06	Mitchell	G.	Tweel	M	N	N	4594	Progressive Conservative	Progressiste-Conservateur	28	Sherwood	58
+3600	ED11-003	06	Mitchell	G.	Tweel	M	N	N	4594	Progressive Conservative	Progressiste-Conservateur	29	Sherwood	15
+3600	ED11-003	06	Mitchell	G.	Tweel	M	N	N	4594	Progressive Conservative	Progressiste-Conservateur	3	West Royalty	59
+3600	ED11-003	06	Mitchell	G.	Tweel	M	N	N	4594	Progressive Conservative	Progressiste-Conservateur	3	Charlottetown	143
+3600	ED11-003	06	Mitchell	G.	Tweel	M	N	N	4594	Progressive Conservative	Progressiste-Conservateur	30	Sherwood	46
+3600	ED11-003	06	Mitchell	G.	Tweel	M	N	N	4594	Progressive Conservative	Progressiste-Conservateur	31	Charlottetown	7
+3600	ED11-003	06	Mitchell	G.	Tweel	M	N	N	4594	Progressive Conservative	Progressiste-Conservateur	32	Sherwood	38
+3600	ED11-003	06	Mitchell	G.	Tweel	M	N	N	4594	Progressive Conservative	Progressiste-Conservateur	33	Sherwood	61
+3600	ED11-003	06	Mitchell	G.	Tweel	M	N	N	4594	Progressive Conservative	Progressiste-Conservateur	34	Sherwood	42
+3600	ED11-003	06	Mitchell	G.	Tweel	M	N	N	4594	Progressive Conservative	Progressiste-Conservateur	35	Sherwood	54
+3600	ED11-003	06	Mitchell	G.	Tweel	M	N	N	4594	Progressive Conservative	Progressiste-Conservateur	36	Sherwood	46
+3600	ED11-003	06	Mitchell	G.	Tweel	M	N	N	4594	Progressive Conservative	Progressiste-Conservateur	37	Sherwood	73
+3600	ED11-003	06	Mitchell	G.	Tweel	M	N	N	4594	Progressive Conservative	Progressiste-Conservateur	38	East Royalty	34
+3600	ED11-003	06	Mitchell	G.	Tweel	M	N	N	4594	Progressive Conservative	Progressiste-Conservateur	39	East Royalty	52
+3600	ED11-003	06	Mitchell	G.	Tweel	M	N	N	4594	Progressive Conservative	Progressiste-Conservateur	4	West Royalty	29
+3600	ED11-003	06	Mitchell	G.	Tweel	M	N	N	4594	Progressive Conservative	Progressiste-Conservateur	4	Keppoch-Kinlock	42
+3600	ED11-003	06	Mitchell	G.	Tweel	M	N	N	4594	Progressive Conservative	Progressiste-Conservateur	40	East Royalty	34
+3600	ED11-003	06	Mitchell	G.	Tweel	M	N	N	4594	Progressive Conservative	Progressiste-Conservateur	41	East Royalty	67
+3600	ED11-003	06	Mitchell	G.	Tweel	M	N	N	4594	Progressive Conservative	Progressiste-Conservateur	42	East Royalty	58
+3600	ED11-003	06	Mitchell	G.	Tweel	M	N	N	4594	Progressive Conservative	Progressiste-Conservateur	43	Hillsborough Park	72
+3600	ED11-003	06	Mitchell	G.	Tweel	M	N	N	4594	Progressive Conservative	Progressiste-Conservateur	44	Hillsborough Park	28
+3600	ED11-003	06	Mitchell	G.	Tweel	M	N	N	4594	Progressive Conservative	Progressiste-Conservateur	45	Hillsborough Park	91
+3600	ED11-003	06	Mitchell	G.	Tweel	M	N	N	4594	Progressive Conservative	Progressiste-Conservateur	46	Sherwood	27
+3600	ED11-003	06	Mitchell	G.	Tweel	M	N	N	4594	Progressive Conservative	Progressiste-Conservateur	47	Sherwood	50
+3600	ED11-003	06	Mitchell	G.	Tweel	M	N	N	4594	Progressive Conservative	Progressiste-Conservateur	48	Sherwood	56
+3600	ED11-003	06	Mitchell	G.	Tweel	M	N	N	4594	Progressive Conservative	Progressiste-Conservateur	49	Parkdale	45
+3600	ED11-003	06	Mitchell	G.	Tweel	M	N	N	4594	Progressive Conservative	Progressiste-Conservateur	5	West Royalty	32
+3600	ED11-003	06	Mitchell	G.	Tweel	M	N	N	4594	Progressive Conservative	Progressiste-Conservateur	50	Parkdale	57
+3600	ED11-003	06	Mitchell	G.	Tweel	M	N	N	4594	Progressive Conservative	Progressiste-Conservateur	500	Mobile poll/Bureau itinérant	43
+3600	ED11-003	06	Mitchell	G.	Tweel	M	N	N	4594	Progressive Conservative	Progressiste-Conservateur	501	Mobile poll/Bureau itinérant	17
+3600	ED11-003	06	Mitchell	G.	Tweel	M	N	N	4594	Progressive Conservative	Progressiste-Conservateur	502	Mobile poll/Bureau itinérant	18
+3600	ED11-003	06	Mitchell	G.	Tweel	M	N	N	4594	Progressive Conservative	Progressiste-Conservateur	51	Parkdale	45
+3600	ED11-003	06	Mitchell	G.	Tweel	M	N	N	4594	Progressive Conservative	Progressiste-Conservateur	52	Charlottetown	40
+3600	ED11-003	06	Mitchell	G.	Tweel	M	N	N	4594	Progressive Conservative	Progressiste-Conservateur	53	Charlottetown	55
+3600	ED11-003	06	Mitchell	G.	Tweel	M	N	N	4594	Progressive Conservative	Progressiste-Conservateur	54	Charlottetown	48
+3600	ED11-003	06	Mitchell	G.	Tweel	M	N	N	4594	Progressive Conservative	Progressiste-Conservateur	55	Charlottetown	43
+3600	ED11-003	06	Mitchell	G.	Tweel	M	N	N	4594	Progressive Conservative	Progressiste-Conservateur	56	Charlottetown	39
+3600	ED11-003	06	Mitchell	G.	Tweel	M	N	N	4594	Progressive Conservative	Progressiste-Conservateur	57	Charlottetown	56
+3600	ED11-003	06	Mitchell	G.	Tweel	M	N	N	4594	Progressive Conservative	Progressiste-Conservateur	58	Charlottetown	53
+3600	ED11-003	06	Mitchell	G.	Tweel	M	N	N	4594	Progressive Conservative	Progressiste-Conservateur	59	Charlottetown	69
+3600	ED11-003	06	Mitchell	G.	Tweel	M	N	N	4594	Progressive Conservative	Progressiste-Conservateur	6	West Royalty	29
+3600	ED11-003	06	Mitchell	G.	Tweel	M	N	N	4594	Progressive Conservative	Progressiste-Conservateur	60	Charlottetown	52
+3600	ED11-003	06	Mitchell	G.	Tweel	M	N	N	4594	Progressive Conservative	Progressiste-Conservateur	61	Charlottetown	31
+3600	ED11-003	06	Mitchell	G.	Tweel	M	N	N	4594	Progressive Conservative	Progressiste-Conservateur	62	Charlottetown	75
+3600	ED11-003	06	Mitchell	G.	Tweel	M	N	N	4594	Progressive Conservative	Progressiste-Conservateur	63	Charlottetown	84
+3600	ED11-003	06	Mitchell	G.	Tweel	M	N	N	4594	Progressive Conservative	Progressiste-Conservateur	64	Charlottetown	88
+3600	ED11-003	06	Mitchell	G.	Tweel	M	N	N	4594	Progressive Conservative	Progressiste-Conservateur	65	Charlottetown	49
+3600	ED11-003	06	Mitchell	G.	Tweel	M	N	N	4594	Progressive Conservative	Progressiste-Conservateur	66	Charlottetown	37
+3600	ED11-003	06	Mitchell	G.	Tweel	M	N	N	4594	Progressive Conservative	Progressiste-Conservateur	67	Charlottetown	39
+3600	ED11-003	06	Mitchell	G.	Tweel	M	N	N	4594	Progressive Conservative	Progressiste-Conservateur	68	Charlottetown	41
+3600	ED11-003	06	Mitchell	G.	Tweel	M	N	N	4594	Progressive Conservative	Progressiste-Conservateur	69	Charlottetown	38
+3600	ED11-003	06	Mitchell	G.	Tweel	M	N	N	4594	Progressive Conservative	Progressiste-Conservateur	7	West Royalty	33
+3600	ED11-003	06	Mitchell	G.	Tweel	M	N	N	4594	Progressive Conservative	Progressiste-Conservateur	70	Charlottetown	40
+3600	ED11-003	06	Mitchell	G.	Tweel	M	N	N	4594	Progressive Conservative	Progressiste-Conservateur	71	Charlottetown	23
+3600	ED11-003	06	Mitchell	G.	Tweel	M	N	N	4594	Progressive Conservative	Progressiste-Conservateur	72	Charlottetown	47
+3600	ED11-003	06	Mitchell	G.	Tweel	M	N	N	4594	Progressive Conservative	Progressiste-Conservateur	73	Charlottetown	31
+3600	ED11-003	06	Mitchell	G.	Tweel	M	N	N	4594	Progressive Conservative	Progressiste-Conservateur	74	Charlottetown	62
+3600	ED11-003	06	Mitchell	G.	Tweel	M	N	N	4594	Progressive Conservative	Progressiste-Conservateur	75	Charlottetown	31
+3600	ED11-003	06	Mitchell	G.	Tweel	M	N	N	4594	Progressive Conservative	Progressiste-Conservateur	76	Keppoch-Kinlock	76
+3600	ED11-003	06	Mitchell	G.	Tweel	M	N	N	4594	Progressive Conservative	Progressiste-Conservateur	77	Keppoch-Kinlock	73
+3600	ED11-003	06	Mitchell	G.	Tweel	M	N	N	4594	Progressive Conservative	Progressiste-Conservateur	78	Keppoch-Kinlock	30
+3600	ED11-003	06	Mitchell	G.	Tweel	M	N	N	4594	Progressive Conservative	Progressiste-Conservateur	79	Southport	88
+3600	ED11-003	06	Mitchell	G.	Tweel	M	N	N	4594	Progressive Conservative	Progressiste-Conservateur	8	West Royalty	35
+3600	ED11-003	06	Mitchell	G.	Tweel	M	N	N	4594	Progressive Conservative	Progressiste-Conservateur	80	Southport	99
+3600	ED11-003	06	Mitchell	G.	Tweel	M	N	N	4594	Progressive Conservative	Progressiste-Conservateur	81	Bunbury	53
+3600	ED11-003	06	Mitchell	G.	Tweel	M	N	N	4594	Progressive Conservative	Progressiste-Conservateur	82	Bunbury	67
+3600	ED11-003	06	Mitchell	G.	Tweel	M	N	N	4594	Progressive Conservative	Progressiste-Conservateur	9	West Royalty	36
+3600	ED11-003	06	Mitchell	G.	Tweel	M	N	N	4594	Progressive Conservative	Progressiste-Conservateur	SVR/R+S-1	Group 1/Groupe 1 *	33
+3600	ED11-003	06	Mitchell	G.	Tweel	M	N	N	4594	Progressive Conservative	Progressiste-Conservateur	SVR/R+S-2	Group 2/Groupe 2 **	94
+3600	ED11-004	01	Wayne		Easter	M	Y	Y	7912	Liberal	Libéral	1	Malpeque	96
+3600	ED11-004	01	Wayne		Easter	M	Y	Y	7912	Liberal	Libéral	1	Kensington	131
+3600	ED11-004	01	Wayne		Easter	M	Y	Y	7912	Liberal	Libéral	10	Kensington	121
+3600	ED11-004	01	Wayne		Easter	M	Y	Y	7912	Liberal	Libéral	11	Travellers Rest	60
+3600	ED11-004	01	Wayne		Easter	M	Y	Y	7912	Liberal	Libéral	12	Travellers Rest	107
+3600	ED11-004	01	Wayne		Easter	M	Y	Y	7912	Liberal	Libéral	13	North Bedeque	103
+3600	ED11-004	01	Wayne		Easter	M	Y	Y	7912	Liberal	Libéral	14	Lower Freetown	62
+3600	ED11-004	01	Wayne		Easter	M	Y	Y	7912	Liberal	Libéral	15	South Freetown	132
+3600	ED11-004	01	Wayne		Easter	M	Y	Y	7912	Liberal	Libéral	16	Central Bedeque	103
+3600	ED11-004	01	Wayne		Easter	M	Y	Y	7912	Liberal	Libéral	17	Bedeque	112
+3600	ED11-004	01	Wayne		Easter	M	Y	Y	7912	Liberal	Libéral	18	Chelton	98
+3600	ED11-004	01	Wayne		Easter	M	Y	Y	7912	Liberal	Libéral	19	Kinkora	123
+3600	ED11-004	01	Wayne		Easter	M	Y	Y	7912	Liberal	Libéral	2	Indian River	129
+3600	ED11-004	01	Wayne		Easter	M	Y	Y	7912	Liberal	Libéral	2	North Rustico	63
+3600	ED11-004	01	Wayne		Easter	M	Y	Y	7912	Liberal	Libéral	20	Borden	98
+3600	ED11-004	01	Wayne		Easter	M	Y	Y	7912	Liberal	Libéral	21	Borden	110
+3600	ED11-004	01	Wayne		Easter	M	Y	Y	7912	Liberal	Libéral	22	Cape Traverse	93
+3600	ED11-004	01	Wayne		Easter	M	Y	Y	7912	Liberal	Libéral	23	Tryon	100
+3600	ED11-004	01	Wayne		Easter	M	Y	Y	7912	Liberal	Libéral	24	Crapaud	116
+3600	ED11-004	01	Wayne		Easter	M	Y	Y	7912	Liberal	Libéral	25	Victoria	123
+3600	ED11-004	01	Wayne		Easter	M	Y	Y	7912	Liberal	Libéral	26	Bonshaw	110
+3600	ED11-004	01	Wayne		Easter	M	Y	Y	7912	Liberal	Libéral	27	Kellys Cross	66
+3600	ED11-004	01	Wayne		Easter	M	Y	Y	7912	Liberal	Libéral	28	Riverdale	129
+3600	ED11-004	01	Wayne		Easter	M	Y	Y	7912	Liberal	Libéral	29	North Wiltshire	86
+3600	ED11-004	01	Wayne		Easter	M	Y	Y	7912	Liberal	Libéral	3	Irishtown	102
+3600	ED11-004	01	Wayne		Easter	M	Y	Y	7912	Liberal	Libéral	3	Cornwall	202
+3600	ED11-004	01	Wayne		Easter	M	Y	Y	7912	Liberal	Libéral	30	Brookfield	118
+3600	ED11-004	01	Wayne		Easter	M	Y	Y	7912	Liberal	Libéral	31	Hunter River	115
+3600	ED11-004	01	Wayne		Easter	M	Y	Y	7912	Liberal	Libéral	32	Fredericton	99
+3600	ED11-004	01	Wayne		Easter	M	Y	Y	7912	Liberal	Libéral	33	Breadalbane	82
+3600	ED11-004	01	Wayne		Easter	M	Y	Y	7912	Liberal	Libéral	34	Springfield	99
+3600	ED11-004	01	Wayne		Easter	M	Y	Y	7912	Liberal	Libéral	35	Hope River	151
+3600	ED11-004	01	Wayne		Easter	M	Y	Y	7912	Liberal	Libéral	36	New Glasgow	129
+3600	ED11-004	01	Wayne		Easter	M	Y	Y	7912	Liberal	Libéral	37	North Rustico	112
+3600	ED11-004	01	Wayne		Easter	M	Y	Y	7912	Liberal	Libéral	38	North Rustico	138
+3600	ED11-004	01	Wayne		Easter	M	Y	Y	7912	Liberal	Libéral	39	South Rustico	145
+3600	ED11-004	01	Wayne		Easter	M	Y	Y	7912	Liberal	Libéral	4	Irishtown	87
+3600	ED11-004	01	Wayne		Easter	M	Y	Y	7912	Liberal	Libéral	40	Wheatley River	107
+3600	ED11-004	01	Wayne		Easter	M	Y	Y	7912	Liberal	Libéral	41	Brackley Point	147
+3600	ED11-004	01	Wayne		Easter	M	Y	Y	7912	Liberal	Libéral	42	Pleasant Grove	136
+3600	ED11-004	01	Wayne		Easter	M	Y	Y	7912	Liberal	Libéral	43	York	92
+3600	ED11-004	01	Wayne		Easter	M	Y	Y	7912	Liberal	Libéral	44	York	91
+3600	ED11-004	01	Wayne		Easter	M	Y	Y	7912	Liberal	Libéral	45	York	82
+3600	ED11-004	01	Wayne		Easter	M	Y	Y	7912	Liberal	Libéral	46	Marshfield	74
+3600	ED11-004	01	Wayne		Easter	M	Y	Y	7912	Liberal	Libéral	47	Brackley	78
+3600	ED11-004	01	Wayne		Easter	M	Y	Y	7912	Liberal	Libéral	48	Harrington	136
+3600	ED11-004	01	Wayne		Easter	M	Y	Y	7912	Liberal	Libéral	49	Harrington	112
+3600	ED11-004	01	Wayne		Easter	M	Y	Y	7912	Liberal	Libéral	5	New London	141
+3600	ED11-004	01	Wayne		Easter	M	Y	Y	7912	Liberal	Libéral	50	Winsloe	91
+3600	ED11-004	01	Wayne		Easter	M	Y	Y	7912	Liberal	Libéral	51	Winsloe	141
+3600	ED11-004	01	Wayne		Easter	M	Y	Y	7912	Liberal	Libéral	52A-L	North River	70
+3600	ED11-004	01	Wayne		Easter	M	Y	Y	7912	Liberal	Libéral	52M-Z	North River	76
+3600	ED11-004	01	Wayne		Easter	M	Y	Y	7912	Liberal	Libéral	53	Milton Station	116
+3600	ED11-004	01	Wayne		Easter	M	Y	Y	7912	Liberal	Libéral	54	Milton Station	99
+3600	ED11-004	01	Wayne		Easter	M	Y	Y	7912	Liberal	Libéral	55	North River	99
+3600	ED11-004	01	Wayne		Easter	M	Y	Y	7912	Liberal	Libéral	56	North River	139
+3600	ED11-004	01	Wayne		Easter	M	Y	Y	7912	Liberal	Libéral	57	Cornwall	145
+3600	ED11-004	01	Wayne		Easter	M	Y	Y	7912	Liberal	Libéral	58	Cornwall	136
+3600	ED11-004	01	Wayne		Easter	M	Y	Y	7912	Liberal	Libéral	59	Cornwall	134
+3600	ED11-004	01	Wayne		Easter	M	Y	Y	7912	Liberal	Libéral	6	Kensington	92
+3600	ED11-004	01	Wayne		Easter	M	Y	Y	7912	Liberal	Libéral	60	New Haven	121
+3600	ED11-004	01	Wayne		Easter	M	Y	Y	7912	Liberal	Libéral	61	New Haven	117
+3600	ED11-004	01	Wayne		Easter	M	Y	Y	7912	Liberal	Libéral	62	Meadowbank	59
+3600	ED11-004	01	Wayne		Easter	M	Y	Y	7912	Liberal	Libéral	63	Meadowbank	81
+3600	ED11-004	01	Wayne		Easter	M	Y	Y	7912	Liberal	Libéral	64	Cornwall	147
+3600	ED11-004	01	Wayne		Easter	M	Y	Y	7912	Liberal	Libéral	65	Cornwall	113
+3600	ED11-004	01	Wayne		Easter	M	Y	Y	7912	Liberal	Libéral	66	Rocky Point	90
+3600	ED11-004	01	Wayne		Easter	M	Y	Y	7912	Liberal	Libéral	67	Nine Mile Creek	139
+3600	ED11-004	01	Wayne		Easter	M	Y	Y	7912	Liberal	Libéral	68	Long Creek	122
+3600	ED11-004	01	Wayne		Easter	M	Y	Y	7912	Liberal	Libéral	7	Kensington	85
+3600	ED11-004	01	Wayne		Easter	M	Y	Y	7912	Liberal	Libéral	8	Kensington	63
+3600	ED11-004	01	Wayne		Easter	M	Y	Y	7912	Liberal	Libéral	9	Kensington	90
+3600	ED11-004	01	Wayne		Easter	M	Y	Y	7912	Liberal	Libéral	SVR/RÉS-1	Group 1/Groupe 1 *	28
+3600	ED11-004	01	Wayne		Easter	M	Y	Y	7912	Liberal	Libéral	SVR/RÉS-2		73
+3600	ED11-004	02	Jimmie		Gorman	M	N	N	7194	Progressive Conservative	Progressiste-Conservateur	1	Malpeque	97
+3600	ED11-004	02	Jimmie		Gorman	M	N	N	7194	Progressive Conservative	Progressiste-Conservateur	1	Kensington	116
+3600	ED11-004	02	Jimmie		Gorman	M	N	N	7194	Progressive Conservative	Progressiste-Conservateur	10	Kensington	113
+3600	ED11-004	02	Jimmie		Gorman	M	N	N	7194	Progressive Conservative	Progressiste-Conservateur	11	Travellers Rest	56
+3600	ED11-004	02	Jimmie		Gorman	M	N	N	7194	Progressive Conservative	Progressiste-Conservateur	12	Travellers Rest	124
+3600	ED11-004	02	Jimmie		Gorman	M	N	N	7194	Progressive Conservative	Progressiste-Conservateur	13	North Bedeque	93
+3600	ED11-004	02	Jimmie		Gorman	M	N	N	7194	Progressive Conservative	Progressiste-Conservateur	14	Lower Freetown	74
+3600	ED11-004	02	Jimmie		Gorman	M	N	N	7194	Progressive Conservative	Progressiste-Conservateur	15	South Freetown	134
+3600	ED11-004	02	Jimmie		Gorman	M	N	N	7194	Progressive Conservative	Progressiste-Conservateur	16	Central Bedeque	106
+3600	ED11-004	02	Jimmie		Gorman	M	N	N	7194	Progressive Conservative	Progressiste-Conservateur	17	Bedeque	107
+3600	ED11-004	02	Jimmie		Gorman	M	N	N	7194	Progressive Conservative	Progressiste-Conservateur	18	Chelton	99
+3600	ED11-004	02	Jimmie		Gorman	M	N	N	7194	Progressive Conservative	Progressiste-Conservateur	19	Kinkora	146
+3600	ED11-004	02	Jimmie		Gorman	M	N	N	7194	Progressive Conservative	Progressiste-Conservateur	2	Indian River	149
+3600	ED11-004	02	Jimmie		Gorman	M	N	N	7194	Progressive Conservative	Progressiste-Conservateur	2	North Rustico	49
+3600	ED11-004	02	Jimmie		Gorman	M	N	N	7194	Progressive Conservative	Progressiste-Conservateur	20	Borden	79
+3600	ED11-004	02	Jimmie		Gorman	M	N	N	7194	Progressive Conservative	Progressiste-Conservateur	21	Borden	75
+3600	ED11-004	02	Jimmie		Gorman	M	N	N	7194	Progressive Conservative	Progressiste-Conservateur	22	Cape Traverse	115
+3600	ED11-004	02	Jimmie		Gorman	M	N	N	7194	Progressive Conservative	Progressiste-Conservateur	23	Tryon	99
+3600	ED11-004	02	Jimmie		Gorman	M	N	N	7194	Progressive Conservative	Progressiste-Conservateur	24	Crapaud	86
+3600	ED11-004	02	Jimmie		Gorman	M	N	N	7194	Progressive Conservative	Progressiste-Conservateur	25	Victoria	171
+3600	ED11-004	02	Jimmie		Gorman	M	N	N	7194	Progressive Conservative	Progressiste-Conservateur	26	Bonshaw	147
+3600	ED11-004	02	Jimmie		Gorman	M	N	N	7194	Progressive Conservative	Progressiste-Conservateur	27	Kellys Cross	152
+3600	ED11-004	02	Jimmie		Gorman	M	N	N	7194	Progressive Conservative	Progressiste-Conservateur	28	Riverdale	107
+3600	ED11-004	02	Jimmie		Gorman	M	N	N	7194	Progressive Conservative	Progressiste-Conservateur	29	North Wiltshire	97
+3600	ED11-004	02	Jimmie		Gorman	M	N	N	7194	Progressive Conservative	Progressiste-Conservateur	3	Irishtown	137
+3600	ED11-004	02	Jimmie		Gorman	M	N	N	7194	Progressive Conservative	Progressiste-Conservateur	3	Cornwall	160
+3600	ED11-004	02	Jimmie		Gorman	M	N	N	7194	Progressive Conservative	Progressiste-Conservateur	30	Brookfield	72
+3600	ED11-004	02	Jimmie		Gorman	M	N	N	7194	Progressive Conservative	Progressiste-Conservateur	31	Hunter River	113
+3600	ED11-004	02	Jimmie		Gorman	M	N	N	7194	Progressive Conservative	Progressiste-Conservateur	32	Fredericton	97
+3600	ED11-004	02	Jimmie		Gorman	M	N	N	7194	Progressive Conservative	Progressiste-Conservateur	33	Breadalbane	101
+3600	ED11-004	02	Jimmie		Gorman	M	N	N	7194	Progressive Conservative	Progressiste-Conservateur	34	Springfield	121
+3600	ED11-004	02	Jimmie		Gorman	M	N	N	7194	Progressive Conservative	Progressiste-Conservateur	35	Hope River	109
+3600	ED11-004	02	Jimmie		Gorman	M	N	N	7194	Progressive Conservative	Progressiste-Conservateur	36	New Glasgow	97
+3600	ED11-004	02	Jimmie		Gorman	M	N	N	7194	Progressive Conservative	Progressiste-Conservateur	37	North Rustico	132
+3600	ED11-004	02	Jimmie		Gorman	M	N	N	7194	Progressive Conservative	Progressiste-Conservateur	38	North Rustico	160
+3600	ED11-004	02	Jimmie		Gorman	M	N	N	7194	Progressive Conservative	Progressiste-Conservateur	39	South Rustico	136
+3600	ED11-004	02	Jimmie		Gorman	M	N	N	7194	Progressive Conservative	Progressiste-Conservateur	4	Irishtown	61
+3600	ED11-004	02	Jimmie		Gorman	M	N	N	7194	Progressive Conservative	Progressiste-Conservateur	40	Wheatley River	129
+3600	ED11-004	02	Jimmie		Gorman	M	N	N	7194	Progressive Conservative	Progressiste-Conservateur	41	Brackley Point	87
+3600	ED11-004	02	Jimmie		Gorman	M	N	N	7194	Progressive Conservative	Progressiste-Conservateur	42	Pleasant Grove	97
+3600	ED11-004	02	Jimmie		Gorman	M	N	N	7194	Progressive Conservative	Progressiste-Conservateur	43	York	63
+3600	ED11-004	02	Jimmie		Gorman	M	N	N	7194	Progressive Conservative	Progressiste-Conservateur	44	York	72
+3600	ED11-004	02	Jimmie		Gorman	M	N	N	7194	Progressive Conservative	Progressiste-Conservateur	45	York	76
+3600	ED11-004	02	Jimmie		Gorman	M	N	N	7194	Progressive Conservative	Progressiste-Conservateur	46	Marshfield	62
+3600	ED11-004	02	Jimmie		Gorman	M	N	N	7194	Progressive Conservative	Progressiste-Conservateur	47	Brackley	66
+3600	ED11-004	02	Jimmie		Gorman	M	N	N	7194	Progressive Conservative	Progressiste-Conservateur	48	Harrington	111
+3600	ED11-004	02	Jimmie		Gorman	M	N	N	7194	Progressive Conservative	Progressiste-Conservateur	49	Harrington	72
+3600	ED11-004	02	Jimmie		Gorman	M	N	N	7194	Progressive Conservative	Progressiste-Conservateur	5	New London	138
+3600	ED11-004	02	Jimmie		Gorman	M	N	N	7194	Progressive Conservative	Progressiste-Conservateur	50	Winsloe	57
+3600	ED11-004	02	Jimmie		Gorman	M	N	N	7194	Progressive Conservative	Progressiste-Conservateur	51	Winsloe	66
+3600	ED11-004	02	Jimmie		Gorman	M	N	N	7194	Progressive Conservative	Progressiste-Conservateur	52A-L	North River	70
+3600	ED11-004	02	Jimmie		Gorman	M	N	N	7194	Progressive Conservative	Progressiste-Conservateur	52M-Z	North River	64
+3600	ED11-004	02	Jimmie		Gorman	M	N	N	7194	Progressive Conservative	Progressiste-Conservateur	53	Milton Station	103
+3600	ED11-004	02	Jimmie		Gorman	M	N	N	7194	Progressive Conservative	Progressiste-Conservateur	54	Milton Station	54
+3600	ED11-004	02	Jimmie		Gorman	M	N	N	7194	Progressive Conservative	Progressiste-Conservateur	55	North River	65
+3600	ED11-004	02	Jimmie		Gorman	M	N	N	7194	Progressive Conservative	Progressiste-Conservateur	56	North River	87
+3600	ED11-004	02	Jimmie		Gorman	M	N	N	7194	Progressive Conservative	Progressiste-Conservateur	57	Cornwall	79
+3600	ED11-004	02	Jimmie		Gorman	M	N	N	7194	Progressive Conservative	Progressiste-Conservateur	58	Cornwall	114
+3600	ED11-004	02	Jimmie		Gorman	M	N	N	7194	Progressive Conservative	Progressiste-Conservateur	59	Cornwall	99
+3600	ED11-004	02	Jimmie		Gorman	M	N	N	7194	Progressive Conservative	Progressiste-Conservateur	6	Kensington	132
+3600	ED11-004	02	Jimmie		Gorman	M	N	N	7194	Progressive Conservative	Progressiste-Conservateur	60	New Haven	93
+3600	ED11-004	02	Jimmie		Gorman	M	N	N	7194	Progressive Conservative	Progressiste-Conservateur	61	New Haven	102
+3600	ED11-004	02	Jimmie		Gorman	M	N	N	7194	Progressive Conservative	Progressiste-Conservateur	62	Meadowbank	33
+3600	ED11-004	02	Jimmie		Gorman	M	N	N	7194	Progressive Conservative	Progressiste-Conservateur	63	Meadowbank	46
+3600	ED11-004	02	Jimmie		Gorman	M	N	N	7194	Progressive Conservative	Progressiste-Conservateur	64	Cornwall	86
+3600	ED11-004	02	Jimmie		Gorman	M	N	N	7194	Progressive Conservative	Progressiste-Conservateur	65	Cornwall	104
+3600	ED11-004	02	Jimmie		Gorman	M	N	N	7194	Progressive Conservative	Progressiste-Conservateur	66	Rocky Point	137
+3600	ED11-004	02	Jimmie		Gorman	M	N	N	7194	Progressive Conservative	Progressiste-Conservateur	67	Nine Mile Creek	72
+3600	ED11-004	02	Jimmie		Gorman	M	N	N	7194	Progressive Conservative	Progressiste-Conservateur	68	Long Creek	88
+3600	ED11-004	02	Jimmie		Gorman	M	N	N	7194	Progressive Conservative	Progressiste-Conservateur	7	Kensington	90
+3600	ED11-004	02	Jimmie		Gorman	M	N	N	7194	Progressive Conservative	Progressiste-Conservateur	8	Kensington	90
+3600	ED11-004	02	Jimmie		Gorman	M	N	N	7194	Progressive Conservative	Progressiste-Conservateur	9	Kensington	101
+3600	ED11-004	02	Jimmie		Gorman	M	N	N	7194	Progressive Conservative	Progressiste-Conservateur	SVR/RÉS-1	Group 1/Groupe 1 *	21
+3600	ED11-004	02	Jimmie		Gorman	M	N	N	7194	Progressive Conservative	Progressiste-Conservateur	SVR/RÉS-2		81
+3600	ED11-004	03	Stephen		Livingstone	M	N	N	580	Reform	Réforme	1	Malpeque	11
+3600	ED11-004	03	Stephen		Livingstone	M	N	N	580	Reform	Réforme	1	Kensington	3
+3600	ED11-004	03	Stephen		Livingstone	M	N	N	580	Reform	Réforme	10	Kensington	4
+3600	ED11-004	03	Stephen		Livingstone	M	N	N	580	Reform	Réforme	11	Travellers Rest	3
+3600	ED11-004	03	Stephen		Livingstone	M	N	N	580	Reform	Réforme	12	Travellers Rest	9
+3600	ED11-004	03	Stephen		Livingstone	M	N	N	580	Reform	Réforme	13	North Bedeque	9
+3600	ED11-004	03	Stephen		Livingstone	M	N	N	580	Reform	Réforme	14	Lower Freetown	6
+3600	ED11-004	03	Stephen		Livingstone	M	N	N	580	Reform	Réforme	15	South Freetown	4
+3600	ED11-004	03	Stephen		Livingstone	M	N	N	580	Reform	Réforme	16	Central Bedeque	11
+3600	ED11-004	03	Stephen		Livingstone	M	N	N	580	Reform	Réforme	17	Bedeque	9
+3600	ED11-004	03	Stephen		Livingstone	M	N	N	580	Reform	Réforme	18	Chelton	2
+3600	ED11-004	03	Stephen		Livingstone	M	N	N	580	Reform	Réforme	19	Kinkora	3
+3600	ED11-004	03	Stephen		Livingstone	M	N	N	580	Reform	Réforme	2	Indian River	14
+3600	ED11-004	03	Stephen		Livingstone	M	N	N	580	Reform	Réforme	2	North Rustico	10
+3600	ED11-004	03	Stephen		Livingstone	M	N	N	580	Reform	Réforme	20	Borden	2
+3600	ED11-004	03	Stephen		Livingstone	M	N	N	580	Reform	Réforme	21	Borden	5
+3600	ED11-004	03	Stephen		Livingstone	M	N	N	580	Reform	Réforme	22	Cape Traverse	7
+3600	ED11-004	03	Stephen		Livingstone	M	N	N	580	Reform	Réforme	23	Tryon	6
+3600	ED11-004	03	Stephen		Livingstone	M	N	N	580	Reform	Réforme	24	Crapaud	4
+3600	ED11-004	03	Stephen		Livingstone	M	N	N	580	Reform	Réforme	25	Victoria	14
+3600	ED11-004	03	Stephen		Livingstone	M	N	N	580	Reform	Réforme	26	Bonshaw	17
+3600	ED11-004	03	Stephen		Livingstone	M	N	N	580	Reform	Réforme	27	Kellys Cross	8
+3600	ED11-004	03	Stephen		Livingstone	M	N	N	580	Reform	Réforme	28	Riverdale	9
+3600	ED11-004	03	Stephen		Livingstone	M	N	N	580	Reform	Réforme	29	North Wiltshire	5
+3600	ED11-004	03	Stephen		Livingstone	M	N	N	580	Reform	Réforme	3	Irishtown	13
+3600	ED11-004	03	Stephen		Livingstone	M	N	N	580	Reform	Réforme	3	Cornwall	11
+3600	ED11-004	03	Stephen		Livingstone	M	N	N	580	Reform	Réforme	30	Brookfield	3
+3600	ED11-004	03	Stephen		Livingstone	M	N	N	580	Reform	Réforme	31	Hunter River	12
+3600	ED11-004	03	Stephen		Livingstone	M	N	N	580	Reform	Réforme	32	Fredericton	9
+3600	ED11-004	03	Stephen		Livingstone	M	N	N	580	Reform	Réforme	33	Breadalbane	3
+3600	ED11-004	03	Stephen		Livingstone	M	N	N	580	Reform	Réforme	34	Springfield	16
+3600	ED11-004	03	Stephen		Livingstone	M	N	N	580	Reform	Réforme	35	Hope River	9
+3600	ED11-004	03	Stephen		Livingstone	M	N	N	580	Reform	Réforme	36	New Glasgow	6
+3600	ED11-004	03	Stephen		Livingstone	M	N	N	580	Reform	Réforme	37	North Rustico	4
+3600	ED11-004	03	Stephen		Livingstone	M	N	N	580	Reform	Réforme	38	North Rustico	5
+3600	ED11-004	03	Stephen		Livingstone	M	N	N	580	Reform	Réforme	39	South Rustico	19
+3600	ED11-004	03	Stephen		Livingstone	M	N	N	580	Reform	Réforme	4	Irishtown	4
+3600	ED11-004	03	Stephen		Livingstone	M	N	N	580	Reform	Réforme	40	Wheatley River	2
+3600	ED11-004	03	Stephen		Livingstone	M	N	N	580	Reform	Réforme	41	Brackley Point	10
+3600	ED11-004	03	Stephen		Livingstone	M	N	N	580	Reform	Réforme	42	Pleasant Grove	9
+3600	ED11-004	03	Stephen		Livingstone	M	N	N	580	Reform	Réforme	43	York	6
+3600	ED11-004	03	Stephen		Livingstone	M	N	N	580	Reform	Réforme	44	York	4
+3600	ED11-004	03	Stephen		Livingstone	M	N	N	580	Reform	Réforme	45	York	10
+3600	ED11-004	03	Stephen		Livingstone	M	N	N	580	Reform	Réforme	46	Marshfield	1
+3600	ED11-004	03	Stephen		Livingstone	M	N	N	580	Reform	Réforme	47	Brackley	4
+3600	ED11-004	03	Stephen		Livingstone	M	N	N	580	Reform	Réforme	48	Harrington	10
+3600	ED11-004	03	Stephen		Livingstone	M	N	N	580	Reform	Réforme	49	Harrington	6
+3600	ED11-004	03	Stephen		Livingstone	M	N	N	580	Reform	Réforme	5	New London	10
+3600	ED11-004	03	Stephen		Livingstone	M	N	N	580	Reform	Réforme	50	Winsloe	10
+3600	ED11-004	03	Stephen		Livingstone	M	N	N	580	Reform	Réforme	51	Winsloe	9
+3600	ED11-004	03	Stephen		Livingstone	M	N	N	580	Reform	Réforme	52A-L	North River	8
+3600	ED11-004	03	Stephen		Livingstone	M	N	N	580	Reform	Réforme	52M-Z	North River	1
+3600	ED11-004	03	Stephen		Livingstone	M	N	N	580	Reform	Réforme	53	Milton Station	5
+3600	ED11-004	03	Stephen		Livingstone	M	N	N	580	Reform	Réforme	54	Milton Station	6
+3600	ED11-004	03	Stephen		Livingstone	M	N	N	580	Reform	Réforme	55	North River	5
+3600	ED11-004	03	Stephen		Livingstone	M	N	N	580	Reform	Réforme	56	North River	7
+3600	ED11-004	03	Stephen		Livingstone	M	N	N	580	Reform	Réforme	57	Cornwall	10
+3600	ED11-004	03	Stephen		Livingstone	M	N	N	580	Reform	Réforme	58	Cornwall	10
+3600	ED11-004	03	Stephen		Livingstone	M	N	N	580	Reform	Réforme	59	Cornwall	10
+3600	ED11-004	03	Stephen		Livingstone	M	N	N	580	Reform	Réforme	6	Kensington	9
+3600	ED11-004	03	Stephen		Livingstone	M	N	N	580	Reform	Réforme	60	New Haven	11
+3600	ED11-004	03	Stephen		Livingstone	M	N	N	580	Reform	Réforme	61	New Haven	7
+3600	ED11-004	03	Stephen		Livingstone	M	N	N	580	Reform	Réforme	62	Meadowbank	4
+3600	ED11-004	03	Stephen		Livingstone	M	N	N	580	Reform	Réforme	63	Meadowbank	11
+3600	ED11-004	03	Stephen		Livingstone	M	N	N	580	Reform	Réforme	64	Cornwall	11
+3600	ED11-004	03	Stephen		Livingstone	M	N	N	580	Reform	Réforme	65	Cornwall	8
+3600	ED11-004	03	Stephen		Livingstone	M	N	N	580	Reform	Réforme	66	Rocky Point	10
+3600	ED11-004	03	Stephen		Livingstone	M	N	N	580	Reform	Réforme	67	Nine Mile Creek	10
+3600	ED11-004	03	Stephen		Livingstone	M	N	N	580	Reform	Réforme	68	Long Creek	13
+3600	ED11-004	03	Stephen		Livingstone	M	N	N	580	Reform	Réforme	7	Kensington	12
+3600	ED11-004	03	Stephen		Livingstone	M	N	N	580	Reform	Réforme	8	Kensington	3
+3600	ED11-004	03	Stephen		Livingstone	M	N	N	580	Reform	Réforme	9	Kensington	15
+3600	ED11-004	03	Stephen		Livingstone	M	N	N	580	Reform	Réforme	SVR/RÉS-1	Group 1/Groupe 1 *	8
+3600	ED11-004	03	Stephen		Livingstone	M	N	N	580	Reform	Réforme	SVR/RÉS-2		6
+3600	ED11-004	04	Andrew		Wells	M	N	N	1863	N.D.P.	N.P.D.	1	Malpeque	20
+3600	ED11-004	04	Andrew		Wells	M	N	N	1863	N.D.P.	N.P.D.	1	Kensington	16
+3600	ED11-004	04	Andrew		Wells	M	N	N	1863	N.D.P.	N.P.D.	10	Kensington	21
+3600	ED11-004	04	Andrew		Wells	M	N	N	1863	N.D.P.	N.P.D.	11	Travellers Rest	10
+3600	ED11-004	04	Andrew		Wells	M	N	N	1863	N.D.P.	N.P.D.	12	Travellers Rest	27
+3600	ED11-004	04	Andrew		Wells	M	N	N	1863	N.D.P.	N.P.D.	13	North Bedeque	20
+3600	ED11-004	04	Andrew		Wells	M	N	N	1863	N.D.P.	N.P.D.	14	Lower Freetown	19
+3600	ED11-004	04	Andrew		Wells	M	N	N	1863	N.D.P.	N.P.D.	15	South Freetown	9
+3600	ED11-004	04	Andrew		Wells	M	N	N	1863	N.D.P.	N.P.D.	16	Central Bedeque	13
+3600	ED11-004	04	Andrew		Wells	M	N	N	1863	N.D.P.	N.P.D.	17	Bedeque	34
+3600	ED11-004	04	Andrew		Wells	M	N	N	1863	N.D.P.	N.P.D.	18	Chelton	14
+3600	ED11-004	04	Andrew		Wells	M	N	N	1863	N.D.P.	N.P.D.	19	Kinkora	15
+3600	ED11-004	04	Andrew		Wells	M	N	N	1863	N.D.P.	N.P.D.	2	Indian River	22
+3600	ED11-004	04	Andrew		Wells	M	N	N	1863	N.D.P.	N.P.D.	2	North Rustico	15
+3600	ED11-004	04	Andrew		Wells	M	N	N	1863	N.D.P.	N.P.D.	20	Borden	21
+3600	ED11-004	04	Andrew		Wells	M	N	N	1863	N.D.P.	N.P.D.	21	Borden	21
+3600	ED11-004	04	Andrew		Wells	M	N	N	1863	N.D.P.	N.P.D.	22	Cape Traverse	16
+3600	ED11-004	04	Andrew		Wells	M	N	N	1863	N.D.P.	N.P.D.	23	Tryon	25
+3600	ED11-004	04	Andrew		Wells	M	N	N	1863	N.D.P.	N.P.D.	24	Crapaud	28
+3600	ED11-004	04	Andrew		Wells	M	N	N	1863	N.D.P.	N.P.D.	25	Victoria	56
+3600	ED11-004	04	Andrew		Wells	M	N	N	1863	N.D.P.	N.P.D.	26	Bonshaw	39
+3600	ED11-004	04	Andrew		Wells	M	N	N	1863	N.D.P.	N.P.D.	27	Kellys Cross	16
+3600	ED11-004	04	Andrew		Wells	M	N	N	1863	N.D.P.	N.P.D.	28	Riverdale	26
+3600	ED11-004	04	Andrew		Wells	M	N	N	1863	N.D.P.	N.P.D.	29	North Wiltshire	25
+3600	ED11-004	04	Andrew		Wells	M	N	N	1863	N.D.P.	N.P.D.	3	Irishtown	25
+3600	ED11-004	04	Andrew		Wells	M	N	N	1863	N.D.P.	N.P.D.	3	Cornwall	54
+3600	ED11-004	04	Andrew		Wells	M	N	N	1863	N.D.P.	N.P.D.	30	Brookfield	20
+3600	ED11-004	04	Andrew		Wells	M	N	N	1863	N.D.P.	N.P.D.	31	Hunter River	16
+3600	ED11-004	04	Andrew		Wells	M	N	N	1863	N.D.P.	N.P.D.	32	Fredericton	32
+3600	ED11-004	04	Andrew		Wells	M	N	N	1863	N.D.P.	N.P.D.	33	Breadalbane	25
+3600	ED11-004	04	Andrew		Wells	M	N	N	1863	N.D.P.	N.P.D.	34	Springfield	32
+3600	ED11-004	04	Andrew		Wells	M	N	N	1863	N.D.P.	N.P.D.	35	Hope River	38
+3600	ED11-004	04	Andrew		Wells	M	N	N	1863	N.D.P.	N.P.D.	36	New Glasgow	24
+3600	ED11-004	04	Andrew		Wells	M	N	N	1863	N.D.P.	N.P.D.	37	North Rustico	25
+3600	ED11-004	04	Andrew		Wells	M	N	N	1863	N.D.P.	N.P.D.	38	North Rustico	24
+3600	ED11-004	04	Andrew		Wells	M	N	N	1863	N.D.P.	N.P.D.	39	South Rustico	28
+3600	ED11-004	04	Andrew		Wells	M	N	N	1863	N.D.P.	N.P.D.	4	Irishtown	14
+3600	ED11-004	04	Andrew		Wells	M	N	N	1863	N.D.P.	N.P.D.	40	Wheatley River	22
+3600	ED11-004	04	Andrew		Wells	M	N	N	1863	N.D.P.	N.P.D.	41	Brackley Point	40
+3600	ED11-004	04	Andrew		Wells	M	N	N	1863	N.D.P.	N.P.D.	42	Pleasant Grove	41
+3600	ED11-004	04	Andrew		Wells	M	N	N	1863	N.D.P.	N.P.D.	43	York	12
+3600	ED11-004	04	Andrew		Wells	M	N	N	1863	N.D.P.	N.P.D.	44	York	20
+3600	ED11-004	04	Andrew		Wells	M	N	N	1863	N.D.P.	N.P.D.	45	York	13
+3600	ED11-004	04	Andrew		Wells	M	N	N	1863	N.D.P.	N.P.D.	46	Marshfield	14
+3600	ED11-004	04	Andrew		Wells	M	N	N	1863	N.D.P.	N.P.D.	47	Brackley	22
+3600	ED11-004	04	Andrew		Wells	M	N	N	1863	N.D.P.	N.P.D.	48	Harrington	51
+3600	ED11-004	04	Andrew		Wells	M	N	N	1863	N.D.P.	N.P.D.	49	Harrington	29
+3600	ED11-004	04	Andrew		Wells	M	N	N	1863	N.D.P.	N.P.D.	5	New London	23
+3600	ED11-004	04	Andrew		Wells	M	N	N	1863	N.D.P.	N.P.D.	50	Winsloe	19
+3600	ED11-004	04	Andrew		Wells	M	N	N	1863	N.D.P.	N.P.D.	51	Winsloe	27
+3600	ED11-004	04	Andrew		Wells	M	N	N	1863	N.D.P.	N.P.D.	52A-L	North River	27
+3600	ED11-004	04	Andrew		Wells	M	N	N	1863	N.D.P.	N.P.D.	52M-Z	North River	25
+3600	ED11-004	04	Andrew		Wells	M	N	N	1863	N.D.P.	N.P.D.	53	Milton Station	22
+3600	ED11-004	04	Andrew		Wells	M	N	N	1863	N.D.P.	N.P.D.	54	Milton Station	31
+3600	ED11-004	04	Andrew		Wells	M	N	N	1863	N.D.P.	N.P.D.	55	North River	37
+3600	ED11-004	04	Andrew		Wells	M	N	N	1863	N.D.P.	N.P.D.	56	North River	34
+3600	ED11-004	04	Andrew		Wells	M	N	N	1863	N.D.P.	N.P.D.	57	Cornwall	31
+3600	ED11-004	04	Andrew		Wells	M	N	N	1863	N.D.P.	N.P.D.	58	Cornwall	43
+3600	ED11-004	04	Andrew		Wells	M	N	N	1863	N.D.P.	N.P.D.	59	Cornwall	25
+3600	ED11-004	04	Andrew		Wells	M	N	N	1863	N.D.P.	N.P.D.	6	Kensington	23
+3600	ED11-004	04	Andrew		Wells	M	N	N	1863	N.D.P.	N.P.D.	60	New Haven	32
+3600	ED11-004	04	Andrew		Wells	M	N	N	1863	N.D.P.	N.P.D.	61	New Haven	26
+3600	ED11-004	04	Andrew		Wells	M	N	N	1863	N.D.P.	N.P.D.	62	Meadowbank	17
+3600	ED11-004	04	Andrew		Wells	M	N	N	1863	N.D.P.	N.P.D.	63	Meadowbank	12
+3600	ED11-004	04	Andrew		Wells	M	N	N	1863	N.D.P.	N.P.D.	64	Cornwall	37
+3600	ED11-004	04	Andrew		Wells	M	N	N	1863	N.D.P.	N.P.D.	65	Cornwall	41
+3600	ED11-004	04	Andrew		Wells	M	N	N	1863	N.D.P.	N.P.D.	66	Rocky Point	30
+3600	ED11-004	04	Andrew		Wells	M	N	N	1863	N.D.P.	N.P.D.	67	Nine Mile Creek	30
+3600	ED11-004	04	Andrew		Wells	M	N	N	1863	N.D.P.	N.P.D.	68	Long Creek	34
+3600	ED11-004	04	Andrew		Wells	M	N	N	1863	N.D.P.	N.P.D.	7	Kensington	27
+3600	ED11-004	04	Andrew		Wells	M	N	N	1863	N.D.P.	N.P.D.	8	Kensington	15
+3600	ED11-004	04	Andrew		Wells	M	N	N	1863	N.D.P.	N.P.D.	9	Kensington	21
+3600	ED11-004	04	Andrew		Wells	M	N	N	1863	N.D.P.	N.P.D.	SVR/RÉS-1	Group 1/Groupe 1 *	3
+3600	ED11-004	04	Andrew		Wells	M	N	N	1863	N.D.P.	N.P.D.	SVR/RÉS-2		22

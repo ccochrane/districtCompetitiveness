@@ -1,0 +1,1591 @@
+event_number	ed_code	ballot_sequence_number	candidate_first_name	candidate_middle_name	candidate_last_name	candidate_gender_code	elected_indicator	incumbent_indicator	candidate_ed_vote_count	candidate_party_english_name	candidate_party_french_name	poll_number	polling_station_name	candidate_poll_vote_count
+3700	ED11-001	1	Darrell		Hickox	M	N	N	500	Canadian Alliance	Alliance Canadienne	1	Grand Tracadie	7
+3700	ED11-001	1	Darrell		Hickox	M	N	N	500	Canadian Alliance	Alliance Canadienne	10	Fort Augustus	5
+3700	ED11-001	1	Darrell		Hickox	M	N	N	500	Canadian Alliance	Alliance Canadienne	11	Watervale	6
+3700	ED11-001	1	Darrell		Hickox	M	N	N	500	Canadian Alliance	Alliance Canadienne	12	Johnstons River	13
+3700	ED11-001	1	Darrell		Hickox	M	N	N	500	Canadian Alliance	Alliance Canadienne	13	Mermaid	20
+3700	ED11-001	1	Darrell		Hickox	M	N	N	500	Canadian Alliance	Alliance Canadienne	14	Hazelbrook	14
+3700	ED11-001	1	Darrell		Hickox	M	N	N	500	Canadian Alliance	Alliance Canadienne	15	Fullertons Marsh	14
+3700	ED11-001	1	Darrell		Hickox	M	N	N	500	Canadian Alliance	Alliance Canadienne	16	Clearview Estates	4
+3700	ED11-001	1	Darrell		Hickox	M	N	N	500	Canadian Alliance	Alliance Canadienne	17	Kennedy Road	13
+3700	ED11-001	1	Darrell		Hickox	M	N	N	500	Canadian Alliance	Alliance Canadienne	18	Ross Crescent	4
+3700	ED11-001	1	Darrell		Hickox	M	N	N	500	Canadian Alliance	Alliance Canadienne	19	Alexandra	16
+3700	ED11-001	1	Darrell		Hickox	M	N	N	500	Canadian Alliance	Alliance Canadienne	2	Dunstaffnage	3
+3700	ED11-001	1	Darrell		Hickox	M	N	N	500	Canadian Alliance	Alliance Canadienne	20	Village Green	4
+3700	ED11-001	1	Darrell		Hickox	M	N	N	500	Canadian Alliance	Alliance Canadienne	21	Cherry Valley	4
+3700	ED11-001	1	Darrell		Hickox	M	N	N	500	Canadian Alliance	Alliance Canadienne	22	Avondale	13
+3700	ED11-001	1	Darrell		Hickox	M	N	N	500	Canadian Alliance	Alliance Canadienne	23	Kinross	14
+3700	ED11-001	1	Darrell		Hickox	M	N	N	500	Canadian Alliance	Alliance Canadienne	24	Iona	22
+3700	ED11-001	1	Darrell		Hickox	M	N	N	500	Canadian Alliance	Alliance Canadienne	25	Point Prim	11
+3700	ED11-001	1	Darrell		Hickox	M	N	N	500	Canadian Alliance	Alliance Canadienne	26	Pinette	15
+3700	ED11-001	1	Darrell		Hickox	M	N	N	500	Canadian Alliance	Alliance Canadienne	27	Wood Islands	10
+3700	ED11-001	1	Darrell		Hickox	M	N	N	500	Canadian Alliance	Alliance Canadienne	28	High Bank	8
+3700	ED11-001	1	Darrell		Hickox	M	N	N	500	Canadian Alliance	Alliance Canadienne	29	Beach Point	21
+3700	ED11-001	1	Darrell		Hickox	M	N	N	500	Canadian Alliance	Alliance Canadienne	3	Tracadie	6
+3700	ED11-001	1	Darrell		Hickox	M	N	N	500	Canadian Alliance	Alliance Canadienne	30	Murray Harbour	10
+3700	ED11-001	1	Darrell		Hickox	M	N	N	500	Canadian Alliance	Alliance Canadienne	31	Murray River South	9
+3700	ED11-001	1	Darrell		Hickox	M	N	N	500	Canadian Alliance	Alliance Canadienne	32	Dover	9
+3700	ED11-001	1	Darrell		Hickox	M	N	N	500	Canadian Alliance	Alliance Canadienne	33	Peters Road	9
+3700	ED11-001	1	Darrell		Hickox	M	N	N	500	Canadian Alliance	Alliance Canadienne	34	Pembroke	2
+3700	ED11-001	1	Darrell		Hickox	M	N	N	500	Canadian Alliance	Alliance Canadienne	35	Sturgeon	4
+3700	ED11-001	1	Darrell		Hickox	M	N	N	500	Canadian Alliance	Alliance Canadienne	36	Milltown Cross	6
+3700	ED11-001	1	Darrell		Hickox	M	N	N	500	Canadian Alliance	Alliance Canadienne	37	Kilmuir	2
+3700	ED11-001	1	Darrell		Hickox	M	N	N	500	Canadian Alliance	Alliance Canadienne	38	Lower Montague	6
+3700	ED11-001	1	Darrell		Hickox	M	N	N	500	Canadian Alliance	Alliance Canadienne	39	Georgetown South	1
+3700	ED11-001	1	Darrell		Hickox	M	N	N	500	Canadian Alliance	Alliance Canadienne	4	Savage Harbour	6
+3700	ED11-001	1	Darrell		Hickox	M	N	N	500	Canadian Alliance	Alliance Canadienne	40	Georgetown North	9
+3700	ED11-001	1	Darrell		Hickox	M	N	N	500	Canadian Alliance	Alliance Canadienne	41	Brudenell	4
+3700	ED11-001	1	Darrell		Hickox	M	N	N	500	Canadian Alliance	Alliance Canadienne	42	Montague East	4
+3700	ED11-001	1	Darrell		Hickox	M	N	N	500	Canadian Alliance	Alliance Canadienne	43	Montague Southeast	3
+3700	ED11-001	1	Darrell		Hickox	M	N	N	500	Canadian Alliance	Alliance Canadienne	44	Montague Southwest	2
+3700	ED11-001	1	Darrell		Hickox	M	N	N	500	Canadian Alliance	Alliance Canadienne	45	Montague West	3
+3700	ED11-001	1	Darrell		Hickox	M	N	N	500	Canadian Alliance	Alliance Canadienne	46	Mellish Road	4
+3700	ED11-001	1	Darrell		Hickox	M	N	N	500	Canadian Alliance	Alliance Canadienne	47	Victoria Cross	9
+3700	ED11-001	1	Darrell		Hickox	M	N	N	500	Canadian Alliance	Alliance Canadienne	48	New Perth	1
+3700	ED11-001	1	Darrell		Hickox	M	N	N	500	Canadian Alliance	Alliance Canadienne	49	Pooles Corner	10
+3700	ED11-001	1	Darrell		Hickox	M	N	N	500	Canadian Alliance	Alliance Canadienne	5	Pisquid	9
+3700	ED11-001	1	Darrell		Hickox	M	N	N	500	Canadian Alliance	Alliance Canadienne	50	Lorne Valley	3
+3700	ED11-001	1	Darrell		Hickox	M	N	N	500	Canadian Alliance	Alliance Canadienne	500	Mobile poll/Bureau itinérant	1
+3700	ED11-001	1	Darrell		Hickox	M	N	N	500	Canadian Alliance	Alliance Canadienne	501	Mobile poll/Bureau itinérant	1
+3700	ED11-001	1	Darrell		Hickox	M	N	N	500	Canadian Alliance	Alliance Canadienne	51	Glenfanning	1
+3700	ED11-001	1	Darrell		Hickox	M	N	N	500	Canadian Alliance	Alliance Canadienne	52	St. Peters Bay	2
+3700	ED11-001	1	Darrell		Hickox	M	N	N	500	Canadian Alliance	Alliance Canadienne	53	St. Peters Bay	5
+3700	ED11-001	1	Darrell		Hickox	M	N	N	500	Canadian Alliance	Alliance Canadienne	54	Farmington	2
+3700	ED11-001	1	Darrell		Hickox	M	N	N	500	Canadian Alliance	Alliance Canadienne	55	Poplar Point	3
+3700	ED11-001	1	Darrell		Hickox	M	N	N	500	Canadian Alliance	Alliance Canadienne	56	Woodville Mills	8
+3700	ED11-001	1	Darrell		Hickox	M	N	N	500	Canadian Alliance	Alliance Canadienne	57	Red House	0
+3700	ED11-001	1	Darrell		Hickox	M	N	N	500	Canadian Alliance	Alliance Canadienne	58	St. Charles	2
+3700	ED11-001	1	Darrell		Hickox	M	N	N	500	Canadian Alliance	Alliance Canadienne	59	New Zealand	5
+3700	ED11-001	1	Darrell		Hickox	M	N	N	500	Canadian Alliance	Alliance Canadienne	6	Cherry Hill	4
+3700	ED11-001	1	Darrell		Hickox	M	N	N	500	Canadian Alliance	Alliance Canadienne	60	Souris West	1
+3700	ED11-001	1	Darrell		Hickox	M	N	N	500	Canadian Alliance	Alliance Canadienne	600	Mount Stewart	3
+3700	ED11-001	1	Darrell		Hickox	M	N	N	500	Canadian Alliance	Alliance Canadienne	601	Cross Roads	8
+3700	ED11-001	1	Darrell		Hickox	M	N	N	500	Canadian Alliance	Alliance Canadienne	602	Montague	12
+3700	ED11-001	1	Darrell		Hickox	M	N	N	500	Canadian Alliance	Alliance Canadienne	603	Souris	3
+3700	ED11-001	1	Darrell		Hickox	M	N	N	500	Canadian Alliance	Alliance Canadienne	61	Souris River	4
+3700	ED11-001	1	Darrell		Hickox	M	N	N	500	Canadian Alliance	Alliance Canadienne	62	Souris North	1
+3700	ED11-001	1	Darrell		Hickox	M	N	N	500	Canadian Alliance	Alliance Canadienne	63	Souris	2
+3700	ED11-001	1	Darrell		Hickox	M	N	N	500	Canadian Alliance	Alliance Canadienne	64	Chepstow	4
+3700	ED11-001	1	Darrell		Hickox	M	N	N	500	Canadian Alliance	Alliance Canadienne	65	Black Pond	2
+3700	ED11-001	1	Darrell		Hickox	M	N	N	500	Canadian Alliance	Alliance Canadienne	66	North Lake	7
+3700	ED11-001	1	Darrell		Hickox	M	N	N	500	Canadian Alliance	Alliance Canadienne	67	Bothwell	3
+3700	ED11-001	1	Darrell		Hickox	M	N	N	500	Canadian Alliance	Alliance Canadienne	7	Bristol	3
+3700	ED11-001	1	Darrell		Hickox	M	N	N	500	Canadian Alliance	Alliance Canadienne	8	Morell South	10
+3700	ED11-001	1	Darrell		Hickox	M	N	N	500	Canadian Alliance	Alliance Canadienne	9	Green Meadows	8
+3700	ED11-001	1	Darrell		Hickox	M	N	N	500	Canadian Alliance	Alliance Canadienne	S/R 1	SVR Group 1/RÉS Groupe 1	7
+3700	ED11-001	1	Darrell		Hickox	M	N	N	500	Canadian Alliance	Alliance Canadienne	S/R 2	SVR Group 2/RÉS Groupe 2	16
+3700	ED11-001	2	Deborah		Kelly Hawkes	F	N	N	465	N.D.P.	N.P.D.	1	Grand Tracadie	18
+3700	ED11-001	2	Deborah		Kelly Hawkes	F	N	N	465	N.D.P.	N.P.D.	10	Fort Augustus	4
+3700	ED11-001	2	Deborah		Kelly Hawkes	F	N	N	465	N.D.P.	N.P.D.	11	Watervale	13
+3700	ED11-001	2	Deborah		Kelly Hawkes	F	N	N	465	N.D.P.	N.P.D.	12	Johnstons River	13
+3700	ED11-001	2	Deborah		Kelly Hawkes	F	N	N	465	N.D.P.	N.P.D.	13	Mermaid	13
+3700	ED11-001	2	Deborah		Kelly Hawkes	F	N	N	465	N.D.P.	N.P.D.	14	Hazelbrook	7
+3700	ED11-001	2	Deborah		Kelly Hawkes	F	N	N	465	N.D.P.	N.P.D.	15	Fullertons Marsh	17
+3700	ED11-001	2	Deborah		Kelly Hawkes	F	N	N	465	N.D.P.	N.P.D.	16	Clearview Estates	8
+3700	ED11-001	2	Deborah		Kelly Hawkes	F	N	N	465	N.D.P.	N.P.D.	17	Kennedy Road	6
+3700	ED11-001	2	Deborah		Kelly Hawkes	F	N	N	465	N.D.P.	N.P.D.	18	Ross Crescent	4
+3700	ED11-001	2	Deborah		Kelly Hawkes	F	N	N	465	N.D.P.	N.P.D.	19	Alexandra	8
+3700	ED11-001	2	Deborah		Kelly Hawkes	F	N	N	465	N.D.P.	N.P.D.	2	Dunstaffnage	5
+3700	ED11-001	2	Deborah		Kelly Hawkes	F	N	N	465	N.D.P.	N.P.D.	20	Village Green	11
+3700	ED11-001	2	Deborah		Kelly Hawkes	F	N	N	465	N.D.P.	N.P.D.	21	Cherry Valley	11
+3700	ED11-001	2	Deborah		Kelly Hawkes	F	N	N	465	N.D.P.	N.P.D.	22	Avondale	4
+3700	ED11-001	2	Deborah		Kelly Hawkes	F	N	N	465	N.D.P.	N.P.D.	23	Kinross	9
+3700	ED11-001	2	Deborah		Kelly Hawkes	F	N	N	465	N.D.P.	N.P.D.	24	Iona	8
+3700	ED11-001	2	Deborah		Kelly Hawkes	F	N	N	465	N.D.P.	N.P.D.	25	Point Prim	5
+3700	ED11-001	2	Deborah		Kelly Hawkes	F	N	N	465	N.D.P.	N.P.D.	26	Pinette	8
+3700	ED11-001	2	Deborah		Kelly Hawkes	F	N	N	465	N.D.P.	N.P.D.	27	Wood Islands	16
+3700	ED11-001	2	Deborah		Kelly Hawkes	F	N	N	465	N.D.P.	N.P.D.	28	High Bank	12
+3700	ED11-001	2	Deborah		Kelly Hawkes	F	N	N	465	N.D.P.	N.P.D.	29	Beach Point	8
+3700	ED11-001	2	Deborah		Kelly Hawkes	F	N	N	465	N.D.P.	N.P.D.	3	Tracadie	11
+3700	ED11-001	2	Deborah		Kelly Hawkes	F	N	N	465	N.D.P.	N.P.D.	30	Murray Harbour	7
+3700	ED11-001	2	Deborah		Kelly Hawkes	F	N	N	465	N.D.P.	N.P.D.	31	Murray River South	7
+3700	ED11-001	2	Deborah		Kelly Hawkes	F	N	N	465	N.D.P.	N.P.D.	32	Dover	10
+3700	ED11-001	2	Deborah		Kelly Hawkes	F	N	N	465	N.D.P.	N.P.D.	33	Peters Road	8
+3700	ED11-001	2	Deborah		Kelly Hawkes	F	N	N	465	N.D.P.	N.P.D.	34	Pembroke	1
+3700	ED11-001	2	Deborah		Kelly Hawkes	F	N	N	465	N.D.P.	N.P.D.	35	Sturgeon	2
+3700	ED11-001	2	Deborah		Kelly Hawkes	F	N	N	465	N.D.P.	N.P.D.	36	Milltown Cross	5
+3700	ED11-001	2	Deborah		Kelly Hawkes	F	N	N	465	N.D.P.	N.P.D.	37	Kilmuir	3
+3700	ED11-001	2	Deborah		Kelly Hawkes	F	N	N	465	N.D.P.	N.P.D.	38	Lower Montague	7
+3700	ED11-001	2	Deborah		Kelly Hawkes	F	N	N	465	N.D.P.	N.P.D.	39	Georgetown South	2
+3700	ED11-001	2	Deborah		Kelly Hawkes	F	N	N	465	N.D.P.	N.P.D.	4	Savage Harbour	5
+3700	ED11-001	2	Deborah		Kelly Hawkes	F	N	N	465	N.D.P.	N.P.D.	40	Georgetown North	8
+3700	ED11-001	2	Deborah		Kelly Hawkes	F	N	N	465	N.D.P.	N.P.D.	41	Brudenell	6
+3700	ED11-001	2	Deborah		Kelly Hawkes	F	N	N	465	N.D.P.	N.P.D.	42	Montague East	1
+3700	ED11-001	2	Deborah		Kelly Hawkes	F	N	N	465	N.D.P.	N.P.D.	43	Montague Southeast	7
+3700	ED11-001	2	Deborah		Kelly Hawkes	F	N	N	465	N.D.P.	N.P.D.	44	Montague Southwest	6
+3700	ED11-001	2	Deborah		Kelly Hawkes	F	N	N	465	N.D.P.	N.P.D.	45	Montague West	7
+3700	ED11-001	2	Deborah		Kelly Hawkes	F	N	N	465	N.D.P.	N.P.D.	46	Mellish Road	3
+3700	ED11-001	2	Deborah		Kelly Hawkes	F	N	N	465	N.D.P.	N.P.D.	47	Victoria Cross	11
+3700	ED11-001	2	Deborah		Kelly Hawkes	F	N	N	465	N.D.P.	N.P.D.	48	New Perth	5
+3700	ED11-001	2	Deborah		Kelly Hawkes	F	N	N	465	N.D.P.	N.P.D.	49	Pooles Corner	5
+3700	ED11-001	2	Deborah		Kelly Hawkes	F	N	N	465	N.D.P.	N.P.D.	5	Pisquid	5
+3700	ED11-001	2	Deborah		Kelly Hawkes	F	N	N	465	N.D.P.	N.P.D.	50	Lorne Valley	2
+3700	ED11-001	2	Deborah		Kelly Hawkes	F	N	N	465	N.D.P.	N.P.D.	500	Mobile poll/Bureau itinérant	0
+3700	ED11-001	2	Deborah		Kelly Hawkes	F	N	N	465	N.D.P.	N.P.D.	501	Mobile poll/Bureau itinérant	3
+3700	ED11-001	2	Deborah		Kelly Hawkes	F	N	N	465	N.D.P.	N.P.D.	51	Glenfanning	2
+3700	ED11-001	2	Deborah		Kelly Hawkes	F	N	N	465	N.D.P.	N.P.D.	52	St. Peters Bay	4
+3700	ED11-001	2	Deborah		Kelly Hawkes	F	N	N	465	N.D.P.	N.P.D.	53	St. Peters Bay	0
+3700	ED11-001	2	Deborah		Kelly Hawkes	F	N	N	465	N.D.P.	N.P.D.	54	Farmington	0
+3700	ED11-001	2	Deborah		Kelly Hawkes	F	N	N	465	N.D.P.	N.P.D.	55	Poplar Point	2
+3700	ED11-001	2	Deborah		Kelly Hawkes	F	N	N	465	N.D.P.	N.P.D.	56	Woodville Mills	6
+3700	ED11-001	2	Deborah		Kelly Hawkes	F	N	N	465	N.D.P.	N.P.D.	57	Red House	4
+3700	ED11-001	2	Deborah		Kelly Hawkes	F	N	N	465	N.D.P.	N.P.D.	58	St. Charles	4
+3700	ED11-001	2	Deborah		Kelly Hawkes	F	N	N	465	N.D.P.	N.P.D.	59	New Zealand	2
+3700	ED11-001	2	Deborah		Kelly Hawkes	F	N	N	465	N.D.P.	N.P.D.	6	Cherry Hill	6
+3700	ED11-001	2	Deborah		Kelly Hawkes	F	N	N	465	N.D.P.	N.P.D.	60	Souris West	3
+3700	ED11-001	2	Deborah		Kelly Hawkes	F	N	N	465	N.D.P.	N.P.D.	600	Mount Stewart	0
+3700	ED11-001	2	Deborah		Kelly Hawkes	F	N	N	465	N.D.P.	N.P.D.	601	Cross Roads	4
+3700	ED11-001	2	Deborah		Kelly Hawkes	F	N	N	465	N.D.P.	N.P.D.	602	Montague	10
+3700	ED11-001	2	Deborah		Kelly Hawkes	F	N	N	465	N.D.P.	N.P.D.	603	Souris	10
+3700	ED11-001	2	Deborah		Kelly Hawkes	F	N	N	465	N.D.P.	N.P.D.	61	Souris River	7
+3700	ED11-001	2	Deborah		Kelly Hawkes	F	N	N	465	N.D.P.	N.P.D.	62	Souris North	0
+3700	ED11-001	2	Deborah		Kelly Hawkes	F	N	N	465	N.D.P.	N.P.D.	63	Souris	1
+3700	ED11-001	2	Deborah		Kelly Hawkes	F	N	N	465	N.D.P.	N.P.D.	64	Chepstow	5
+3700	ED11-001	2	Deborah		Kelly Hawkes	F	N	N	465	N.D.P.	N.P.D.	65	Black Pond	7
+3700	ED11-001	2	Deborah		Kelly Hawkes	F	N	N	465	N.D.P.	N.P.D.	66	North Lake	3
+3700	ED11-001	2	Deborah		Kelly Hawkes	F	N	N	465	N.D.P.	N.P.D.	67	Bothwell	1
+3700	ED11-001	2	Deborah		Kelly Hawkes	F	N	N	465	N.D.P.	N.P.D.	7	Bristol	6
+3700	ED11-001	2	Deborah		Kelly Hawkes	F	N	N	465	N.D.P.	N.P.D.	8	Morell South	5
+3700	ED11-001	2	Deborah		Kelly Hawkes	F	N	N	465	N.D.P.	N.P.D.	9	Green Meadows	5
+3700	ED11-001	2	Deborah		Kelly Hawkes	F	N	N	465	N.D.P.	N.P.D.	S/R 1	SVR Group 1/RÉS Groupe 1	0
+3700	ED11-001	2	Deborah		Kelly Hawkes	F	N	N	465	N.D.P.	N.P.D.	S/R 2	SVR Group 2/RÉS Groupe 2	23
+3700	ED11-001	3	Kevin		MacAdam	M	N	N	8269	Progressive Conservative	Progressiste-Conservateur	1	Grand Tracadie	160
+3700	ED11-001	3	Kevin		MacAdam	M	N	N	8269	Progressive Conservative	Progressiste-Conservateur	10	Fort Augustus	99
+3700	ED11-001	3	Kevin		MacAdam	M	N	N	8269	Progressive Conservative	Progressiste-Conservateur	11	Watervale	133
+3700	ED11-001	3	Kevin		MacAdam	M	N	N	8269	Progressive Conservative	Progressiste-Conservateur	12	Johnstons River	144
+3700	ED11-001	3	Kevin		MacAdam	M	N	N	8269	Progressive Conservative	Progressiste-Conservateur	13	Mermaid	139
+3700	ED11-001	3	Kevin		MacAdam	M	N	N	8269	Progressive Conservative	Progressiste-Conservateur	14	Hazelbrook	120
+3700	ED11-001	3	Kevin		MacAdam	M	N	N	8269	Progressive Conservative	Progressiste-Conservateur	15	Fullertons Marsh	130
+3700	ED11-001	3	Kevin		MacAdam	M	N	N	8269	Progressive Conservative	Progressiste-Conservateur	16	Clearview Estates	96
+3700	ED11-001	3	Kevin		MacAdam	M	N	N	8269	Progressive Conservative	Progressiste-Conservateur	17	Kennedy Road	121
+3700	ED11-001	3	Kevin		MacAdam	M	N	N	8269	Progressive Conservative	Progressiste-Conservateur	18	Ross Crescent	87
+3700	ED11-001	3	Kevin		MacAdam	M	N	N	8269	Progressive Conservative	Progressiste-Conservateur	19	Alexandra	111
+3700	ED11-001	3	Kevin		MacAdam	M	N	N	8269	Progressive Conservative	Progressiste-Conservateur	2	Dunstaffnage	141
+3700	ED11-001	3	Kevin		MacAdam	M	N	N	8269	Progressive Conservative	Progressiste-Conservateur	20	Village Green	119
+3700	ED11-001	3	Kevin		MacAdam	M	N	N	8269	Progressive Conservative	Progressiste-Conservateur	21	Cherry Valley	90
+3700	ED11-001	3	Kevin		MacAdam	M	N	N	8269	Progressive Conservative	Progressiste-Conservateur	22	Avondale	187
+3700	ED11-001	3	Kevin		MacAdam	M	N	N	8269	Progressive Conservative	Progressiste-Conservateur	23	Kinross	106
+3700	ED11-001	3	Kevin		MacAdam	M	N	N	8269	Progressive Conservative	Progressiste-Conservateur	24	Iona	179
+3700	ED11-001	3	Kevin		MacAdam	M	N	N	8269	Progressive Conservative	Progressiste-Conservateur	25	Point Prim	86
+3700	ED11-001	3	Kevin		MacAdam	M	N	N	8269	Progressive Conservative	Progressiste-Conservateur	26	Pinette	92
+3700	ED11-001	3	Kevin		MacAdam	M	N	N	8269	Progressive Conservative	Progressiste-Conservateur	27	Wood Islands	157
+3700	ED11-001	3	Kevin		MacAdam	M	N	N	8269	Progressive Conservative	Progressiste-Conservateur	28	High Bank	108
+3700	ED11-001	3	Kevin		MacAdam	M	N	N	8269	Progressive Conservative	Progressiste-Conservateur	29	Beach Point	116
+3700	ED11-001	3	Kevin		MacAdam	M	N	N	8269	Progressive Conservative	Progressiste-Conservateur	3	Tracadie	78
+3700	ED11-001	3	Kevin		MacAdam	M	N	N	8269	Progressive Conservative	Progressiste-Conservateur	30	Murray Harbour	147
+3700	ED11-001	3	Kevin		MacAdam	M	N	N	8269	Progressive Conservative	Progressiste-Conservateur	31	Murray River South	121
+3700	ED11-001	3	Kevin		MacAdam	M	N	N	8269	Progressive Conservative	Progressiste-Conservateur	32	Dover	115
+3700	ED11-001	3	Kevin		MacAdam	M	N	N	8269	Progressive Conservative	Progressiste-Conservateur	33	Peters Road	98
+3700	ED11-001	3	Kevin		MacAdam	M	N	N	8269	Progressive Conservative	Progressiste-Conservateur	34	Pembroke	93
+3700	ED11-001	3	Kevin		MacAdam	M	N	N	8269	Progressive Conservative	Progressiste-Conservateur	35	Sturgeon	82
+3700	ED11-001	3	Kevin		MacAdam	M	N	N	8269	Progressive Conservative	Progressiste-Conservateur	36	Milltown Cross	81
+3700	ED11-001	3	Kevin		MacAdam	M	N	N	8269	Progressive Conservative	Progressiste-Conservateur	37	Kilmuir	125
+3700	ED11-001	3	Kevin		MacAdam	M	N	N	8269	Progressive Conservative	Progressiste-Conservateur	38	Lower Montague	109
+3700	ED11-001	3	Kevin		MacAdam	M	N	N	8269	Progressive Conservative	Progressiste-Conservateur	39	Georgetown South	167
+3700	ED11-001	3	Kevin		MacAdam	M	N	N	8269	Progressive Conservative	Progressiste-Conservateur	4	Savage Harbour	81
+3700	ED11-001	3	Kevin		MacAdam	M	N	N	8269	Progressive Conservative	Progressiste-Conservateur	40	Georgetown North	143
+3700	ED11-001	3	Kevin		MacAdam	M	N	N	8269	Progressive Conservative	Progressiste-Conservateur	41	Brudenell	65
+3700	ED11-001	3	Kevin		MacAdam	M	N	N	8269	Progressive Conservative	Progressiste-Conservateur	42	Montague East	78
+3700	ED11-001	3	Kevin		MacAdam	M	N	N	8269	Progressive Conservative	Progressiste-Conservateur	43	Montague Southeast	99
+3700	ED11-001	3	Kevin		MacAdam	M	N	N	8269	Progressive Conservative	Progressiste-Conservateur	44	Montague Southwest	98
+3700	ED11-001	3	Kevin		MacAdam	M	N	N	8269	Progressive Conservative	Progressiste-Conservateur	45	Montague West	69
+3700	ED11-001	3	Kevin		MacAdam	M	N	N	8269	Progressive Conservative	Progressiste-Conservateur	46	Mellish Road	97
+3700	ED11-001	3	Kevin		MacAdam	M	N	N	8269	Progressive Conservative	Progressiste-Conservateur	47	Victoria Cross	114
+3700	ED11-001	3	Kevin		MacAdam	M	N	N	8269	Progressive Conservative	Progressiste-Conservateur	48	New Perth	78
+3700	ED11-001	3	Kevin		MacAdam	M	N	N	8269	Progressive Conservative	Progressiste-Conservateur	49	Pooles Corner	103
+3700	ED11-001	3	Kevin		MacAdam	M	N	N	8269	Progressive Conservative	Progressiste-Conservateur	5	Pisquid	110
+3700	ED11-001	3	Kevin		MacAdam	M	N	N	8269	Progressive Conservative	Progressiste-Conservateur	50	Lorne Valley	111
+3700	ED11-001	3	Kevin		MacAdam	M	N	N	8269	Progressive Conservative	Progressiste-Conservateur	500	Mobile poll/Bureau itinérant	11
+3700	ED11-001	3	Kevin		MacAdam	M	N	N	8269	Progressive Conservative	Progressiste-Conservateur	501	Mobile poll/Bureau itinérant	40
+3700	ED11-001	3	Kevin		MacAdam	M	N	N	8269	Progressive Conservative	Progressiste-Conservateur	51	Glenfanning	131
+3700	ED11-001	3	Kevin		MacAdam	M	N	N	8269	Progressive Conservative	Progressiste-Conservateur	52	St. Peters Bay	117
+3700	ED11-001	3	Kevin		MacAdam	M	N	N	8269	Progressive Conservative	Progressiste-Conservateur	53	St. Peters Bay	114
+3700	ED11-001	3	Kevin		MacAdam	M	N	N	8269	Progressive Conservative	Progressiste-Conservateur	54	Farmington	77
+3700	ED11-001	3	Kevin		MacAdam	M	N	N	8269	Progressive Conservative	Progressiste-Conservateur	55	Poplar Point	133
+3700	ED11-001	3	Kevin		MacAdam	M	N	N	8269	Progressive Conservative	Progressiste-Conservateur	56	Woodville Mills	103
+3700	ED11-001	3	Kevin		MacAdam	M	N	N	8269	Progressive Conservative	Progressiste-Conservateur	57	Red House	136
+3700	ED11-001	3	Kevin		MacAdam	M	N	N	8269	Progressive Conservative	Progressiste-Conservateur	58	St. Charles	126
+3700	ED11-001	3	Kevin		MacAdam	M	N	N	8269	Progressive Conservative	Progressiste-Conservateur	59	New Zealand	73
+3700	ED11-001	3	Kevin		MacAdam	M	N	N	8269	Progressive Conservative	Progressiste-Conservateur	6	Cherry Hill	155
+3700	ED11-001	3	Kevin		MacAdam	M	N	N	8269	Progressive Conservative	Progressiste-Conservateur	60	Souris West	96
+3700	ED11-001	3	Kevin		MacAdam	M	N	N	8269	Progressive Conservative	Progressiste-Conservateur	600	Mount Stewart	76
+3700	ED11-001	3	Kevin		MacAdam	M	N	N	8269	Progressive Conservative	Progressiste-Conservateur	601	Cross Roads	70
+3700	ED11-001	3	Kevin		MacAdam	M	N	N	8269	Progressive Conservative	Progressiste-Conservateur	602	Montague	142
+3700	ED11-001	3	Kevin		MacAdam	M	N	N	8269	Progressive Conservative	Progressiste-Conservateur	603	Souris	114
+3700	ED11-001	3	Kevin		MacAdam	M	N	N	8269	Progressive Conservative	Progressiste-Conservateur	61	Souris River	109
+3700	ED11-001	3	Kevin		MacAdam	M	N	N	8269	Progressive Conservative	Progressiste-Conservateur	62	Souris North	57
+3700	ED11-001	3	Kevin		MacAdam	M	N	N	8269	Progressive Conservative	Progressiste-Conservateur	63	Souris	63
+3700	ED11-001	3	Kevin		MacAdam	M	N	N	8269	Progressive Conservative	Progressiste-Conservateur	64	Chepstow	132
+3700	ED11-001	3	Kevin		MacAdam	M	N	N	8269	Progressive Conservative	Progressiste-Conservateur	65	Black Pond	68
+3700	ED11-001	3	Kevin		MacAdam	M	N	N	8269	Progressive Conservative	Progressiste-Conservateur	66	North Lake	77
+3700	ED11-001	3	Kevin		MacAdam	M	N	N	8269	Progressive Conservative	Progressiste-Conservateur	67	Bothwell	103
+3700	ED11-001	3	Kevin		MacAdam	M	N	N	8269	Progressive Conservative	Progressiste-Conservateur	7	Bristol	129
+3700	ED11-001	3	Kevin		MacAdam	M	N	N	8269	Progressive Conservative	Progressiste-Conservateur	8	Morell South	136
+3700	ED11-001	3	Kevin		MacAdam	M	N	N	8269	Progressive Conservative	Progressiste-Conservateur	9	Green Meadows	141
+3700	ED11-001	3	Kevin		MacAdam	M	N	N	8269	Progressive Conservative	Progressiste-Conservateur	S/R 1	SVR Group 1/RÉS Groupe 1	19
+3700	ED11-001	3	Kevin		MacAdam	M	N	N	8269	Progressive Conservative	Progressiste-Conservateur	S/R 2	SVR Group 2/RÉS Groupe 2	338
+3700	ED11-001	4	Lawrence		MacAulay	M	Y	Y	8545	Liberal	Libéral	1	Grand Tracadie	135
+3700	ED11-001	4	Lawrence		MacAulay	M	Y	Y	8545	Liberal	Libéral	10	Fort Augustus	95
+3700	ED11-001	4	Lawrence		MacAulay	M	Y	Y	8545	Liberal	Libéral	11	Watervale	132
+3700	ED11-001	4	Lawrence		MacAulay	M	Y	Y	8545	Liberal	Libéral	12	Johnstons River	102
+3700	ED11-001	4	Lawrence		MacAulay	M	Y	Y	8545	Liberal	Libéral	13	Mermaid	153
+3700	ED11-001	4	Lawrence		MacAulay	M	Y	Y	8545	Liberal	Libéral	14	Hazelbrook	97
+3700	ED11-001	4	Lawrence		MacAulay	M	Y	Y	8545	Liberal	Libéral	15	Fullertons Marsh	113
+3700	ED11-001	4	Lawrence		MacAulay	M	Y	Y	8545	Liberal	Libéral	16	Clearview Estates	120
+3700	ED11-001	4	Lawrence		MacAulay	M	Y	Y	8545	Liberal	Libéral	17	Kennedy Road	108
+3700	ED11-001	4	Lawrence		MacAulay	M	Y	Y	8545	Liberal	Libéral	18	Ross Crescent	81
+3700	ED11-001	4	Lawrence		MacAulay	M	Y	Y	8545	Liberal	Libéral	19	Alexandra	110
+3700	ED11-001	4	Lawrence		MacAulay	M	Y	Y	8545	Liberal	Libéral	2	Dunstaffnage	90
+3700	ED11-001	4	Lawrence		MacAulay	M	Y	Y	8545	Liberal	Libéral	20	Village Green	130
+3700	ED11-001	4	Lawrence		MacAulay	M	Y	Y	8545	Liberal	Libéral	21	Cherry Valley	106
+3700	ED11-001	4	Lawrence		MacAulay	M	Y	Y	8545	Liberal	Libéral	22	Avondale	131
+3700	ED11-001	4	Lawrence		MacAulay	M	Y	Y	8545	Liberal	Libéral	23	Kinross	107
+3700	ED11-001	4	Lawrence		MacAulay	M	Y	Y	8545	Liberal	Libéral	24	Iona	132
+3700	ED11-001	4	Lawrence		MacAulay	M	Y	Y	8545	Liberal	Libéral	25	Point Prim	116
+3700	ED11-001	4	Lawrence		MacAulay	M	Y	Y	8545	Liberal	Libéral	26	Pinette	98
+3700	ED11-001	4	Lawrence		MacAulay	M	Y	Y	8545	Liberal	Libéral	27	Wood Islands	108
+3700	ED11-001	4	Lawrence		MacAulay	M	Y	Y	8545	Liberal	Libéral	28	High Bank	81
+3700	ED11-001	4	Lawrence		MacAulay	M	Y	Y	8545	Liberal	Libéral	29	Beach Point	89
+3700	ED11-001	4	Lawrence		MacAulay	M	Y	Y	8545	Liberal	Libéral	3	Tracadie	113
+3700	ED11-001	4	Lawrence		MacAulay	M	Y	Y	8545	Liberal	Libéral	30	Murray Harbour	94
+3700	ED11-001	4	Lawrence		MacAulay	M	Y	Y	8545	Liberal	Libéral	31	Murray River South	91
+3700	ED11-001	4	Lawrence		MacAulay	M	Y	Y	8545	Liberal	Libéral	32	Dover	108
+3700	ED11-001	4	Lawrence		MacAulay	M	Y	Y	8545	Liberal	Libéral	33	Peters Road	79
+3700	ED11-001	4	Lawrence		MacAulay	M	Y	Y	8545	Liberal	Libéral	34	Pembroke	108
+3700	ED11-001	4	Lawrence		MacAulay	M	Y	Y	8545	Liberal	Libéral	35	Sturgeon	100
+3700	ED11-001	4	Lawrence		MacAulay	M	Y	Y	8545	Liberal	Libéral	36	Milltown Cross	85
+3700	ED11-001	4	Lawrence		MacAulay	M	Y	Y	8545	Liberal	Libéral	37	Kilmuir	144
+3700	ED11-001	4	Lawrence		MacAulay	M	Y	Y	8545	Liberal	Libéral	38	Lower Montague	108
+3700	ED11-001	4	Lawrence		MacAulay	M	Y	Y	8545	Liberal	Libéral	39	Georgetown South	111
+3700	ED11-001	4	Lawrence		MacAulay	M	Y	Y	8545	Liberal	Libéral	4	Savage Harbour	120
+3700	ED11-001	4	Lawrence		MacAulay	M	Y	Y	8545	Liberal	Libéral	40	Georgetown North	99
+3700	ED11-001	4	Lawrence		MacAulay	M	Y	Y	8545	Liberal	Libéral	41	Brudenell	96
+3700	ED11-001	4	Lawrence		MacAulay	M	Y	Y	8545	Liberal	Libéral	42	Montague East	87
+3700	ED11-001	4	Lawrence		MacAulay	M	Y	Y	8545	Liberal	Libéral	43	Montague Southeast	158
+3700	ED11-001	4	Lawrence		MacAulay	M	Y	Y	8545	Liberal	Libéral	44	Montague Southwest	91
+3700	ED11-001	4	Lawrence		MacAulay	M	Y	Y	8545	Liberal	Libéral	45	Montague West	77
+3700	ED11-001	4	Lawrence		MacAulay	M	Y	Y	8545	Liberal	Libéral	46	Mellish Road	115
+3700	ED11-001	4	Lawrence		MacAulay	M	Y	Y	8545	Liberal	Libéral	47	Victoria Cross	132
+3700	ED11-001	4	Lawrence		MacAulay	M	Y	Y	8545	Liberal	Libéral	48	New Perth	80
+3700	ED11-001	4	Lawrence		MacAulay	M	Y	Y	8545	Liberal	Libéral	49	Pooles Corner	136
+3700	ED11-001	4	Lawrence		MacAulay	M	Y	Y	8545	Liberal	Libéral	5	Pisquid	104
+3700	ED11-001	4	Lawrence		MacAulay	M	Y	Y	8545	Liberal	Libéral	50	Lorne Valley	127
+3700	ED11-001	4	Lawrence		MacAulay	M	Y	Y	8545	Liberal	Libéral	500	Mobile poll/Bureau itinérant	22
+3700	ED11-001	4	Lawrence		MacAulay	M	Y	Y	8545	Liberal	Libéral	501	Mobile poll/Bureau itinérant	65
+3700	ED11-001	4	Lawrence		MacAulay	M	Y	Y	8545	Liberal	Libéral	51	Glenfanning	148
+3700	ED11-001	4	Lawrence		MacAulay	M	Y	Y	8545	Liberal	Libéral	52	St. Peters Bay	140
+3700	ED11-001	4	Lawrence		MacAulay	M	Y	Y	8545	Liberal	Libéral	53	St. Peters Bay	113
+3700	ED11-001	4	Lawrence		MacAulay	M	Y	Y	8545	Liberal	Libéral	54	Farmington	118
+3700	ED11-001	4	Lawrence		MacAulay	M	Y	Y	8545	Liberal	Libéral	55	Poplar Point	162
+3700	ED11-001	4	Lawrence		MacAulay	M	Y	Y	8545	Liberal	Libéral	56	Woodville Mills	121
+3700	ED11-001	4	Lawrence		MacAulay	M	Y	Y	8545	Liberal	Libéral	57	Red House	129
+3700	ED11-001	4	Lawrence		MacAulay	M	Y	Y	8545	Liberal	Libéral	58	St. Charles	148
+3700	ED11-001	4	Lawrence		MacAulay	M	Y	Y	8545	Liberal	Libéral	59	New Zealand	76
+3700	ED11-001	4	Lawrence		MacAulay	M	Y	Y	8545	Liberal	Libéral	6	Cherry Hill	120
+3700	ED11-001	4	Lawrence		MacAulay	M	Y	Y	8545	Liberal	Libéral	60	Souris West	182
+3700	ED11-001	4	Lawrence		MacAulay	M	Y	Y	8545	Liberal	Libéral	600	Mount Stewart	81
+3700	ED11-001	4	Lawrence		MacAulay	M	Y	Y	8545	Liberal	Libéral	601	Cross Roads	80
+3700	ED11-001	4	Lawrence		MacAulay	M	Y	Y	8545	Liberal	Libéral	602	Montague	174
+3700	ED11-001	4	Lawrence		MacAulay	M	Y	Y	8545	Liberal	Libéral	603	Souris	172
+3700	ED11-001	4	Lawrence		MacAulay	M	Y	Y	8545	Liberal	Libéral	61	Souris River	131
+3700	ED11-001	4	Lawrence		MacAulay	M	Y	Y	8545	Liberal	Libéral	62	Souris North	68
+3700	ED11-001	4	Lawrence		MacAulay	M	Y	Y	8545	Liberal	Libéral	63	Souris	79
+3700	ED11-001	4	Lawrence		MacAulay	M	Y	Y	8545	Liberal	Libéral	64	Chepstow	157
+3700	ED11-001	4	Lawrence		MacAulay	M	Y	Y	8545	Liberal	Libéral	65	Black Pond	110
+3700	ED11-001	4	Lawrence		MacAulay	M	Y	Y	8545	Liberal	Libéral	66	North Lake	103
+3700	ED11-001	4	Lawrence		MacAulay	M	Y	Y	8545	Liberal	Libéral	67	Bothwell	135
+3700	ED11-001	4	Lawrence		MacAulay	M	Y	Y	8545	Liberal	Libéral	7	Bristol	102
+3700	ED11-001	4	Lawrence		MacAulay	M	Y	Y	8545	Liberal	Libéral	8	Morell South	132
+3700	ED11-001	4	Lawrence		MacAulay	M	Y	Y	8545	Liberal	Libéral	9	Green Meadows	96
+3700	ED11-001	4	Lawrence		MacAulay	M	Y	Y	8545	Liberal	Libéral	S/R 1	SVR Group 1/RÉS Groupe 1	41
+3700	ED11-001	4	Lawrence		MacAulay	M	Y	Y	8545	Liberal	Libéral	S/R 2	SVR Group 2/RÉS Groupe 2	343
+3700	ED11-002	1	John		Griffin	M	N	N	7116	Progressive Conservative	Progressiste-Conservateur	1	Seacow Pond	97
+3700	ED11-002	1	John		Griffin	M	N	N	7116	Progressive Conservative	Progressiste-Conservateur	10	Profits Corner	86
+3700	ED11-002	1	John		Griffin	M	N	N	7116	Progressive Conservative	Progressiste-Conservateur	11	St. Felix	111
+3700	ED11-002	1	John		Griffin	M	N	N	7116	Progressive Conservative	Progressiste-Conservateur	12	Lauretta	133
+3700	ED11-002	1	John		Griffin	M	N	N	7116	Progressive Conservative	Progressiste-Conservateur	13	Kildare	150
+3700	ED11-002	1	John		Griffin	M	N	N	7116	Progressive Conservative	Progressiste-Conservateur	14	Alberton	83
+3700	ED11-002	1	John		Griffin	M	N	N	7116	Progressive Conservative	Progressiste-Conservateur	15	Alberton South	117
+3700	ED11-002	1	John		Griffin	M	N	N	7116	Progressive Conservative	Progressiste-Conservateur	16	Alberton	119
+3700	ED11-002	1	John		Griffin	M	N	N	7116	Progressive Conservative	Progressiste-Conservateur	17	Mill River East	179
+3700	ED11-002	1	John		Griffin	M	N	N	7116	Progressive Conservative	Progressiste-Conservateur	18	Elmsdale	120
+3700	ED11-002	1	John		Griffin	M	N	N	7116	Progressive Conservative	Progressiste-Conservateur	19	Campbellton	57
+3700	ED11-002	1	John		Griffin	M	N	N	7116	Progressive Conservative	Progressiste-Conservateur	2	Tignish Corner	95
+3700	ED11-002	1	John		Griffin	M	N	N	7116	Progressive Conservative	Progressiste-Conservateur	20	Duvar	69
+3700	ED11-002	1	John		Griffin	M	N	N	7116	Progressive Conservative	Progressiste-Conservateur	21	Burton	53
+3700	ED11-002	1	John		Griffin	M	N	N	7116	Progressive Conservative	Progressiste-Conservateur	22	Knutsford	73
+3700	ED11-002	1	John		Griffin	M	N	N	7116	Progressive Conservative	Progressiste-Conservateur	23	Dunblane	63
+3700	ED11-002	1	John		Griffin	M	N	N	7116	Progressive Conservative	Progressiste-Conservateur	24	Brae	80
+3700	ED11-002	1	John		Griffin	M	N	N	7116	Progressive Conservative	Progressiste-Conservateur	25	O'Leary	100
+3700	ED11-002	1	John		Griffin	M	N	N	7116	Progressive Conservative	Progressiste-Conservateur	26	O'Leary 	78
+3700	ED11-002	1	John		Griffin	M	N	N	7116	Progressive Conservative	Progressiste-Conservateur	27	Unionvale	58
+3700	ED11-002	1	John		Griffin	M	N	N	7116	Progressive Conservative	Progressiste-Conservateur	28	O'Leary 	90
+3700	ED11-002	1	John		Griffin	M	N	N	7116	Progressive Conservative	Progressiste-Conservateur	29	Fortune Cove	130
+3700	ED11-002	1	John		Griffin	M	N	N	7116	Progressive Conservative	Progressiste-Conservateur	3	Judes Point	80
+3700	ED11-002	1	John		Griffin	M	N	N	7116	Progressive Conservative	Progressiste-Conservateur	30	Freeland	63
+3700	ED11-002	1	John		Griffin	M	N	N	7116	Progressive Conservative	Progressiste-Conservateur	31	West Devon	52
+3700	ED11-002	1	John		Griffin	M	N	N	7116	Progressive Conservative	Progressiste-Conservateur	32	North Enmore	68
+3700	ED11-002	1	John		Griffin	M	N	N	7116	Progressive Conservative	Progressiste-Conservateur	33	East Bideford	72
+3700	ED11-002	1	John		Griffin	M	N	N	7116	Progressive Conservative	Progressiste-Conservateur	34	Lennox Island 1	12
+3700	ED11-002	1	John		Griffin	M	N	N	7116	Progressive Conservative	Progressiste-Conservateur	35	Tyne Valley	93
+3700	ED11-002	1	John		Griffin	M	N	N	7116	Progressive Conservative	Progressiste-Conservateur	36	Tyne Valley	110
+3700	ED11-002	1	John		Griffin	M	N	N	7116	Progressive Conservative	Progressiste-Conservateur	37	Egmont Bay	79
+3700	ED11-002	1	John		Griffin	M	N	N	7116	Progressive Conservative	Progressiste-Conservateur	38	St. Gilbert	72
+3700	ED11-002	1	John		Griffin	M	N	N	7116	Progressive Conservative	Progressiste-Conservateur	39	Arlington	81
+3700	ED11-002	1	John		Griffin	M	N	N	7116	Progressive Conservative	Progressiste-Conservateur	4	Tignish 	84
+3700	ED11-002	1	John		Griffin	M	N	N	7116	Progressive Conservative	Progressiste-Conservateur	40	Central Lot 16	103
+3700	ED11-002	1	John		Griffin	M	N	N	7116	Progressive Conservative	Progressiste-Conservateur	41	Wellington	85
+3700	ED11-002	1	John		Griffin	M	N	N	7116	Progressive Conservative	Progressiste-Conservateur	42	Abrams Village	63
+3700	ED11-002	1	John		Griffin	M	N	N	7116	Progressive Conservative	Progressiste-Conservateur	43	Mount Carmel	107
+3700	ED11-002	1	John		Griffin	M	N	N	7116	Progressive Conservative	Progressiste-Conservateur	44	St. Nicholas	76
+3700	ED11-002	1	John		Griffin	M	N	N	7116	Progressive Conservative	Progressiste-Conservateur	45	Miscouche 	94
+3700	ED11-002	1	John		Griffin	M	N	N	7116	Progressive Conservative	Progressiste-Conservateur	46	Miscouche	93
+3700	ED11-002	1	John		Griffin	M	N	N	7116	Progressive Conservative	Progressiste-Conservateur	47	Linkletter	67
+3700	ED11-002	1	John		Griffin	M	N	N	7116	Progressive Conservative	Progressiste-Conservateur	48	Summerside	101
+3700	ED11-002	1	John		Griffin	M	N	N	7116	Progressive Conservative	Progressiste-Conservateur	49	Slemon Park	77
+3700	ED11-002	1	John		Griffin	M	N	N	7116	Progressive Conservative	Progressiste-Conservateur	5	Tignish	56
+3700	ED11-002	1	John		Griffin	M	N	N	7116	Progressive Conservative	Progressiste-Conservateur	50	Sherbrooke	79
+3700	ED11-002	1	John		Griffin	M	N	N	7116	Progressive Conservative	Progressiste-Conservateur	500	Mobile poll/Bureau itinérant	44
+3700	ED11-002	1	John		Griffin	M	N	N	7116	Progressive Conservative	Progressiste-Conservateur	501	Mobile poll/Bureau itinérant	16
+3700	ED11-002	1	John		Griffin	M	N	N	7116	Progressive Conservative	Progressiste-Conservateur	51	Summerside	48
+3700	ED11-002	1	John		Griffin	M	N	N	7116	Progressive Conservative	Progressiste-Conservateur	52	Summerside	112
+3700	ED11-002	1	John		Griffin	M	N	N	7116	Progressive Conservative	Progressiste-Conservateur	53	Summerside	69
+3700	ED11-002	1	John		Griffin	M	N	N	7116	Progressive Conservative	Progressiste-Conservateur	54	Summerside	63
+3700	ED11-002	1	John		Griffin	M	N	N	7116	Progressive Conservative	Progressiste-Conservateur	55	Summerside	59
+3700	ED11-002	1	John		Griffin	M	N	N	7116	Progressive Conservative	Progressiste-Conservateur	56	Summerside	54
+3700	ED11-002	1	John		Griffin	M	N	N	7116	Progressive Conservative	Progressiste-Conservateur	57	Summerside	65
+3700	ED11-002	1	John		Griffin	M	N	N	7116	Progressive Conservative	Progressiste-Conservateur	58	Summerside	66
+3700	ED11-002	1	John		Griffin	M	N	N	7116	Progressive Conservative	Progressiste-Conservateur	59	Summerside	54
+3700	ED11-002	1	John		Griffin	M	N	N	7116	Progressive Conservative	Progressiste-Conservateur	6	Peterville	92
+3700	ED11-002	1	John		Griffin	M	N	N	7116	Progressive Conservative	Progressiste-Conservateur	60	Summerside	54
+3700	ED11-002	1	John		Griffin	M	N	N	7116	Progressive Conservative	Progressiste-Conservateur	600	Tignish	148
+3700	ED11-002	1	John		Griffin	M	N	N	7116	Progressive Conservative	Progressiste-Conservateur	601	O'Leary	148
+3700	ED11-002	1	John		Griffin	M	N	N	7116	Progressive Conservative	Progressiste-Conservateur	602	Wellington	50
+3700	ED11-002	1	John		Griffin	M	N	N	7116	Progressive Conservative	Progressiste-Conservateur	603	Summerside	57
+3700	ED11-002	1	John		Griffin	M	N	N	7116	Progressive Conservative	Progressiste-Conservateur	604	Summerside	88
+3700	ED11-002	1	John		Griffin	M	N	N	7116	Progressive Conservative	Progressiste-Conservateur	61	Summerside	93
+3700	ED11-002	1	John		Griffin	M	N	N	7116	Progressive Conservative	Progressiste-Conservateur	62	Summerside	59
+3700	ED11-002	1	John		Griffin	M	N	N	7116	Progressive Conservative	Progressiste-Conservateur	63	Summerside	46
+3700	ED11-002	1	John		Griffin	M	N	N	7116	Progressive Conservative	Progressiste-Conservateur	64	Summerside	49
+3700	ED11-002	1	John		Griffin	M	N	N	7116	Progressive Conservative	Progressiste-Conservateur	65	Summerside	74
+3700	ED11-002	1	John		Griffin	M	N	N	7116	Progressive Conservative	Progressiste-Conservateur	66	Summerside	51
+3700	ED11-002	1	John		Griffin	M	N	N	7116	Progressive Conservative	Progressiste-Conservateur	67	Summerside	56
+3700	ED11-002	1	John		Griffin	M	N	N	7116	Progressive Conservative	Progressiste-Conservateur	68	Summerside	94
+3700	ED11-002	1	John		Griffin	M	N	N	7116	Progressive Conservative	Progressiste-Conservateur	69	Summerside	60
+3700	ED11-002	1	John		Griffin	M	N	N	7116	Progressive Conservative	Progressiste-Conservateur	7	Skinners Pond	105
+3700	ED11-002	1	John		Griffin	M	N	N	7116	Progressive Conservative	Progressiste-Conservateur	70	Summerside	78
+3700	ED11-002	1	John		Griffin	M	N	N	7116	Progressive Conservative	Progressiste-Conservateur	71	Summerside	54
+3700	ED11-002	1	John		Griffin	M	N	N	7116	Progressive Conservative	Progressiste-Conservateur	72	Summerside	99
+3700	ED11-002	1	John		Griffin	M	N	N	7116	Progressive Conservative	Progressiste-Conservateur	73	Summerside	79
+3700	ED11-002	1	John		Griffin	M	N	N	7116	Progressive Conservative	Progressiste-Conservateur	74	Summerside	106
+3700	ED11-002	1	John		Griffin	M	N	N	7116	Progressive Conservative	Progressiste-Conservateur	75	Summerside	50
+3700	ED11-002	1	John		Griffin	M	N	N	7116	Progressive Conservative	Progressiste-Conservateur	76	Summerside	65
+3700	ED11-002	1	John		Griffin	M	N	N	7116	Progressive Conservative	Progressiste-Conservateur	77	Summerside	108
+3700	ED11-002	1	John		Griffin	M	N	N	7116	Progressive Conservative	Progressiste-Conservateur	78	Summerside	78
+3700	ED11-002	1	John		Griffin	M	N	N	7116	Progressive Conservative	Progressiste-Conservateur	79	Summerside	94
+3700	ED11-002	1	John		Griffin	M	N	N	7116	Progressive Conservative	Progressiste-Conservateur	8	Miminegash	101
+3700	ED11-002	1	John		Griffin	M	N	N	7116	Progressive Conservative	Progressiste-Conservateur	9	St. Edward	98
+3700	ED11-002	1	John		Griffin	M	N	N	7116	Progressive Conservative	Progressiste-Conservateur	S/R 1	SVR Group 1/RÉS Groupe 1	23
+3700	ED11-002	1	John		Griffin	M	N	N	7116	Progressive Conservative	Progressiste-Conservateur	S/R 2	SVR Group 2/RÉS Groupe 2	101
+3700	ED11-002	2	Joe		McGuire	M	Y	Y	9227	Liberal	Libéral	1	Seacow Pond	151
+3700	ED11-002	2	Joe		McGuire	M	Y	Y	9227	Liberal	Libéral	10	Profits Corner	118
+3700	ED11-002	2	Joe		McGuire	M	Y	Y	9227	Liberal	Libéral	11	St. Felix	126
+3700	ED11-002	2	Joe		McGuire	M	Y	Y	9227	Liberal	Libéral	12	Lauretta	115
+3700	ED11-002	2	Joe		McGuire	M	Y	Y	9227	Liberal	Libéral	13	Kildare	138
+3700	ED11-002	2	Joe		McGuire	M	Y	Y	9227	Liberal	Libéral	14	Alberton	119
+3700	ED11-002	2	Joe		McGuire	M	Y	Y	9227	Liberal	Libéral	15	Alberton South	104
+3700	ED11-002	2	Joe		McGuire	M	Y	Y	9227	Liberal	Libéral	16	Alberton	96
+3700	ED11-002	2	Joe		McGuire	M	Y	Y	9227	Liberal	Libéral	17	Mill River East	106
+3700	ED11-002	2	Joe		McGuire	M	Y	Y	9227	Liberal	Libéral	18	Elmsdale	83
+3700	ED11-002	2	Joe		McGuire	M	Y	Y	9227	Liberal	Libéral	19	Campbellton	45
+3700	ED11-002	2	Joe		McGuire	M	Y	Y	9227	Liberal	Libéral	2	Tignish Corner	159
+3700	ED11-002	2	Joe		McGuire	M	Y	Y	9227	Liberal	Libéral	20	Duvar	57
+3700	ED11-002	2	Joe		McGuire	M	Y	Y	9227	Liberal	Libéral	21	Burton	71
+3700	ED11-002	2	Joe		McGuire	M	Y	Y	9227	Liberal	Libéral	22	Knutsford	107
+3700	ED11-002	2	Joe		McGuire	M	Y	Y	9227	Liberal	Libéral	23	Dunblane	106
+3700	ED11-002	2	Joe		McGuire	M	Y	Y	9227	Liberal	Libéral	24	Brae	58
+3700	ED11-002	2	Joe		McGuire	M	Y	Y	9227	Liberal	Libéral	25	O'Leary	76
+3700	ED11-002	2	Joe		McGuire	M	Y	Y	9227	Liberal	Libéral	26	O'Leary 	71
+3700	ED11-002	2	Joe		McGuire	M	Y	Y	9227	Liberal	Libéral	27	Unionvale	53
+3700	ED11-002	2	Joe		McGuire	M	Y	Y	9227	Liberal	Libéral	28	O'Leary 	58
+3700	ED11-002	2	Joe		McGuire	M	Y	Y	9227	Liberal	Libéral	29	Fortune Cove	109
+3700	ED11-002	2	Joe		McGuire	M	Y	Y	9227	Liberal	Libéral	3	Judes Point	119
+3700	ED11-002	2	Joe		McGuire	M	Y	Y	9227	Liberal	Libéral	30	Freeland	94
+3700	ED11-002	2	Joe		McGuire	M	Y	Y	9227	Liberal	Libéral	31	West Devon	60
+3700	ED11-002	2	Joe		McGuire	M	Y	Y	9227	Liberal	Libéral	32	North Enmore	71
+3700	ED11-002	2	Joe		McGuire	M	Y	Y	9227	Liberal	Libéral	33	East Bideford	88
+3700	ED11-002	2	Joe		McGuire	M	Y	Y	9227	Liberal	Libéral	34	Lennox Island 1	80
+3700	ED11-002	2	Joe		McGuire	M	Y	Y	9227	Liberal	Libéral	35	Tyne Valley	149
+3700	ED11-002	2	Joe		McGuire	M	Y	Y	9227	Liberal	Libéral	36	Tyne Valley	93
+3700	ED11-002	2	Joe		McGuire	M	Y	Y	9227	Liberal	Libéral	37	Egmont Bay	154
+3700	ED11-002	2	Joe		McGuire	M	Y	Y	9227	Liberal	Libéral	38	St. Gilbert	136
+3700	ED11-002	2	Joe		McGuire	M	Y	Y	9227	Liberal	Libéral	39	Arlington	152
+3700	ED11-002	2	Joe		McGuire	M	Y	Y	9227	Liberal	Libéral	4	Tignish 	85
+3700	ED11-002	2	Joe		McGuire	M	Y	Y	9227	Liberal	Libéral	40	Central Lot 16	121
+3700	ED11-002	2	Joe		McGuire	M	Y	Y	9227	Liberal	Libéral	41	Wellington	163
+3700	ED11-002	2	Joe		McGuire	M	Y	Y	9227	Liberal	Libéral	42	Abrams Village	103
+3700	ED11-002	2	Joe		McGuire	M	Y	Y	9227	Liberal	Libéral	43	Mount Carmel	184
+3700	ED11-002	2	Joe		McGuire	M	Y	Y	9227	Liberal	Libéral	44	St. Nicholas	60
+3700	ED11-002	2	Joe		McGuire	M	Y	Y	9227	Liberal	Libéral	45	Miscouche 	124
+3700	ED11-002	2	Joe		McGuire	M	Y	Y	9227	Liberal	Libéral	46	Miscouche	145
+3700	ED11-002	2	Joe		McGuire	M	Y	Y	9227	Liberal	Libéral	47	Linkletter	66
+3700	ED11-002	2	Joe		McGuire	M	Y	Y	9227	Liberal	Libéral	48	Summerside	186
+3700	ED11-002	2	Joe		McGuire	M	Y	Y	9227	Liberal	Libéral	49	Slemon Park	134
+3700	ED11-002	2	Joe		McGuire	M	Y	Y	9227	Liberal	Libéral	5	Tignish	61
+3700	ED11-002	2	Joe		McGuire	M	Y	Y	9227	Liberal	Libéral	50	Sherbrooke	64
+3700	ED11-002	2	Joe		McGuire	M	Y	Y	9227	Liberal	Libéral	500	Mobile poll/Bureau itinérant	52
+3700	ED11-002	2	Joe		McGuire	M	Y	Y	9227	Liberal	Libéral	501	Mobile poll/Bureau itinérant	22
+3700	ED11-002	2	Joe		McGuire	M	Y	Y	9227	Liberal	Libéral	51	Summerside	57
+3700	ED11-002	2	Joe		McGuire	M	Y	Y	9227	Liberal	Libéral	52	Summerside	110
+3700	ED11-002	2	Joe		McGuire	M	Y	Y	9227	Liberal	Libéral	53	Summerside	125
+3700	ED11-002	2	Joe		McGuire	M	Y	Y	9227	Liberal	Libéral	54	Summerside	117
+3700	ED11-002	2	Joe		McGuire	M	Y	Y	9227	Liberal	Libéral	55	Summerside	67
+3700	ED11-002	2	Joe		McGuire	M	Y	Y	9227	Liberal	Libéral	56	Summerside	88
+3700	ED11-002	2	Joe		McGuire	M	Y	Y	9227	Liberal	Libéral	57	Summerside	107
+3700	ED11-002	2	Joe		McGuire	M	Y	Y	9227	Liberal	Libéral	58	Summerside	101
+3700	ED11-002	2	Joe		McGuire	M	Y	Y	9227	Liberal	Libéral	59	Summerside	87
+3700	ED11-002	2	Joe		McGuire	M	Y	Y	9227	Liberal	Libéral	6	Peterville	138
+3700	ED11-002	2	Joe		McGuire	M	Y	Y	9227	Liberal	Libéral	60	Summerside	73
+3700	ED11-002	2	Joe		McGuire	M	Y	Y	9227	Liberal	Libéral	600	Tignish	188
+3700	ED11-002	2	Joe		McGuire	M	Y	Y	9227	Liberal	Libéral	601	O'Leary	160
+3700	ED11-002	2	Joe		McGuire	M	Y	Y	9227	Liberal	Libéral	602	Wellington	73
+3700	ED11-002	2	Joe		McGuire	M	Y	Y	9227	Liberal	Libéral	603	Summerside	121
+3700	ED11-002	2	Joe		McGuire	M	Y	Y	9227	Liberal	Libéral	604	Summerside	167
+3700	ED11-002	2	Joe		McGuire	M	Y	Y	9227	Liberal	Libéral	61	Summerside	114
+3700	ED11-002	2	Joe		McGuire	M	Y	Y	9227	Liberal	Libéral	62	Summerside	88
+3700	ED11-002	2	Joe		McGuire	M	Y	Y	9227	Liberal	Libéral	63	Summerside	83
+3700	ED11-002	2	Joe		McGuire	M	Y	Y	9227	Liberal	Libéral	64	Summerside	92
+3700	ED11-002	2	Joe		McGuire	M	Y	Y	9227	Liberal	Libéral	65	Summerside	94
+3700	ED11-002	2	Joe		McGuire	M	Y	Y	9227	Liberal	Libéral	66	Summerside	67
+3700	ED11-002	2	Joe		McGuire	M	Y	Y	9227	Liberal	Libéral	67	Summerside	71
+3700	ED11-002	2	Joe		McGuire	M	Y	Y	9227	Liberal	Libéral	68	Summerside	160
+3700	ED11-002	2	Joe		McGuire	M	Y	Y	9227	Liberal	Libéral	69	Summerside	53
+3700	ED11-002	2	Joe		McGuire	M	Y	Y	9227	Liberal	Libéral	7	Skinners Pond	122
+3700	ED11-002	2	Joe		McGuire	M	Y	Y	9227	Liberal	Libéral	70	Summerside	92
+3700	ED11-002	2	Joe		McGuire	M	Y	Y	9227	Liberal	Libéral	71	Summerside	81
+3700	ED11-002	2	Joe		McGuire	M	Y	Y	9227	Liberal	Libéral	72	Summerside	126
+3700	ED11-002	2	Joe		McGuire	M	Y	Y	9227	Liberal	Libéral	73	Summerside	102
+3700	ED11-002	2	Joe		McGuire	M	Y	Y	9227	Liberal	Libéral	74	Summerside	131
+3700	ED11-002	2	Joe		McGuire	M	Y	Y	9227	Liberal	Libéral	75	Summerside	79
+3700	ED11-002	2	Joe		McGuire	M	Y	Y	9227	Liberal	Libéral	76	Summerside	91
+3700	ED11-002	2	Joe		McGuire	M	Y	Y	9227	Liberal	Libéral	77	Summerside	167
+3700	ED11-002	2	Joe		McGuire	M	Y	Y	9227	Liberal	Libéral	78	Summerside	115
+3700	ED11-002	2	Joe		McGuire	M	Y	Y	9227	Liberal	Libéral	79	Summerside	114
+3700	ED11-002	2	Joe		McGuire	M	Y	Y	9227	Liberal	Libéral	8	Miminegash	126
+3700	ED11-002	2	Joe		McGuire	M	Y	Y	9227	Liberal	Libéral	9	St. Edward	158
+3700	ED11-002	2	Joe		McGuire	M	Y	Y	9227	Liberal	Libéral	S/R 1	SVR Group 1/RÉS Groupe 1	49
+3700	ED11-002	2	Joe		McGuire	M	Y	Y	9227	Liberal	Libéral	S/R 2	SVR Group 2/RÉS Groupe 2	181
+3700	ED11-002	3	Jeff		Sullivan	M	N	N	952	Canadian Alliance	Alliance Canadienne	1	Seacow Pond	3
+3700	ED11-002	3	Jeff		Sullivan	M	N	N	952	Canadian Alliance	Alliance Canadienne	10	Profits Corner	1
+3700	ED11-002	3	Jeff		Sullivan	M	N	N	952	Canadian Alliance	Alliance Canadienne	11	St. Felix	4
+3700	ED11-002	3	Jeff		Sullivan	M	N	N	952	Canadian Alliance	Alliance Canadienne	12	Lauretta	6
+3700	ED11-002	3	Jeff		Sullivan	M	N	N	952	Canadian Alliance	Alliance Canadienne	13	Kildare	16
+3700	ED11-002	3	Jeff		Sullivan	M	N	N	952	Canadian Alliance	Alliance Canadienne	14	Alberton	11
+3700	ED11-002	3	Jeff		Sullivan	M	N	N	952	Canadian Alliance	Alliance Canadienne	15	Alberton South	7
+3700	ED11-002	3	Jeff		Sullivan	M	N	N	952	Canadian Alliance	Alliance Canadienne	16	Alberton	6
+3700	ED11-002	3	Jeff		Sullivan	M	N	N	952	Canadian Alliance	Alliance Canadienne	17	Mill River East	9
+3700	ED11-002	3	Jeff		Sullivan	M	N	N	952	Canadian Alliance	Alliance Canadienne	18	Elmsdale	6
+3700	ED11-002	3	Jeff		Sullivan	M	N	N	952	Canadian Alliance	Alliance Canadienne	19	Campbellton	2
+3700	ED11-002	3	Jeff		Sullivan	M	N	N	952	Canadian Alliance	Alliance Canadienne	2	Tignish Corner	3
+3700	ED11-002	3	Jeff		Sullivan	M	N	N	952	Canadian Alliance	Alliance Canadienne	20	Duvar	7
+3700	ED11-002	3	Jeff		Sullivan	M	N	N	952	Canadian Alliance	Alliance Canadienne	21	Burton	1
+3700	ED11-002	3	Jeff		Sullivan	M	N	N	952	Canadian Alliance	Alliance Canadienne	22	Knutsford	7
+3700	ED11-002	3	Jeff		Sullivan	M	N	N	952	Canadian Alliance	Alliance Canadienne	23	Dunblane	14
+3700	ED11-002	3	Jeff		Sullivan	M	N	N	952	Canadian Alliance	Alliance Canadienne	24	Brae	4
+3700	ED11-002	3	Jeff		Sullivan	M	N	N	952	Canadian Alliance	Alliance Canadienne	25	O'Leary	6
+3700	ED11-002	3	Jeff		Sullivan	M	N	N	952	Canadian Alliance	Alliance Canadienne	26	O'Leary 	4
+3700	ED11-002	3	Jeff		Sullivan	M	N	N	952	Canadian Alliance	Alliance Canadienne	27	Unionvale	1
+3700	ED11-002	3	Jeff		Sullivan	M	N	N	952	Canadian Alliance	Alliance Canadienne	28	O'Leary 	2
+3700	ED11-002	3	Jeff		Sullivan	M	N	N	952	Canadian Alliance	Alliance Canadienne	29	Fortune Cove	9
+3700	ED11-002	3	Jeff		Sullivan	M	N	N	952	Canadian Alliance	Alliance Canadienne	3	Judes Point	10
+3700	ED11-002	3	Jeff		Sullivan	M	N	N	952	Canadian Alliance	Alliance Canadienne	30	Freeland	19
+3700	ED11-002	3	Jeff		Sullivan	M	N	N	952	Canadian Alliance	Alliance Canadienne	31	West Devon	0
+3700	ED11-002	3	Jeff		Sullivan	M	N	N	952	Canadian Alliance	Alliance Canadienne	32	North Enmore	0
+3700	ED11-002	3	Jeff		Sullivan	M	N	N	952	Canadian Alliance	Alliance Canadienne	33	East Bideford	8
+3700	ED11-002	3	Jeff		Sullivan	M	N	N	952	Canadian Alliance	Alliance Canadienne	34	Lennox Island 1	0
+3700	ED11-002	3	Jeff		Sullivan	M	N	N	952	Canadian Alliance	Alliance Canadienne	35	Tyne Valley	7
+3700	ED11-002	3	Jeff		Sullivan	M	N	N	952	Canadian Alliance	Alliance Canadienne	36	Tyne Valley	5
+3700	ED11-002	3	Jeff		Sullivan	M	N	N	952	Canadian Alliance	Alliance Canadienne	37	Egmont Bay	5
+3700	ED11-002	3	Jeff		Sullivan	M	N	N	952	Canadian Alliance	Alliance Canadienne	38	St. Gilbert	9
+3700	ED11-002	3	Jeff		Sullivan	M	N	N	952	Canadian Alliance	Alliance Canadienne	39	Arlington	17
+3700	ED11-002	3	Jeff		Sullivan	M	N	N	952	Canadian Alliance	Alliance Canadienne	4	Tignish 	1
+3700	ED11-002	3	Jeff		Sullivan	M	N	N	952	Canadian Alliance	Alliance Canadienne	40	Central Lot 16	15
+3700	ED11-002	3	Jeff		Sullivan	M	N	N	952	Canadian Alliance	Alliance Canadienne	41	Wellington	7
+3700	ED11-002	3	Jeff		Sullivan	M	N	N	952	Canadian Alliance	Alliance Canadienne	42	Abrams Village	7
+3700	ED11-002	3	Jeff		Sullivan	M	N	N	952	Canadian Alliance	Alliance Canadienne	43	Mount Carmel	11
+3700	ED11-002	3	Jeff		Sullivan	M	N	N	952	Canadian Alliance	Alliance Canadienne	44	St. Nicholas	14
+3700	ED11-002	3	Jeff		Sullivan	M	N	N	952	Canadian Alliance	Alliance Canadienne	45	Miscouche 	20
+3700	ED11-002	3	Jeff		Sullivan	M	N	N	952	Canadian Alliance	Alliance Canadienne	46	Miscouche	5
+3700	ED11-002	3	Jeff		Sullivan	M	N	N	952	Canadian Alliance	Alliance Canadienne	47	Linkletter	16
+3700	ED11-002	3	Jeff		Sullivan	M	N	N	952	Canadian Alliance	Alliance Canadienne	48	Summerside	17
+3700	ED11-002	3	Jeff		Sullivan	M	N	N	952	Canadian Alliance	Alliance Canadienne	49	Slemon Park	30
+3700	ED11-002	3	Jeff		Sullivan	M	N	N	952	Canadian Alliance	Alliance Canadienne	5	Tignish	4
+3700	ED11-002	3	Jeff		Sullivan	M	N	N	952	Canadian Alliance	Alliance Canadienne	50	Sherbrooke	9
+3700	ED11-002	3	Jeff		Sullivan	M	N	N	952	Canadian Alliance	Alliance Canadienne	500	Mobile poll/Bureau itinérant	1
+3700	ED11-002	3	Jeff		Sullivan	M	N	N	952	Canadian Alliance	Alliance Canadienne	501	Mobile poll/Bureau itinérant	2
+3700	ED11-002	3	Jeff		Sullivan	M	N	N	952	Canadian Alliance	Alliance Canadienne	51	Summerside	8
+3700	ED11-002	3	Jeff		Sullivan	M	N	N	952	Canadian Alliance	Alliance Canadienne	52	Summerside	29
+3700	ED11-002	3	Jeff		Sullivan	M	N	N	952	Canadian Alliance	Alliance Canadienne	53	Summerside	20
+3700	ED11-002	3	Jeff		Sullivan	M	N	N	952	Canadian Alliance	Alliance Canadienne	54	Summerside	13
+3700	ED11-002	3	Jeff		Sullivan	M	N	N	952	Canadian Alliance	Alliance Canadienne	55	Summerside	5
+3700	ED11-002	3	Jeff		Sullivan	M	N	N	952	Canadian Alliance	Alliance Canadienne	56	Summerside	19
+3700	ED11-002	3	Jeff		Sullivan	M	N	N	952	Canadian Alliance	Alliance Canadienne	57	Summerside	11
+3700	ED11-002	3	Jeff		Sullivan	M	N	N	952	Canadian Alliance	Alliance Canadienne	58	Summerside	11
+3700	ED11-002	3	Jeff		Sullivan	M	N	N	952	Canadian Alliance	Alliance Canadienne	59	Summerside	10
+3700	ED11-002	3	Jeff		Sullivan	M	N	N	952	Canadian Alliance	Alliance Canadienne	6	Peterville	8
+3700	ED11-002	3	Jeff		Sullivan	M	N	N	952	Canadian Alliance	Alliance Canadienne	60	Summerside	11
+3700	ED11-002	3	Jeff		Sullivan	M	N	N	952	Canadian Alliance	Alliance Canadienne	600	Tignish	1
+3700	ED11-002	3	Jeff		Sullivan	M	N	N	952	Canadian Alliance	Alliance Canadienne	601	O'Leary	11
+3700	ED11-002	3	Jeff		Sullivan	M	N	N	952	Canadian Alliance	Alliance Canadienne	602	Wellington	11
+3700	ED11-002	3	Jeff		Sullivan	M	N	N	952	Canadian Alliance	Alliance Canadienne	603	Summerside	21
+3700	ED11-002	3	Jeff		Sullivan	M	N	N	952	Canadian Alliance	Alliance Canadienne	604	Summerside	33
+3700	ED11-002	3	Jeff		Sullivan	M	N	N	952	Canadian Alliance	Alliance Canadienne	61	Summerside	3
+3700	ED11-002	3	Jeff		Sullivan	M	N	N	952	Canadian Alliance	Alliance Canadienne	62	Summerside	23
+3700	ED11-002	3	Jeff		Sullivan	M	N	N	952	Canadian Alliance	Alliance Canadienne	63	Summerside	4
+3700	ED11-002	3	Jeff		Sullivan	M	N	N	952	Canadian Alliance	Alliance Canadienne	64	Summerside	9
+3700	ED11-002	3	Jeff		Sullivan	M	N	N	952	Canadian Alliance	Alliance Canadienne	65	Summerside	22
+3700	ED11-002	3	Jeff		Sullivan	M	N	N	952	Canadian Alliance	Alliance Canadienne	66	Summerside	28
+3700	ED11-002	3	Jeff		Sullivan	M	N	N	952	Canadian Alliance	Alliance Canadienne	67	Summerside	11
+3700	ED11-002	3	Jeff		Sullivan	M	N	N	952	Canadian Alliance	Alliance Canadienne	68	Summerside	19
+3700	ED11-002	3	Jeff		Sullivan	M	N	N	952	Canadian Alliance	Alliance Canadienne	69	Summerside	14
+3700	ED11-002	3	Jeff		Sullivan	M	N	N	952	Canadian Alliance	Alliance Canadienne	7	Skinners Pond	8
+3700	ED11-002	3	Jeff		Sullivan	M	N	N	952	Canadian Alliance	Alliance Canadienne	70	Summerside	10
+3700	ED11-002	3	Jeff		Sullivan	M	N	N	952	Canadian Alliance	Alliance Canadienne	71	Summerside	9
+3700	ED11-002	3	Jeff		Sullivan	M	N	N	952	Canadian Alliance	Alliance Canadienne	72	Summerside	18
+3700	ED11-002	3	Jeff		Sullivan	M	N	N	952	Canadian Alliance	Alliance Canadienne	73	Summerside	24
+3700	ED11-002	3	Jeff		Sullivan	M	N	N	952	Canadian Alliance	Alliance Canadienne	74	Summerside	26
+3700	ED11-002	3	Jeff		Sullivan	M	N	N	952	Canadian Alliance	Alliance Canadienne	75	Summerside	14
+3700	ED11-002	3	Jeff		Sullivan	M	N	N	952	Canadian Alliance	Alliance Canadienne	76	Summerside	14
+3700	ED11-002	3	Jeff		Sullivan	M	N	N	952	Canadian Alliance	Alliance Canadienne	77	Summerside	16
+3700	ED11-002	3	Jeff		Sullivan	M	N	N	952	Canadian Alliance	Alliance Canadienne	78	Summerside	9
+3700	ED11-002	3	Jeff		Sullivan	M	N	N	952	Canadian Alliance	Alliance Canadienne	79	Summerside	27
+3700	ED11-002	3	Jeff		Sullivan	M	N	N	952	Canadian Alliance	Alliance Canadienne	8	Miminegash	3
+3700	ED11-002	3	Jeff		Sullivan	M	N	N	952	Canadian Alliance	Alliance Canadienne	9	St. Edward	5
+3700	ED11-002	3	Jeff		Sullivan	M	N	N	952	Canadian Alliance	Alliance Canadienne	S/R 1	SVR Group 1/RÉS Groupe 1	30
+3700	ED11-002	3	Jeff		Sullivan	M	N	N	952	Canadian Alliance	Alliance Canadienne	S/R 2	SVR Group 2/RÉS Groupe 2	16
+3700	ED11-002	4	Nancy		Wallace	F	N	N	1139	N.D.P.	N.P.D.	1	Seacow Pond	11
+3700	ED11-002	4	Nancy		Wallace	F	N	N	1139	N.D.P.	N.P.D.	10	Profits Corner	11
+3700	ED11-002	4	Nancy		Wallace	F	N	N	1139	N.D.P.	N.P.D.	11	St. Felix	5
+3700	ED11-002	4	Nancy		Wallace	F	N	N	1139	N.D.P.	N.P.D.	12	Lauretta	10
+3700	ED11-002	4	Nancy		Wallace	F	N	N	1139	N.D.P.	N.P.D.	13	Kildare	11
+3700	ED11-002	4	Nancy		Wallace	F	N	N	1139	N.D.P.	N.P.D.	14	Alberton	11
+3700	ED11-002	4	Nancy		Wallace	F	N	N	1139	N.D.P.	N.P.D.	15	Alberton South	22
+3700	ED11-002	4	Nancy		Wallace	F	N	N	1139	N.D.P.	N.P.D.	16	Alberton	1
+3700	ED11-002	4	Nancy		Wallace	F	N	N	1139	N.D.P.	N.P.D.	17	Mill River East	14
+3700	ED11-002	4	Nancy		Wallace	F	N	N	1139	N.D.P.	N.P.D.	18	Elmsdale	10
+3700	ED11-002	4	Nancy		Wallace	F	N	N	1139	N.D.P.	N.P.D.	19	Campbellton	5
+3700	ED11-002	4	Nancy		Wallace	F	N	N	1139	N.D.P.	N.P.D.	2	Tignish Corner	6
+3700	ED11-002	4	Nancy		Wallace	F	N	N	1139	N.D.P.	N.P.D.	20	Duvar	19
+3700	ED11-002	4	Nancy		Wallace	F	N	N	1139	N.D.P.	N.P.D.	21	Burton	7
+3700	ED11-002	4	Nancy		Wallace	F	N	N	1139	N.D.P.	N.P.D.	22	Knutsford	11
+3700	ED11-002	4	Nancy		Wallace	F	N	N	1139	N.D.P.	N.P.D.	23	Dunblane	10
+3700	ED11-002	4	Nancy		Wallace	F	N	N	1139	N.D.P.	N.P.D.	24	Brae	19
+3700	ED11-002	4	Nancy		Wallace	F	N	N	1139	N.D.P.	N.P.D.	25	O'Leary	30
+3700	ED11-002	4	Nancy		Wallace	F	N	N	1139	N.D.P.	N.P.D.	26	O'Leary 	29
+3700	ED11-002	4	Nancy		Wallace	F	N	N	1139	N.D.P.	N.P.D.	27	Unionvale	28
+3700	ED11-002	4	Nancy		Wallace	F	N	N	1139	N.D.P.	N.P.D.	28	O'Leary 	15
+3700	ED11-002	4	Nancy		Wallace	F	N	N	1139	N.D.P.	N.P.D.	29	Fortune Cove	28
+3700	ED11-002	4	Nancy		Wallace	F	N	N	1139	N.D.P.	N.P.D.	3	Judes Point	6
+3700	ED11-002	4	Nancy		Wallace	F	N	N	1139	N.D.P.	N.P.D.	30	Freeland	17
+3700	ED11-002	4	Nancy		Wallace	F	N	N	1139	N.D.P.	N.P.D.	31	West Devon	15
+3700	ED11-002	4	Nancy		Wallace	F	N	N	1139	N.D.P.	N.P.D.	32	North Enmore	17
+3700	ED11-002	4	Nancy		Wallace	F	N	N	1139	N.D.P.	N.P.D.	33	East Bideford	14
+3700	ED11-002	4	Nancy		Wallace	F	N	N	1139	N.D.P.	N.P.D.	34	Lennox Island 1	6
+3700	ED11-002	4	Nancy		Wallace	F	N	N	1139	N.D.P.	N.P.D.	35	Tyne Valley	20
+3700	ED11-002	4	Nancy		Wallace	F	N	N	1139	N.D.P.	N.P.D.	36	Tyne Valley	18
+3700	ED11-002	4	Nancy		Wallace	F	N	N	1139	N.D.P.	N.P.D.	37	Egmont Bay	12
+3700	ED11-002	4	Nancy		Wallace	F	N	N	1139	N.D.P.	N.P.D.	38	St. Gilbert	9
+3700	ED11-002	4	Nancy		Wallace	F	N	N	1139	N.D.P.	N.P.D.	39	Arlington	7
+3700	ED11-002	4	Nancy		Wallace	F	N	N	1139	N.D.P.	N.P.D.	4	Tignish 	8
+3700	ED11-002	4	Nancy		Wallace	F	N	N	1139	N.D.P.	N.P.D.	40	Central Lot 16	16
+3700	ED11-002	4	Nancy		Wallace	F	N	N	1139	N.D.P.	N.P.D.	41	Wellington	4
+3700	ED11-002	4	Nancy		Wallace	F	N	N	1139	N.D.P.	N.P.D.	42	Abrams Village	19
+3700	ED11-002	4	Nancy		Wallace	F	N	N	1139	N.D.P.	N.P.D.	43	Mount Carmel	14
+3700	ED11-002	4	Nancy		Wallace	F	N	N	1139	N.D.P.	N.P.D.	44	St. Nicholas	12
+3700	ED11-002	4	Nancy		Wallace	F	N	N	1139	N.D.P.	N.P.D.	45	Miscouche 	21
+3700	ED11-002	4	Nancy		Wallace	F	N	N	1139	N.D.P.	N.P.D.	46	Miscouche	14
+3700	ED11-002	4	Nancy		Wallace	F	N	N	1139	N.D.P.	N.P.D.	47	Linkletter	9
+3700	ED11-002	4	Nancy		Wallace	F	N	N	1139	N.D.P.	N.P.D.	48	Summerside	27
+3700	ED11-002	4	Nancy		Wallace	F	N	N	1139	N.D.P.	N.P.D.	49	Slemon Park	30
+3700	ED11-002	4	Nancy		Wallace	F	N	N	1139	N.D.P.	N.P.D.	5	Tignish	3
+3700	ED11-002	4	Nancy		Wallace	F	N	N	1139	N.D.P.	N.P.D.	50	Sherbrooke	11
+3700	ED11-002	4	Nancy		Wallace	F	N	N	1139	N.D.P.	N.P.D.	500	Mobile poll/Bureau itinérant	4
+3700	ED11-002	4	Nancy		Wallace	F	N	N	1139	N.D.P.	N.P.D.	501	Mobile poll/Bureau itinérant	0
+3700	ED11-002	4	Nancy		Wallace	F	N	N	1139	N.D.P.	N.P.D.	51	Summerside	1
+3700	ED11-002	4	Nancy		Wallace	F	N	N	1139	N.D.P.	N.P.D.	52	Summerside	13
+3700	ED11-002	4	Nancy		Wallace	F	N	N	1139	N.D.P.	N.P.D.	53	Summerside	27
+3700	ED11-002	4	Nancy		Wallace	F	N	N	1139	N.D.P.	N.P.D.	54	Summerside	9
+3700	ED11-002	4	Nancy		Wallace	F	N	N	1139	N.D.P.	N.P.D.	55	Summerside	18
+3700	ED11-002	4	Nancy		Wallace	F	N	N	1139	N.D.P.	N.P.D.	56	Summerside	5
+3700	ED11-002	4	Nancy		Wallace	F	N	N	1139	N.D.P.	N.P.D.	57	Summerside	14
+3700	ED11-002	4	Nancy		Wallace	F	N	N	1139	N.D.P.	N.P.D.	58	Summerside	10
+3700	ED11-002	4	Nancy		Wallace	F	N	N	1139	N.D.P.	N.P.D.	59	Summerside	14
+3700	ED11-002	4	Nancy		Wallace	F	N	N	1139	N.D.P.	N.P.D.	6	Peterville	6
+3700	ED11-002	4	Nancy		Wallace	F	N	N	1139	N.D.P.	N.P.D.	60	Summerside	7
+3700	ED11-002	4	Nancy		Wallace	F	N	N	1139	N.D.P.	N.P.D.	600	Tignish	9
+3700	ED11-002	4	Nancy		Wallace	F	N	N	1139	N.D.P.	N.P.D.	601	O'Leary	28
+3700	ED11-002	4	Nancy		Wallace	F	N	N	1139	N.D.P.	N.P.D.	602	Wellington	4
+3700	ED11-002	4	Nancy		Wallace	F	N	N	1139	N.D.P.	N.P.D.	603	Summerside	8
+3700	ED11-002	4	Nancy		Wallace	F	N	N	1139	N.D.P.	N.P.D.	604	Summerside	13
+3700	ED11-002	4	Nancy		Wallace	F	N	N	1139	N.D.P.	N.P.D.	61	Summerside	14
+3700	ED11-002	4	Nancy		Wallace	F	N	N	1139	N.D.P.	N.P.D.	62	Summerside	11
+3700	ED11-002	4	Nancy		Wallace	F	N	N	1139	N.D.P.	N.P.D.	63	Summerside	10
+3700	ED11-002	4	Nancy		Wallace	F	N	N	1139	N.D.P.	N.P.D.	64	Summerside	10
+3700	ED11-002	4	Nancy		Wallace	F	N	N	1139	N.D.P.	N.P.D.	65	Summerside	25
+3700	ED11-002	4	Nancy		Wallace	F	N	N	1139	N.D.P.	N.P.D.	66	Summerside	15
+3700	ED11-002	4	Nancy		Wallace	F	N	N	1139	N.D.P.	N.P.D.	67	Summerside	10
+3700	ED11-002	4	Nancy		Wallace	F	N	N	1139	N.D.P.	N.P.D.	68	Summerside	18
+3700	ED11-002	4	Nancy		Wallace	F	N	N	1139	N.D.P.	N.P.D.	69	Summerside	9
+3700	ED11-002	4	Nancy		Wallace	F	N	N	1139	N.D.P.	N.P.D.	7	Skinners Pond	3
+3700	ED11-002	4	Nancy		Wallace	F	N	N	1139	N.D.P.	N.P.D.	70	Summerside	18
+3700	ED11-002	4	Nancy		Wallace	F	N	N	1139	N.D.P.	N.P.D.	71	Summerside	5
+3700	ED11-002	4	Nancy		Wallace	F	N	N	1139	N.D.P.	N.P.D.	72	Summerside	12
+3700	ED11-002	4	Nancy		Wallace	F	N	N	1139	N.D.P.	N.P.D.	73	Summerside	15
+3700	ED11-002	4	Nancy		Wallace	F	N	N	1139	N.D.P.	N.P.D.	74	Summerside	20
+3700	ED11-002	4	Nancy		Wallace	F	N	N	1139	N.D.P.	N.P.D.	75	Summerside	7
+3700	ED11-002	4	Nancy		Wallace	F	N	N	1139	N.D.P.	N.P.D.	76	Summerside	12
+3700	ED11-002	4	Nancy		Wallace	F	N	N	1139	N.D.P.	N.P.D.	77	Summerside	24
+3700	ED11-002	4	Nancy		Wallace	F	N	N	1139	N.D.P.	N.P.D.	78	Summerside	7
+3700	ED11-002	4	Nancy		Wallace	F	N	N	1139	N.D.P.	N.P.D.	79	Summerside	8
+3700	ED11-002	4	Nancy		Wallace	F	N	N	1139	N.D.P.	N.P.D.	8	Miminegash	13
+3700	ED11-002	4	Nancy		Wallace	F	N	N	1139	N.D.P.	N.P.D.	9	St. Edward	16
+3700	ED11-002	4	Nancy		Wallace	F	N	N	1139	N.D.P.	N.P.D.	S/R 1	SVR Group 1/RÉS Groupe 1	7
+3700	ED11-002	4	Nancy		Wallace	F	N	N	1139	N.D.P.	N.P.D.	S/R 2	SVR Group 2/RÉS Groupe 2	18
+3700	ED11-003	1	Peter		Cameron	M	N	N	92	Natural Law Party	Parti de la loi naturelle	1	Upton Farm	0
+3700	ED11-003	1	Peter		Cameron	M	N	N	92	Natural Law Party	Parti de la loi naturelle	10	Moreau Drive	0
+3700	ED11-003	1	Peter		Cameron	M	N	N	92	Natural Law Party	Parti de la loi naturelle	11	Skyview Drive	1
+3700	ED11-003	1	Peter		Cameron	M	N	N	92	Natural Law Party	Parti de la loi naturelle	12	Hutchinson Court	7
+3700	ED11-003	1	Peter		Cameron	M	N	N	92	Natural Law Party	Parti de la loi naturelle	13	Cooper Avenue	2
+3700	ED11-003	1	Peter		Cameron	M	N	N	92	Natural Law Party	Parti de la loi naturelle	14	Hunt Avenue	0
+3700	ED11-003	1	Peter		Cameron	M	N	N	92	Natural Law Party	Parti de la loi naturelle	15	Ashburn Crescent	0
+3700	ED11-003	1	Peter		Cameron	M	N	N	92	Natural Law Party	Parti de la loi naturelle	16	Newland Crescent	0
+3700	ED11-003	1	Peter		Cameron	M	N	N	92	Natural Law Party	Parti de la loi naturelle	17	Emerald Drive	0
+3700	ED11-003	1	Peter		Cameron	M	N	N	92	Natural Law Party	Parti de la loi naturelle	18	Rosemount Drive	1
+3700	ED11-003	1	Peter		Cameron	M	N	N	92	Natural Law Party	Parti de la loi naturelle	19	Edinburgh Drive	0
+3700	ED11-003	1	Peter		Cameron	M	N	N	92	Natural Law Party	Parti de la loi naturelle	2	Thorndale Drive	1
+3700	ED11-003	1	Peter		Cameron	M	N	N	92	Natural Law Party	Parti de la loi naturelle	20	St Claire Avenue	1
+3700	ED11-003	1	Peter		Cameron	M	N	N	92	Natural Law Party	Parti de la loi naturelle	21	Landsdowne Avenue	0
+3700	ED11-003	1	Peter		Cameron	M	N	N	92	Natural Law Party	Parti de la loi naturelle	22	Wendy Drive	0
+3700	ED11-003	1	Peter		Cameron	M	N	N	92	Natural Law Party	Parti de la loi naturelle	23	Harley Street	1
+3700	ED11-003	1	Peter		Cameron	M	N	N	92	Natural Law Party	Parti de la loi naturelle	24	Park Royal	0
+3700	ED11-003	1	Peter		Cameron	M	N	N	92	Natural Law Party	Parti de la loi naturelle	25	Valhalla Drive	0
+3700	ED11-003	1	Peter		Cameron	M	N	N	92	Natural Law Party	Parti de la loi naturelle	26	Centennial Drive	1
+3700	ED11-003	1	Peter		Cameron	M	N	N	92	Natural Law Party	Parti de la loi naturelle	27	Roper Drive	0
+3700	ED11-003	1	Peter		Cameron	M	N	N	92	Natural Law Party	Parti de la loi naturelle	28	Greenleaf Avenue	1
+3700	ED11-003	1	Peter		Cameron	M	N	N	92	Natural Law Party	Parti de la loi naturelle	29	Poplar Avenue	1
+3700	ED11-003	1	Peter		Cameron	M	N	N	92	Natural Law Party	Parti de la loi naturelle	3	Gates Drive	1
+3700	ED11-003	1	Peter		Cameron	M	N	N	92	Natural Law Party	Parti de la loi naturelle	30	MacMillan Crescent	0
+3700	ED11-003	1	Peter		Cameron	M	N	N	92	Natural Law Party	Parti de la loi naturelle	31	University Avenue	0
+3700	ED11-003	1	Peter		Cameron	M	N	N	92	Natural Law Party	Parti de la loi naturelle	32	Kenlea Drive	0
+3700	ED11-003	1	Peter		Cameron	M	N	N	92	Natural Law Party	Parti de la loi naturelle	33	Ash Drive	2
+3700	ED11-003	1	Peter		Cameron	M	N	N	92	Natural Law Party	Parti de la loi naturelle	34	MacAleer Drive	0
+3700	ED11-003	1	Peter		Cameron	M	N	N	92	Natural Law Party	Parti de la loi naturelle	35	Scarlet Avenue	1
+3700	ED11-003	1	Peter		Cameron	M	N	N	92	Natural Law Party	Parti de la loi naturelle	36	Doncaster Avenue	0
+3700	ED11-003	1	Peter		Cameron	M	N	N	92	Natural Law Party	Parti de la loi naturelle	37	Pope Avenue	1
+3700	ED11-003	1	Peter		Cameron	M	N	N	92	Natural Law Party	Parti de la loi naturelle	38	East Royalty North	0
+3700	ED11-003	1	Peter		Cameron	M	N	N	92	Natural Law Party	Parti de la loi naturelle	39	L. M. Montgomery	1
+3700	ED11-003	1	Peter		Cameron	M	N	N	92	Natural Law Party	Parti de la loi naturelle	4	Burns Avenue	0
+3700	ED11-003	1	Peter		Cameron	M	N	N	92	Natural Law Party	Parti de la loi naturelle	40	East Royalty South	0
+3700	ED11-003	1	Peter		Cameron	M	N	N	92	Natural Law Party	Parti de la loi naturelle	41	Westcomb Crescent	2
+3700	ED11-003	1	Peter		Cameron	M	N	N	92	Natural Law Party	Parti de la loi naturelle	42	Park Avenue	0
+3700	ED11-003	1	Peter		Cameron	M	N	N	92	Natural Law Party	Parti de la loi naturelle	43	Glenthorn Avenue	2
+3700	ED11-003	1	Peter		Cameron	M	N	N	92	Natural Law Party	Parti de la loi naturelle	44	Glenafton Drive	1
+3700	ED11-003	1	Peter		Cameron	M	N	N	92	Natural Law Party	Parti de la loi naturelle	45	Q.E.H.-Riverside	2
+3700	ED11-003	1	Peter		Cameron	M	N	N	92	Natural Law Party	Parti de la loi naturelle	46	Greensview Drive	0
+3700	ED11-003	1	Peter		Cameron	M	N	N	92	Natural Law Party	Parti de la loi naturelle	47	Francis Lane	2
+3700	ED11-003	1	Peter		Cameron	M	N	N	92	Natural Law Party	Parti de la loi naturelle	48	Gordon Drive	2
+3700	ED11-003	1	Peter		Cameron	M	N	N	92	Natural Law Party	Parti de la loi naturelle	49	Laurie Drive	1
+3700	ED11-003	1	Peter		Cameron	M	N	N	92	Natural Law Party	Parti de la loi naturelle	5	Scott Street	0
+3700	ED11-003	1	Peter		Cameron	M	N	N	92	Natural Law Party	Parti de la loi naturelle	50	Charlottetown	2
+3700	ED11-003	1	Peter		Cameron	M	N	N	92	Natural Law Party	Parti de la loi naturelle	500	Mobile poll/Bureau itinérant	0
+3700	ED11-003	1	Peter		Cameron	M	N	N	92	Natural Law Party	Parti de la loi naturelle	501	Mobile poll/Bureau itinérant	3
+3700	ED11-003	1	Peter		Cameron	M	N	N	92	Natural Law Party	Parti de la loi naturelle	502	Mobile poll/Bureau itinérant	2
+3700	ED11-003	1	Peter		Cameron	M	N	N	92	Natural Law Party	Parti de la loi naturelle	503	Mobile poll/Bureau itinérant	3
+3700	ED11-003	1	Peter		Cameron	M	N	N	92	Natural Law Party	Parti de la loi naturelle	51	Linden Avenue	3
+3700	ED11-003	1	Peter		Cameron	M	N	N	92	Natural Law Party	Parti de la loi naturelle	52	Park Street	3
+3700	ED11-003	1	Peter		Cameron	M	N	N	92	Natural Law Party	Parti de la loi naturelle	53	Cumberland Street	1
+3700	ED11-003	1	Peter		Cameron	M	N	N	92	Natural Law Party	Parti de la loi naturelle	54	Water Street East	0
+3700	ED11-003	1	Peter		Cameron	M	N	N	92	Natural Law Party	Parti de la loi naturelle	55	Sydney Street	0
+3700	ED11-003	1	Peter		Cameron	M	N	N	92	Natural Law Party	Parti de la loi naturelle	56	Clarke Street	2
+3700	ED11-003	1	Peter		Cameron	M	N	N	92	Natural Law Party	Parti de la loi naturelle	57	Bishop Street	0
+3700	ED11-003	1	Peter		Cameron	M	N	N	92	Natural Law Party	Parti de la loi naturelle	58	Walthen Drive	0
+3700	ED11-003	1	Peter		Cameron	M	N	N	92	Natural Law Party	Parti de la loi naturelle	59	Orlebar Street	2
+3700	ED11-003	1	Peter		Cameron	M	N	N	92	Natural Law Party	Parti de la loi naturelle	6	May Point Road	1
+3700	ED11-003	1	Peter		Cameron	M	N	N	92	Natural Law Party	Parti de la loi naturelle	60	Pleasant Street	0
+3700	ED11-003	1	Peter		Cameron	M	N	N	92	Natural Law Party	Parti de la loi naturelle	600	Charlottetown	1
+3700	ED11-003	1	Peter		Cameron	M	N	N	92	Natural Law Party	Parti de la loi naturelle	601	Sherwood	1
+3700	ED11-003	1	Peter		Cameron	M	N	N	92	Natural Law Party	Parti de la loi naturelle	602	Charlottetown	1
+3700	ED11-003	1	Peter		Cameron	M	N	N	92	Natural Law Party	Parti de la loi naturelle	603	Keppoch-Kinlock	0
+3700	ED11-003	1	Peter		Cameron	M	N	N	92	Natural Law Party	Parti de la loi naturelle	61	Belmont Street	1
+3700	ED11-003	1	Peter		Cameron	M	N	N	92	Natural Law Party	Parti de la loi naturelle	62	Lapthorne Avenue	2
+3700	ED11-003	1	Peter		Cameron	M	N	N	92	Natural Law Party	Parti de la loi naturelle	63	Connolly Street	0
+3700	ED11-003	1	Peter		Cameron	M	N	N	92	Natural Law Party	Parti de la loi naturelle	64	Passmore Street	3
+3700	ED11-003	1	Peter		Cameron	M	N	N	92	Natural Law Party	Parti de la loi naturelle	65	Costello Lane	2
+3700	ED11-003	1	Peter		Cameron	M	N	N	92	Natural Law Party	Parti de la loi naturelle	66	Cambridge Court	2
+3700	ED11-003	1	Peter		Cameron	M	N	N	92	Natural Law Party	Parti de la loi naturelle	67	Highland Avenue	2
+3700	ED11-003	1	Peter		Cameron	M	N	N	92	Natural Law Party	Parti de la loi naturelle	68	Churchill Avenue	0
+3700	ED11-003	1	Peter		Cameron	M	N	N	92	Natural Law Party	Parti de la loi naturelle	69	Greenfield Avenue	0
+3700	ED11-003	1	Peter		Cameron	M	N	N	92	Natural Law Party	Parti de la loi naturelle	7	Chelsea Circle	1
+3700	ED11-003	1	Peter		Cameron	M	N	N	92	Natural Law Party	Parti de la loi naturelle	70	York Lane	0
+3700	ED11-003	1	Peter		Cameron	M	N	N	92	Natural Law Party	Parti de la loi naturelle	71	Fitzroy Street West	1
+3700	ED11-003	1	Peter		Cameron	M	N	N	92	Natural Law Party	Parti de la loi naturelle	72	Queen Street North	0
+3700	ED11-003	1	Peter		Cameron	M	N	N	92	Natural Law Party	Parti de la loi naturelle	73	West Street	1
+3700	ED11-003	1	Peter		Cameron	M	N	N	92	Natural Law Party	Parti de la loi naturelle	74	Union Street	0
+3700	ED11-003	1	Peter		Cameron	M	N	N	92	Natural Law Party	Parti de la loi naturelle	75	Queen Street South	2
+3700	ED11-003	1	Peter		Cameron	M	N	N	92	Natural Law Party	Parti de la loi naturelle	76	Langley	1
+3700	ED11-003	1	Peter		Cameron	M	N	N	92	Natural Law Party	Parti de la loi naturelle	77	Keppoch Lane	2
+3700	ED11-003	1	Peter		Cameron	M	N	N	92	Natural Law Party	Parti de la loi naturelle	78	Glencove Drive	0
+3700	ED11-003	1	Peter		Cameron	M	N	N	92	Natural Law Party	Parti de la loi naturelle	79	Reddin Heights	0
+3700	ED11-003	1	Peter		Cameron	M	N	N	92	Natural Law Party	Parti de la loi naturelle	8	Lewis Point	1
+3700	ED11-003	1	Peter		Cameron	M	N	N	92	Natural Law Party	Parti de la loi naturelle	80A	Hopeton Road	1
+3700	ED11-003	1	Peter		Cameron	M	N	N	92	Natural Law Party	Parti de la loi naturelle	80B	Hopeton Road	1
+3700	ED11-003	1	Peter		Cameron	M	N	N	92	Natural Law Party	Parti de la loi naturelle	81	Rankin Drive	1
+3700	ED11-003	1	Peter		Cameron	M	N	N	92	Natural Law Party	Parti de la loi naturelle	82	Mason Road	0
+3700	ED11-003	1	Peter		Cameron	M	N	N	92	Natural Law Party	Parti de la loi naturelle	9	Altavista	0
+3700	ED11-003	1	Peter		Cameron	M	N	N	92	Natural Law Party	Parti de la loi naturelle	S/R 1	SVR Group 1/RÉS Groupe 1	1
+3700	ED11-003	1	Peter		Cameron	M	N	N	92	Natural Law Party	Parti de la loi naturelle	S/R 2	SVR Group 2/RÉS Groupe 2	7
+3700	ED11-003	2	Dody		Crane	F	N	N	4328	N.D.P.	N.P.D.	1	Upton Farm	27
+3700	ED11-003	2	Dody		Crane	F	N	N	4328	N.D.P.	N.P.D.	10	Moreau Drive	66
+3700	ED11-003	2	Dody		Crane	F	N	N	4328	N.D.P.	N.P.D.	11	Skyview Drive	34
+3700	ED11-003	2	Dody		Crane	F	N	N	4328	N.D.P.	N.P.D.	12	Hutchinson Court	72
+3700	ED11-003	2	Dody		Crane	F	N	N	4328	N.D.P.	N.P.D.	13	Cooper Avenue	46
+3700	ED11-003	2	Dody		Crane	F	N	N	4328	N.D.P.	N.P.D.	14	Hunt Avenue	34
+3700	ED11-003	2	Dody		Crane	F	N	N	4328	N.D.P.	N.P.D.	15	Ashburn Crescent	28
+3700	ED11-003	2	Dody		Crane	F	N	N	4328	N.D.P.	N.P.D.	16	Newland Crescent	43
+3700	ED11-003	2	Dody		Crane	F	N	N	4328	N.D.P.	N.P.D.	17	Emerald Drive	28
+3700	ED11-003	2	Dody		Crane	F	N	N	4328	N.D.P.	N.P.D.	18	Rosemount Drive	55
+3700	ED11-003	2	Dody		Crane	F	N	N	4328	N.D.P.	N.P.D.	19	Edinburgh Drive	22
+3700	ED11-003	2	Dody		Crane	F	N	N	4328	N.D.P.	N.P.D.	2	Thorndale Drive	88
+3700	ED11-003	2	Dody		Crane	F	N	N	4328	N.D.P.	N.P.D.	20	St Claire Avenue	32
+3700	ED11-003	2	Dody		Crane	F	N	N	4328	N.D.P.	N.P.D.	21	Landsdowne Avenue	49
+3700	ED11-003	2	Dody		Crane	F	N	N	4328	N.D.P.	N.P.D.	22	Wendy Drive	32
+3700	ED11-003	2	Dody		Crane	F	N	N	4328	N.D.P.	N.P.D.	23	Harley Street	70
+3700	ED11-003	2	Dody		Crane	F	N	N	4328	N.D.P.	N.P.D.	24	Park Royal	72
+3700	ED11-003	2	Dody		Crane	F	N	N	4328	N.D.P.	N.P.D.	25	Valhalla Drive	22
+3700	ED11-003	2	Dody		Crane	F	N	N	4328	N.D.P.	N.P.D.	26	Centennial Drive	32
+3700	ED11-003	2	Dody		Crane	F	N	N	4328	N.D.P.	N.P.D.	27	Roper Drive	41
+3700	ED11-003	2	Dody		Crane	F	N	N	4328	N.D.P.	N.P.D.	28	Greenleaf Avenue	52
+3700	ED11-003	2	Dody		Crane	F	N	N	4328	N.D.P.	N.P.D.	29	Poplar Avenue	20
+3700	ED11-003	2	Dody		Crane	F	N	N	4328	N.D.P.	N.P.D.	3	Gates Drive	66
+3700	ED11-003	2	Dody		Crane	F	N	N	4328	N.D.P.	N.P.D.	30	MacMillan Crescent	35
+3700	ED11-003	2	Dody		Crane	F	N	N	4328	N.D.P.	N.P.D.	31	University Avenue	4
+3700	ED11-003	2	Dody		Crane	F	N	N	4328	N.D.P.	N.P.D.	32	Kenlea Drive	48
+3700	ED11-003	2	Dody		Crane	F	N	N	4328	N.D.P.	N.P.D.	33	Ash Drive	58
+3700	ED11-003	2	Dody		Crane	F	N	N	4328	N.D.P.	N.P.D.	34	MacAleer Drive	41
+3700	ED11-003	2	Dody		Crane	F	N	N	4328	N.D.P.	N.P.D.	35	Scarlet Avenue	77
+3700	ED11-003	2	Dody		Crane	F	N	N	4328	N.D.P.	N.P.D.	36	Doncaster Avenue	72
+3700	ED11-003	2	Dody		Crane	F	N	N	4328	N.D.P.	N.P.D.	37	Pope Avenue	52
+3700	ED11-003	2	Dody		Crane	F	N	N	4328	N.D.P.	N.P.D.	38	East Royalty North	27
+3700	ED11-003	2	Dody		Crane	F	N	N	4328	N.D.P.	N.P.D.	39	L. M. Montgomery	56
+3700	ED11-003	2	Dody		Crane	F	N	N	4328	N.D.P.	N.P.D.	4	Burns Avenue	21
+3700	ED11-003	2	Dody		Crane	F	N	N	4328	N.D.P.	N.P.D.	40	East Royalty South	51
+3700	ED11-003	2	Dody		Crane	F	N	N	4328	N.D.P.	N.P.D.	41	Westcomb Crescent	50
+3700	ED11-003	2	Dody		Crane	F	N	N	4328	N.D.P.	N.P.D.	42	Park Avenue	65
+3700	ED11-003	2	Dody		Crane	F	N	N	4328	N.D.P.	N.P.D.	43	Glenthorn Avenue	55
+3700	ED11-003	2	Dody		Crane	F	N	N	4328	N.D.P.	N.P.D.	44	Glenafton Drive	37
+3700	ED11-003	2	Dody		Crane	F	N	N	4328	N.D.P.	N.P.D.	45	Q.E.H.-Riverside	59
+3700	ED11-003	2	Dody		Crane	F	N	N	4328	N.D.P.	N.P.D.	46	Greensview Drive	18
+3700	ED11-003	2	Dody		Crane	F	N	N	4328	N.D.P.	N.P.D.	47	Francis Lane	66
+3700	ED11-003	2	Dody		Crane	F	N	N	4328	N.D.P.	N.P.D.	48	Gordon Drive	41
+3700	ED11-003	2	Dody		Crane	F	N	N	4328	N.D.P.	N.P.D.	49	Laurie Drive	36
+3700	ED11-003	2	Dody		Crane	F	N	N	4328	N.D.P.	N.P.D.	5	Scott Street	28
+3700	ED11-003	2	Dody		Crane	F	N	N	4328	N.D.P.	N.P.D.	50	Charlottetown	50
+3700	ED11-003	2	Dody		Crane	F	N	N	4328	N.D.P.	N.P.D.	500	Mobile poll/Bureau itinérant	13
+3700	ED11-003	2	Dody		Crane	F	N	N	4328	N.D.P.	N.P.D.	501	Mobile poll/Bureau itinérant	4
+3700	ED11-003	2	Dody		Crane	F	N	N	4328	N.D.P.	N.P.D.	502	Mobile poll/Bureau itinérant	4
+3700	ED11-003	2	Dody		Crane	F	N	N	4328	N.D.P.	N.P.D.	503	Mobile poll/Bureau itinérant	6
+3700	ED11-003	2	Dody		Crane	F	N	N	4328	N.D.P.	N.P.D.	51	Linden Avenue	37
+3700	ED11-003	2	Dody		Crane	F	N	N	4328	N.D.P.	N.P.D.	52	Park Street	55
+3700	ED11-003	2	Dody		Crane	F	N	N	4328	N.D.P.	N.P.D.	53	Cumberland Street	45
+3700	ED11-003	2	Dody		Crane	F	N	N	4328	N.D.P.	N.P.D.	54	Water Street East	48
+3700	ED11-003	2	Dody		Crane	F	N	N	4328	N.D.P.	N.P.D.	55	Sydney Street	45
+3700	ED11-003	2	Dody		Crane	F	N	N	4328	N.D.P.	N.P.D.	56	Clarke Street	56
+3700	ED11-003	2	Dody		Crane	F	N	N	4328	N.D.P.	N.P.D.	57	Bishop Street	55
+3700	ED11-003	2	Dody		Crane	F	N	N	4328	N.D.P.	N.P.D.	58	Walthen Drive	57
+3700	ED11-003	2	Dody		Crane	F	N	N	4328	N.D.P.	N.P.D.	59	Orlebar Street	61
+3700	ED11-003	2	Dody		Crane	F	N	N	4328	N.D.P.	N.P.D.	6	May Point Road	62
+3700	ED11-003	2	Dody		Crane	F	N	N	4328	N.D.P.	N.P.D.	60	Pleasant Street	77
+3700	ED11-003	2	Dody		Crane	F	N	N	4328	N.D.P.	N.P.D.	600	Charlottetown	66
+3700	ED11-003	2	Dody		Crane	F	N	N	4328	N.D.P.	N.P.D.	601	Sherwood	48
+3700	ED11-003	2	Dody		Crane	F	N	N	4328	N.D.P.	N.P.D.	602	Charlottetown	88
+3700	ED11-003	2	Dody		Crane	F	N	N	4328	N.D.P.	N.P.D.	603	Keppoch-Kinlock	30
+3700	ED11-003	2	Dody		Crane	F	N	N	4328	N.D.P.	N.P.D.	61	Belmont Street	34
+3700	ED11-003	2	Dody		Crane	F	N	N	4328	N.D.P.	N.P.D.	62	Lapthorne Avenue	52
+3700	ED11-003	2	Dody		Crane	F	N	N	4328	N.D.P.	N.P.D.	63	Connolly Street	44
+3700	ED11-003	2	Dody		Crane	F	N	N	4328	N.D.P.	N.P.D.	64	Passmore Street	34
+3700	ED11-003	2	Dody		Crane	F	N	N	4328	N.D.P.	N.P.D.	65	Costello Lane	40
+3700	ED11-003	2	Dody		Crane	F	N	N	4328	N.D.P.	N.P.D.	66	Cambridge Court	32
+3700	ED11-003	2	Dody		Crane	F	N	N	4328	N.D.P.	N.P.D.	67	Highland Avenue	67
+3700	ED11-003	2	Dody		Crane	F	N	N	4328	N.D.P.	N.P.D.	68	Churchill Avenue	75
+3700	ED11-003	2	Dody		Crane	F	N	N	4328	N.D.P.	N.P.D.	69	Greenfield Avenue	42
+3700	ED11-003	2	Dody		Crane	F	N	N	4328	N.D.P.	N.P.D.	7	Chelsea Circle	33
+3700	ED11-003	2	Dody		Crane	F	N	N	4328	N.D.P.	N.P.D.	70	York Lane	58
+3700	ED11-003	2	Dody		Crane	F	N	N	4328	N.D.P.	N.P.D.	71	Fitzroy Street West	24
+3700	ED11-003	2	Dody		Crane	F	N	N	4328	N.D.P.	N.P.D.	72	Queen Street North	53
+3700	ED11-003	2	Dody		Crane	F	N	N	4328	N.D.P.	N.P.D.	73	West Street	43
+3700	ED11-003	2	Dody		Crane	F	N	N	4328	N.D.P.	N.P.D.	74	Union Street	37
+3700	ED11-003	2	Dody		Crane	F	N	N	4328	N.D.P.	N.P.D.	75	Queen Street South	42
+3700	ED11-003	2	Dody		Crane	F	N	N	4328	N.D.P.	N.P.D.	76	Langley	74
+3700	ED11-003	2	Dody		Crane	F	N	N	4328	N.D.P.	N.P.D.	77	Keppoch Lane	73
+3700	ED11-003	2	Dody		Crane	F	N	N	4328	N.D.P.	N.P.D.	78	Glencove Drive	48
+3700	ED11-003	2	Dody		Crane	F	N	N	4328	N.D.P.	N.P.D.	79	Reddin Heights	85
+3700	ED11-003	2	Dody		Crane	F	N	N	4328	N.D.P.	N.P.D.	8	Lewis Point	36
+3700	ED11-003	2	Dody		Crane	F	N	N	4328	N.D.P.	N.P.D.	80A	Hopeton Road	55
+3700	ED11-003	2	Dody		Crane	F	N	N	4328	N.D.P.	N.P.D.	80B	Hopeton Road	49
+3700	ED11-003	2	Dody		Crane	F	N	N	4328	N.D.P.	N.P.D.	81	Rankin Drive	68
+3700	ED11-003	2	Dody		Crane	F	N	N	4328	N.D.P.	N.P.D.	82	Mason Road	63
+3700	ED11-003	2	Dody		Crane	F	N	N	4328	N.D.P.	N.P.D.	9	Altavista	38
+3700	ED11-003	2	Dody		Crane	F	N	N	4328	N.D.P.	N.P.D.	S/R 1	SVR Group 1/RÉS Groupe 1	5
+3700	ED11-003	2	Dody		Crane	F	N	N	4328	N.D.P.	N.P.D.	S/R 2	SVR Group 2/RÉS Groupe 2	89
+3700	ED11-003	3	Baird		Judson	M	N	N	58	No Affiliation	Aucune appartenance	1	Upton Farm	0
+3700	ED11-003	3	Baird		Judson	M	N	N	58	No Affiliation	Aucune appartenance	10	Moreau Drive	0
+3700	ED11-003	3	Baird		Judson	M	N	N	58	No Affiliation	Aucune appartenance	11	Skyview Drive	0
+3700	ED11-003	3	Baird		Judson	M	N	N	58	No Affiliation	Aucune appartenance	12	Hutchinson Court	0
+3700	ED11-003	3	Baird		Judson	M	N	N	58	No Affiliation	Aucune appartenance	13	Cooper Avenue	1
+3700	ED11-003	3	Baird		Judson	M	N	N	58	No Affiliation	Aucune appartenance	14	Hunt Avenue	0
+3700	ED11-003	3	Baird		Judson	M	N	N	58	No Affiliation	Aucune appartenance	15	Ashburn Crescent	0
+3700	ED11-003	3	Baird		Judson	M	N	N	58	No Affiliation	Aucune appartenance	16	Newland Crescent	0
+3700	ED11-003	3	Baird		Judson	M	N	N	58	No Affiliation	Aucune appartenance	17	Emerald Drive	0
+3700	ED11-003	3	Baird		Judson	M	N	N	58	No Affiliation	Aucune appartenance	18	Rosemount Drive	2
+3700	ED11-003	3	Baird		Judson	M	N	N	58	No Affiliation	Aucune appartenance	19	Edinburgh Drive	0
+3700	ED11-003	3	Baird		Judson	M	N	N	58	No Affiliation	Aucune appartenance	2	Thorndale Drive	0
+3700	ED11-003	3	Baird		Judson	M	N	N	58	No Affiliation	Aucune appartenance	20	St Claire Avenue	1
+3700	ED11-003	3	Baird		Judson	M	N	N	58	No Affiliation	Aucune appartenance	21	Landsdowne Avenue	1
+3700	ED11-003	3	Baird		Judson	M	N	N	58	No Affiliation	Aucune appartenance	22	Wendy Drive	0
+3700	ED11-003	3	Baird		Judson	M	N	N	58	No Affiliation	Aucune appartenance	23	Harley Street	1
+3700	ED11-003	3	Baird		Judson	M	N	N	58	No Affiliation	Aucune appartenance	24	Park Royal	0
+3700	ED11-003	3	Baird		Judson	M	N	N	58	No Affiliation	Aucune appartenance	25	Valhalla Drive	2
+3700	ED11-003	3	Baird		Judson	M	N	N	58	No Affiliation	Aucune appartenance	26	Centennial Drive	1
+3700	ED11-003	3	Baird		Judson	M	N	N	58	No Affiliation	Aucune appartenance	27	Roper Drive	1
+3700	ED11-003	3	Baird		Judson	M	N	N	58	No Affiliation	Aucune appartenance	28	Greenleaf Avenue	1
+3700	ED11-003	3	Baird		Judson	M	N	N	58	No Affiliation	Aucune appartenance	29	Poplar Avenue	2
+3700	ED11-003	3	Baird		Judson	M	N	N	58	No Affiliation	Aucune appartenance	3	Gates Drive	0
+3700	ED11-003	3	Baird		Judson	M	N	N	58	No Affiliation	Aucune appartenance	30	MacMillan Crescent	1
+3700	ED11-003	3	Baird		Judson	M	N	N	58	No Affiliation	Aucune appartenance	31	University Avenue	0
+3700	ED11-003	3	Baird		Judson	M	N	N	58	No Affiliation	Aucune appartenance	32	Kenlea Drive	0
+3700	ED11-003	3	Baird		Judson	M	N	N	58	No Affiliation	Aucune appartenance	33	Ash Drive	0
+3700	ED11-003	3	Baird		Judson	M	N	N	58	No Affiliation	Aucune appartenance	34	MacAleer Drive	2
+3700	ED11-003	3	Baird		Judson	M	N	N	58	No Affiliation	Aucune appartenance	35	Scarlet Avenue	0
+3700	ED11-003	3	Baird		Judson	M	N	N	58	No Affiliation	Aucune appartenance	36	Doncaster Avenue	0
+3700	ED11-003	3	Baird		Judson	M	N	N	58	No Affiliation	Aucune appartenance	37	Pope Avenue	0
+3700	ED11-003	3	Baird		Judson	M	N	N	58	No Affiliation	Aucune appartenance	38	East Royalty North	0
+3700	ED11-003	3	Baird		Judson	M	N	N	58	No Affiliation	Aucune appartenance	39	L. M. Montgomery	0
+3700	ED11-003	3	Baird		Judson	M	N	N	58	No Affiliation	Aucune appartenance	4	Burns Avenue	1
+3700	ED11-003	3	Baird		Judson	M	N	N	58	No Affiliation	Aucune appartenance	40	East Royalty South	0
+3700	ED11-003	3	Baird		Judson	M	N	N	58	No Affiliation	Aucune appartenance	41	Westcomb Crescent	0
+3700	ED11-003	3	Baird		Judson	M	N	N	58	No Affiliation	Aucune appartenance	42	Park Avenue	1
+3700	ED11-003	3	Baird		Judson	M	N	N	58	No Affiliation	Aucune appartenance	43	Glenthorn Avenue	3
+3700	ED11-003	3	Baird		Judson	M	N	N	58	No Affiliation	Aucune appartenance	44	Glenafton Drive	6
+3700	ED11-003	3	Baird		Judson	M	N	N	58	No Affiliation	Aucune appartenance	45	Q.E.H.-Riverside	2
+3700	ED11-003	3	Baird		Judson	M	N	N	58	No Affiliation	Aucune appartenance	46	Greensview Drive	0
+3700	ED11-003	3	Baird		Judson	M	N	N	58	No Affiliation	Aucune appartenance	47	Francis Lane	1
+3700	ED11-003	3	Baird		Judson	M	N	N	58	No Affiliation	Aucune appartenance	48	Gordon Drive	2
+3700	ED11-003	3	Baird		Judson	M	N	N	58	No Affiliation	Aucune appartenance	49	Laurie Drive	0
+3700	ED11-003	3	Baird		Judson	M	N	N	58	No Affiliation	Aucune appartenance	5	Scott Street	1
+3700	ED11-003	3	Baird		Judson	M	N	N	58	No Affiliation	Aucune appartenance	50	Charlottetown	0
+3700	ED11-003	3	Baird		Judson	M	N	N	58	No Affiliation	Aucune appartenance	500	Mobile poll/Bureau itinérant	0
+3700	ED11-003	3	Baird		Judson	M	N	N	58	No Affiliation	Aucune appartenance	501	Mobile poll/Bureau itinérant	0
+3700	ED11-003	3	Baird		Judson	M	N	N	58	No Affiliation	Aucune appartenance	502	Mobile poll/Bureau itinérant	3
+3700	ED11-003	3	Baird		Judson	M	N	N	58	No Affiliation	Aucune appartenance	503	Mobile poll/Bureau itinérant	0
+3700	ED11-003	3	Baird		Judson	M	N	N	58	No Affiliation	Aucune appartenance	51	Linden Avenue	2
+3700	ED11-003	3	Baird		Judson	M	N	N	58	No Affiliation	Aucune appartenance	52	Park Street	0
+3700	ED11-003	3	Baird		Judson	M	N	N	58	No Affiliation	Aucune appartenance	53	Cumberland Street	0
+3700	ED11-003	3	Baird		Judson	M	N	N	58	No Affiliation	Aucune appartenance	54	Water Street East	0
+3700	ED11-003	3	Baird		Judson	M	N	N	58	No Affiliation	Aucune appartenance	55	Sydney Street	0
+3700	ED11-003	3	Baird		Judson	M	N	N	58	No Affiliation	Aucune appartenance	56	Clarke Street	0
+3700	ED11-003	3	Baird		Judson	M	N	N	58	No Affiliation	Aucune appartenance	57	Bishop Street	0
+3700	ED11-003	3	Baird		Judson	M	N	N	58	No Affiliation	Aucune appartenance	58	Walthen Drive	0
+3700	ED11-003	3	Baird		Judson	M	N	N	58	No Affiliation	Aucune appartenance	59	Orlebar Street	2
+3700	ED11-003	3	Baird		Judson	M	N	N	58	No Affiliation	Aucune appartenance	6	May Point Road	0
+3700	ED11-003	3	Baird		Judson	M	N	N	58	No Affiliation	Aucune appartenance	60	Pleasant Street	0
+3700	ED11-003	3	Baird		Judson	M	N	N	58	No Affiliation	Aucune appartenance	600	Charlottetown	0
+3700	ED11-003	3	Baird		Judson	M	N	N	58	No Affiliation	Aucune appartenance	601	Sherwood	1
+3700	ED11-003	3	Baird		Judson	M	N	N	58	No Affiliation	Aucune appartenance	602	Charlottetown	1
+3700	ED11-003	3	Baird		Judson	M	N	N	58	No Affiliation	Aucune appartenance	603	Keppoch-Kinlock	1
+3700	ED11-003	3	Baird		Judson	M	N	N	58	No Affiliation	Aucune appartenance	61	Belmont Street	0
+3700	ED11-003	3	Baird		Judson	M	N	N	58	No Affiliation	Aucune appartenance	62	Lapthorne Avenue	0
+3700	ED11-003	3	Baird		Judson	M	N	N	58	No Affiliation	Aucune appartenance	63	Connolly Street	0
+3700	ED11-003	3	Baird		Judson	M	N	N	58	No Affiliation	Aucune appartenance	64	Passmore Street	2
+3700	ED11-003	3	Baird		Judson	M	N	N	58	No Affiliation	Aucune appartenance	65	Costello Lane	0
+3700	ED11-003	3	Baird		Judson	M	N	N	58	No Affiliation	Aucune appartenance	66	Cambridge Court	1
+3700	ED11-003	3	Baird		Judson	M	N	N	58	No Affiliation	Aucune appartenance	67	Highland Avenue	0
+3700	ED11-003	3	Baird		Judson	M	N	N	58	No Affiliation	Aucune appartenance	68	Churchill Avenue	0
+3700	ED11-003	3	Baird		Judson	M	N	N	58	No Affiliation	Aucune appartenance	69	Greenfield Avenue	0
+3700	ED11-003	3	Baird		Judson	M	N	N	58	No Affiliation	Aucune appartenance	7	Chelsea Circle	1
+3700	ED11-003	3	Baird		Judson	M	N	N	58	No Affiliation	Aucune appartenance	70	York Lane	0
+3700	ED11-003	3	Baird		Judson	M	N	N	58	No Affiliation	Aucune appartenance	71	Fitzroy Street West	0
+3700	ED11-003	3	Baird		Judson	M	N	N	58	No Affiliation	Aucune appartenance	72	Queen Street North	1
+3700	ED11-003	3	Baird		Judson	M	N	N	58	No Affiliation	Aucune appartenance	73	West Street	0
+3700	ED11-003	3	Baird		Judson	M	N	N	58	No Affiliation	Aucune appartenance	74	Union Street	0
+3700	ED11-003	3	Baird		Judson	M	N	N	58	No Affiliation	Aucune appartenance	75	Queen Street South	0
+3700	ED11-003	3	Baird		Judson	M	N	N	58	No Affiliation	Aucune appartenance	76	Langley	1
+3700	ED11-003	3	Baird		Judson	M	N	N	58	No Affiliation	Aucune appartenance	77	Keppoch Lane	1
+3700	ED11-003	3	Baird		Judson	M	N	N	58	No Affiliation	Aucune appartenance	78	Glencove Drive	0
+3700	ED11-003	3	Baird		Judson	M	N	N	58	No Affiliation	Aucune appartenance	79	Reddin Heights	2
+3700	ED11-003	3	Baird		Judson	M	N	N	58	No Affiliation	Aucune appartenance	8	Lewis Point	1
+3700	ED11-003	3	Baird		Judson	M	N	N	58	No Affiliation	Aucune appartenance	80A	Hopeton Road	0
+3700	ED11-003	3	Baird		Judson	M	N	N	58	No Affiliation	Aucune appartenance	80B	Hopeton Road	2
+3700	ED11-003	3	Baird		Judson	M	N	N	58	No Affiliation	Aucune appartenance	81	Rankin Drive	1
+3700	ED11-003	3	Baird		Judson	M	N	N	58	No Affiliation	Aucune appartenance	82	Mason Road	0
+3700	ED11-003	3	Baird		Judson	M	N	N	58	No Affiliation	Aucune appartenance	9	Altavista	0
+3700	ED11-003	3	Baird		Judson	M	N	N	58	No Affiliation	Aucune appartenance	S/R 1	SVR Group 1/RÉS Groupe 1	0
+3700	ED11-003	3	Baird		Judson	M	N	N	58	No Affiliation	Aucune appartenance	S/R 2	SVR Group 2/RÉS Groupe 2	2
+3700	ED11-003	4	Shawn		Murphy	M	Y	N	8277	Liberal	Libéral	1	Upton Farm	58
+3700	ED11-003	4	Shawn		Murphy	M	Y	N	8277	Liberal	Libéral	10	Moreau Drive	163
+3700	ED11-003	4	Shawn		Murphy	M	Y	N	8277	Liberal	Libéral	11	Skyview Drive	88
+3700	ED11-003	4	Shawn		Murphy	M	Y	N	8277	Liberal	Libéral	12	Hutchinson Court	138
+3700	ED11-003	4	Shawn		Murphy	M	Y	N	8277	Liberal	Libéral	13	Cooper Avenue	73
+3700	ED11-003	4	Shawn		Murphy	M	Y	N	8277	Liberal	Libéral	14	Hunt Avenue	96
+3700	ED11-003	4	Shawn		Murphy	M	Y	N	8277	Liberal	Libéral	15	Ashburn Crescent	95
+3700	ED11-003	4	Shawn		Murphy	M	Y	N	8277	Liberal	Libéral	16	Newland Crescent	85
+3700	ED11-003	4	Shawn		Murphy	M	Y	N	8277	Liberal	Libéral	17	Emerald Drive	60
+3700	ED11-003	4	Shawn		Murphy	M	Y	N	8277	Liberal	Libéral	18	Rosemount Drive	130
+3700	ED11-003	4	Shawn		Murphy	M	Y	N	8277	Liberal	Libéral	19	Edinburgh Drive	102
+3700	ED11-003	4	Shawn		Murphy	M	Y	N	8277	Liberal	Libéral	2	Thorndale Drive	174
+3700	ED11-003	4	Shawn		Murphy	M	Y	N	8277	Liberal	Libéral	20	St Claire Avenue	130
+3700	ED11-003	4	Shawn		Murphy	M	Y	N	8277	Liberal	Libéral	21	Landsdowne Avenue	107
+3700	ED11-003	4	Shawn		Murphy	M	Y	N	8277	Liberal	Libéral	22	Wendy Drive	64
+3700	ED11-003	4	Shawn		Murphy	M	Y	N	8277	Liberal	Libéral	23	Harley Street	112
+3700	ED11-003	4	Shawn		Murphy	M	Y	N	8277	Liberal	Libéral	24	Park Royal	120
+3700	ED11-003	4	Shawn		Murphy	M	Y	N	8277	Liberal	Libéral	25	Valhalla Drive	83
+3700	ED11-003	4	Shawn		Murphy	M	Y	N	8277	Liberal	Libéral	26	Centennial Drive	65
+3700	ED11-003	4	Shawn		Murphy	M	Y	N	8277	Liberal	Libéral	27	Roper Drive	83
+3700	ED11-003	4	Shawn		Murphy	M	Y	N	8277	Liberal	Libéral	28	Greenleaf Avenue	104
+3700	ED11-003	4	Shawn		Murphy	M	Y	N	8277	Liberal	Libéral	29	Poplar Avenue	66
+3700	ED11-003	4	Shawn		Murphy	M	Y	N	8277	Liberal	Libéral	3	Gates Drive	133
+3700	ED11-003	4	Shawn		Murphy	M	Y	N	8277	Liberal	Libéral	30	MacMillan Crescent	70
+3700	ED11-003	4	Shawn		Murphy	M	Y	N	8277	Liberal	Libéral	31	University Avenue	21
+3700	ED11-003	4	Shawn		Murphy	M	Y	N	8277	Liberal	Libéral	32	Kenlea Drive	109
+3700	ED11-003	4	Shawn		Murphy	M	Y	N	8277	Liberal	Libéral	33	Ash Drive	126
+3700	ED11-003	4	Shawn		Murphy	M	Y	N	8277	Liberal	Libéral	34	MacAleer Drive	107
+3700	ED11-003	4	Shawn		Murphy	M	Y	N	8277	Liberal	Libéral	35	Scarlet Avenue	86
+3700	ED11-003	4	Shawn		Murphy	M	Y	N	8277	Liberal	Libéral	36	Doncaster Avenue	66
+3700	ED11-003	4	Shawn		Murphy	M	Y	N	8277	Liberal	Libéral	37	Pope Avenue	76
+3700	ED11-003	4	Shawn		Murphy	M	Y	N	8277	Liberal	Libéral	38	East Royalty North	72
+3700	ED11-003	4	Shawn		Murphy	M	Y	N	8277	Liberal	Libéral	39	L. M. Montgomery	101
+3700	ED11-003	4	Shawn		Murphy	M	Y	N	8277	Liberal	Libéral	4	Burns Avenue	27
+3700	ED11-003	4	Shawn		Murphy	M	Y	N	8277	Liberal	Libéral	40	East Royalty South	107
+3700	ED11-003	4	Shawn		Murphy	M	Y	N	8277	Liberal	Libéral	41	Westcomb Crescent	78
+3700	ED11-003	4	Shawn		Murphy	M	Y	N	8277	Liberal	Libéral	42	Park Avenue	72
+3700	ED11-003	4	Shawn		Murphy	M	Y	N	8277	Liberal	Libéral	43	Glenthorn Avenue	138
+3700	ED11-003	4	Shawn		Murphy	M	Y	N	8277	Liberal	Libéral	44	Glenafton Drive	74
+3700	ED11-003	4	Shawn		Murphy	M	Y	N	8277	Liberal	Libéral	45	Q.E.H.-Riverside	109
+3700	ED11-003	4	Shawn		Murphy	M	Y	N	8277	Liberal	Libéral	46	Greensview Drive	46
+3700	ED11-003	4	Shawn		Murphy	M	Y	N	8277	Liberal	Libéral	47	Francis Lane	75
+3700	ED11-003	4	Shawn		Murphy	M	Y	N	8277	Liberal	Libéral	48	Gordon Drive	85
+3700	ED11-003	4	Shawn		Murphy	M	Y	N	8277	Liberal	Libéral	49	Laurie Drive	72
+3700	ED11-003	4	Shawn		Murphy	M	Y	N	8277	Liberal	Libéral	5	Scott Street	71
+3700	ED11-003	4	Shawn		Murphy	M	Y	N	8277	Liberal	Libéral	50	Charlottetown	88
+3700	ED11-003	4	Shawn		Murphy	M	Y	N	8277	Liberal	Libéral	500	Mobile poll/Bureau itinérant	40
+3700	ED11-003	4	Shawn		Murphy	M	Y	N	8277	Liberal	Libéral	501	Mobile poll/Bureau itinérant	23
+3700	ED11-003	4	Shawn		Murphy	M	Y	N	8277	Liberal	Libéral	502	Mobile poll/Bureau itinérant	19
+3700	ED11-003	4	Shawn		Murphy	M	Y	N	8277	Liberal	Libéral	503	Mobile poll/Bureau itinérant	28
+3700	ED11-003	4	Shawn		Murphy	M	Y	N	8277	Liberal	Libéral	51	Linden Avenue	82
+3700	ED11-003	4	Shawn		Murphy	M	Y	N	8277	Liberal	Libéral	52	Park Street	73
+3700	ED11-003	4	Shawn		Murphy	M	Y	N	8277	Liberal	Libéral	53	Cumberland Street	63
+3700	ED11-003	4	Shawn		Murphy	M	Y	N	8277	Liberal	Libéral	54	Water Street East	63
+3700	ED11-003	4	Shawn		Murphy	M	Y	N	8277	Liberal	Libéral	55	Sydney Street	62
+3700	ED11-003	4	Shawn		Murphy	M	Y	N	8277	Liberal	Libéral	56	Clarke Street	89
+3700	ED11-003	4	Shawn		Murphy	M	Y	N	8277	Liberal	Libéral	57	Bishop Street	53
+3700	ED11-003	4	Shawn		Murphy	M	Y	N	8277	Liberal	Libéral	58	Walthen Drive	56
+3700	ED11-003	4	Shawn		Murphy	M	Y	N	8277	Liberal	Libéral	59	Orlebar Street	82
+3700	ED11-003	4	Shawn		Murphy	M	Y	N	8277	Liberal	Libéral	6	May Point Road	122
+3700	ED11-003	4	Shawn		Murphy	M	Y	N	8277	Liberal	Libéral	60	Pleasant Street	81
+3700	ED11-003	4	Shawn		Murphy	M	Y	N	8277	Liberal	Libéral	600	Charlottetown	199
+3700	ED11-003	4	Shawn		Murphy	M	Y	N	8277	Liberal	Libéral	601	Sherwood	160
+3700	ED11-003	4	Shawn		Murphy	M	Y	N	8277	Liberal	Libéral	602	Charlottetown	202
+3700	ED11-003	4	Shawn		Murphy	M	Y	N	8277	Liberal	Libéral	603	Keppoch-Kinlock	59
+3700	ED11-003	4	Shawn		Murphy	M	Y	N	8277	Liberal	Libéral	61	Belmont Street	76
+3700	ED11-003	4	Shawn		Murphy	M	Y	N	8277	Liberal	Libéral	62	Lapthorne Avenue	84
+3700	ED11-003	4	Shawn		Murphy	M	Y	N	8277	Liberal	Libéral	63	Connolly Street	51
+3700	ED11-003	4	Shawn		Murphy	M	Y	N	8277	Liberal	Libéral	64	Passmore Street	55
+3700	ED11-003	4	Shawn		Murphy	M	Y	N	8277	Liberal	Libéral	65	Costello Lane	48
+3700	ED11-003	4	Shawn		Murphy	M	Y	N	8277	Liberal	Libéral	66	Cambridge Court	65
+3700	ED11-003	4	Shawn		Murphy	M	Y	N	8277	Liberal	Libéral	67	Highland Avenue	76
+3700	ED11-003	4	Shawn		Murphy	M	Y	N	8277	Liberal	Libéral	68	Churchill Avenue	110
+3700	ED11-003	4	Shawn		Murphy	M	Y	N	8277	Liberal	Libéral	69	Greenfield Avenue	86
+3700	ED11-003	4	Shawn		Murphy	M	Y	N	8277	Liberal	Libéral	7	Chelsea Circle	55
+3700	ED11-003	4	Shawn		Murphy	M	Y	N	8277	Liberal	Libéral	70	York Lane	118
+3700	ED11-003	4	Shawn		Murphy	M	Y	N	8277	Liberal	Libéral	71	Fitzroy Street West	37
+3700	ED11-003	4	Shawn		Murphy	M	Y	N	8277	Liberal	Libéral	72	Queen Street North	65
+3700	ED11-003	4	Shawn		Murphy	M	Y	N	8277	Liberal	Libéral	73	West Street	68
+3700	ED11-003	4	Shawn		Murphy	M	Y	N	8277	Liberal	Libéral	74	Union Street	71
+3700	ED11-003	4	Shawn		Murphy	M	Y	N	8277	Liberal	Libéral	75	Queen Street South	66
+3700	ED11-003	4	Shawn		Murphy	M	Y	N	8277	Liberal	Libéral	76	Langley	150
+3700	ED11-003	4	Shawn		Murphy	M	Y	N	8277	Liberal	Libéral	77	Keppoch Lane	163
+3700	ED11-003	4	Shawn		Murphy	M	Y	N	8277	Liberal	Libéral	78	Glencove Drive	68
+3700	ED11-003	4	Shawn		Murphy	M	Y	N	8277	Liberal	Libéral	79	Reddin Heights	157
+3700	ED11-003	4	Shawn		Murphy	M	Y	N	8277	Liberal	Libéral	8	Lewis Point	105
+3700	ED11-003	4	Shawn		Murphy	M	Y	N	8277	Liberal	Libéral	80A	Hopeton Road	78
+3700	ED11-003	4	Shawn		Murphy	M	Y	N	8277	Liberal	Libéral	80B	Hopeton Road	89
+3700	ED11-003	4	Shawn		Murphy	M	Y	N	8277	Liberal	Libéral	81	Rankin Drive	108
+3700	ED11-003	4	Shawn		Murphy	M	Y	N	8277	Liberal	Libéral	82	Mason Road	99
+3700	ED11-003	4	Shawn		Murphy	M	Y	N	8277	Liberal	Libéral	9	Altavista	117
+3700	ED11-003	4	Shawn		Murphy	M	Y	N	8277	Liberal	Libéral	S/R 1	SVR Group 1/RÉS Groupe 1	41
+3700	ED11-003	4	Shawn		Murphy	M	Y	N	8277	Liberal	Libéral	S/R 2	SVR Group 2/RÉS Groupe 2	210
+3700	ED11-003	5	Darren	W.	Peters	M	N	N	6039	Progressive Conservative	Progressiste-Conservateur	1	Upton Farm	54
+3700	ED11-003	5	Darren	W.	Peters	M	N	N	6039	Progressive Conservative	Progressiste-Conservateur	10	Moreau Drive	109
+3700	ED11-003	5	Darren	W.	Peters	M	N	N	6039	Progressive Conservative	Progressiste-Conservateur	11	Skyview Drive	48
+3700	ED11-003	5	Darren	W.	Peters	M	N	N	6039	Progressive Conservative	Progressiste-Conservateur	12	Hutchinson Court	75
+3700	ED11-003	5	Darren	W.	Peters	M	N	N	6039	Progressive Conservative	Progressiste-Conservateur	13	Cooper Avenue	48
+3700	ED11-003	5	Darren	W.	Peters	M	N	N	6039	Progressive Conservative	Progressiste-Conservateur	14	Hunt Avenue	60
+3700	ED11-003	5	Darren	W.	Peters	M	N	N	6039	Progressive Conservative	Progressiste-Conservateur	15	Ashburn Crescent	89
+3700	ED11-003	5	Darren	W.	Peters	M	N	N	6039	Progressive Conservative	Progressiste-Conservateur	16	Newland Crescent	44
+3700	ED11-003	5	Darren	W.	Peters	M	N	N	6039	Progressive Conservative	Progressiste-Conservateur	17	Emerald Drive	50
+3700	ED11-003	5	Darren	W.	Peters	M	N	N	6039	Progressive Conservative	Progressiste-Conservateur	18	Rosemount Drive	65
+3700	ED11-003	5	Darren	W.	Peters	M	N	N	6039	Progressive Conservative	Progressiste-Conservateur	19	Edinburgh Drive	45
+3700	ED11-003	5	Darren	W.	Peters	M	N	N	6039	Progressive Conservative	Progressiste-Conservateur	2	Thorndale Drive	104
+3700	ED11-003	5	Darren	W.	Peters	M	N	N	6039	Progressive Conservative	Progressiste-Conservateur	20	St Claire Avenue	75
+3700	ED11-003	5	Darren	W.	Peters	M	N	N	6039	Progressive Conservative	Progressiste-Conservateur	21	Landsdowne Avenue	52
+3700	ED11-003	5	Darren	W.	Peters	M	N	N	6039	Progressive Conservative	Progressiste-Conservateur	22	Wendy Drive	58
+3700	ED11-003	5	Darren	W.	Peters	M	N	N	6039	Progressive Conservative	Progressiste-Conservateur	23	Harley Street	84
+3700	ED11-003	5	Darren	W.	Peters	M	N	N	6039	Progressive Conservative	Progressiste-Conservateur	24	Park Royal	95
+3700	ED11-003	5	Darren	W.	Peters	M	N	N	6039	Progressive Conservative	Progressiste-Conservateur	25	Valhalla Drive	59
+3700	ED11-003	5	Darren	W.	Peters	M	N	N	6039	Progressive Conservative	Progressiste-Conservateur	26	Centennial Drive	55
+3700	ED11-003	5	Darren	W.	Peters	M	N	N	6039	Progressive Conservative	Progressiste-Conservateur	27	Roper Drive	42
+3700	ED11-003	5	Darren	W.	Peters	M	N	N	6039	Progressive Conservative	Progressiste-Conservateur	28	Greenleaf Avenue	82
+3700	ED11-003	5	Darren	W.	Peters	M	N	N	6039	Progressive Conservative	Progressiste-Conservateur	29	Poplar Avenue	40
+3700	ED11-003	5	Darren	W.	Peters	M	N	N	6039	Progressive Conservative	Progressiste-Conservateur	3	Gates Drive	89
+3700	ED11-003	5	Darren	W.	Peters	M	N	N	6039	Progressive Conservative	Progressiste-Conservateur	30	MacMillan Crescent	68
+3700	ED11-003	5	Darren	W.	Peters	M	N	N	6039	Progressive Conservative	Progressiste-Conservateur	31	University Avenue	11
+3700	ED11-003	5	Darren	W.	Peters	M	N	N	6039	Progressive Conservative	Progressiste-Conservateur	32	Kenlea Drive	51
+3700	ED11-003	5	Darren	W.	Peters	M	N	N	6039	Progressive Conservative	Progressiste-Conservateur	33	Ash Drive	97
+3700	ED11-003	5	Darren	W.	Peters	M	N	N	6039	Progressive Conservative	Progressiste-Conservateur	34	MacAleer Drive	74
+3700	ED11-003	5	Darren	W.	Peters	M	N	N	6039	Progressive Conservative	Progressiste-Conservateur	35	Scarlet Avenue	104
+3700	ED11-003	5	Darren	W.	Peters	M	N	N	6039	Progressive Conservative	Progressiste-Conservateur	36	Doncaster Avenue	76
+3700	ED11-003	5	Darren	W.	Peters	M	N	N	6039	Progressive Conservative	Progressiste-Conservateur	37	Pope Avenue	80
+3700	ED11-003	5	Darren	W.	Peters	M	N	N	6039	Progressive Conservative	Progressiste-Conservateur	38	East Royalty North	62
+3700	ED11-003	5	Darren	W.	Peters	M	N	N	6039	Progressive Conservative	Progressiste-Conservateur	39	L. M. Montgomery	81
+3700	ED11-003	5	Darren	W.	Peters	M	N	N	6039	Progressive Conservative	Progressiste-Conservateur	4	Burns Avenue	38
+3700	ED11-003	5	Darren	W.	Peters	M	N	N	6039	Progressive Conservative	Progressiste-Conservateur	40	East Royalty South	64
+3700	ED11-003	5	Darren	W.	Peters	M	N	N	6039	Progressive Conservative	Progressiste-Conservateur	41	Westcomb Crescent	90
+3700	ED11-003	5	Darren	W.	Peters	M	N	N	6039	Progressive Conservative	Progressiste-Conservateur	42	Park Avenue	68
+3700	ED11-003	5	Darren	W.	Peters	M	N	N	6039	Progressive Conservative	Progressiste-Conservateur	43	Glenthorn Avenue	84
+3700	ED11-003	5	Darren	W.	Peters	M	N	N	6039	Progressive Conservative	Progressiste-Conservateur	44	Glenafton Drive	59
+3700	ED11-003	5	Darren	W.	Peters	M	N	N	6039	Progressive Conservative	Progressiste-Conservateur	45	Q.E.H.-Riverside	98
+3700	ED11-003	5	Darren	W.	Peters	M	N	N	6039	Progressive Conservative	Progressiste-Conservateur	46	Greensview Drive	52
+3700	ED11-003	5	Darren	W.	Peters	M	N	N	6039	Progressive Conservative	Progressiste-Conservateur	47	Francis Lane	69
+3700	ED11-003	5	Darren	W.	Peters	M	N	N	6039	Progressive Conservative	Progressiste-Conservateur	48	Gordon Drive	71
+3700	ED11-003	5	Darren	W.	Peters	M	N	N	6039	Progressive Conservative	Progressiste-Conservateur	49	Laurie Drive	59
+3700	ED11-003	5	Darren	W.	Peters	M	N	N	6039	Progressive Conservative	Progressiste-Conservateur	5	Scott Street	48
+3700	ED11-003	5	Darren	W.	Peters	M	N	N	6039	Progressive Conservative	Progressiste-Conservateur	50	Charlottetown	72
+3700	ED11-003	5	Darren	W.	Peters	M	N	N	6039	Progressive Conservative	Progressiste-Conservateur	500	Mobile poll/Bureau itinérant	23
+3700	ED11-003	5	Darren	W.	Peters	M	N	N	6039	Progressive Conservative	Progressiste-Conservateur	501	Mobile poll/Bureau itinérant	27
+3700	ED11-003	5	Darren	W.	Peters	M	N	N	6039	Progressive Conservative	Progressiste-Conservateur	502	Mobile poll/Bureau itinérant	31
+3700	ED11-003	5	Darren	W.	Peters	M	N	N	6039	Progressive Conservative	Progressiste-Conservateur	503	Mobile poll/Bureau itinérant	20
+3700	ED11-003	5	Darren	W.	Peters	M	N	N	6039	Progressive Conservative	Progressiste-Conservateur	51	Linden Avenue	65
+3700	ED11-003	5	Darren	W.	Peters	M	N	N	6039	Progressive Conservative	Progressiste-Conservateur	52	Park Street	70
+3700	ED11-003	5	Darren	W.	Peters	M	N	N	6039	Progressive Conservative	Progressiste-Conservateur	53	Cumberland Street	61
+3700	ED11-003	5	Darren	W.	Peters	M	N	N	6039	Progressive Conservative	Progressiste-Conservateur	54	Water Street East	47
+3700	ED11-003	5	Darren	W.	Peters	M	N	N	6039	Progressive Conservative	Progressiste-Conservateur	55	Sydney Street	27
+3700	ED11-003	5	Darren	W.	Peters	M	N	N	6039	Progressive Conservative	Progressiste-Conservateur	56	Clarke Street	37
+3700	ED11-003	5	Darren	W.	Peters	M	N	N	6039	Progressive Conservative	Progressiste-Conservateur	57	Bishop Street	35
+3700	ED11-003	5	Darren	W.	Peters	M	N	N	6039	Progressive Conservative	Progressiste-Conservateur	58	Walthen Drive	43
+3700	ED11-003	5	Darren	W.	Peters	M	N	N	6039	Progressive Conservative	Progressiste-Conservateur	59	Orlebar Street	79
+3700	ED11-003	5	Darren	W.	Peters	M	N	N	6039	Progressive Conservative	Progressiste-Conservateur	6	May Point Road	82
+3700	ED11-003	5	Darren	W.	Peters	M	N	N	6039	Progressive Conservative	Progressiste-Conservateur	60	Pleasant Street	56
+3700	ED11-003	5	Darren	W.	Peters	M	N	N	6039	Progressive Conservative	Progressiste-Conservateur	600	Charlottetown	91
+3700	ED11-003	5	Darren	W.	Peters	M	N	N	6039	Progressive Conservative	Progressiste-Conservateur	601	Sherwood	84
+3700	ED11-003	5	Darren	W.	Peters	M	N	N	6039	Progressive Conservative	Progressiste-Conservateur	602	Charlottetown	91
+3700	ED11-003	5	Darren	W.	Peters	M	N	N	6039	Progressive Conservative	Progressiste-Conservateur	603	Keppoch-Kinlock	65
+3700	ED11-003	5	Darren	W.	Peters	M	N	N	6039	Progressive Conservative	Progressiste-Conservateur	61	Belmont Street	68
+3700	ED11-003	5	Darren	W.	Peters	M	N	N	6039	Progressive Conservative	Progressiste-Conservateur	62	Lapthorne Avenue	72
+3700	ED11-003	5	Darren	W.	Peters	M	N	N	6039	Progressive Conservative	Progressiste-Conservateur	63	Connolly Street	42
+3700	ED11-003	5	Darren	W.	Peters	M	N	N	6039	Progressive Conservative	Progressiste-Conservateur	64	Passmore Street	51
+3700	ED11-003	5	Darren	W.	Peters	M	N	N	6039	Progressive Conservative	Progressiste-Conservateur	65	Costello Lane	49
+3700	ED11-003	5	Darren	W.	Peters	M	N	N	6039	Progressive Conservative	Progressiste-Conservateur	66	Cambridge Court	46
+3700	ED11-003	5	Darren	W.	Peters	M	N	N	6039	Progressive Conservative	Progressiste-Conservateur	67	Highland Avenue	43
+3700	ED11-003	5	Darren	W.	Peters	M	N	N	6039	Progressive Conservative	Progressiste-Conservateur	68	Churchill Avenue	61
+3700	ED11-003	5	Darren	W.	Peters	M	N	N	6039	Progressive Conservative	Progressiste-Conservateur	69	Greenfield Avenue	56
+3700	ED11-003	5	Darren	W.	Peters	M	N	N	6039	Progressive Conservative	Progressiste-Conservateur	7	Chelsea Circle	53
+3700	ED11-003	5	Darren	W.	Peters	M	N	N	6039	Progressive Conservative	Progressiste-Conservateur	70	York Lane	59
+3700	ED11-003	5	Darren	W.	Peters	M	N	N	6039	Progressive Conservative	Progressiste-Conservateur	71	Fitzroy Street West	38
+3700	ED11-003	5	Darren	W.	Peters	M	N	N	6039	Progressive Conservative	Progressiste-Conservateur	72	Queen Street North	52
+3700	ED11-003	5	Darren	W.	Peters	M	N	N	6039	Progressive Conservative	Progressiste-Conservateur	73	West Street	40
+3700	ED11-003	5	Darren	W.	Peters	M	N	N	6039	Progressive Conservative	Progressiste-Conservateur	74	Union Street	87
+3700	ED11-003	5	Darren	W.	Peters	M	N	N	6039	Progressive Conservative	Progressiste-Conservateur	75	Queen Street South	59
+3700	ED11-003	5	Darren	W.	Peters	M	N	N	6039	Progressive Conservative	Progressiste-Conservateur	76	Langley	169
+3700	ED11-003	5	Darren	W.	Peters	M	N	N	6039	Progressive Conservative	Progressiste-Conservateur	77	Keppoch Lane	107
+3700	ED11-003	5	Darren	W.	Peters	M	N	N	6039	Progressive Conservative	Progressiste-Conservateur	78	Glencove Drive	50
+3700	ED11-003	5	Darren	W.	Peters	M	N	N	6039	Progressive Conservative	Progressiste-Conservateur	79	Reddin Heights	124
+3700	ED11-003	5	Darren	W.	Peters	M	N	N	6039	Progressive Conservative	Progressiste-Conservateur	8	Lewis Point	57
+3700	ED11-003	5	Darren	W.	Peters	M	N	N	6039	Progressive Conservative	Progressiste-Conservateur	80A	Hopeton Road	82
+3700	ED11-003	5	Darren	W.	Peters	M	N	N	6039	Progressive Conservative	Progressiste-Conservateur	80B	Hopeton Road	91
+3700	ED11-003	5	Darren	W.	Peters	M	N	N	6039	Progressive Conservative	Progressiste-Conservateur	81	Rankin Drive	75
+3700	ED11-003	5	Darren	W.	Peters	M	N	N	6039	Progressive Conservative	Progressiste-Conservateur	82	Mason Road	90
+3700	ED11-003	5	Darren	W.	Peters	M	N	N	6039	Progressive Conservative	Progressiste-Conservateur	9	Altavista	51
+3700	ED11-003	5	Darren	W.	Peters	M	N	N	6039	Progressive Conservative	Progressiste-Conservateur	S/R 1	SVR Group 1/RÉS Groupe 1	21
+3700	ED11-003	5	Darren	W.	Peters	M	N	N	6039	Progressive Conservative	Progressiste-Conservateur	S/R 2	SVR Group 2/RÉS Groupe 2	114
+3700	ED11-003	6	Gerry		Stewart	M	N	N	1005	Canadian Alliance	Alliance Canadienne	1	Upton Farm	16
+3700	ED11-003	6	Gerry		Stewart	M	N	N	1005	Canadian Alliance	Alliance Canadienne	10	Moreau Drive	19
+3700	ED11-003	6	Gerry		Stewart	M	N	N	1005	Canadian Alliance	Alliance Canadienne	11	Skyview Drive	8
+3700	ED11-003	6	Gerry		Stewart	M	N	N	1005	Canadian Alliance	Alliance Canadienne	12	Hutchinson Court	13
+3700	ED11-003	6	Gerry		Stewart	M	N	N	1005	Canadian Alliance	Alliance Canadienne	13	Cooper Avenue	8
+3700	ED11-003	6	Gerry		Stewart	M	N	N	1005	Canadian Alliance	Alliance Canadienne	14	Hunt Avenue	5
+3700	ED11-003	6	Gerry		Stewart	M	N	N	1005	Canadian Alliance	Alliance Canadienne	15	Ashburn Crescent	11
+3700	ED11-003	6	Gerry		Stewart	M	N	N	1005	Canadian Alliance	Alliance Canadienne	16	Newland Crescent	8
+3700	ED11-003	6	Gerry		Stewart	M	N	N	1005	Canadian Alliance	Alliance Canadienne	17	Emerald Drive	5
+3700	ED11-003	6	Gerry		Stewart	M	N	N	1005	Canadian Alliance	Alliance Canadienne	18	Rosemount Drive	16
+3700	ED11-003	6	Gerry		Stewart	M	N	N	1005	Canadian Alliance	Alliance Canadienne	19	Edinburgh Drive	11
+3700	ED11-003	6	Gerry		Stewart	M	N	N	1005	Canadian Alliance	Alliance Canadienne	2	Thorndale Drive	31
+3700	ED11-003	6	Gerry		Stewart	M	N	N	1005	Canadian Alliance	Alliance Canadienne	20	St Claire Avenue	33
+3700	ED11-003	6	Gerry		Stewart	M	N	N	1005	Canadian Alliance	Alliance Canadienne	21	Landsdowne Avenue	18
+3700	ED11-003	6	Gerry		Stewart	M	N	N	1005	Canadian Alliance	Alliance Canadienne	22	Wendy Drive	8
+3700	ED11-003	6	Gerry		Stewart	M	N	N	1005	Canadian Alliance	Alliance Canadienne	23	Harley Street	18
+3700	ED11-003	6	Gerry		Stewart	M	N	N	1005	Canadian Alliance	Alliance Canadienne	24	Park Royal	10
+3700	ED11-003	6	Gerry		Stewart	M	N	N	1005	Canadian Alliance	Alliance Canadienne	25	Valhalla Drive	4
+3700	ED11-003	6	Gerry		Stewart	M	N	N	1005	Canadian Alliance	Alliance Canadienne	26	Centennial Drive	7
+3700	ED11-003	6	Gerry		Stewart	M	N	N	1005	Canadian Alliance	Alliance Canadienne	27	Roper Drive	9
+3700	ED11-003	6	Gerry		Stewart	M	N	N	1005	Canadian Alliance	Alliance Canadienne	28	Greenleaf Avenue	19
+3700	ED11-003	6	Gerry		Stewart	M	N	N	1005	Canadian Alliance	Alliance Canadienne	29	Poplar Avenue	3
+3700	ED11-003	6	Gerry		Stewart	M	N	N	1005	Canadian Alliance	Alliance Canadienne	3	Gates Drive	16
+3700	ED11-003	6	Gerry		Stewart	M	N	N	1005	Canadian Alliance	Alliance Canadienne	30	MacMillan Crescent	10
+3700	ED11-003	6	Gerry		Stewart	M	N	N	1005	Canadian Alliance	Alliance Canadienne	31	University Avenue	4
+3700	ED11-003	6	Gerry		Stewart	M	N	N	1005	Canadian Alliance	Alliance Canadienne	32	Kenlea Drive	7
+3700	ED11-003	6	Gerry		Stewart	M	N	N	1005	Canadian Alliance	Alliance Canadienne	33	Ash Drive	5
+3700	ED11-003	6	Gerry		Stewart	M	N	N	1005	Canadian Alliance	Alliance Canadienne	34	MacAleer Drive	14
+3700	ED11-003	6	Gerry		Stewart	M	N	N	1005	Canadian Alliance	Alliance Canadienne	35	Scarlet Avenue	13
+3700	ED11-003	6	Gerry		Stewart	M	N	N	1005	Canadian Alliance	Alliance Canadienne	36	Doncaster Avenue	10
+3700	ED11-003	6	Gerry		Stewart	M	N	N	1005	Canadian Alliance	Alliance Canadienne	37	Pope Avenue	9
+3700	ED11-003	6	Gerry		Stewart	M	N	N	1005	Canadian Alliance	Alliance Canadienne	38	East Royalty North	8
+3700	ED11-003	6	Gerry		Stewart	M	N	N	1005	Canadian Alliance	Alliance Canadienne	39	L. M. Montgomery	26
+3700	ED11-003	6	Gerry		Stewart	M	N	N	1005	Canadian Alliance	Alliance Canadienne	4	Burns Avenue	4
+3700	ED11-003	6	Gerry		Stewart	M	N	N	1005	Canadian Alliance	Alliance Canadienne	40	East Royalty South	15
+3700	ED11-003	6	Gerry		Stewart	M	N	N	1005	Canadian Alliance	Alliance Canadienne	41	Westcomb Crescent	20
+3700	ED11-003	6	Gerry		Stewart	M	N	N	1005	Canadian Alliance	Alliance Canadienne	42	Park Avenue	7
+3700	ED11-003	6	Gerry		Stewart	M	N	N	1005	Canadian Alliance	Alliance Canadienne	43	Glenthorn Avenue	15
+3700	ED11-003	6	Gerry		Stewart	M	N	N	1005	Canadian Alliance	Alliance Canadienne	44	Glenafton Drive	11
+3700	ED11-003	6	Gerry		Stewart	M	N	N	1005	Canadian Alliance	Alliance Canadienne	45	Q.E.H.-Riverside	8
+3700	ED11-003	6	Gerry		Stewart	M	N	N	1005	Canadian Alliance	Alliance Canadienne	46	Greensview Drive	5
+3700	ED11-003	6	Gerry		Stewart	M	N	N	1005	Canadian Alliance	Alliance Canadienne	47	Francis Lane	11
+3700	ED11-003	6	Gerry		Stewart	M	N	N	1005	Canadian Alliance	Alliance Canadienne	48	Gordon Drive	10
+3700	ED11-003	6	Gerry		Stewart	M	N	N	1005	Canadian Alliance	Alliance Canadienne	49	Laurie Drive	2
+3700	ED11-003	6	Gerry		Stewart	M	N	N	1005	Canadian Alliance	Alliance Canadienne	5	Scott Street	12
+3700	ED11-003	6	Gerry		Stewart	M	N	N	1005	Canadian Alliance	Alliance Canadienne	50	Charlottetown	4
+3700	ED11-003	6	Gerry		Stewart	M	N	N	1005	Canadian Alliance	Alliance Canadienne	500	Mobile poll/Bureau itinérant	5
+3700	ED11-003	6	Gerry		Stewart	M	N	N	1005	Canadian Alliance	Alliance Canadienne	501	Mobile poll/Bureau itinérant	4
+3700	ED11-003	6	Gerry		Stewart	M	N	N	1005	Canadian Alliance	Alliance Canadienne	502	Mobile poll/Bureau itinérant	3
+3700	ED11-003	6	Gerry		Stewart	M	N	N	1005	Canadian Alliance	Alliance Canadienne	503	Mobile poll/Bureau itinérant	2
+3700	ED11-003	6	Gerry		Stewart	M	N	N	1005	Canadian Alliance	Alliance Canadienne	51	Linden Avenue	12
+3700	ED11-003	6	Gerry		Stewart	M	N	N	1005	Canadian Alliance	Alliance Canadienne	52	Park Street	8
+3700	ED11-003	6	Gerry		Stewart	M	N	N	1005	Canadian Alliance	Alliance Canadienne	53	Cumberland Street	5
+3700	ED11-003	6	Gerry		Stewart	M	N	N	1005	Canadian Alliance	Alliance Canadienne	54	Water Street East	4
+3700	ED11-003	6	Gerry		Stewart	M	N	N	1005	Canadian Alliance	Alliance Canadienne	55	Sydney Street	6
+3700	ED11-003	6	Gerry		Stewart	M	N	N	1005	Canadian Alliance	Alliance Canadienne	56	Clarke Street	5
+3700	ED11-003	6	Gerry		Stewart	M	N	N	1005	Canadian Alliance	Alliance Canadienne	57	Bishop Street	6
+3700	ED11-003	6	Gerry		Stewart	M	N	N	1005	Canadian Alliance	Alliance Canadienne	58	Walthen Drive	7
+3700	ED11-003	6	Gerry		Stewart	M	N	N	1005	Canadian Alliance	Alliance Canadienne	59	Orlebar Street	8
+3700	ED11-003	6	Gerry		Stewart	M	N	N	1005	Canadian Alliance	Alliance Canadienne	6	May Point Road	17
+3700	ED11-003	6	Gerry		Stewart	M	N	N	1005	Canadian Alliance	Alliance Canadienne	60	Pleasant Street	7
+3700	ED11-003	6	Gerry		Stewart	M	N	N	1005	Canadian Alliance	Alliance Canadienne	600	Charlottetown	13
+3700	ED11-003	6	Gerry		Stewart	M	N	N	1005	Canadian Alliance	Alliance Canadienne	601	Sherwood	20
+3700	ED11-003	6	Gerry		Stewart	M	N	N	1005	Canadian Alliance	Alliance Canadienne	602	Charlottetown	35
+3700	ED11-003	6	Gerry		Stewart	M	N	N	1005	Canadian Alliance	Alliance Canadienne	603	Keppoch-Kinlock	14
+3700	ED11-003	6	Gerry		Stewart	M	N	N	1005	Canadian Alliance	Alliance Canadienne	61	Belmont Street	8
+3700	ED11-003	6	Gerry		Stewart	M	N	N	1005	Canadian Alliance	Alliance Canadienne	62	Lapthorne Avenue	12
+3700	ED11-003	6	Gerry		Stewart	M	N	N	1005	Canadian Alliance	Alliance Canadienne	63	Connolly Street	3
+3700	ED11-003	6	Gerry		Stewart	M	N	N	1005	Canadian Alliance	Alliance Canadienne	64	Passmore Street	4
+3700	ED11-003	6	Gerry		Stewart	M	N	N	1005	Canadian Alliance	Alliance Canadienne	65	Costello Lane	9
+3700	ED11-003	6	Gerry		Stewart	M	N	N	1005	Canadian Alliance	Alliance Canadienne	66	Cambridge Court	2
+3700	ED11-003	6	Gerry		Stewart	M	N	N	1005	Canadian Alliance	Alliance Canadienne	67	Highland Avenue	7
+3700	ED11-003	6	Gerry		Stewart	M	N	N	1005	Canadian Alliance	Alliance Canadienne	68	Churchill Avenue	9
+3700	ED11-003	6	Gerry		Stewart	M	N	N	1005	Canadian Alliance	Alliance Canadienne	69	Greenfield Avenue	13
+3700	ED11-003	6	Gerry		Stewart	M	N	N	1005	Canadian Alliance	Alliance Canadienne	7	Chelsea Circle	6
+3700	ED11-003	6	Gerry		Stewart	M	N	N	1005	Canadian Alliance	Alliance Canadienne	70	York Lane	17
+3700	ED11-003	6	Gerry		Stewart	M	N	N	1005	Canadian Alliance	Alliance Canadienne	71	Fitzroy Street West	3
+3700	ED11-003	6	Gerry		Stewart	M	N	N	1005	Canadian Alliance	Alliance Canadienne	72	Queen Street North	6
+3700	ED11-003	6	Gerry		Stewart	M	N	N	1005	Canadian Alliance	Alliance Canadienne	73	West Street	10
+3700	ED11-003	6	Gerry		Stewart	M	N	N	1005	Canadian Alliance	Alliance Canadienne	74	Union Street	6
+3700	ED11-003	6	Gerry		Stewart	M	N	N	1005	Canadian Alliance	Alliance Canadienne	75	Queen Street South	11
+3700	ED11-003	6	Gerry		Stewart	M	N	N	1005	Canadian Alliance	Alliance Canadienne	76	Langley	20
+3700	ED11-003	6	Gerry		Stewart	M	N	N	1005	Canadian Alliance	Alliance Canadienne	77	Keppoch Lane	25
+3700	ED11-003	6	Gerry		Stewart	M	N	N	1005	Canadian Alliance	Alliance Canadienne	78	Glencove Drive	14
+3700	ED11-003	6	Gerry		Stewart	M	N	N	1005	Canadian Alliance	Alliance Canadienne	79	Reddin Heights	8
+3700	ED11-003	6	Gerry		Stewart	M	N	N	1005	Canadian Alliance	Alliance Canadienne	8	Lewis Point	10
+3700	ED11-003	6	Gerry		Stewart	M	N	N	1005	Canadian Alliance	Alliance Canadienne	80A	Hopeton Road	11
+3700	ED11-003	6	Gerry		Stewart	M	N	N	1005	Canadian Alliance	Alliance Canadienne	80B	Hopeton Road	7
+3700	ED11-003	6	Gerry		Stewart	M	N	N	1005	Canadian Alliance	Alliance Canadienne	81	Rankin Drive	7
+3700	ED11-003	6	Gerry		Stewart	M	N	N	1005	Canadian Alliance	Alliance Canadienne	82	Mason Road	13
+3700	ED11-003	6	Gerry		Stewart	M	N	N	1005	Canadian Alliance	Alliance Canadienne	9	Altavista	10
+3700	ED11-003	6	Gerry		Stewart	M	N	N	1005	Canadian Alliance	Alliance Canadienne	S/R 1	SVR Group 1/RÉS Groupe 1	23
+3700	ED11-003	6	Gerry		Stewart	M	N	N	1005	Canadian Alliance	Alliance Canadienne	S/R 2	SVR Group 2/RÉS Groupe 2	24
+3700	ED11-004	1	Ken		Bingham	M	N	N	782	N.D.P.	N.P.D.	1	Darnley	7
+3700	ED11-004	1	Ken		Bingham	M	N	N	782	N.D.P.	N.P.D.	10	Clermont	8
+3700	ED11-004	1	Ken		Bingham	M	N	N	782	N.D.P.	N.P.D.	11	New Annan	8
+3700	ED11-004	1	Ken		Bingham	M	N	N	782	N.D.P.	N.P.D.	12	Travellers Rest	10
+3700	ED11-004	1	Ken		Bingham	M	N	N	782	N.D.P.	N.P.D.	13	North Bedeque	7
+3700	ED11-004	1	Ken		Bingham	M	N	N	782	N.D.P.	N.P.D.	14	Mill Valley	8
+3700	ED11-004	1	Ken		Bingham	M	N	N	782	N.D.P.	N.P.D.	15	South Freetown	4
+3700	ED11-004	1	Ken		Bingham	M	N	N	782	N.D.P.	N.P.D.	16	Central Bedeque	4
+3700	ED11-004	1	Ken		Bingham	M	N	N	782	N.D.P.	N.P.D.	17	Bedeque	10
+3700	ED11-004	1	Ken		Bingham	M	N	N	782	N.D.P.	N.P.D.	18	Albany	3
+3700	ED11-004	1	Ken		Bingham	M	N	N	782	N.D.P.	N.P.D.	19	Kinkora	3
+3700	ED11-004	1	Ken		Bingham	M	N	N	782	N.D.P.	N.P.D.	2	Spring Valley	4
+3700	ED11-004	1	Ken		Bingham	M	N	N	782	N.D.P.	N.P.D.	20	Borden-Carleton	6
+3700	ED11-004	1	Ken		Bingham	M	N	N	782	N.D.P.	N.P.D.	21	Borden-Carleton	9
+3700	ED11-004	1	Ken		Bingham	M	N	N	782	N.D.P.	N.P.D.	22	Augustine Cove	4
+3700	ED11-004	1	Ken		Bingham	M	N	N	782	N.D.P.	N.P.D.	23	Tryon	18
+3700	ED11-004	1	Ken		Bingham	M	N	N	782	N.D.P.	N.P.D.	24	Crapaud	10
+3700	ED11-004	1	Ken		Bingham	M	N	N	782	N.D.P.	N.P.D.	25	Hampton	19
+3700	ED11-004	1	Ken		Bingham	M	N	N	782	N.D.P.	N.P.D.	26	Bonshaw	12
+3700	ED11-004	1	Ken		Bingham	M	N	N	782	N.D.P.	N.P.D.	27	Brookvale	12
+3700	ED11-004	1	Ken		Bingham	M	N	N	782	N.D.P.	N.P.D.	28	North Wiltshire	9
+3700	ED11-004	1	Ken		Bingham	M	N	N	782	N.D.P.	N.P.D.	29	Hampshire	10
+3700	ED11-004	1	Ken		Bingham	M	N	N	782	N.D.P.	N.P.D.	3	Park Corner	5
+3700	ED11-004	1	Ken		Bingham	M	N	N	782	N.D.P.	N.P.D.	30	Darlington	8
+3700	ED11-004	1	Ken		Bingham	M	N	N	782	N.D.P.	N.P.D.	31	Hunter River	11
+3700	ED11-004	1	Ken		Bingham	M	N	N	782	N.D.P.	N.P.D.	32	Fredericton	14
+3700	ED11-004	1	Ken		Bingham	M	N	N	782	N.D.P.	N.P.D.	33	Stanchel	11
+3700	ED11-004	1	Ken		Bingham	M	N	N	782	N.D.P.	N.P.D.	34	Springfield	10
+3700	ED11-004	1	Ken		Bingham	M	N	N	782	N.D.P.	N.P.D.	35	New Glasgow	26
+3700	ED11-004	1	Ken		Bingham	M	N	N	782	N.D.P.	N.P.D.	36	Cavendish	5
+3700	ED11-004	1	Ken		Bingham	M	N	N	782	N.D.P.	N.P.D.	37	North Rustico	11
+3700	ED11-004	1	Ken		Bingham	M	N	N	782	N.D.P.	N.P.D.	38	Rusticoville	12
+3700	ED11-004	1	Ken		Bingham	M	N	N	782	N.D.P.	N.P.D.	39	South Rustico	15
+3700	ED11-004	1	Ken		Bingham	M	N	N	782	N.D.P.	N.P.D.	4	Southwest River	7
+3700	ED11-004	1	Ken		Bingham	M	N	N	782	N.D.P.	N.P.D.	40	Ebenezer	11
+3700	ED11-004	1	Ken		Bingham	M	N	N	782	N.D.P.	N.P.D.	41	Brackley Point	10
+3700	ED11-004	1	Ken		Bingham	M	N	N	782	N.D.P.	N.P.D.	42	Stanhope by the Sea	16
+3700	ED11-004	1	Ken		Bingham	M	N	N	782	N.D.P.	N.P.D.	43	Covehead Road	2
+3700	ED11-004	1	Ken		Bingham	M	N	N	782	N.D.P.	N.P.D.	44	York	5
+3700	ED11-004	1	Ken		Bingham	M	N	N	782	N.D.P.	N.P.D.	45	York	6
+3700	ED11-004	1	Ken		Bingham	M	N	N	782	N.D.P.	N.P.D.	46	Marshfield	14
+3700	ED11-004	1	Ken		Bingham	M	N	N	782	N.D.P.	N.P.D.	47	Brackley	14
+3700	ED11-004	1	Ken		Bingham	M	N	N	782	N.D.P.	N.P.D.	48	Harrington	19
+3700	ED11-004	1	Ken		Bingham	M	N	N	782	N.D.P.	N.P.D.	49	Royalty Junction	15
+3700	ED11-004	1	Ken		Bingham	M	N	N	782	N.D.P.	N.P.D.	5	New London	5
+3700	ED11-004	1	Ken		Bingham	M	N	N	782	N.D.P.	N.P.D.	50	Charlottetown	13
+3700	ED11-004	1	Ken		Bingham	M	N	N	782	N.D.P.	N.P.D.	500	Mobile poll/Bureau itinérant	3
+3700	ED11-004	1	Ken		Bingham	M	N	N	782	N.D.P.	N.P.D.	51	Charlottetown	13
+3700	ED11-004	1	Ken		Bingham	M	N	N	782	N.D.P.	N.P.D.	52A	Milton Station	22
+3700	ED11-004	1	Ken		Bingham	M	N	N	782	N.D.P.	N.P.D.	52B	Milton Station	6
+3700	ED11-004	1	Ken		Bingham	M	N	N	782	N.D.P.	N.P.D.	53	Springvale	12
+3700	ED11-004	1	Ken		Bingham	M	N	N	782	N.D.P.	N.P.D.	54	Warren Grove	9
+3700	ED11-004	1	Ken		Bingham	M	N	N	782	N.D.P.	N.P.D.	55	Cornwall	18
+3700	ED11-004	1	Ken		Bingham	M	N	N	782	N.D.P.	N.P.D.	56	Cornwall	16
+3700	ED11-004	1	Ken		Bingham	M	N	N	782	N.D.P.	N.P.D.	57	Cornwall	13
+3700	ED11-004	1	Ken		Bingham	M	N	N	782	N.D.P.	N.P.D.	58A	Cornwall	15
+3700	ED11-004	1	Ken		Bingham	M	N	N	782	N.D.P.	N.P.D.	58B	Cornwall	5
+3700	ED11-004	1	Ken		Bingham	M	N	N	782	N.D.P.	N.P.D.	59	Cornwall	13
+3700	ED11-004	1	Ken		Bingham	M	N	N	782	N.D.P.	N.P.D.	6	Margate	8
+3700	ED11-004	1	Ken		Bingham	M	N	N	782	N.D.P.	N.P.D.	60	Clyde River	7
+3700	ED11-004	1	Ken		Bingham	M	N	N	782	N.D.P.	N.P.D.	600	Kensington	14
+3700	ED11-004	1	Ken		Bingham	M	N	N	782	N.D.P.	N.P.D.	601	North Rustico	13
+3700	ED11-004	1	Ken		Bingham	M	N	N	782	N.D.P.	N.P.D.	602	Cornwall	16
+3700	ED11-004	1	Ken		Bingham	M	N	N	782	N.D.P.	N.P.D.	61	Churchill	14
+3700	ED11-004	1	Ken		Bingham	M	N	N	782	N.D.P.	N.P.D.	62	Clyde River	3
+3700	ED11-004	1	Ken		Bingham	M	N	N	782	N.D.P.	N.P.D.	63	Meadowbank	4
+3700	ED11-004	1	Ken		Bingham	M	N	N	782	N.D.P.	N.P.D.	64	Cornwall 	16
+3700	ED11-004	1	Ken		Bingham	M	N	N	782	N.D.P.	N.P.D.	65	Cornwall	14
+3700	ED11-004	1	Ken		Bingham	M	N	N	782	N.D.P.	N.P.D.	66	Rocky Point	7
+3700	ED11-004	1	Ken		Bingham	M	N	N	782	N.D.P.	N.P.D.	67	Nine Mile Creek	20
+3700	ED11-004	1	Ken		Bingham	M	N	N	782	N.D.P.	N.P.D.	68	Long Creek	17
+3700	ED11-004	1	Ken		Bingham	M	N	N	782	N.D.P.	N.P.D.	7	Kensington	9
+3700	ED11-004	1	Ken		Bingham	M	N	N	782	N.D.P.	N.P.D.	8	Kensington	5
+3700	ED11-004	1	Ken		Bingham	M	N	N	782	N.D.P.	N.P.D.	9	Kensington 	9
+3700	ED11-004	1	Ken		Bingham	M	N	N	782	N.D.P.	N.P.D.	S/R 1	SVR Group 1/RÉS Groupe 1	0
+3700	ED11-004	1	Ken		Bingham	M	N	N	782	N.D.P.	N.P.D.	S/R 2	SVR Group 2/RÉS Groupe 2	11
+3700	ED11-004	2	Wayne		Easter	M	Y	Y	8972	Liberal	Libéral	1	Darnley	87
+3700	ED11-004	2	Wayne		Easter	M	Y	Y	8972	Liberal	Libéral	10	Clermont	114
+3700	ED11-004	2	Wayne		Easter	M	Y	Y	8972	Liberal	Libéral	11	New Annan	55
+3700	ED11-004	2	Wayne		Easter	M	Y	Y	8972	Liberal	Libéral	12	Travellers Rest	123
+3700	ED11-004	2	Wayne		Easter	M	Y	Y	8972	Liberal	Libéral	13	North Bedeque	102
+3700	ED11-004	2	Wayne		Easter	M	Y	Y	8972	Liberal	Libéral	14	Mill Valley	77
+3700	ED11-004	2	Wayne		Easter	M	Y	Y	8972	Liberal	Libéral	15	South Freetown	129
+3700	ED11-004	2	Wayne		Easter	M	Y	Y	8972	Liberal	Libéral	16	Central Bedeque	104
+3700	ED11-004	2	Wayne		Easter	M	Y	Y	8972	Liberal	Libéral	17	Bedeque	135
+3700	ED11-004	2	Wayne		Easter	M	Y	Y	8972	Liberal	Libéral	18	Albany	122
+3700	ED11-004	2	Wayne		Easter	M	Y	Y	8972	Liberal	Libéral	19	Kinkora	111
+3700	ED11-004	2	Wayne		Easter	M	Y	Y	8972	Liberal	Libéral	2	Spring Valley	124
+3700	ED11-004	2	Wayne		Easter	M	Y	Y	8972	Liberal	Libéral	20	Borden-Carleton	124
+3700	ED11-004	2	Wayne		Easter	M	Y	Y	8972	Liberal	Libéral	21	Borden-Carleton	127
+3700	ED11-004	2	Wayne		Easter	M	Y	Y	8972	Liberal	Libéral	22	Augustine Cove	92
+3700	ED11-004	2	Wayne		Easter	M	Y	Y	8972	Liberal	Libéral	23	Tryon	99
+3700	ED11-004	2	Wayne		Easter	M	Y	Y	8972	Liberal	Libéral	24	Crapaud	128
+3700	ED11-004	2	Wayne		Easter	M	Y	Y	8972	Liberal	Libéral	25	Hampton	145
+3700	ED11-004	2	Wayne		Easter	M	Y	Y	8972	Liberal	Libéral	26	Bonshaw	115
+3700	ED11-004	2	Wayne		Easter	M	Y	Y	8972	Liberal	Libéral	27	Brookvale	70
+3700	ED11-004	2	Wayne		Easter	M	Y	Y	8972	Liberal	Libéral	28	North Wiltshire	140
+3700	ED11-004	2	Wayne		Easter	M	Y	Y	8972	Liberal	Libéral	29	Hampshire	81
+3700	ED11-004	2	Wayne		Easter	M	Y	Y	8972	Liberal	Libéral	3	Park Corner	95
+3700	ED11-004	2	Wayne		Easter	M	Y	Y	8972	Liberal	Libéral	30	Darlington	146
+3700	ED11-004	2	Wayne		Easter	M	Y	Y	8972	Liberal	Libéral	31	Hunter River	130
+3700	ED11-004	2	Wayne		Easter	M	Y	Y	8972	Liberal	Libéral	32	Fredericton	135
+3700	ED11-004	2	Wayne		Easter	M	Y	Y	8972	Liberal	Libéral	33	Stanchel	94
+3700	ED11-004	2	Wayne		Easter	M	Y	Y	8972	Liberal	Libéral	34	Springfield	127
+3700	ED11-004	2	Wayne		Easter	M	Y	Y	8972	Liberal	Libéral	35	New Glasgow	140
+3700	ED11-004	2	Wayne		Easter	M	Y	Y	8972	Liberal	Libéral	36	Cavendish	114
+3700	ED11-004	2	Wayne		Easter	M	Y	Y	8972	Liberal	Libéral	37	North Rustico	117
+3700	ED11-004	2	Wayne		Easter	M	Y	Y	8972	Liberal	Libéral	38	Rusticoville	136
+3700	ED11-004	2	Wayne		Easter	M	Y	Y	8972	Liberal	Libéral	39	South Rustico	183
+3700	ED11-004	2	Wayne		Easter	M	Y	Y	8972	Liberal	Libéral	4	Southwest River	80
+3700	ED11-004	2	Wayne		Easter	M	Y	Y	8972	Liberal	Libéral	40	Ebenezer	112
+3700	ED11-004	2	Wayne		Easter	M	Y	Y	8972	Liberal	Libéral	41	Brackley Point	169
+3700	ED11-004	2	Wayne		Easter	M	Y	Y	8972	Liberal	Libéral	42	Stanhope by the Sea	146
+3700	ED11-004	2	Wayne		Easter	M	Y	Y	8972	Liberal	Libéral	43	Covehead Road	99
+3700	ED11-004	2	Wayne		Easter	M	Y	Y	8972	Liberal	Libéral	44	York	106
+3700	ED11-004	2	Wayne		Easter	M	Y	Y	8972	Liberal	Libéral	45	York	98
+3700	ED11-004	2	Wayne		Easter	M	Y	Y	8972	Liberal	Libéral	46	Marshfield	95
+3700	ED11-004	2	Wayne		Easter	M	Y	Y	8972	Liberal	Libéral	47	Brackley	105
+3700	ED11-004	2	Wayne		Easter	M	Y	Y	8972	Liberal	Libéral	48	Harrington	166
+3700	ED11-004	2	Wayne		Easter	M	Y	Y	8972	Liberal	Libéral	49	Royalty Junction	121
+3700	ED11-004	2	Wayne		Easter	M	Y	Y	8972	Liberal	Libéral	5	New London	165
+3700	ED11-004	2	Wayne		Easter	M	Y	Y	8972	Liberal	Libéral	50	Charlottetown	116
+3700	ED11-004	2	Wayne		Easter	M	Y	Y	8972	Liberal	Libéral	500	Mobile poll/Bureau itinérant	25
+3700	ED11-004	2	Wayne		Easter	M	Y	Y	8972	Liberal	Libéral	51	Charlottetown	164
+3700	ED11-004	2	Wayne		Easter	M	Y	Y	8972	Liberal	Libéral	52A	Milton Station	85
+3700	ED11-004	2	Wayne		Easter	M	Y	Y	8972	Liberal	Libéral	52B	Milton Station	91
+3700	ED11-004	2	Wayne		Easter	M	Y	Y	8972	Liberal	Libéral	53	Springvale	145
+3700	ED11-004	2	Wayne		Easter	M	Y	Y	8972	Liberal	Libéral	54	Warren Grove	122
+3700	ED11-004	2	Wayne		Easter	M	Y	Y	8972	Liberal	Libéral	55	Cornwall	115
+3700	ED11-004	2	Wayne		Easter	M	Y	Y	8972	Liberal	Libéral	56	Cornwall	158
+3700	ED11-004	2	Wayne		Easter	M	Y	Y	8972	Liberal	Libéral	57	Cornwall	142
+3700	ED11-004	2	Wayne		Easter	M	Y	Y	8972	Liberal	Libéral	58A	Cornwall	83
+3700	ED11-004	2	Wayne		Easter	M	Y	Y	8972	Liberal	Libéral	58B	Cornwall	99
+3700	ED11-004	2	Wayne		Easter	M	Y	Y	8972	Liberal	Libéral	59	Cornwall	139
+3700	ED11-004	2	Wayne		Easter	M	Y	Y	8972	Liberal	Libéral	6	Margate	112
+3700	ED11-004	2	Wayne		Easter	M	Y	Y	8972	Liberal	Libéral	60	Clyde River	141
+3700	ED11-004	2	Wayne		Easter	M	Y	Y	8972	Liberal	Libéral	600	Kensington	196
+3700	ED11-004	2	Wayne		Easter	M	Y	Y	8972	Liberal	Libéral	601	North Rustico	95
+3700	ED11-004	2	Wayne		Easter	M	Y	Y	8972	Liberal	Libéral	602	Cornwall	235
+3700	ED11-004	2	Wayne		Easter	M	Y	Y	8972	Liberal	Libéral	61	Churchill	143
+3700	ED11-004	2	Wayne		Easter	M	Y	Y	8972	Liberal	Libéral	62	Clyde River	56
+3700	ED11-004	2	Wayne		Easter	M	Y	Y	8972	Liberal	Libéral	63	Meadowbank	80
+3700	ED11-004	2	Wayne		Easter	M	Y	Y	8972	Liberal	Libéral	64	Cornwall 	159
+3700	ED11-004	2	Wayne		Easter	M	Y	Y	8972	Liberal	Libéral	65	Cornwall	131
+3700	ED11-004	2	Wayne		Easter	M	Y	Y	8972	Liberal	Libéral	66	Rocky Point	107
+3700	ED11-004	2	Wayne		Easter	M	Y	Y	8972	Liberal	Libéral	67	Nine Mile Creek	161
+3700	ED11-004	2	Wayne		Easter	M	Y	Y	8972	Liberal	Libéral	68	Long Creek	128
+3700	ED11-004	2	Wayne		Easter	M	Y	Y	8972	Liberal	Libéral	7	Kensington	84
+3700	ED11-004	2	Wayne		Easter	M	Y	Y	8972	Liberal	Libéral	8	Kensington	75
+3700	ED11-004	2	Wayne		Easter	M	Y	Y	8972	Liberal	Libéral	9	Kensington 	109
+3700	ED11-004	2	Wayne		Easter	M	Y	Y	8972	Liberal	Libéral	S/R 1	SVR Group 1/RÉS Groupe 1	28
+3700	ED11-004	2	Wayne		Easter	M	Y	Y	8972	Liberal	Libéral	S/R 2	SVR Group 2/RÉS Groupe 2	165
+3700	ED11-004	3	Jim		Gorman	M	N	N	7186	Progressive Conservative	Progressiste-Conservateur	1	Darnley	77
+3700	ED11-004	3	Jim		Gorman	M	N	N	7186	Progressive Conservative	Progressiste-Conservateur	10	Clermont	111
+3700	ED11-004	3	Jim		Gorman	M	N	N	7186	Progressive Conservative	Progressiste-Conservateur	11	New Annan	43
+3700	ED11-004	3	Jim		Gorman	M	N	N	7186	Progressive Conservative	Progressiste-Conservateur	12	Travellers Rest	102
+3700	ED11-004	3	Jim		Gorman	M	N	N	7186	Progressive Conservative	Progressiste-Conservateur	13	North Bedeque	109
+3700	ED11-004	3	Jim		Gorman	M	N	N	7186	Progressive Conservative	Progressiste-Conservateur	14	Mill Valley	68
+3700	ED11-004	3	Jim		Gorman	M	N	N	7186	Progressive Conservative	Progressiste-Conservateur	15	South Freetown	129
+3700	ED11-004	3	Jim		Gorman	M	N	N	7186	Progressive Conservative	Progressiste-Conservateur	16	Central Bedeque	95
+3700	ED11-004	3	Jim		Gorman	M	N	N	7186	Progressive Conservative	Progressiste-Conservateur	17	Bedeque	76
+3700	ED11-004	3	Jim		Gorman	M	N	N	7186	Progressive Conservative	Progressiste-Conservateur	18	Albany	98
+3700	ED11-004	3	Jim		Gorman	M	N	N	7186	Progressive Conservative	Progressiste-Conservateur	19	Kinkora	131
+3700	ED11-004	3	Jim		Gorman	M	N	N	7186	Progressive Conservative	Progressiste-Conservateur	2	Spring Valley	114
+3700	ED11-004	3	Jim		Gorman	M	N	N	7186	Progressive Conservative	Progressiste-Conservateur	20	Borden-Carleton	79
+3700	ED11-004	3	Jim		Gorman	M	N	N	7186	Progressive Conservative	Progressiste-Conservateur	21	Borden-Carleton	102
+3700	ED11-004	3	Jim		Gorman	M	N	N	7186	Progressive Conservative	Progressiste-Conservateur	22	Augustine Cove	104
+3700	ED11-004	3	Jim		Gorman	M	N	N	7186	Progressive Conservative	Progressiste-Conservateur	23	Tryon	91
+3700	ED11-004	3	Jim		Gorman	M	N	N	7186	Progressive Conservative	Progressiste-Conservateur	24	Crapaud	80
+3700	ED11-004	3	Jim		Gorman	M	N	N	7186	Progressive Conservative	Progressiste-Conservateur	25	Hampton	156
+3700	ED11-004	3	Jim		Gorman	M	N	N	7186	Progressive Conservative	Progressiste-Conservateur	26	Bonshaw	162
+3700	ED11-004	3	Jim		Gorman	M	N	N	7186	Progressive Conservative	Progressiste-Conservateur	27	Brookvale	136
+3700	ED11-004	3	Jim		Gorman	M	N	N	7186	Progressive Conservative	Progressiste-Conservateur	28	North Wiltshire	107
+3700	ED11-004	3	Jim		Gorman	M	N	N	7186	Progressive Conservative	Progressiste-Conservateur	29	Hampshire	99
+3700	ED11-004	3	Jim		Gorman	M	N	N	7186	Progressive Conservative	Progressiste-Conservateur	3	Park Corner	123
+3700	ED11-004	3	Jim		Gorman	M	N	N	7186	Progressive Conservative	Progressiste-Conservateur	30	Darlington	82
+3700	ED11-004	3	Jim		Gorman	M	N	N	7186	Progressive Conservative	Progressiste-Conservateur	31	Hunter River	86
+3700	ED11-004	3	Jim		Gorman	M	N	N	7186	Progressive Conservative	Progressiste-Conservateur	32	Fredericton	83
+3700	ED11-004	3	Jim		Gorman	M	N	N	7186	Progressive Conservative	Progressiste-Conservateur	33	Stanchel	77
+3700	ED11-004	3	Jim		Gorman	M	N	N	7186	Progressive Conservative	Progressiste-Conservateur	34	Springfield	109
+3700	ED11-004	3	Jim		Gorman	M	N	N	7186	Progressive Conservative	Progressiste-Conservateur	35	New Glasgow	114
+3700	ED11-004	3	Jim		Gorman	M	N	N	7186	Progressive Conservative	Progressiste-Conservateur	36	Cavendish	83
+3700	ED11-004	3	Jim		Gorman	M	N	N	7186	Progressive Conservative	Progressiste-Conservateur	37	North Rustico	127
+3700	ED11-004	3	Jim		Gorman	M	N	N	7186	Progressive Conservative	Progressiste-Conservateur	38	Rusticoville	146
+3700	ED11-004	3	Jim		Gorman	M	N	N	7186	Progressive Conservative	Progressiste-Conservateur	39	South Rustico	119
+3700	ED11-004	3	Jim		Gorman	M	N	N	7186	Progressive Conservative	Progressiste-Conservateur	4	Southwest River	59
+3700	ED11-004	3	Jim		Gorman	M	N	N	7186	Progressive Conservative	Progressiste-Conservateur	40	Ebenezer	97
+3700	ED11-004	3	Jim		Gorman	M	N	N	7186	Progressive Conservative	Progressiste-Conservateur	41	Brackley Point	102
+3700	ED11-004	3	Jim		Gorman	M	N	N	7186	Progressive Conservative	Progressiste-Conservateur	42	Stanhope by the Sea	105
+3700	ED11-004	3	Jim		Gorman	M	N	N	7186	Progressive Conservative	Progressiste-Conservateur	43	Covehead Road	43
+3700	ED11-004	3	Jim		Gorman	M	N	N	7186	Progressive Conservative	Progressiste-Conservateur	44	York	70
+3700	ED11-004	3	Jim		Gorman	M	N	N	7186	Progressive Conservative	Progressiste-Conservateur	45	York	58
+3700	ED11-004	3	Jim		Gorman	M	N	N	7186	Progressive Conservative	Progressiste-Conservateur	46	Marshfield	67
+3700	ED11-004	3	Jim		Gorman	M	N	N	7186	Progressive Conservative	Progressiste-Conservateur	47	Brackley	89
+3700	ED11-004	3	Jim		Gorman	M	N	N	7186	Progressive Conservative	Progressiste-Conservateur	48	Harrington	112
+3700	ED11-004	3	Jim		Gorman	M	N	N	7186	Progressive Conservative	Progressiste-Conservateur	49	Royalty Junction	66
+3700	ED11-004	3	Jim		Gorman	M	N	N	7186	Progressive Conservative	Progressiste-Conservateur	5	New London	128
+3700	ED11-004	3	Jim		Gorman	M	N	N	7186	Progressive Conservative	Progressiste-Conservateur	50	Charlottetown	51
+3700	ED11-004	3	Jim		Gorman	M	N	N	7186	Progressive Conservative	Progressiste-Conservateur	500	Mobile poll/Bureau itinérant	13
+3700	ED11-004	3	Jim		Gorman	M	N	N	7186	Progressive Conservative	Progressiste-Conservateur	51	Charlottetown	115
+3700	ED11-004	3	Jim		Gorman	M	N	N	7186	Progressive Conservative	Progressiste-Conservateur	52A	Milton Station	79
+3700	ED11-004	3	Jim		Gorman	M	N	N	7186	Progressive Conservative	Progressiste-Conservateur	52B	Milton Station	88
+3700	ED11-004	3	Jim		Gorman	M	N	N	7186	Progressive Conservative	Progressiste-Conservateur	53	Springvale	89
+3700	ED11-004	3	Jim		Gorman	M	N	N	7186	Progressive Conservative	Progressiste-Conservateur	54	Warren Grove	75
+3700	ED11-004	3	Jim		Gorman	M	N	N	7186	Progressive Conservative	Progressiste-Conservateur	55	Cornwall	86
+3700	ED11-004	3	Jim		Gorman	M	N	N	7186	Progressive Conservative	Progressiste-Conservateur	56	Cornwall	120
+3700	ED11-004	3	Jim		Gorman	M	N	N	7186	Progressive Conservative	Progressiste-Conservateur	57	Cornwall	83
+3700	ED11-004	3	Jim		Gorman	M	N	N	7186	Progressive Conservative	Progressiste-Conservateur	58A	Cornwall	81
+3700	ED11-004	3	Jim		Gorman	M	N	N	7186	Progressive Conservative	Progressiste-Conservateur	58B	Cornwall	64
+3700	ED11-004	3	Jim		Gorman	M	N	N	7186	Progressive Conservative	Progressiste-Conservateur	59	Cornwall	94
+3700	ED11-004	3	Jim		Gorman	M	N	N	7186	Progressive Conservative	Progressiste-Conservateur	6	Margate	120
+3700	ED11-004	3	Jim		Gorman	M	N	N	7186	Progressive Conservative	Progressiste-Conservateur	60	Clyde River	97
+3700	ED11-004	3	Jim		Gorman	M	N	N	7186	Progressive Conservative	Progressiste-Conservateur	600	Kensington	163
+3700	ED11-004	3	Jim		Gorman	M	N	N	7186	Progressive Conservative	Progressiste-Conservateur	601	North Rustico	65
+3700	ED11-004	3	Jim		Gorman	M	N	N	7186	Progressive Conservative	Progressiste-Conservateur	602	Cornwall	155
+3700	ED11-004	3	Jim		Gorman	M	N	N	7186	Progressive Conservative	Progressiste-Conservateur	61	Churchill	103
+3700	ED11-004	3	Jim		Gorman	M	N	N	7186	Progressive Conservative	Progressiste-Conservateur	62	Clyde River	43
+3700	ED11-004	3	Jim		Gorman	M	N	N	7186	Progressive Conservative	Progressiste-Conservateur	63	Meadowbank	61
+3700	ED11-004	3	Jim		Gorman	M	N	N	7186	Progressive Conservative	Progressiste-Conservateur	64	Cornwall 	102
+3700	ED11-004	3	Jim		Gorman	M	N	N	7186	Progressive Conservative	Progressiste-Conservateur	65	Cornwall	106
+3700	ED11-004	3	Jim		Gorman	M	N	N	7186	Progressive Conservative	Progressiste-Conservateur	66	Rocky Point	151
+3700	ED11-004	3	Jim		Gorman	M	N	N	7186	Progressive Conservative	Progressiste-Conservateur	67	Nine Mile Creek	86
+3700	ED11-004	3	Jim		Gorman	M	N	N	7186	Progressive Conservative	Progressiste-Conservateur	68	Long Creek	106
+3700	ED11-004	3	Jim		Gorman	M	N	N	7186	Progressive Conservative	Progressiste-Conservateur	7	Kensington	83
+3700	ED11-004	3	Jim		Gorman	M	N	N	7186	Progressive Conservative	Progressiste-Conservateur	8	Kensington	85
+3700	ED11-004	3	Jim		Gorman	M	N	N	7186	Progressive Conservative	Progressiste-Conservateur	9	Kensington 	90
+3700	ED11-004	3	Jim		Gorman	M	N	N	7186	Progressive Conservative	Progressiste-Conservateur	S/R 1	SVR Group 1/RÉS Groupe 1	13
+3700	ED11-004	3	Jim		Gorman	M	N	N	7186	Progressive Conservative	Progressiste-Conservateur	S/R 2	SVR Group 2/RÉS Groupe 2	105
+3700	ED11-004	4	Jeremy		Stiles	M	N	N	250	Green Party	Parti Vert	1	Darnley	10
+3700	ED11-004	4	Jeremy		Stiles	M	N	N	250	Green Party	Parti Vert	10	Clermont	7
+3700	ED11-004	4	Jeremy		Stiles	M	N	N	250	Green Party	Parti Vert	11	New Annan	3
+3700	ED11-004	4	Jeremy		Stiles	M	N	N	250	Green Party	Parti Vert	12	Travellers Rest	0
+3700	ED11-004	4	Jeremy		Stiles	M	N	N	250	Green Party	Parti Vert	13	North Bedeque	0
+3700	ED11-004	4	Jeremy		Stiles	M	N	N	250	Green Party	Parti Vert	14	Mill Valley	3
+3700	ED11-004	4	Jeremy		Stiles	M	N	N	250	Green Party	Parti Vert	15	South Freetown	5
+3700	ED11-004	4	Jeremy		Stiles	M	N	N	250	Green Party	Parti Vert	16	Central Bedeque	4
+3700	ED11-004	4	Jeremy		Stiles	M	N	N	250	Green Party	Parti Vert	17	Bedeque	8
+3700	ED11-004	4	Jeremy		Stiles	M	N	N	250	Green Party	Parti Vert	18	Albany	1
+3700	ED11-004	4	Jeremy		Stiles	M	N	N	250	Green Party	Parti Vert	19	Kinkora	3
+3700	ED11-004	4	Jeremy		Stiles	M	N	N	250	Green Party	Parti Vert	2	Spring Valley	8
+3700	ED11-004	4	Jeremy		Stiles	M	N	N	250	Green Party	Parti Vert	20	Borden-Carleton	3
+3700	ED11-004	4	Jeremy		Stiles	M	N	N	250	Green Party	Parti Vert	21	Borden-Carleton	1
+3700	ED11-004	4	Jeremy		Stiles	M	N	N	250	Green Party	Parti Vert	22	Augustine Cove	0
+3700	ED11-004	4	Jeremy		Stiles	M	N	N	250	Green Party	Parti Vert	23	Tryon	2
+3700	ED11-004	4	Jeremy		Stiles	M	N	N	250	Green Party	Parti Vert	24	Crapaud	3
+3700	ED11-004	4	Jeremy		Stiles	M	N	N	250	Green Party	Parti Vert	25	Hampton	4
+3700	ED11-004	4	Jeremy		Stiles	M	N	N	250	Green Party	Parti Vert	26	Bonshaw	8
+3700	ED11-004	4	Jeremy		Stiles	M	N	N	250	Green Party	Parti Vert	27	Brookvale	4
+3700	ED11-004	4	Jeremy		Stiles	M	N	N	250	Green Party	Parti Vert	28	North Wiltshire	4
+3700	ED11-004	4	Jeremy		Stiles	M	N	N	250	Green Party	Parti Vert	29	Hampshire	4
+3700	ED11-004	4	Jeremy		Stiles	M	N	N	250	Green Party	Parti Vert	3	Park Corner	12
+3700	ED11-004	4	Jeremy		Stiles	M	N	N	250	Green Party	Parti Vert	30	Darlington	3
+3700	ED11-004	4	Jeremy		Stiles	M	N	N	250	Green Party	Parti Vert	31	Hunter River	5
+3700	ED11-004	4	Jeremy		Stiles	M	N	N	250	Green Party	Parti Vert	32	Fredericton	3
+3700	ED11-004	4	Jeremy		Stiles	M	N	N	250	Green Party	Parti Vert	33	Stanchel	10
+3700	ED11-004	4	Jeremy		Stiles	M	N	N	250	Green Party	Parti Vert	34	Springfield	2
+3700	ED11-004	4	Jeremy		Stiles	M	N	N	250	Green Party	Parti Vert	35	New Glasgow	4
+3700	ED11-004	4	Jeremy		Stiles	M	N	N	250	Green Party	Parti Vert	36	Cavendish	2
+3700	ED11-004	4	Jeremy		Stiles	M	N	N	250	Green Party	Parti Vert	37	North Rustico	2
+3700	ED11-004	4	Jeremy		Stiles	M	N	N	250	Green Party	Parti Vert	38	Rusticoville	1
+3700	ED11-004	4	Jeremy		Stiles	M	N	N	250	Green Party	Parti Vert	39	South Rustico	4
+3700	ED11-004	4	Jeremy		Stiles	M	N	N	250	Green Party	Parti Vert	4	Southwest River	8
+3700	ED11-004	4	Jeremy		Stiles	M	N	N	250	Green Party	Parti Vert	40	Ebenezer	2
+3700	ED11-004	4	Jeremy		Stiles	M	N	N	250	Green Party	Parti Vert	41	Brackley Point	4
+3700	ED11-004	4	Jeremy		Stiles	M	N	N	250	Green Party	Parti Vert	42	Stanhope by the Sea	3
+3700	ED11-004	4	Jeremy		Stiles	M	N	N	250	Green Party	Parti Vert	43	Covehead Road	2
+3700	ED11-004	4	Jeremy		Stiles	M	N	N	250	Green Party	Parti Vert	44	York	3
+3700	ED11-004	4	Jeremy		Stiles	M	N	N	250	Green Party	Parti Vert	45	York	6
+3700	ED11-004	4	Jeremy		Stiles	M	N	N	250	Green Party	Parti Vert	46	Marshfield	0
+3700	ED11-004	4	Jeremy		Stiles	M	N	N	250	Green Party	Parti Vert	47	Brackley	5
+3700	ED11-004	4	Jeremy		Stiles	M	N	N	250	Green Party	Parti Vert	48	Harrington	1
+3700	ED11-004	4	Jeremy		Stiles	M	N	N	250	Green Party	Parti Vert	49	Royalty Junction	4
+3700	ED11-004	4	Jeremy		Stiles	M	N	N	250	Green Party	Parti Vert	5	New London	4
+3700	ED11-004	4	Jeremy		Stiles	M	N	N	250	Green Party	Parti Vert	50	Charlottetown	0
+3700	ED11-004	4	Jeremy		Stiles	M	N	N	250	Green Party	Parti Vert	500	Mobile poll/Bureau itinérant	0
+3700	ED11-004	4	Jeremy		Stiles	M	N	N	250	Green Party	Parti Vert	51	Charlottetown	1
+3700	ED11-004	4	Jeremy		Stiles	M	N	N	250	Green Party	Parti Vert	52A	Milton Station	1
+3700	ED11-004	4	Jeremy		Stiles	M	N	N	250	Green Party	Parti Vert	52B	Milton Station	1
+3700	ED11-004	4	Jeremy		Stiles	M	N	N	250	Green Party	Parti Vert	53	Springvale	3
+3700	ED11-004	4	Jeremy		Stiles	M	N	N	250	Green Party	Parti Vert	54	Warren Grove	2
+3700	ED11-004	4	Jeremy		Stiles	M	N	N	250	Green Party	Parti Vert	55	Cornwall	0
+3700	ED11-004	4	Jeremy		Stiles	M	N	N	250	Green Party	Parti Vert	56	Cornwall	2
+3700	ED11-004	4	Jeremy		Stiles	M	N	N	250	Green Party	Parti Vert	57	Cornwall	2
+3700	ED11-004	4	Jeremy		Stiles	M	N	N	250	Green Party	Parti Vert	58A	Cornwall	3
+3700	ED11-004	4	Jeremy		Stiles	M	N	N	250	Green Party	Parti Vert	58B	Cornwall	0
+3700	ED11-004	4	Jeremy		Stiles	M	N	N	250	Green Party	Parti Vert	59	Cornwall	0
+3700	ED11-004	4	Jeremy		Stiles	M	N	N	250	Green Party	Parti Vert	6	Margate	9
+3700	ED11-004	4	Jeremy		Stiles	M	N	N	250	Green Party	Parti Vert	60	Clyde River	6
+3700	ED11-004	4	Jeremy		Stiles	M	N	N	250	Green Party	Parti Vert	600	Kensington	3
+3700	ED11-004	4	Jeremy		Stiles	M	N	N	250	Green Party	Parti Vert	601	North Rustico	0
+3700	ED11-004	4	Jeremy		Stiles	M	N	N	250	Green Party	Parti Vert	602	Cornwall	4
+3700	ED11-004	4	Jeremy		Stiles	M	N	N	250	Green Party	Parti Vert	61	Churchill	1
+3700	ED11-004	4	Jeremy		Stiles	M	N	N	250	Green Party	Parti Vert	62	Clyde River	2
+3700	ED11-004	4	Jeremy		Stiles	M	N	N	250	Green Party	Parti Vert	63	Meadowbank	2
+3700	ED11-004	4	Jeremy		Stiles	M	N	N	250	Green Party	Parti Vert	64	Cornwall 	2
+3700	ED11-004	4	Jeremy		Stiles	M	N	N	250	Green Party	Parti Vert	65	Cornwall	5
+3700	ED11-004	4	Jeremy		Stiles	M	N	N	250	Green Party	Parti Vert	66	Rocky Point	4
+3700	ED11-004	4	Jeremy		Stiles	M	N	N	250	Green Party	Parti Vert	67	Nine Mile Creek	6
+3700	ED11-004	4	Jeremy		Stiles	M	N	N	250	Green Party	Parti Vert	68	Long Creek	5
+3700	ED11-004	4	Jeremy		Stiles	M	N	N	250	Green Party	Parti Vert	7	Kensington	2
+3700	ED11-004	4	Jeremy		Stiles	M	N	N	250	Green Party	Parti Vert	8	Kensington	4
+3700	ED11-004	4	Jeremy		Stiles	M	N	N	250	Green Party	Parti Vert	9	Kensington 	1
+3700	ED11-004	4	Jeremy		Stiles	M	N	N	250	Green Party	Parti Vert	S/R 1	SVR Group 1/RÉS Groupe 1	1
+3700	ED11-004	4	Jeremy		Stiles	M	N	N	250	Green Party	Parti Vert	S/R 2	SVR Group 2/RÉS Groupe 2	3
+3700	ED11-004	5	Chris		Wall	M	N	N	1262	Canadian Alliance	Alliance Canadienne	1	Darnley	45
+3700	ED11-004	5	Chris		Wall	M	N	N	1262	Canadian Alliance	Alliance Canadienne	10	Clermont	27
+3700	ED11-004	5	Chris		Wall	M	N	N	1262	Canadian Alliance	Alliance Canadienne	11	New Annan	14
+3700	ED11-004	5	Chris		Wall	M	N	N	1262	Canadian Alliance	Alliance Canadienne	12	Travellers Rest	31
+3700	ED11-004	5	Chris		Wall	M	N	N	1262	Canadian Alliance	Alliance Canadienne	13	North Bedeque	26
+3700	ED11-004	5	Chris		Wall	M	N	N	1262	Canadian Alliance	Alliance Canadienne	14	Mill Valley	11
+3700	ED11-004	5	Chris		Wall	M	N	N	1262	Canadian Alliance	Alliance Canadienne	15	South Freetown	14
+3700	ED11-004	5	Chris		Wall	M	N	N	1262	Canadian Alliance	Alliance Canadienne	16	Central Bedeque	17
+3700	ED11-004	5	Chris		Wall	M	N	N	1262	Canadian Alliance	Alliance Canadienne	17	Bedeque	18
+3700	ED11-004	5	Chris		Wall	M	N	N	1262	Canadian Alliance	Alliance Canadienne	18	Albany	6
+3700	ED11-004	5	Chris		Wall	M	N	N	1262	Canadian Alliance	Alliance Canadienne	19	Kinkora	12
+3700	ED11-004	5	Chris		Wall	M	N	N	1262	Canadian Alliance	Alliance Canadienne	2	Spring Valley	48
+3700	ED11-004	5	Chris		Wall	M	N	N	1262	Canadian Alliance	Alliance Canadienne	20	Borden-Carleton	11
+3700	ED11-004	5	Chris		Wall	M	N	N	1262	Canadian Alliance	Alliance Canadienne	21	Borden-Carleton	11
+3700	ED11-004	5	Chris		Wall	M	N	N	1262	Canadian Alliance	Alliance Canadienne	22	Augustine Cove	15
+3700	ED11-004	5	Chris		Wall	M	N	N	1262	Canadian Alliance	Alliance Canadienne	23	Tryon	20
+3700	ED11-004	5	Chris		Wall	M	N	N	1262	Canadian Alliance	Alliance Canadienne	24	Crapaud	5
+3700	ED11-004	5	Chris		Wall	M	N	N	1262	Canadian Alliance	Alliance Canadienne	25	Hampton	30
+3700	ED11-004	5	Chris		Wall	M	N	N	1262	Canadian Alliance	Alliance Canadienne	26	Bonshaw	27
+3700	ED11-004	5	Chris		Wall	M	N	N	1262	Canadian Alliance	Alliance Canadienne	27	Brookvale	6
+3700	ED11-004	5	Chris		Wall	M	N	N	1262	Canadian Alliance	Alliance Canadienne	28	North Wiltshire	15
+3700	ED11-004	5	Chris		Wall	M	N	N	1262	Canadian Alliance	Alliance Canadienne	29	Hampshire	13
+3700	ED11-004	5	Chris		Wall	M	N	N	1262	Canadian Alliance	Alliance Canadienne	3	Park Corner	27
+3700	ED11-004	5	Chris		Wall	M	N	N	1262	Canadian Alliance	Alliance Canadienne	30	Darlington	13
+3700	ED11-004	5	Chris		Wall	M	N	N	1262	Canadian Alliance	Alliance Canadienne	31	Hunter River	16
+3700	ED11-004	5	Chris		Wall	M	N	N	1262	Canadian Alliance	Alliance Canadienne	32	Fredericton	20
+3700	ED11-004	5	Chris		Wall	M	N	N	1262	Canadian Alliance	Alliance Canadienne	33	Stanchel	8
+3700	ED11-004	5	Chris		Wall	M	N	N	1262	Canadian Alliance	Alliance Canadienne	34	Springfield	10
+3700	ED11-004	5	Chris		Wall	M	N	N	1262	Canadian Alliance	Alliance Canadienne	35	New Glasgow	11
+3700	ED11-004	5	Chris		Wall	M	N	N	1262	Canadian Alliance	Alliance Canadienne	36	Cavendish	13
+3700	ED11-004	5	Chris		Wall	M	N	N	1262	Canadian Alliance	Alliance Canadienne	37	North Rustico	10
+3700	ED11-004	5	Chris		Wall	M	N	N	1262	Canadian Alliance	Alliance Canadienne	38	Rusticoville	11
+3700	ED11-004	5	Chris		Wall	M	N	N	1262	Canadian Alliance	Alliance Canadienne	39	South Rustico	16
+3700	ED11-004	5	Chris		Wall	M	N	N	1262	Canadian Alliance	Alliance Canadienne	4	Southwest River	15
+3700	ED11-004	5	Chris		Wall	M	N	N	1262	Canadian Alliance	Alliance Canadienne	40	Ebenezer	11
+3700	ED11-004	5	Chris		Wall	M	N	N	1262	Canadian Alliance	Alliance Canadienne	41	Brackley Point	12
+3700	ED11-004	5	Chris		Wall	M	N	N	1262	Canadian Alliance	Alliance Canadienne	42	Stanhope by the Sea	18
+3700	ED11-004	5	Chris		Wall	M	N	N	1262	Canadian Alliance	Alliance Canadienne	43	Covehead Road	16
+3700	ED11-004	5	Chris		Wall	M	N	N	1262	Canadian Alliance	Alliance Canadienne	44	York	9
+3700	ED11-004	5	Chris		Wall	M	N	N	1262	Canadian Alliance	Alliance Canadienne	45	York	21
+3700	ED11-004	5	Chris		Wall	M	N	N	1262	Canadian Alliance	Alliance Canadienne	46	Marshfield	2
+3700	ED11-004	5	Chris		Wall	M	N	N	1262	Canadian Alliance	Alliance Canadienne	47	Brackley	9
+3700	ED11-004	5	Chris		Wall	M	N	N	1262	Canadian Alliance	Alliance Canadienne	48	Harrington	23
+3700	ED11-004	5	Chris		Wall	M	N	N	1262	Canadian Alliance	Alliance Canadienne	49	Royalty Junction	25
+3700	ED11-004	5	Chris		Wall	M	N	N	1262	Canadian Alliance	Alliance Canadienne	5	New London	24
+3700	ED11-004	5	Chris		Wall	M	N	N	1262	Canadian Alliance	Alliance Canadienne	50	Charlottetown	10
+3700	ED11-004	5	Chris		Wall	M	N	N	1262	Canadian Alliance	Alliance Canadienne	500	Mobile poll/Bureau itinérant	0
+3700	ED11-004	5	Chris		Wall	M	N	N	1262	Canadian Alliance	Alliance Canadienne	51	Charlottetown	33
+3700	ED11-004	5	Chris		Wall	M	N	N	1262	Canadian Alliance	Alliance Canadienne	52A	Milton Station	8
+3700	ED11-004	5	Chris		Wall	M	N	N	1262	Canadian Alliance	Alliance Canadienne	52B	Milton Station	9
+3700	ED11-004	5	Chris		Wall	M	N	N	1262	Canadian Alliance	Alliance Canadienne	53	Springvale	13
+3700	ED11-004	5	Chris		Wall	M	N	N	1262	Canadian Alliance	Alliance Canadienne	54	Warren Grove	19
+3700	ED11-004	5	Chris		Wall	M	N	N	1262	Canadian Alliance	Alliance Canadienne	55	Cornwall	16
+3700	ED11-004	5	Chris		Wall	M	N	N	1262	Canadian Alliance	Alliance Canadienne	56	Cornwall	27
+3700	ED11-004	5	Chris		Wall	M	N	N	1262	Canadian Alliance	Alliance Canadienne	57	Cornwall	10
+3700	ED11-004	5	Chris		Wall	M	N	N	1262	Canadian Alliance	Alliance Canadienne	58A	Cornwall	11
+3700	ED11-004	5	Chris		Wall	M	N	N	1262	Canadian Alliance	Alliance Canadienne	58B	Cornwall	13
+3700	ED11-004	5	Chris		Wall	M	N	N	1262	Canadian Alliance	Alliance Canadienne	59	Cornwall	13
+3700	ED11-004	5	Chris		Wall	M	N	N	1262	Canadian Alliance	Alliance Canadienne	6	Margate	32
+3700	ED11-004	5	Chris		Wall	M	N	N	1262	Canadian Alliance	Alliance Canadienne	60	Clyde River	26
+3700	ED11-004	5	Chris		Wall	M	N	N	1262	Canadian Alliance	Alliance Canadienne	600	Kensington	33
+3700	ED11-004	5	Chris		Wall	M	N	N	1262	Canadian Alliance	Alliance Canadienne	601	North Rustico	10
+3700	ED11-004	5	Chris		Wall	M	N	N	1262	Canadian Alliance	Alliance Canadienne	602	Cornwall	17
+3700	ED11-004	5	Chris		Wall	M	N	N	1262	Canadian Alliance	Alliance Canadienne	61	Churchill	7
+3700	ED11-004	5	Chris		Wall	M	N	N	1262	Canadian Alliance	Alliance Canadienne	62	Clyde River	9
+3700	ED11-004	5	Chris		Wall	M	N	N	1262	Canadian Alliance	Alliance Canadienne	63	Meadowbank	7
+3700	ED11-004	5	Chris		Wall	M	N	N	1262	Canadian Alliance	Alliance Canadienne	64	Cornwall 	17
+3700	ED11-004	5	Chris		Wall	M	N	N	1262	Canadian Alliance	Alliance Canadienne	65	Cornwall	24
+3700	ED11-004	5	Chris		Wall	M	N	N	1262	Canadian Alliance	Alliance Canadienne	66	Rocky Point	11
+3700	ED11-004	5	Chris		Wall	M	N	N	1262	Canadian Alliance	Alliance Canadienne	67	Nine Mile Creek	20
+3700	ED11-004	5	Chris		Wall	M	N	N	1262	Canadian Alliance	Alliance Canadienne	68	Long Creek	29
+3700	ED11-004	5	Chris		Wall	M	N	N	1262	Canadian Alliance	Alliance Canadienne	7	Kensington	17
+3700	ED11-004	5	Chris		Wall	M	N	N	1262	Canadian Alliance	Alliance Canadienne	8	Kensington	13
+3700	ED11-004	5	Chris		Wall	M	N	N	1262	Canadian Alliance	Alliance Canadienne	9	Kensington 	16
+3700	ED11-004	5	Chris		Wall	M	N	N	1262	Canadian Alliance	Alliance Canadienne	S/R 1	SVR Group 1/RÉS Groupe 1	16
+3700	ED11-004	5	Chris		Wall	M	N	N	1262	Canadian Alliance	Alliance Canadienne	S/R 2	SVR Group 2/RÉS Groupe 2	14

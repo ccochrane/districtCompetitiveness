@@ -1,0 +1,559 @@
+event_number	ed_code	ballot_sequence_number	candidate_first_name	candidate_middle_name	candidate_last_name	candidate_gender_code	elected_indicator	incumbent_indicator	candidate_ed_vote_count	candidate_party_english_name	candidate_party_french_name	poll_number	polling_station_name	candidate_poll_vote_count
+3600	ED60-001	01	Shirley		Adamson	F	N	N	3036	Liberal	Libéral	1	Old Crow	38
+3600	ED60-001	01	Shirley		Adamson	F	N	N	3036	Liberal	Libéral	1	Dawson	6
+3600	ED60-001	01	Shirley		Adamson	F	N	N	3036	Liberal	Libéral	10	Koidern	0
+3600	ED60-001	01	Shirley		Adamson	F	N	N	3036	Liberal	Libéral	10	Whitehorse	58
+3600	ED60-001	01	Shirley		Adamson	F	N	N	3036	Liberal	Libéral	11	Burwash Landing	16
+3600	ED60-001	01	Shirley		Adamson	F	N	N	3036	Liberal	Libéral	11	MacRae	10
+3600	ED60-001	01	Shirley		Adamson	F	N	N	3036	Liberal	Libéral	12	Destruction Bay	3
+3600	ED60-001	01	Shirley		Adamson	F	N	N	3036	Liberal	Libéral	12	Carcross	4
+3600	ED60-001	01	Shirley		Adamson	F	N	N	3036	Liberal	Libéral	13	Pelly Crossing	30
+3600	ED60-001	01	Shirley		Adamson	F	N	N	3036	Liberal	Libéral	13	Swift River	2
+3600	ED60-001	01	Shirley		Adamson	F	N	N	3036	Liberal	Libéral	14	Carmacks	31
+3600	ED60-001	01	Shirley		Adamson	F	N	N	3036	Liberal	Libéral	14	Watson Lake	8
+3600	ED60-001	01	Shirley		Adamson	F	N	N	3036	Liberal	Libéral	15	Faro	0
+3600	ED60-001	01	Shirley		Adamson	F	N	N	3036	Liberal	Libéral	16	Faro	35
+3600	ED60-001	01	Shirley		Adamson	F	N	N	3036	Liberal	Libéral	17	Faro	22
+3600	ED60-001	01	Shirley		Adamson	F	N	N	3036	Liberal	Libéral	18	Little Salmon	0
+3600	ED60-001	01	Shirley		Adamson	F	N	N	3036	Liberal	Libéral	19	Ross River	43
+3600	ED60-001	01	Shirley		Adamson	F	N	N	3036	Liberal	Libéral	2	Eagle Plains	0
+3600	ED60-001	01	Shirley		Adamson	F	N	N	3036	Liberal	Libéral	2	Mayo	7
+3600	ED60-001	01	Shirley		Adamson	F	N	N	3036	Liberal	Libéral	20A	Haines Junction	41
+3600	ED60-001	01	Shirley		Adamson	F	N	N	3036	Liberal	Libéral	20B	Haines Junction	47
+3600	ED60-001	01	Shirley		Adamson	F	N	N	3036	Liberal	Libéral	21	Takhini	5
+3600	ED60-001	01	Shirley		Adamson	F	N	N	3036	Liberal	Libéral	22	Upper Laberge	23
+3600	ED60-001	01	Shirley		Adamson	F	N	N	3036	Liberal	Libéral	23	Takhini	37
+3600	ED60-001	01	Shirley		Adamson	F	N	N	3036	Liberal	Libéral	24	Takhini	31
+3600	ED60-001	01	Shirley		Adamson	F	N	N	3036	Liberal	Libéral	25	Whitehorse	36
+3600	ED60-001	01	Shirley		Adamson	F	N	N	3036	Liberal	Libéral	26	Whitehorse	51
+3600	ED60-001	01	Shirley		Adamson	F	N	N	3036	Liberal	Libéral	27	Whitehorse	26
+3600	ED60-001	01	Shirley		Adamson	F	N	N	3036	Liberal	Libéral	28	Whitehorse	27
+3600	ED60-001	01	Shirley		Adamson	F	N	N	3036	Liberal	Libéral	29	Whitehorse	24
+3600	ED60-001	01	Shirley		Adamson	F	N	N	3036	Liberal	Libéral	3	Dawson	74
+3600	ED60-001	01	Shirley		Adamson	F	N	N	3036	Liberal	Libéral	3	Beaver Creek	4
+3600	ED60-001	01	Shirley		Adamson	F	N	N	3036	Liberal	Libéral	30	Whitehorse	20
+3600	ED60-001	01	Shirley		Adamson	F	N	N	3036	Liberal	Libéral	31	Whitehorse	47
+3600	ED60-001	01	Shirley		Adamson	F	N	N	3036	Liberal	Libéral	32	Whitehorse	41
+3600	ED60-001	01	Shirley		Adamson	F	N	N	3036	Liberal	Libéral	33	Whitehorse	58
+3600	ED60-001	01	Shirley		Adamson	F	N	N	3036	Liberal	Libéral	34	Whitehorse	34
+3600	ED60-001	01	Shirley		Adamson	F	N	N	3036	Liberal	Libéral	35	Whitehorse	65
+3600	ED60-001	01	Shirley		Adamson	F	N	N	3036	Liberal	Libéral	36	Whitehorse	65
+3600	ED60-001	01	Shirley		Adamson	F	N	N	3036	Liberal	Libéral	37	Whitehorse	31
+3600	ED60-001	01	Shirley		Adamson	F	N	N	3036	Liberal	Libéral	38	Whitehorse	23
+3600	ED60-001	01	Shirley		Adamson	F	N	N	3036	Liberal	Libéral	39	Whitehorse	14
+3600	ED60-001	01	Shirley		Adamson	F	N	N	3036	Liberal	Libéral	4	Dawson	81
+3600	ED60-001	01	Shirley		Adamson	F	N	N	3036	Liberal	Libéral	4	Pelly Crossing	5
+3600	ED60-001	01	Shirley		Adamson	F	N	N	3036	Liberal	Libéral	40	Whitehorse	63
+3600	ED60-001	01	Shirley		Adamson	F	N	N	3036	Liberal	Libéral	41	Whitehorse	69
+3600	ED60-001	01	Shirley		Adamson	F	N	N	3036	Liberal	Libéral	42	Whitehorse	28
+3600	ED60-001	01	Shirley		Adamson	F	N	N	3036	Liberal	Libéral	43A	Whitehorse	80
+3600	ED60-001	01	Shirley		Adamson	F	N	N	3036	Liberal	Libéral	43B	Whitehorse	59
+3600	ED60-001	01	Shirley		Adamson	F	N	N	3036	Liberal	Libéral	44	Whitehorse	76
+3600	ED60-001	01	Shirley		Adamson	F	N	N	3036	Liberal	Libéral	45	Whitehorse	31
+3600	ED60-001	01	Shirley		Adamson	F	N	N	3036	Liberal	Libéral	46	Whitehorse	23
+3600	ED60-001	01	Shirley		Adamson	F	N	N	3036	Liberal	Libéral	47	Whitehorse	27
+3600	ED60-001	01	Shirley		Adamson	F	N	N	3036	Liberal	Libéral	48	Whitehorse	52
+3600	ED60-001	01	Shirley		Adamson	F	N	N	3036	Liberal	Libéral	49	Whitehorse	42
+3600	ED60-001	01	Shirley		Adamson	F	N	N	3036	Liberal	Libéral	5	Klondike	71
+3600	ED60-001	01	Shirley		Adamson	F	N	N	3036	Liberal	Libéral	5	Faro	6
+3600	ED60-001	01	Shirley		Adamson	F	N	N	3036	Liberal	Libéral	50	Whitehorse	40
+3600	ED60-001	01	Shirley		Adamson	F	N	N	3036	Liberal	Libéral	51	Whitehorse	18
+3600	ED60-001	01	Shirley		Adamson	F	N	N	3036	Liberal	Libéral	52	Whitehorse	33
+3600	ED60-001	01	Shirley		Adamson	F	N	N	3036	Liberal	Libéral	53	Whitehorse	56
+3600	ED60-001	01	Shirley		Adamson	F	N	N	3036	Liberal	Libéral	54	Whitehorse	78
+3600	ED60-001	01	Shirley		Adamson	F	N	N	3036	Liberal	Libéral	55	Whitehorse	44
+3600	ED60-001	01	Shirley		Adamson	F	N	N	3036	Liberal	Libéral	56	Whitehorse	62
+3600	ED60-001	01	Shirley		Adamson	F	N	N	3036	Liberal	Libéral	57	Whitehorse	66
+3600	ED60-001	01	Shirley		Adamson	F	N	N	3036	Liberal	Libéral	58	Whitehorse	75
+3600	ED60-001	01	Shirley		Adamson	F	N	N	3036	Liberal	Libéral	59	Whitehorse	89
+3600	ED60-001	01	Shirley		Adamson	F	N	N	3036	Liberal	Libéral	6	Keno Hill	1
+3600	ED60-001	01	Shirley		Adamson	F	N	N	3036	Liberal	Libéral	6	Ross River	3
+3600	ED60-001	01	Shirley		Adamson	F	N	N	3036	Liberal	Libéral	60	MacRae	23
+3600	ED60-001	01	Shirley		Adamson	F	N	N	3036	Liberal	Libéral	61A	MacRae	34
+3600	ED60-001	01	Shirley		Adamson	F	N	N	3036	Liberal	Libéral	61B	MacRae	46
+3600	ED60-001	01	Shirley		Adamson	F	N	N	3036	Liberal	Libéral	62	MacRae	18
+3600	ED60-001	01	Shirley		Adamson	F	N	N	3036	Liberal	Libéral	63	MacRae	55
+3600	ED60-001	01	Shirley		Adamson	F	N	N	3036	Liberal	Libéral	64	Marsh Lake	44
+3600	ED60-001	01	Shirley		Adamson	F	N	N	3036	Liberal	Libéral	65	Carcross	22
+3600	ED60-001	01	Shirley		Adamson	F	N	N	3036	Liberal	Libéral	66	Tagish	26
+3600	ED60-001	01	Shirley		Adamson	F	N	N	3036	Liberal	Libéral	67	Johnsons Crossing	2
+3600	ED60-001	01	Shirley		Adamson	F	N	N	3036	Liberal	Libéral	68	Teslin	42
+3600	ED60-001	01	Shirley		Adamson	F	N	N	3036	Liberal	Libéral	69	Swift River	1
+3600	ED60-001	01	Shirley		Adamson	F	N	N	3036	Liberal	Libéral	7	Stewart Crossing	0
+3600	ED60-001	01	Shirley		Adamson	F	N	N	3036	Liberal	Libéral	7	Haines Junction	8
+3600	ED60-001	01	Shirley		Adamson	F	N	N	3036	Liberal	Libéral	70	Tuchitua	0
+3600	ED60-001	01	Shirley		Adamson	F	N	N	3036	Liberal	Libéral	71	Watson Lake	22
+3600	ED60-001	01	Shirley		Adamson	F	N	N	3036	Liberal	Libéral	72	Watson Lake	28
+3600	ED60-001	01	Shirley		Adamson	F	N	N	3036	Liberal	Libéral	73	Upper Liard	15
+3600	ED60-001	01	Shirley		Adamson	F	N	N	3036	Liberal	Libéral	74	Watson Lake	33
+3600	ED60-001	01	Shirley		Adamson	F	N	N	3036	Liberal	Libéral	8	Mayo	44
+3600	ED60-001	01	Shirley		Adamson	F	N	N	3036	Liberal	Libéral	8	Takhini	3
+3600	ED60-001	01	Shirley		Adamson	F	N	N	3036	Liberal	Libéral	9	Beaver Creek	10
+3600	ED60-001	01	Shirley		Adamson	F	N	N	3036	Liberal	Libéral	9	Whitehorse	58
+3600	ED60-001	01	Shirley		Adamson	F	N	N	3036	Liberal	Libéral	SVR/RÉS-1		15
+3600	ED60-001	01	Shirley		Adamson	F	N	N	3036	Liberal	Libéral	SVR/RÉS-2		72
+3600	ED60-001	02	Don		Branigan	M	N	N	1234	Independent	Indépendant	1	Old Crow	5
+3600	ED60-001	02	Don		Branigan	M	N	N	1234	Independent	Indépendant	1	Dawson	2
+3600	ED60-001	02	Don		Branigan	M	N	N	1234	Independent	Indépendant	10	Koidern	2
+3600	ED60-001	02	Don		Branigan	M	N	N	1234	Independent	Indépendant	10	Whitehorse	27
+3600	ED60-001	02	Don		Branigan	M	N	N	1234	Independent	Indépendant	11	Burwash Landing	9
+3600	ED60-001	02	Don		Branigan	M	N	N	1234	Independent	Indépendant	11	MacRae	3
+3600	ED60-001	02	Don		Branigan	M	N	N	1234	Independent	Indépendant	12	Destruction Bay	3
+3600	ED60-001	02	Don		Branigan	M	N	N	1234	Independent	Indépendant	12	Carcross	2
+3600	ED60-001	02	Don		Branigan	M	N	N	1234	Independent	Indépendant	13	Pelly Crossing	7
+3600	ED60-001	02	Don		Branigan	M	N	N	1234	Independent	Indépendant	13	Swift River	1
+3600	ED60-001	02	Don		Branigan	M	N	N	1234	Independent	Indépendant	14	Carmacks	16
+3600	ED60-001	02	Don		Branigan	M	N	N	1234	Independent	Indépendant	14	Watson Lake	2
+3600	ED60-001	02	Don		Branigan	M	N	N	1234	Independent	Indépendant	15	Faro	0
+3600	ED60-001	02	Don		Branigan	M	N	N	1234	Independent	Indépendant	16	Faro	7
+3600	ED60-001	02	Don		Branigan	M	N	N	1234	Independent	Indépendant	17	Faro	6
+3600	ED60-001	02	Don		Branigan	M	N	N	1234	Independent	Indépendant	18	Little Salmon	1
+3600	ED60-001	02	Don		Branigan	M	N	N	1234	Independent	Indépendant	19	Ross River	7
+3600	ED60-001	02	Don		Branigan	M	N	N	1234	Independent	Indépendant	2	Eagle Plains	0
+3600	ED60-001	02	Don		Branigan	M	N	N	1234	Independent	Indépendant	2	Mayo	2
+3600	ED60-001	02	Don		Branigan	M	N	N	1234	Independent	Indépendant	20A	Haines Junction	6
+3600	ED60-001	02	Don		Branigan	M	N	N	1234	Independent	Indépendant	20B	Haines Junction	12
+3600	ED60-001	02	Don		Branigan	M	N	N	1234	Independent	Indépendant	21	Takhini	1
+3600	ED60-001	02	Don		Branigan	M	N	N	1234	Independent	Indépendant	22	Upper Laberge	15
+3600	ED60-001	02	Don		Branigan	M	N	N	1234	Independent	Indépendant	23	Takhini	16
+3600	ED60-001	02	Don		Branigan	M	N	N	1234	Independent	Indépendant	24	Takhini	19
+3600	ED60-001	02	Don		Branigan	M	N	N	1234	Independent	Indépendant	25	Whitehorse	20
+3600	ED60-001	02	Don		Branigan	M	N	N	1234	Independent	Indépendant	26	Whitehorse	22
+3600	ED60-001	02	Don		Branigan	M	N	N	1234	Independent	Indépendant	27	Whitehorse	14
+3600	ED60-001	02	Don		Branigan	M	N	N	1234	Independent	Indépendant	28	Whitehorse	22
+3600	ED60-001	02	Don		Branigan	M	N	N	1234	Independent	Indépendant	29	Whitehorse	18
+3600	ED60-001	02	Don		Branigan	M	N	N	1234	Independent	Indépendant	3	Dawson	16
+3600	ED60-001	02	Don		Branigan	M	N	N	1234	Independent	Indépendant	3	Beaver Creek	0
+3600	ED60-001	02	Don		Branigan	M	N	N	1234	Independent	Indépendant	30	Whitehorse	17
+3600	ED60-001	02	Don		Branigan	M	N	N	1234	Independent	Indépendant	31	Whitehorse	26
+3600	ED60-001	02	Don		Branigan	M	N	N	1234	Independent	Indépendant	32	Whitehorse	9
+3600	ED60-001	02	Don		Branigan	M	N	N	1234	Independent	Indépendant	33	Whitehorse	11
+3600	ED60-001	02	Don		Branigan	M	N	N	1234	Independent	Indépendant	34	Whitehorse	14
+3600	ED60-001	02	Don		Branigan	M	N	N	1234	Independent	Indépendant	35	Whitehorse	15
+3600	ED60-001	02	Don		Branigan	M	N	N	1234	Independent	Indépendant	36	Whitehorse	11
+3600	ED60-001	02	Don		Branigan	M	N	N	1234	Independent	Indépendant	37	Whitehorse	20
+3600	ED60-001	02	Don		Branigan	M	N	N	1234	Independent	Indépendant	38	Whitehorse	19
+3600	ED60-001	02	Don		Branigan	M	N	N	1234	Independent	Indépendant	39	Whitehorse	8
+3600	ED60-001	02	Don		Branigan	M	N	N	1234	Independent	Indépendant	4	Dawson	17
+3600	ED60-001	02	Don		Branigan	M	N	N	1234	Independent	Indépendant	4	Pelly Crossing	5
+3600	ED60-001	02	Don		Branigan	M	N	N	1234	Independent	Indépendant	40	Whitehorse	15
+3600	ED60-001	02	Don		Branigan	M	N	N	1234	Independent	Indépendant	41	Whitehorse	15
+3600	ED60-001	02	Don		Branigan	M	N	N	1234	Independent	Indépendant	42	Whitehorse	26
+3600	ED60-001	02	Don		Branigan	M	N	N	1234	Independent	Indépendant	43A	Whitehorse	9
+3600	ED60-001	02	Don		Branigan	M	N	N	1234	Independent	Indépendant	43B	Whitehorse	13
+3600	ED60-001	02	Don		Branigan	M	N	N	1234	Independent	Indépendant	44	Whitehorse	48
+3600	ED60-001	02	Don		Branigan	M	N	N	1234	Independent	Indépendant	45	Whitehorse	4
+3600	ED60-001	02	Don		Branigan	M	N	N	1234	Independent	Indépendant	46	Whitehorse	22
+3600	ED60-001	02	Don		Branigan	M	N	N	1234	Independent	Indépendant	47	Whitehorse	25
+3600	ED60-001	02	Don		Branigan	M	N	N	1234	Independent	Indépendant	48	Whitehorse	23
+3600	ED60-001	02	Don		Branigan	M	N	N	1234	Independent	Indépendant	49	Whitehorse	52
+3600	ED60-001	02	Don		Branigan	M	N	N	1234	Independent	Indépendant	5	Klondike	16
+3600	ED60-001	02	Don		Branigan	M	N	N	1234	Independent	Indépendant	5	Faro	1
+3600	ED60-001	02	Don		Branigan	M	N	N	1234	Independent	Indépendant	50	Whitehorse	15
+3600	ED60-001	02	Don		Branigan	M	N	N	1234	Independent	Indépendant	51	Whitehorse	3
+3600	ED60-001	02	Don		Branigan	M	N	N	1234	Independent	Indépendant	52	Whitehorse	21
+3600	ED60-001	02	Don		Branigan	M	N	N	1234	Independent	Indépendant	53	Whitehorse	23
+3600	ED60-001	02	Don		Branigan	M	N	N	1234	Independent	Indépendant	54	Whitehorse	25
+3600	ED60-001	02	Don		Branigan	M	N	N	1234	Independent	Indépendant	55	Whitehorse	12
+3600	ED60-001	02	Don		Branigan	M	N	N	1234	Independent	Indépendant	56	Whitehorse	25
+3600	ED60-001	02	Don		Branigan	M	N	N	1234	Independent	Indépendant	57	Whitehorse	19
+3600	ED60-001	02	Don		Branigan	M	N	N	1234	Independent	Indépendant	58	Whitehorse	30
+3600	ED60-001	02	Don		Branigan	M	N	N	1234	Independent	Indépendant	59	Whitehorse	18
+3600	ED60-001	02	Don		Branigan	M	N	N	1234	Independent	Indépendant	6	Keno Hill	3
+3600	ED60-001	02	Don		Branigan	M	N	N	1234	Independent	Indépendant	6	Ross River	0
+3600	ED60-001	02	Don		Branigan	M	N	N	1234	Independent	Indépendant	60	MacRae	9
+3600	ED60-001	02	Don		Branigan	M	N	N	1234	Independent	Indépendant	61A	MacRae	13
+3600	ED60-001	02	Don		Branigan	M	N	N	1234	Independent	Indépendant	61B	MacRae	9
+3600	ED60-001	02	Don		Branigan	M	N	N	1234	Independent	Indépendant	62	MacRae	10
+3600	ED60-001	02	Don		Branigan	M	N	N	1234	Independent	Indépendant	63	MacRae	40
+3600	ED60-001	02	Don		Branigan	M	N	N	1234	Independent	Indépendant	64	Marsh Lake	23
+3600	ED60-001	02	Don		Branigan	M	N	N	1234	Independent	Indépendant	65	Carcross	33
+3600	ED60-001	02	Don		Branigan	M	N	N	1234	Independent	Indépendant	66	Tagish	21
+3600	ED60-001	02	Don		Branigan	M	N	N	1234	Independent	Indépendant	67	Johnsons Crossing	0
+3600	ED60-001	02	Don		Branigan	M	N	N	1234	Independent	Indépendant	68	Teslin	36
+3600	ED60-001	02	Don		Branigan	M	N	N	1234	Independent	Indépendant	69	Swift River	1
+3600	ED60-001	02	Don		Branigan	M	N	N	1234	Independent	Indépendant	7	Stewart Crossing	0
+3600	ED60-001	02	Don		Branigan	M	N	N	1234	Independent	Indépendant	7	Haines Junction	0
+3600	ED60-001	02	Don		Branigan	M	N	N	1234	Independent	Indépendant	70	Tuchitua	2
+3600	ED60-001	02	Don		Branigan	M	N	N	1234	Independent	Indépendant	71	Watson Lake	5
+3600	ED60-001	02	Don		Branigan	M	N	N	1234	Independent	Indépendant	72	Watson Lake	4
+3600	ED60-001	02	Don		Branigan	M	N	N	1234	Independent	Indépendant	73	Upper Liard	11
+3600	ED60-001	02	Don		Branigan	M	N	N	1234	Independent	Indépendant	74	Watson Lake	16
+3600	ED60-001	02	Don		Branigan	M	N	N	1234	Independent	Indépendant	8	Mayo	28
+3600	ED60-001	02	Don		Branigan	M	N	N	1234	Independent	Indépendant	8	Takhini	2
+3600	ED60-001	02	Don		Branigan	M	N	N	1234	Independent	Indépendant	9	Beaver Creek	4
+3600	ED60-001	02	Don		Branigan	M	N	N	1234	Independent	Indépendant	9	Whitehorse	3
+3600	ED60-001	02	Don		Branigan	M	N	N	1234	Independent	Indépendant	SVR/RÉS-1		10
+3600	ED60-001	02	Don		Branigan	M	N	N	1234	Independent	Indépendant	SVR/RÉS-2		36
+3600	ED60-001	03	Geoffrey		Capp	M	N	N	136	C.H.P. of Canada	P.H.C. du Canada	1	Old Crow	0
+3600	ED60-001	03	Geoffrey		Capp	M	N	N	136	C.H.P. of Canada	P.H.C. du Canada	1	Dawson	0
+3600	ED60-001	03	Geoffrey		Capp	M	N	N	136	C.H.P. of Canada	P.H.C. du Canada	10	Koidern	0
+3600	ED60-001	03	Geoffrey		Capp	M	N	N	136	C.H.P. of Canada	P.H.C. du Canada	10	Whitehorse	2
+3600	ED60-001	03	Geoffrey		Capp	M	N	N	136	C.H.P. of Canada	P.H.C. du Canada	11	Burwash Landing	0
+3600	ED60-001	03	Geoffrey		Capp	M	N	N	136	C.H.P. of Canada	P.H.C. du Canada	11	MacRae	0
+3600	ED60-001	03	Geoffrey		Capp	M	N	N	136	C.H.P. of Canada	P.H.C. du Canada	12	Destruction Bay	0
+3600	ED60-001	03	Geoffrey		Capp	M	N	N	136	C.H.P. of Canada	P.H.C. du Canada	12	Carcross	0
+3600	ED60-001	03	Geoffrey		Capp	M	N	N	136	C.H.P. of Canada	P.H.C. du Canada	13	Pelly Crossing	1
+3600	ED60-001	03	Geoffrey		Capp	M	N	N	136	C.H.P. of Canada	P.H.C. du Canada	13	Swift River	0
+3600	ED60-001	03	Geoffrey		Capp	M	N	N	136	C.H.P. of Canada	P.H.C. du Canada	14	Carmacks	2
+3600	ED60-001	03	Geoffrey		Capp	M	N	N	136	C.H.P. of Canada	P.H.C. du Canada	14	Watson Lake	0
+3600	ED60-001	03	Geoffrey		Capp	M	N	N	136	C.H.P. of Canada	P.H.C. du Canada	15	Faro	0
+3600	ED60-001	03	Geoffrey		Capp	M	N	N	136	C.H.P. of Canada	P.H.C. du Canada	16	Faro	4
+3600	ED60-001	03	Geoffrey		Capp	M	N	N	136	C.H.P. of Canada	P.H.C. du Canada	17	Faro	0
+3600	ED60-001	03	Geoffrey		Capp	M	N	N	136	C.H.P. of Canada	P.H.C. du Canada	18	Little Salmon	1
+3600	ED60-001	03	Geoffrey		Capp	M	N	N	136	C.H.P. of Canada	P.H.C. du Canada	19	Ross River	1
+3600	ED60-001	03	Geoffrey		Capp	M	N	N	136	C.H.P. of Canada	P.H.C. du Canada	2	Eagle Plains	0
+3600	ED60-001	03	Geoffrey		Capp	M	N	N	136	C.H.P. of Canada	P.H.C. du Canada	2	Mayo	0
+3600	ED60-001	03	Geoffrey		Capp	M	N	N	136	C.H.P. of Canada	P.H.C. du Canada	20A	Haines Junction	5
+3600	ED60-001	03	Geoffrey		Capp	M	N	N	136	C.H.P. of Canada	P.H.C. du Canada	20B	Haines Junction	0
+3600	ED60-001	03	Geoffrey		Capp	M	N	N	136	C.H.P. of Canada	P.H.C. du Canada	21	Takhini	0
+3600	ED60-001	03	Geoffrey		Capp	M	N	N	136	C.H.P. of Canada	P.H.C. du Canada	22	Upper Laberge	3
+3600	ED60-001	03	Geoffrey		Capp	M	N	N	136	C.H.P. of Canada	P.H.C. du Canada	23	Takhini	0
+3600	ED60-001	03	Geoffrey		Capp	M	N	N	136	C.H.P. of Canada	P.H.C. du Canada	24	Takhini	8
+3600	ED60-001	03	Geoffrey		Capp	M	N	N	136	C.H.P. of Canada	P.H.C. du Canada	25	Whitehorse	2
+3600	ED60-001	03	Geoffrey		Capp	M	N	N	136	C.H.P. of Canada	P.H.C. du Canada	26	Whitehorse	2
+3600	ED60-001	03	Geoffrey		Capp	M	N	N	136	C.H.P. of Canada	P.H.C. du Canada	27	Whitehorse	2
+3600	ED60-001	03	Geoffrey		Capp	M	N	N	136	C.H.P. of Canada	P.H.C. du Canada	28	Whitehorse	2
+3600	ED60-001	03	Geoffrey		Capp	M	N	N	136	C.H.P. of Canada	P.H.C. du Canada	29	Whitehorse	2
+3600	ED60-001	03	Geoffrey		Capp	M	N	N	136	C.H.P. of Canada	P.H.C. du Canada	3	Dawson	0
+3600	ED60-001	03	Geoffrey		Capp	M	N	N	136	C.H.P. of Canada	P.H.C. du Canada	3	Beaver Creek	0
+3600	ED60-001	03	Geoffrey		Capp	M	N	N	136	C.H.P. of Canada	P.H.C. du Canada	30	Whitehorse	1
+3600	ED60-001	03	Geoffrey		Capp	M	N	N	136	C.H.P. of Canada	P.H.C. du Canada	31	Whitehorse	0
+3600	ED60-001	03	Geoffrey		Capp	M	N	N	136	C.H.P. of Canada	P.H.C. du Canada	32	Whitehorse	4
+3600	ED60-001	03	Geoffrey		Capp	M	N	N	136	C.H.P. of Canada	P.H.C. du Canada	33	Whitehorse	1
+3600	ED60-001	03	Geoffrey		Capp	M	N	N	136	C.H.P. of Canada	P.H.C. du Canada	34	Whitehorse	1
+3600	ED60-001	03	Geoffrey		Capp	M	N	N	136	C.H.P. of Canada	P.H.C. du Canada	35	Whitehorse	5
+3600	ED60-001	03	Geoffrey		Capp	M	N	N	136	C.H.P. of Canada	P.H.C. du Canada	36	Whitehorse	4
+3600	ED60-001	03	Geoffrey		Capp	M	N	N	136	C.H.P. of Canada	P.H.C. du Canada	37	Whitehorse	5
+3600	ED60-001	03	Geoffrey		Capp	M	N	N	136	C.H.P. of Canada	P.H.C. du Canada	38	Whitehorse	2
+3600	ED60-001	03	Geoffrey		Capp	M	N	N	136	C.H.P. of Canada	P.H.C. du Canada	39	Whitehorse	2
+3600	ED60-001	03	Geoffrey		Capp	M	N	N	136	C.H.P. of Canada	P.H.C. du Canada	4	Dawson	1
+3600	ED60-001	03	Geoffrey		Capp	M	N	N	136	C.H.P. of Canada	P.H.C. du Canada	4	Pelly Crossing	0
+3600	ED60-001	03	Geoffrey		Capp	M	N	N	136	C.H.P. of Canada	P.H.C. du Canada	40	Whitehorse	3
+3600	ED60-001	03	Geoffrey		Capp	M	N	N	136	C.H.P. of Canada	P.H.C. du Canada	41	Whitehorse	5
+3600	ED60-001	03	Geoffrey		Capp	M	N	N	136	C.H.P. of Canada	P.H.C. du Canada	42	Whitehorse	1
+3600	ED60-001	03	Geoffrey		Capp	M	N	N	136	C.H.P. of Canada	P.H.C. du Canada	43A	Whitehorse	0
+3600	ED60-001	03	Geoffrey		Capp	M	N	N	136	C.H.P. of Canada	P.H.C. du Canada	43B	Whitehorse	2
+3600	ED60-001	03	Geoffrey		Capp	M	N	N	136	C.H.P. of Canada	P.H.C. du Canada	44	Whitehorse	1
+3600	ED60-001	03	Geoffrey		Capp	M	N	N	136	C.H.P. of Canada	P.H.C. du Canada	45	Whitehorse	1
+3600	ED60-001	03	Geoffrey		Capp	M	N	N	136	C.H.P. of Canada	P.H.C. du Canada	46	Whitehorse	4
+3600	ED60-001	03	Geoffrey		Capp	M	N	N	136	C.H.P. of Canada	P.H.C. du Canada	47	Whitehorse	4
+3600	ED60-001	03	Geoffrey		Capp	M	N	N	136	C.H.P. of Canada	P.H.C. du Canada	48	Whitehorse	0
+3600	ED60-001	03	Geoffrey		Capp	M	N	N	136	C.H.P. of Canada	P.H.C. du Canada	49	Whitehorse	3
+3600	ED60-001	03	Geoffrey		Capp	M	N	N	136	C.H.P. of Canada	P.H.C. du Canada	5	Klondike	3
+3600	ED60-001	03	Geoffrey		Capp	M	N	N	136	C.H.P. of Canada	P.H.C. du Canada	5	Faro	0
+3600	ED60-001	03	Geoffrey		Capp	M	N	N	136	C.H.P. of Canada	P.H.C. du Canada	50	Whitehorse	4
+3600	ED60-001	03	Geoffrey		Capp	M	N	N	136	C.H.P. of Canada	P.H.C. du Canada	51	Whitehorse	1
+3600	ED60-001	03	Geoffrey		Capp	M	N	N	136	C.H.P. of Canada	P.H.C. du Canada	52	Whitehorse	0
+3600	ED60-001	03	Geoffrey		Capp	M	N	N	136	C.H.P. of Canada	P.H.C. du Canada	53	Whitehorse	1
+3600	ED60-001	03	Geoffrey		Capp	M	N	N	136	C.H.P. of Canada	P.H.C. du Canada	54	Whitehorse	4
+3600	ED60-001	03	Geoffrey		Capp	M	N	N	136	C.H.P. of Canada	P.H.C. du Canada	55	Whitehorse	4
+3600	ED60-001	03	Geoffrey		Capp	M	N	N	136	C.H.P. of Canada	P.H.C. du Canada	56	Whitehorse	2
+3600	ED60-001	03	Geoffrey		Capp	M	N	N	136	C.H.P. of Canada	P.H.C. du Canada	57	Whitehorse	5
+3600	ED60-001	03	Geoffrey		Capp	M	N	N	136	C.H.P. of Canada	P.H.C. du Canada	58	Whitehorse	0
+3600	ED60-001	03	Geoffrey		Capp	M	N	N	136	C.H.P. of Canada	P.H.C. du Canada	59	Whitehorse	5
+3600	ED60-001	03	Geoffrey		Capp	M	N	N	136	C.H.P. of Canada	P.H.C. du Canada	6	Keno Hill	0
+3600	ED60-001	03	Geoffrey		Capp	M	N	N	136	C.H.P. of Canada	P.H.C. du Canada	6	Ross River	0
+3600	ED60-001	03	Geoffrey		Capp	M	N	N	136	C.H.P. of Canada	P.H.C. du Canada	60	MacRae	0
+3600	ED60-001	03	Geoffrey		Capp	M	N	N	136	C.H.P. of Canada	P.H.C. du Canada	61A	MacRae	1
+3600	ED60-001	03	Geoffrey		Capp	M	N	N	136	C.H.P. of Canada	P.H.C. du Canada	61B	MacRae	0
+3600	ED60-001	03	Geoffrey		Capp	M	N	N	136	C.H.P. of Canada	P.H.C. du Canada	62	MacRae	2
+3600	ED60-001	03	Geoffrey		Capp	M	N	N	136	C.H.P. of Canada	P.H.C. du Canada	63	MacRae	5
+3600	ED60-001	03	Geoffrey		Capp	M	N	N	136	C.H.P. of Canada	P.H.C. du Canada	64	Marsh Lake	0
+3600	ED60-001	03	Geoffrey		Capp	M	N	N	136	C.H.P. of Canada	P.H.C. du Canada	65	Carcross	0
+3600	ED60-001	03	Geoffrey		Capp	M	N	N	136	C.H.P. of Canada	P.H.C. du Canada	66	Tagish	0
+3600	ED60-001	03	Geoffrey		Capp	M	N	N	136	C.H.P. of Canada	P.H.C. du Canada	67	Johnsons Crossing	0
+3600	ED60-001	03	Geoffrey		Capp	M	N	N	136	C.H.P. of Canada	P.H.C. du Canada	68	Teslin	1
+3600	ED60-001	03	Geoffrey		Capp	M	N	N	136	C.H.P. of Canada	P.H.C. du Canada	69	Swift River	0
+3600	ED60-001	03	Geoffrey		Capp	M	N	N	136	C.H.P. of Canada	P.H.C. du Canada	7	Stewart Crossing	0
+3600	ED60-001	03	Geoffrey		Capp	M	N	N	136	C.H.P. of Canada	P.H.C. du Canada	7	Haines Junction	0
+3600	ED60-001	03	Geoffrey		Capp	M	N	N	136	C.H.P. of Canada	P.H.C. du Canada	70	Tuchitua	0
+3600	ED60-001	03	Geoffrey		Capp	M	N	N	136	C.H.P. of Canada	P.H.C. du Canada	71	Watson Lake	3
+3600	ED60-001	03	Geoffrey		Capp	M	N	N	136	C.H.P. of Canada	P.H.C. du Canada	72	Watson Lake	0
+3600	ED60-001	03	Geoffrey		Capp	M	N	N	136	C.H.P. of Canada	P.H.C. du Canada	73	Upper Liard	1
+3600	ED60-001	03	Geoffrey		Capp	M	N	N	136	C.H.P. of Canada	P.H.C. du Canada	74	Watson Lake	0
+3600	ED60-001	03	Geoffrey		Capp	M	N	N	136	C.H.P. of Canada	P.H.C. du Canada	8	Mayo	2
+3600	ED60-001	03	Geoffrey		Capp	M	N	N	136	C.H.P. of Canada	P.H.C. du Canada	8	Takhini	2
+3600	ED60-001	03	Geoffrey		Capp	M	N	N	136	C.H.P. of Canada	P.H.C. du Canada	9	Beaver Creek	0
+3600	ED60-001	03	Geoffrey		Capp	M	N	N	136	C.H.P. of Canada	P.H.C. du Canada	9	Whitehorse	1
+3600	ED60-001	03	Geoffrey		Capp	M	N	N	136	C.H.P. of Canada	P.H.C. du Canada	SVR/RÉS-1		1
+3600	ED60-001	03	Geoffrey		Capp	M	N	N	136	C.H.P. of Canada	P.H.C. du Canada	SVR/RÉS-2		1
+3600	ED60-001	04	Ken		Gabb	M	N	N	3493	Reform	Réforme	1	Old Crow	5
+3600	ED60-001	04	Ken		Gabb	M	N	N	3493	Reform	Réforme	1	Dawson	9
+3600	ED60-001	04	Ken		Gabb	M	N	N	3493	Reform	Réforme	10	Koidern	1
+3600	ED60-001	04	Ken		Gabb	M	N	N	3493	Reform	Réforme	10	Whitehorse	57
+3600	ED60-001	04	Ken		Gabb	M	N	N	3493	Reform	Réforme	11	Burwash Landing	12
+3600	ED60-001	04	Ken		Gabb	M	N	N	3493	Reform	Réforme	11	MacRae	9
+3600	ED60-001	04	Ken		Gabb	M	N	N	3493	Reform	Réforme	12	Destruction Bay	16
+3600	ED60-001	04	Ken		Gabb	M	N	N	3493	Reform	Réforme	12	Carcross	6
+3600	ED60-001	04	Ken		Gabb	M	N	N	3493	Reform	Réforme	13	Pelly Crossing	10
+3600	ED60-001	04	Ken		Gabb	M	N	N	3493	Reform	Réforme	13	Swift River	17
+3600	ED60-001	04	Ken		Gabb	M	N	N	3493	Reform	Réforme	14	Carmacks	34
+3600	ED60-001	04	Ken		Gabb	M	N	N	3493	Reform	Réforme	14	Watson Lake	16
+3600	ED60-001	04	Ken		Gabb	M	N	N	3493	Reform	Réforme	15	Faro	0
+3600	ED60-001	04	Ken		Gabb	M	N	N	3493	Reform	Réforme	16	Faro	58
+3600	ED60-001	04	Ken		Gabb	M	N	N	3493	Reform	Réforme	17	Faro	24
+3600	ED60-001	04	Ken		Gabb	M	N	N	3493	Reform	Réforme	18	Little Salmon	5
+3600	ED60-001	04	Ken		Gabb	M	N	N	3493	Reform	Réforme	19	Ross River	36
+3600	ED60-001	04	Ken		Gabb	M	N	N	3493	Reform	Réforme	2	Eagle Plains	0
+3600	ED60-001	04	Ken		Gabb	M	N	N	3493	Reform	Réforme	2	Mayo	4
+3600	ED60-001	04	Ken		Gabb	M	N	N	3493	Reform	Réforme	20A	Haines Junction	58
+3600	ED60-001	04	Ken		Gabb	M	N	N	3493	Reform	Réforme	20B	Haines Junction	48
+3600	ED60-001	04	Ken		Gabb	M	N	N	3493	Reform	Réforme	21	Takhini	4
+3600	ED60-001	04	Ken		Gabb	M	N	N	3493	Reform	Réforme	22	Upper Laberge	49
+3600	ED60-001	04	Ken		Gabb	M	N	N	3493	Reform	Réforme	23	Takhini	32
+3600	ED60-001	04	Ken		Gabb	M	N	N	3493	Reform	Réforme	24	Takhini	95
+3600	ED60-001	04	Ken		Gabb	M	N	N	3493	Reform	Réforme	25	Whitehorse	59
+3600	ED60-001	04	Ken		Gabb	M	N	N	3493	Reform	Réforme	26	Whitehorse	95
+3600	ED60-001	04	Ken		Gabb	M	N	N	3493	Reform	Réforme	27	Whitehorse	47
+3600	ED60-001	04	Ken		Gabb	M	N	N	3493	Reform	Réforme	28	Whitehorse	54
+3600	ED60-001	04	Ken		Gabb	M	N	N	3493	Reform	Réforme	29	Whitehorse	52
+3600	ED60-001	04	Ken		Gabb	M	N	N	3493	Reform	Réforme	3	Dawson	33
+3600	ED60-001	04	Ken		Gabb	M	N	N	3493	Reform	Réforme	3	Beaver Creek	1
+3600	ED60-001	04	Ken		Gabb	M	N	N	3493	Reform	Réforme	30	Whitehorse	30
+3600	ED60-001	04	Ken		Gabb	M	N	N	3493	Reform	Réforme	31	Whitehorse	93
+3600	ED60-001	04	Ken		Gabb	M	N	N	3493	Reform	Réforme	32	Whitehorse	44
+3600	ED60-001	04	Ken		Gabb	M	N	N	3493	Reform	Réforme	33	Whitehorse	63
+3600	ED60-001	04	Ken		Gabb	M	N	N	3493	Reform	Réforme	34	Whitehorse	44
+3600	ED60-001	04	Ken		Gabb	M	N	N	3493	Reform	Réforme	35	Whitehorse	76
+3600	ED60-001	04	Ken		Gabb	M	N	N	3493	Reform	Réforme	36	Whitehorse	61
+3600	ED60-001	04	Ken		Gabb	M	N	N	3493	Reform	Réforme	37	Whitehorse	25
+3600	ED60-001	04	Ken		Gabb	M	N	N	3493	Reform	Réforme	38	Whitehorse	21
+3600	ED60-001	04	Ken		Gabb	M	N	N	3493	Reform	Réforme	39	Whitehorse	28
+3600	ED60-001	04	Ken		Gabb	M	N	N	3493	Reform	Réforme	4	Dawson	55
+3600	ED60-001	04	Ken		Gabb	M	N	N	3493	Reform	Réforme	4	Pelly Crossing	6
+3600	ED60-001	04	Ken		Gabb	M	N	N	3493	Reform	Réforme	40	Whitehorse	47
+3600	ED60-001	04	Ken		Gabb	M	N	N	3493	Reform	Réforme	41	Whitehorse	106
+3600	ED60-001	04	Ken		Gabb	M	N	N	3493	Reform	Réforme	42	Whitehorse	23
+3600	ED60-001	04	Ken		Gabb	M	N	N	3493	Reform	Réforme	43A	Whitehorse	56
+3600	ED60-001	04	Ken		Gabb	M	N	N	3493	Reform	Réforme	43B	Whitehorse	48
+3600	ED60-001	04	Ken		Gabb	M	N	N	3493	Reform	Réforme	44	Whitehorse	63
+3600	ED60-001	04	Ken		Gabb	M	N	N	3493	Reform	Réforme	45	Whitehorse	11
+3600	ED60-001	04	Ken		Gabb	M	N	N	3493	Reform	Réforme	46	Whitehorse	33
+3600	ED60-001	04	Ken		Gabb	M	N	N	3493	Reform	Réforme	47	Whitehorse	53
+3600	ED60-001	04	Ken		Gabb	M	N	N	3493	Reform	Réforme	48	Whitehorse	32
+3600	ED60-001	04	Ken		Gabb	M	N	N	3493	Reform	Réforme	49	Whitehorse	40
+3600	ED60-001	04	Ken		Gabb	M	N	N	3493	Reform	Réforme	5	Klondike	100
+3600	ED60-001	04	Ken		Gabb	M	N	N	3493	Reform	Réforme	5	Faro	6
+3600	ED60-001	04	Ken		Gabb	M	N	N	3493	Reform	Réforme	50	Whitehorse	21
+3600	ED60-001	04	Ken		Gabb	M	N	N	3493	Reform	Réforme	51	Whitehorse	16
+3600	ED60-001	04	Ken		Gabb	M	N	N	3493	Reform	Réforme	52	Whitehorse	26
+3600	ED60-001	04	Ken		Gabb	M	N	N	3493	Reform	Réforme	53	Whitehorse	50
+3600	ED60-001	04	Ken		Gabb	M	N	N	3493	Reform	Réforme	54	Whitehorse	52
+3600	ED60-001	04	Ken		Gabb	M	N	N	3493	Reform	Réforme	55	Whitehorse	59
+3600	ED60-001	04	Ken		Gabb	M	N	N	3493	Reform	Réforme	56	Whitehorse	43
+3600	ED60-001	04	Ken		Gabb	M	N	N	3493	Reform	Réforme	57	Whitehorse	68
+3600	ED60-001	04	Ken		Gabb	M	N	N	3493	Reform	Réforme	58	Whitehorse	65
+3600	ED60-001	04	Ken		Gabb	M	N	N	3493	Reform	Réforme	59	Whitehorse	52
+3600	ED60-001	04	Ken		Gabb	M	N	N	3493	Reform	Réforme	6	Keno Hill	4
+3600	ED60-001	04	Ken		Gabb	M	N	N	3493	Reform	Réforme	6	Ross River	6
+3600	ED60-001	04	Ken		Gabb	M	N	N	3493	Reform	Réforme	60	MacRae	43
+3600	ED60-001	04	Ken		Gabb	M	N	N	3493	Reform	Réforme	61A	MacRae	46
+3600	ED60-001	04	Ken		Gabb	M	N	N	3493	Reform	Réforme	61B	MacRae	43
+3600	ED60-001	04	Ken		Gabb	M	N	N	3493	Reform	Réforme	62	MacRae	36
+3600	ED60-001	04	Ken		Gabb	M	N	N	3493	Reform	Réforme	63	MacRae	97
+3600	ED60-001	04	Ken		Gabb	M	N	N	3493	Reform	Réforme	64	Marsh Lake	102
+3600	ED60-001	04	Ken		Gabb	M	N	N	3493	Reform	Réforme	65	Carcross	36
+3600	ED60-001	04	Ken		Gabb	M	N	N	3493	Reform	Réforme	66	Tagish	42
+3600	ED60-001	04	Ken		Gabb	M	N	N	3493	Reform	Réforme	67	Johnsons Crossing	16
+3600	ED60-001	04	Ken		Gabb	M	N	N	3493	Reform	Réforme	68	Teslin	54
+3600	ED60-001	04	Ken		Gabb	M	N	N	3493	Reform	Réforme	69	Swift River	10
+3600	ED60-001	04	Ken		Gabb	M	N	N	3493	Reform	Réforme	7	Stewart Crossing	0
+3600	ED60-001	04	Ken		Gabb	M	N	N	3493	Reform	Réforme	7	Haines Junction	4
+3600	ED60-001	04	Ken		Gabb	M	N	N	3493	Reform	Réforme	70	Tuchitua	1
+3600	ED60-001	04	Ken		Gabb	M	N	N	3493	Reform	Réforme	71	Watson Lake	66
+3600	ED60-001	04	Ken		Gabb	M	N	N	3493	Reform	Réforme	72	Watson Lake	45
+3600	ED60-001	04	Ken		Gabb	M	N	N	3493	Reform	Réforme	73	Upper Liard	29
+3600	ED60-001	04	Ken		Gabb	M	N	N	3493	Reform	Réforme	74	Watson Lake	70
+3600	ED60-001	04	Ken		Gabb	M	N	N	3493	Reform	Réforme	8	Mayo	45
+3600	ED60-001	04	Ken		Gabb	M	N	N	3493	Reform	Réforme	8	Takhini	10
+3600	ED60-001	04	Ken		Gabb	M	N	N	3493	Reform	Réforme	9	Beaver Creek	6
+3600	ED60-001	04	Ken		Gabb	M	N	N	3493	Reform	Réforme	9	Whitehorse	51
+3600	ED60-001	04	Ken		Gabb	M	N	N	3493	Reform	Réforme	SVR/RÉS-1		8
+3600	ED60-001	04	Ken		Gabb	M	N	N	3493	Reform	Réforme	SVR/RÉS-2		61
+3600	ED60-001	05	Louise	Frances	Hardy	F	Y	N	4002	N.D.P.	N.P.D.	1	Old Crow	28
+3600	ED60-001	05	Louise	Frances	Hardy	F	Y	N	4002	N.D.P.	N.P.D.	1	Dawson	11
+3600	ED60-001	05	Louise	Frances	Hardy	F	Y	N	4002	N.D.P.	N.P.D.	10	Koidern	0
+3600	ED60-001	05	Louise	Frances	Hardy	F	Y	N	4002	N.D.P.	N.P.D.	10	Whitehorse	115
+3600	ED60-001	05	Louise	Frances	Hardy	F	Y	N	4002	N.D.P.	N.P.D.	11	Burwash Landing	14
+3600	ED60-001	05	Louise	Frances	Hardy	F	Y	N	4002	N.D.P.	N.P.D.	11	MacRae	10
+3600	ED60-001	05	Louise	Frances	Hardy	F	Y	N	4002	N.D.P.	N.P.D.	12	Destruction Bay	8
+3600	ED60-001	05	Louise	Frances	Hardy	F	Y	N	4002	N.D.P.	N.P.D.	12	Carcross	10
+3600	ED60-001	05	Louise	Frances	Hardy	F	Y	N	4002	N.D.P.	N.P.D.	13	Pelly Crossing	62
+3600	ED60-001	05	Louise	Frances	Hardy	F	Y	N	4002	N.D.P.	N.P.D.	13	Swift River	12
+3600	ED60-001	05	Louise	Frances	Hardy	F	Y	N	4002	N.D.P.	N.P.D.	14	Carmacks	45
+3600	ED60-001	05	Louise	Frances	Hardy	F	Y	N	4002	N.D.P.	N.P.D.	14	Watson Lake	14
+3600	ED60-001	05	Louise	Frances	Hardy	F	Y	N	4002	N.D.P.	N.P.D.	15	Faro	0
+3600	ED60-001	05	Louise	Frances	Hardy	F	Y	N	4002	N.D.P.	N.P.D.	16	Faro	88
+3600	ED60-001	05	Louise	Frances	Hardy	F	Y	N	4002	N.D.P.	N.P.D.	17	Faro	63
+3600	ED60-001	05	Louise	Frances	Hardy	F	Y	N	4002	N.D.P.	N.P.D.	18	Little Salmon	2
+3600	ED60-001	05	Louise	Frances	Hardy	F	Y	N	4002	N.D.P.	N.P.D.	19	Ross River	19
+3600	ED60-001	05	Louise	Frances	Hardy	F	Y	N	4002	N.D.P.	N.P.D.	2	Eagle Plains	0
+3600	ED60-001	05	Louise	Frances	Hardy	F	Y	N	4002	N.D.P.	N.P.D.	2	Mayo	2
+3600	ED60-001	05	Louise	Frances	Hardy	F	Y	N	4002	N.D.P.	N.P.D.	20A	Haines Junction	47
+3600	ED60-001	05	Louise	Frances	Hardy	F	Y	N	4002	N.D.P.	N.P.D.	20B	Haines Junction	58
+3600	ED60-001	05	Louise	Frances	Hardy	F	Y	N	4002	N.D.P.	N.P.D.	21	Takhini	7
+3600	ED60-001	05	Louise	Frances	Hardy	F	Y	N	4002	N.D.P.	N.P.D.	22	Upper Laberge	41
+3600	ED60-001	05	Louise	Frances	Hardy	F	Y	N	4002	N.D.P.	N.P.D.	23	Takhini	30
+3600	ED60-001	05	Louise	Frances	Hardy	F	Y	N	4002	N.D.P.	N.P.D.	24	Takhini	78
+3600	ED60-001	05	Louise	Frances	Hardy	F	Y	N	4002	N.D.P.	N.P.D.	25	Whitehorse	52
+3600	ED60-001	05	Louise	Frances	Hardy	F	Y	N	4002	N.D.P.	N.P.D.	26	Whitehorse	80
+3600	ED60-001	05	Louise	Frances	Hardy	F	Y	N	4002	N.D.P.	N.P.D.	27	Whitehorse	23
+3600	ED60-001	05	Louise	Frances	Hardy	F	Y	N	4002	N.D.P.	N.P.D.	28	Whitehorse	39
+3600	ED60-001	05	Louise	Frances	Hardy	F	Y	N	4002	N.D.P.	N.P.D.	29	Whitehorse	41
+3600	ED60-001	05	Louise	Frances	Hardy	F	Y	N	4002	N.D.P.	N.P.D.	3	Dawson	78
+3600	ED60-001	05	Louise	Frances	Hardy	F	Y	N	4002	N.D.P.	N.P.D.	3	Beaver Creek	6
+3600	ED60-001	05	Louise	Frances	Hardy	F	Y	N	4002	N.D.P.	N.P.D.	30	Whitehorse	23
+3600	ED60-001	05	Louise	Frances	Hardy	F	Y	N	4002	N.D.P.	N.P.D.	31	Whitehorse	46
+3600	ED60-001	05	Louise	Frances	Hardy	F	Y	N	4002	N.D.P.	N.P.D.	32	Whitehorse	47
+3600	ED60-001	05	Louise	Frances	Hardy	F	Y	N	4002	N.D.P.	N.P.D.	33	Whitehorse	24
+3600	ED60-001	05	Louise	Frances	Hardy	F	Y	N	4002	N.D.P.	N.P.D.	34	Whitehorse	53
+3600	ED60-001	05	Louise	Frances	Hardy	F	Y	N	4002	N.D.P.	N.P.D.	35	Whitehorse	37
+3600	ED60-001	05	Louise	Frances	Hardy	F	Y	N	4002	N.D.P.	N.P.D.	36	Whitehorse	46
+3600	ED60-001	05	Louise	Frances	Hardy	F	Y	N	4002	N.D.P.	N.P.D.	37	Whitehorse	46
+3600	ED60-001	05	Louise	Frances	Hardy	F	Y	N	4002	N.D.P.	N.P.D.	38	Whitehorse	27
+3600	ED60-001	05	Louise	Frances	Hardy	F	Y	N	4002	N.D.P.	N.P.D.	39	Whitehorse	19
+3600	ED60-001	05	Louise	Frances	Hardy	F	Y	N	4002	N.D.P.	N.P.D.	4	Dawson	74
+3600	ED60-001	05	Louise	Frances	Hardy	F	Y	N	4002	N.D.P.	N.P.D.	4	Pelly Crossing	12
+3600	ED60-001	05	Louise	Frances	Hardy	F	Y	N	4002	N.D.P.	N.P.D.	40	Whitehorse	78
+3600	ED60-001	05	Louise	Frances	Hardy	F	Y	N	4002	N.D.P.	N.P.D.	41	Whitehorse	59
+3600	ED60-001	05	Louise	Frances	Hardy	F	Y	N	4002	N.D.P.	N.P.D.	42	Whitehorse	67
+3600	ED60-001	05	Louise	Frances	Hardy	F	Y	N	4002	N.D.P.	N.P.D.	43A	Whitehorse	60
+3600	ED60-001	05	Louise	Frances	Hardy	F	Y	N	4002	N.D.P.	N.P.D.	43B	Whitehorse	50
+3600	ED60-001	05	Louise	Frances	Hardy	F	Y	N	4002	N.D.P.	N.P.D.	44	Whitehorse	126
+3600	ED60-001	05	Louise	Frances	Hardy	F	Y	N	4002	N.D.P.	N.P.D.	45	Whitehorse	37
+3600	ED60-001	05	Louise	Frances	Hardy	F	Y	N	4002	N.D.P.	N.P.D.	46	Whitehorse	41
+3600	ED60-001	05	Louise	Frances	Hardy	F	Y	N	4002	N.D.P.	N.P.D.	47	Whitehorse	51
+3600	ED60-001	05	Louise	Frances	Hardy	F	Y	N	4002	N.D.P.	N.P.D.	48	Whitehorse	80
+3600	ED60-001	05	Louise	Frances	Hardy	F	Y	N	4002	N.D.P.	N.P.D.	49	Whitehorse	63
+3600	ED60-001	05	Louise	Frances	Hardy	F	Y	N	4002	N.D.P.	N.P.D.	5	Klondike	78
+3600	ED60-001	05	Louise	Frances	Hardy	F	Y	N	4002	N.D.P.	N.P.D.	5	Faro	16
+3600	ED60-001	05	Louise	Frances	Hardy	F	Y	N	4002	N.D.P.	N.P.D.	50	Whitehorse	45
+3600	ED60-001	05	Louise	Frances	Hardy	F	Y	N	4002	N.D.P.	N.P.D.	51	Whitehorse	35
+3600	ED60-001	05	Louise	Frances	Hardy	F	Y	N	4002	N.D.P.	N.P.D.	52	Whitehorse	47
+3600	ED60-001	05	Louise	Frances	Hardy	F	Y	N	4002	N.D.P.	N.P.D.	53	Whitehorse	86
+3600	ED60-001	05	Louise	Frances	Hardy	F	Y	N	4002	N.D.P.	N.P.D.	54	Whitehorse	69
+3600	ED60-001	05	Louise	Frances	Hardy	F	Y	N	4002	N.D.P.	N.P.D.	55	Whitehorse	91
+3600	ED60-001	05	Louise	Frances	Hardy	F	Y	N	4002	N.D.P.	N.P.D.	56	Whitehorse	59
+3600	ED60-001	05	Louise	Frances	Hardy	F	Y	N	4002	N.D.P.	N.P.D.	57	Whitehorse	65
+3600	ED60-001	05	Louise	Frances	Hardy	F	Y	N	4002	N.D.P.	N.P.D.	58	Whitehorse	73
+3600	ED60-001	05	Louise	Frances	Hardy	F	Y	N	4002	N.D.P.	N.P.D.	59	Whitehorse	99
+3600	ED60-001	05	Louise	Frances	Hardy	F	Y	N	4002	N.D.P.	N.P.D.	6	Keno Hill	10
+3600	ED60-001	05	Louise	Frances	Hardy	F	Y	N	4002	N.D.P.	N.P.D.	6	Ross River	0
+3600	ED60-001	05	Louise	Frances	Hardy	F	Y	N	4002	N.D.P.	N.P.D.	60	MacRae	41
+3600	ED60-001	05	Louise	Frances	Hardy	F	Y	N	4002	N.D.P.	N.P.D.	61A	MacRae	49
+3600	ED60-001	05	Louise	Frances	Hardy	F	Y	N	4002	N.D.P.	N.P.D.	61B	MacRae	82
+3600	ED60-001	05	Louise	Frances	Hardy	F	Y	N	4002	N.D.P.	N.P.D.	62	MacRae	50
+3600	ED60-001	05	Louise	Frances	Hardy	F	Y	N	4002	N.D.P.	N.P.D.	63	MacRae	108
+3600	ED60-001	05	Louise	Frances	Hardy	F	Y	N	4002	N.D.P.	N.P.D.	64	Marsh Lake	48
+3600	ED60-001	05	Louise	Frances	Hardy	F	Y	N	4002	N.D.P.	N.P.D.	65	Carcross	64
+3600	ED60-001	05	Louise	Frances	Hardy	F	Y	N	4002	N.D.P.	N.P.D.	66	Tagish	18
+3600	ED60-001	05	Louise	Frances	Hardy	F	Y	N	4002	N.D.P.	N.P.D.	67	Johnsons Crossing	0
+3600	ED60-001	05	Louise	Frances	Hardy	F	Y	N	4002	N.D.P.	N.P.D.	68	Teslin	84
+3600	ED60-001	05	Louise	Frances	Hardy	F	Y	N	4002	N.D.P.	N.P.D.	69	Swift River	5
+3600	ED60-001	05	Louise	Frances	Hardy	F	Y	N	4002	N.D.P.	N.P.D.	7	Stewart Crossing	0
+3600	ED60-001	05	Louise	Frances	Hardy	F	Y	N	4002	N.D.P.	N.P.D.	7	Haines Junction	9
+3600	ED60-001	05	Louise	Frances	Hardy	F	Y	N	4002	N.D.P.	N.P.D.	70	Tuchitua	0
+3600	ED60-001	05	Louise	Frances	Hardy	F	Y	N	4002	N.D.P.	N.P.D.	71	Watson Lake	29
+3600	ED60-001	05	Louise	Frances	Hardy	F	Y	N	4002	N.D.P.	N.P.D.	72	Watson Lake	19
+3600	ED60-001	05	Louise	Frances	Hardy	F	Y	N	4002	N.D.P.	N.P.D.	73	Upper Liard	35
+3600	ED60-001	05	Louise	Frances	Hardy	F	Y	N	4002	N.D.P.	N.P.D.	74	Watson Lake	58
+3600	ED60-001	05	Louise	Frances	Hardy	F	Y	N	4002	N.D.P.	N.P.D.	8	Mayo	62
+3600	ED60-001	05	Louise	Frances	Hardy	F	Y	N	4002	N.D.P.	N.P.D.	8	Takhini	17
+3600	ED60-001	05	Louise	Frances	Hardy	F	Y	N	4002	N.D.P.	N.P.D.	9	Beaver Creek	29
+3600	ED60-001	05	Louise	Frances	Hardy	F	Y	N	4002	N.D.P.	N.P.D.	9	Whitehorse	75
+3600	ED60-001	05	Louise	Frances	Hardy	F	Y	N	4002	N.D.P.	N.P.D.	SVR/RÉS-1		11
+3600	ED60-001	05	Louise	Frances	Hardy	F	Y	N	4002	N.D.P.	N.P.D.	SVR/RÉS-2		87
+3600	ED60-001	06	Ken		McKinnon	M	N	N	1928	Progressive Conservative	Progressiste-Conservateur	1	Old Crow	16
+3600	ED60-001	06	Ken		McKinnon	M	N	N	1928	Progressive Conservative	Progressiste-Conservateur	1	Dawson	10
+3600	ED60-001	06	Ken		McKinnon	M	N	N	1928	Progressive Conservative	Progressiste-Conservateur	10	Koidern	0
+3600	ED60-001	06	Ken		McKinnon	M	N	N	1928	Progressive Conservative	Progressiste-Conservateur	10	Whitehorse	33
+3600	ED60-001	06	Ken		McKinnon	M	N	N	1928	Progressive Conservative	Progressiste-Conservateur	11	Burwash Landing	12
+3600	ED60-001	06	Ken		McKinnon	M	N	N	1928	Progressive Conservative	Progressiste-Conservateur	11	MacRae	3
+3600	ED60-001	06	Ken		McKinnon	M	N	N	1928	Progressive Conservative	Progressiste-Conservateur	12	Destruction Bay	9
+3600	ED60-001	06	Ken		McKinnon	M	N	N	1928	Progressive Conservative	Progressiste-Conservateur	12	Carcross	2
+3600	ED60-001	06	Ken		McKinnon	M	N	N	1928	Progressive Conservative	Progressiste-Conservateur	13	Pelly Crossing	6
+3600	ED60-001	06	Ken		McKinnon	M	N	N	1928	Progressive Conservative	Progressiste-Conservateur	13	Swift River	1
+3600	ED60-001	06	Ken		McKinnon	M	N	N	1928	Progressive Conservative	Progressiste-Conservateur	14	Carmacks	24
+3600	ED60-001	06	Ken		McKinnon	M	N	N	1928	Progressive Conservative	Progressiste-Conservateur	14	Watson Lake	11
+3600	ED60-001	06	Ken		McKinnon	M	N	N	1928	Progressive Conservative	Progressiste-Conservateur	15	Faro	0
+3600	ED60-001	06	Ken		McKinnon	M	N	N	1928	Progressive Conservative	Progressiste-Conservateur	16	Faro	17
+3600	ED60-001	06	Ken		McKinnon	M	N	N	1928	Progressive Conservative	Progressiste-Conservateur	17	Faro	7
+3600	ED60-001	06	Ken		McKinnon	M	N	N	1928	Progressive Conservative	Progressiste-Conservateur	18	Little Salmon	1
+3600	ED60-001	06	Ken		McKinnon	M	N	N	1928	Progressive Conservative	Progressiste-Conservateur	19	Ross River	12
+3600	ED60-001	06	Ken		McKinnon	M	N	N	1928	Progressive Conservative	Progressiste-Conservateur	2	Eagle Plains	0
+3600	ED60-001	06	Ken		McKinnon	M	N	N	1928	Progressive Conservative	Progressiste-Conservateur	2	Mayo	7
+3600	ED60-001	06	Ken		McKinnon	M	N	N	1928	Progressive Conservative	Progressiste-Conservateur	20A	Haines Junction	25
+3600	ED60-001	06	Ken		McKinnon	M	N	N	1928	Progressive Conservative	Progressiste-Conservateur	20B	Haines Junction	22
+3600	ED60-001	06	Ken		McKinnon	M	N	N	1928	Progressive Conservative	Progressiste-Conservateur	21	Takhini	3
+3600	ED60-001	06	Ken		McKinnon	M	N	N	1928	Progressive Conservative	Progressiste-Conservateur	22	Upper Laberge	16
+3600	ED60-001	06	Ken		McKinnon	M	N	N	1928	Progressive Conservative	Progressiste-Conservateur	23	Takhini	18
+3600	ED60-001	06	Ken		McKinnon	M	N	N	1928	Progressive Conservative	Progressiste-Conservateur	24	Takhini	38
+3600	ED60-001	06	Ken		McKinnon	M	N	N	1928	Progressive Conservative	Progressiste-Conservateur	25	Whitehorse	33
+3600	ED60-001	06	Ken		McKinnon	M	N	N	1928	Progressive Conservative	Progressiste-Conservateur	26	Whitehorse	56
+3600	ED60-001	06	Ken		McKinnon	M	N	N	1928	Progressive Conservative	Progressiste-Conservateur	27	Whitehorse	11
+3600	ED60-001	06	Ken		McKinnon	M	N	N	1928	Progressive Conservative	Progressiste-Conservateur	28	Whitehorse	29
+3600	ED60-001	06	Ken		McKinnon	M	N	N	1928	Progressive Conservative	Progressiste-Conservateur	29	Whitehorse	23
+3600	ED60-001	06	Ken		McKinnon	M	N	N	1928	Progressive Conservative	Progressiste-Conservateur	3	Dawson	34
+3600	ED60-001	06	Ken		McKinnon	M	N	N	1928	Progressive Conservative	Progressiste-Conservateur	3	Beaver Creek	1
+3600	ED60-001	06	Ken		McKinnon	M	N	N	1928	Progressive Conservative	Progressiste-Conservateur	30	Whitehorse	20
+3600	ED60-001	06	Ken		McKinnon	M	N	N	1928	Progressive Conservative	Progressiste-Conservateur	31	Whitehorse	39
+3600	ED60-001	06	Ken		McKinnon	M	N	N	1928	Progressive Conservative	Progressiste-Conservateur	32	Whitehorse	25
+3600	ED60-001	06	Ken		McKinnon	M	N	N	1928	Progressive Conservative	Progressiste-Conservateur	33	Whitehorse	28
+3600	ED60-001	06	Ken		McKinnon	M	N	N	1928	Progressive Conservative	Progressiste-Conservateur	34	Whitehorse	40
+3600	ED60-001	06	Ken		McKinnon	M	N	N	1928	Progressive Conservative	Progressiste-Conservateur	35	Whitehorse	32
+3600	ED60-001	06	Ken		McKinnon	M	N	N	1928	Progressive Conservative	Progressiste-Conservateur	36	Whitehorse	53
+3600	ED60-001	06	Ken		McKinnon	M	N	N	1928	Progressive Conservative	Progressiste-Conservateur	37	Whitehorse	30
+3600	ED60-001	06	Ken		McKinnon	M	N	N	1928	Progressive Conservative	Progressiste-Conservateur	38	Whitehorse	11
+3600	ED60-001	06	Ken		McKinnon	M	N	N	1928	Progressive Conservative	Progressiste-Conservateur	39	Whitehorse	6
+3600	ED60-001	06	Ken		McKinnon	M	N	N	1928	Progressive Conservative	Progressiste-Conservateur	4	Dawson	59
+3600	ED60-001	06	Ken		McKinnon	M	N	N	1928	Progressive Conservative	Progressiste-Conservateur	4	Pelly Crossing	1
+3600	ED60-001	06	Ken		McKinnon	M	N	N	1928	Progressive Conservative	Progressiste-Conservateur	40	Whitehorse	19
+3600	ED60-001	06	Ken		McKinnon	M	N	N	1928	Progressive Conservative	Progressiste-Conservateur	41	Whitehorse	45
+3600	ED60-001	06	Ken		McKinnon	M	N	N	1928	Progressive Conservative	Progressiste-Conservateur	42	Whitehorse	10
+3600	ED60-001	06	Ken		McKinnon	M	N	N	1928	Progressive Conservative	Progressiste-Conservateur	43A	Whitehorse	35
+3600	ED60-001	06	Ken		McKinnon	M	N	N	1928	Progressive Conservative	Progressiste-Conservateur	43B	Whitehorse	35
+3600	ED60-001	06	Ken		McKinnon	M	N	N	1928	Progressive Conservative	Progressiste-Conservateur	44	Whitehorse	31
+3600	ED60-001	06	Ken		McKinnon	M	N	N	1928	Progressive Conservative	Progressiste-Conservateur	45	Whitehorse	21
+3600	ED60-001	06	Ken		McKinnon	M	N	N	1928	Progressive Conservative	Progressiste-Conservateur	46	Whitehorse	4
+3600	ED60-001	06	Ken		McKinnon	M	N	N	1928	Progressive Conservative	Progressiste-Conservateur	47	Whitehorse	20
+3600	ED60-001	06	Ken		McKinnon	M	N	N	1928	Progressive Conservative	Progressiste-Conservateur	48	Whitehorse	24
+3600	ED60-001	06	Ken		McKinnon	M	N	N	1928	Progressive Conservative	Progressiste-Conservateur	49	Whitehorse	28
+3600	ED60-001	06	Ken		McKinnon	M	N	N	1928	Progressive Conservative	Progressiste-Conservateur	5	Klondike	47
+3600	ED60-001	06	Ken		McKinnon	M	N	N	1928	Progressive Conservative	Progressiste-Conservateur	5	Faro	2
+3600	ED60-001	06	Ken		McKinnon	M	N	N	1928	Progressive Conservative	Progressiste-Conservateur	50	Whitehorse	21
+3600	ED60-001	06	Ken		McKinnon	M	N	N	1928	Progressive Conservative	Progressiste-Conservateur	51	Whitehorse	8
+3600	ED60-001	06	Ken		McKinnon	M	N	N	1928	Progressive Conservative	Progressiste-Conservateur	52	Whitehorse	17
+3600	ED60-001	06	Ken		McKinnon	M	N	N	1928	Progressive Conservative	Progressiste-Conservateur	53	Whitehorse	54
+3600	ED60-001	06	Ken		McKinnon	M	N	N	1928	Progressive Conservative	Progressiste-Conservateur	54	Whitehorse	50
+3600	ED60-001	06	Ken		McKinnon	M	N	N	1928	Progressive Conservative	Progressiste-Conservateur	55	Whitehorse	49
+3600	ED60-001	06	Ken		McKinnon	M	N	N	1928	Progressive Conservative	Progressiste-Conservateur	56	Whitehorse	20
+3600	ED60-001	06	Ken		McKinnon	M	N	N	1928	Progressive Conservative	Progressiste-Conservateur	57	Whitehorse	42
+3600	ED60-001	06	Ken		McKinnon	M	N	N	1928	Progressive Conservative	Progressiste-Conservateur	58	Whitehorse	66
+3600	ED60-001	06	Ken		McKinnon	M	N	N	1928	Progressive Conservative	Progressiste-Conservateur	59	Whitehorse	35
+3600	ED60-001	06	Ken		McKinnon	M	N	N	1928	Progressive Conservative	Progressiste-Conservateur	6	Keno Hill	2
+3600	ED60-001	06	Ken		McKinnon	M	N	N	1928	Progressive Conservative	Progressiste-Conservateur	6	Ross River	0
+3600	ED60-001	06	Ken		McKinnon	M	N	N	1928	Progressive Conservative	Progressiste-Conservateur	60	MacRae	8
+3600	ED60-001	06	Ken		McKinnon	M	N	N	1928	Progressive Conservative	Progressiste-Conservateur	61A	MacRae	30
+3600	ED60-001	06	Ken		McKinnon	M	N	N	1928	Progressive Conservative	Progressiste-Conservateur	61B	MacRae	12
+3600	ED60-001	06	Ken		McKinnon	M	N	N	1928	Progressive Conservative	Progressiste-Conservateur	62	MacRae	15
+3600	ED60-001	06	Ken		McKinnon	M	N	N	1928	Progressive Conservative	Progressiste-Conservateur	63	MacRae	57
+3600	ED60-001	06	Ken		McKinnon	M	N	N	1928	Progressive Conservative	Progressiste-Conservateur	64	Marsh Lake	45
+3600	ED60-001	06	Ken		McKinnon	M	N	N	1928	Progressive Conservative	Progressiste-Conservateur	65	Carcross	13
+3600	ED60-001	06	Ken		McKinnon	M	N	N	1928	Progressive Conservative	Progressiste-Conservateur	66	Tagish	13
+3600	ED60-001	06	Ken		McKinnon	M	N	N	1928	Progressive Conservative	Progressiste-Conservateur	67	Johnsons Crossing	1
+3600	ED60-001	06	Ken		McKinnon	M	N	N	1928	Progressive Conservative	Progressiste-Conservateur	68	Teslin	18
+3600	ED60-001	06	Ken		McKinnon	M	N	N	1928	Progressive Conservative	Progressiste-Conservateur	69	Swift River	0
+3600	ED60-001	06	Ken		McKinnon	M	N	N	1928	Progressive Conservative	Progressiste-Conservateur	7	Stewart Crossing	0
+3600	ED60-001	06	Ken		McKinnon	M	N	N	1928	Progressive Conservative	Progressiste-Conservateur	7	Haines Junction	4
+3600	ED60-001	06	Ken		McKinnon	M	N	N	1928	Progressive Conservative	Progressiste-Conservateur	70	Tuchitua	0
+3600	ED60-001	06	Ken		McKinnon	M	N	N	1928	Progressive Conservative	Progressiste-Conservateur	71	Watson Lake	30
+3600	ED60-001	06	Ken		McKinnon	M	N	N	1928	Progressive Conservative	Progressiste-Conservateur	72	Watson Lake	18
+3600	ED60-001	06	Ken		McKinnon	M	N	N	1928	Progressive Conservative	Progressiste-Conservateur	73	Upper Liard	5
+3600	ED60-001	06	Ken		McKinnon	M	N	N	1928	Progressive Conservative	Progressiste-Conservateur	74	Watson Lake	18
+3600	ED60-001	06	Ken		McKinnon	M	N	N	1928	Progressive Conservative	Progressiste-Conservateur	8	Mayo	18
+3600	ED60-001	06	Ken		McKinnon	M	N	N	1928	Progressive Conservative	Progressiste-Conservateur	8	Takhini	17
+3600	ED60-001	06	Ken		McKinnon	M	N	N	1928	Progressive Conservative	Progressiste-Conservateur	9	Beaver Creek	7
+3600	ED60-001	06	Ken		McKinnon	M	N	N	1928	Progressive Conservative	Progressiste-Conservateur	9	Whitehorse	29
+3600	ED60-001	06	Ken		McKinnon	M	N	N	1928	Progressive Conservative	Progressiste-Conservateur	SVR/RÉS-1		9
+3600	ED60-001	06	Ken		McKinnon	M	N	N	1928	Progressive Conservative	Progressiste-Conservateur	SVR/RÉS-2		52
