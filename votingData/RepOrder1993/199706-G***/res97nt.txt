@@ -1,0 +1,692 @@
+event_number	ed_code	ballot_sequence_number	candidate_first_name	candidate_middle_name	candidate_last_name	candidate_gender_code	elected_indicator	incumbent_indicator	candidate_ed_vote_count	candidate_party_english_name	candidate_party_french_name	poll_number	polling_station_name	candidate_poll_vote_count
+3600	ED61-001	01	Okalik		Eegeesiak	F	N	N	1737	Progressive Conservative	Progressiste-Conservateur	1	Alert	0
+3600	ED61-001	01	Okalik		Eegeesiak	F	N	N	1737	Progressive Conservative	Progressiste-Conservateur	1	Pond Inlet	24
+3600	ED61-001	01	Okalik		Eegeesiak	F	N	N	1737	Progressive Conservative	Progressiste-Conservateur	10	Taloyoak	19
+3600	ED61-001	01	Okalik		Eegeesiak	F	N	N	1737	Progressive Conservative	Progressiste-Conservateur	11	Cambridge Bay	21
+3600	ED61-001	01	Okalik		Eegeesiak	F	N	N	1737	Progressive Conservative	Progressiste-Conservateur	12	Cambridge Bay	29
+3600	ED61-001	01	Okalik		Eegeesiak	F	N	N	1737	Progressive Conservative	Progressiste-Conservateur	18	Coppermine	14
+3600	ED61-001	01	Okalik		Eegeesiak	F	N	N	1737	Progressive Conservative	Progressiste-Conservateur	19	Coppermine	13
+3600	ED61-001	01	Okalik		Eegeesiak	F	N	N	1737	Progressive Conservative	Progressiste-Conservateur	2	Polaris	16
+3600	ED61-001	01	Okalik		Eegeesiak	F	N	N	1737	Progressive Conservative	Progressiste-Conservateur	2	Cambridge Bay	2
+3600	ED61-001	01	Okalik		Eegeesiak	F	N	N	1737	Progressive Conservative	Progressiste-Conservateur	20	Umingmaktok	3
+3600	ED61-001	01	Okalik		Eegeesiak	F	N	N	1737	Progressive Conservative	Progressiste-Conservateur	21	Bathurst Inlet	2
+3600	ED61-001	01	Okalik		Eegeesiak	F	N	N	1737	Progressive Conservative	Progressiste-Conservateur	22	Gjoa Haven	9
+3600	ED61-001	01	Okalik		Eegeesiak	F	N	N	1737	Progressive Conservative	Progressiste-Conservateur	23	Pelly Bay	12
+3600	ED61-001	01	Okalik		Eegeesiak	F	N	N	1737	Progressive Conservative	Progressiste-Conservateur	24	Igloolik	49
+3600	ED61-001	01	Okalik		Eegeesiak	F	N	N	1737	Progressive Conservative	Progressiste-Conservateur	25	Hall Beach	26
+3600	ED61-001	01	Okalik		Eegeesiak	F	N	N	1737	Progressive Conservative	Progressiste-Conservateur	26	Repulse Bay	7
+3600	ED61-001	01	Okalik		Eegeesiak	F	N	N	1737	Progressive Conservative	Progressiste-Conservateur	27	Baker Lake	22
+3600	ED61-001	01	Okalik		Eegeesiak	F	N	N	1737	Progressive Conservative	Progressiste-Conservateur	28	Baker Lake	13
+3600	ED61-001	01	Okalik		Eegeesiak	F	N	N	1737	Progressive Conservative	Progressiste-Conservateur	29	Chesterfield Inlet	7
+3600	ED61-001	01	Okalik		Eegeesiak	F	N	N	1737	Progressive Conservative	Progressiste-Conservateur	3	Rankin Inlet	1
+3600	ED61-001	01	Okalik		Eegeesiak	F	N	N	1737	Progressive Conservative	Progressiste-Conservateur	30	Rankin Inlet	14
+3600	ED61-001	01	Okalik		Eegeesiak	F	N	N	1737	Progressive Conservative	Progressiste-Conservateur	31	Rankin Inlet	6
+3600	ED61-001	01	Okalik		Eegeesiak	F	N	N	1737	Progressive Conservative	Progressiste-Conservateur	32	Rankin Inlet	16
+3600	ED61-001	01	Okalik		Eegeesiak	F	N	N	1737	Progressive Conservative	Progressiste-Conservateur	33	Whale Cove	2
+3600	ED61-001	01	Okalik		Eegeesiak	F	N	N	1737	Progressive Conservative	Progressiste-Conservateur	34	Arviat	4
+3600	ED61-001	01	Okalik		Eegeesiak	F	N	N	1737	Progressive Conservative	Progressiste-Conservateur	35	Arviat	8
+3600	ED61-001	01	Okalik		Eegeesiak	F	N	N	1737	Progressive Conservative	Progressiste-Conservateur	36	Coral Harbour	6
+3600	ED61-001	01	Okalik		Eegeesiak	F	N	N	1737	Progressive Conservative	Progressiste-Conservateur	37	Sanikiluaq	75
+3600	ED61-001	01	Okalik		Eegeesiak	F	N	N	1737	Progressive Conservative	Progressiste-Conservateur	38	Broughton Island	95
+3600	ED61-001	01	Okalik		Eegeesiak	F	N	N	1737	Progressive Conservative	Progressiste-Conservateur	39	Pangnirtung	64
+3600	ED61-001	01	Okalik		Eegeesiak	F	N	N	1737	Progressive Conservative	Progressiste-Conservateur	4	Grise Fiord	16
+3600	ED61-001	01	Okalik		Eegeesiak	F	N	N	1737	Progressive Conservative	Progressiste-Conservateur	4	Pangnirtung	6
+3600	ED61-001	01	Okalik		Eegeesiak	F	N	N	1737	Progressive Conservative	Progressiste-Conservateur	40	Pangnirtung	57
+3600	ED61-001	01	Okalik		Eegeesiak	F	N	N	1737	Progressive Conservative	Progressiste-Conservateur	43	Cape Dorset	102
+3600	ED61-001	01	Okalik		Eegeesiak	F	N	N	1737	Progressive Conservative	Progressiste-Conservateur	44	Lake Harbour	46
+3600	ED61-001	01	Okalik		Eegeesiak	F	N	N	1737	Progressive Conservative	Progressiste-Conservateur	45	Iqaluit	65
+3600	ED61-001	01	Okalik		Eegeesiak	F	N	N	1737	Progressive Conservative	Progressiste-Conservateur	46	Iqaluit	25
+3600	ED61-001	01	Okalik		Eegeesiak	F	N	N	1737	Progressive Conservative	Progressiste-Conservateur	47	Iqaluit	88
+3600	ED61-001	01	Okalik		Eegeesiak	F	N	N	1737	Progressive Conservative	Progressiste-Conservateur	48	Iqaluit	145
+3600	ED61-001	01	Okalik		Eegeesiak	F	N	N	1737	Progressive Conservative	Progressiste-Conservateur	49	Iqaluit	117
+3600	ED61-001	01	Okalik		Eegeesiak	F	N	N	1737	Progressive Conservative	Progressiste-Conservateur	5	Resolute Bay	19
+3600	ED61-001	01	Okalik		Eegeesiak	F	N	N	1737	Progressive Conservative	Progressiste-Conservateur	5	Iqaluit	62
+3600	ED61-001	01	Okalik		Eegeesiak	F	N	N	1737	Progressive Conservative	Progressiste-Conservateur	50	Achiwapaschikisit	58
+3600	ED61-001	01	Okalik		Eegeesiak	F	N	N	1737	Progressive Conservative	Progressiste-Conservateur	6	Nanisivik	16
+3600	ED61-001	01	Okalik		Eegeesiak	F	N	N	1737	Progressive Conservative	Progressiste-Conservateur	7	Arctic Bay	53
+3600	ED61-001	01	Okalik		Eegeesiak	F	N	N	1737	Progressive Conservative	Progressiste-Conservateur	8	Pond Inlet	160
+3600	ED61-001	01	Okalik		Eegeesiak	F	N	N	1737	Progressive Conservative	Progressiste-Conservateur	9	Clyde River	86
+3600	ED61-001	01	Okalik		Eegeesiak	F	N	N	1737	Progressive Conservative	Progressiste-Conservateur	SVR/R+S-1		33
+3600	ED61-001	01	Okalik		Eegeesiak	F	N	N	1737	Progressive Conservative	Progressiste-Conservateur	SVR/R+S-2		4
+3600	ED61-001	02	Nancy		Karetak-Lindell	F	Y	N	3302	Liberal	Libéral	1	Alert	0
+3600	ED61-001	02	Nancy		Karetak-Lindell	F	Y	N	3302	Liberal	Libéral	1	Pond Inlet	6
+3600	ED61-001	02	Nancy		Karetak-Lindell	F	Y	N	3302	Liberal	Libéral	10	Taloyoak	68
+3600	ED61-001	02	Nancy		Karetak-Lindell	F	Y	N	3302	Liberal	Libéral	11	Cambridge Bay	73
+3600	ED61-001	02	Nancy		Karetak-Lindell	F	Y	N	3302	Liberal	Libéral	12	Cambridge Bay	97
+3600	ED61-001	02	Nancy		Karetak-Lindell	F	Y	N	3302	Liberal	Libéral	18	Coppermine	84
+3600	ED61-001	02	Nancy		Karetak-Lindell	F	Y	N	3302	Liberal	Libéral	19	Coppermine	81
+3600	ED61-001	02	Nancy		Karetak-Lindell	F	Y	N	3302	Liberal	Libéral	2	Polaris	27
+3600	ED61-001	02	Nancy		Karetak-Lindell	F	Y	N	3302	Liberal	Libéral	2	Cambridge Bay	12
+3600	ED61-001	02	Nancy		Karetak-Lindell	F	Y	N	3302	Liberal	Libéral	20	Umingmaktok	9
+3600	ED61-001	02	Nancy		Karetak-Lindell	F	Y	N	3302	Liberal	Libéral	21	Bathurst Inlet	7
+3600	ED61-001	02	Nancy		Karetak-Lindell	F	Y	N	3302	Liberal	Libéral	22	Gjoa Haven	54
+3600	ED61-001	02	Nancy		Karetak-Lindell	F	Y	N	3302	Liberal	Libéral	23	Pelly Bay	97
+3600	ED61-001	02	Nancy		Karetak-Lindell	F	Y	N	3302	Liberal	Libéral	24	Igloolik	115
+3600	ED61-001	02	Nancy		Karetak-Lindell	F	Y	N	3302	Liberal	Libéral	25	Hall Beach	107
+3600	ED61-001	02	Nancy		Karetak-Lindell	F	Y	N	3302	Liberal	Libéral	26	Repulse Bay	70
+3600	ED61-001	02	Nancy		Karetak-Lindell	F	Y	N	3302	Liberal	Libéral	27	Baker Lake	88
+3600	ED61-001	02	Nancy		Karetak-Lindell	F	Y	N	3302	Liberal	Libéral	28	Baker Lake	116
+3600	ED61-001	02	Nancy		Karetak-Lindell	F	Y	N	3302	Liberal	Libéral	29	Chesterfield Inlet	56
+3600	ED61-001	02	Nancy		Karetak-Lindell	F	Y	N	3302	Liberal	Libéral	3	Rankin Inlet	15
+3600	ED61-001	02	Nancy		Karetak-Lindell	F	Y	N	3302	Liberal	Libéral	30	Rankin Inlet	113
+3600	ED61-001	02	Nancy		Karetak-Lindell	F	Y	N	3302	Liberal	Libéral	31	Rankin Inlet	105
+3600	ED61-001	02	Nancy		Karetak-Lindell	F	Y	N	3302	Liberal	Libéral	32	Rankin Inlet	122
+3600	ED61-001	02	Nancy		Karetak-Lindell	F	Y	N	3302	Liberal	Libéral	33	Whale Cove	29
+3600	ED61-001	02	Nancy		Karetak-Lindell	F	Y	N	3302	Liberal	Libéral	34	Arviat	202
+3600	ED61-001	02	Nancy		Karetak-Lindell	F	Y	N	3302	Liberal	Libéral	35	Arviat	253
+3600	ED61-001	02	Nancy		Karetak-Lindell	F	Y	N	3302	Liberal	Libéral	36	Coral Harbour	66
+3600	ED61-001	02	Nancy		Karetak-Lindell	F	Y	N	3302	Liberal	Libéral	37	Sanikiluaq	50
+3600	ED61-001	02	Nancy		Karetak-Lindell	F	Y	N	3302	Liberal	Libéral	38	Broughton Island	30
+3600	ED61-001	02	Nancy		Karetak-Lindell	F	Y	N	3302	Liberal	Libéral	39	Pangnirtung	105
+3600	ED61-001	02	Nancy		Karetak-Lindell	F	Y	N	3302	Liberal	Libéral	4	Grise Fiord	25
+3600	ED61-001	02	Nancy		Karetak-Lindell	F	Y	N	3302	Liberal	Libéral	4	Pangnirtung	17
+3600	ED61-001	02	Nancy		Karetak-Lindell	F	Y	N	3302	Liberal	Libéral	40	Pangnirtung	77
+3600	ED61-001	02	Nancy		Karetak-Lindell	F	Y	N	3302	Liberal	Libéral	43	Cape Dorset	56
+3600	ED61-001	02	Nancy		Karetak-Lindell	F	Y	N	3302	Liberal	Libéral	44	Lake Harbour	80
+3600	ED61-001	02	Nancy		Karetak-Lindell	F	Y	N	3302	Liberal	Libéral	45	Iqaluit	76
+3600	ED61-001	02	Nancy		Karetak-Lindell	F	Y	N	3302	Liberal	Libéral	46	Iqaluit	33
+3600	ED61-001	02	Nancy		Karetak-Lindell	F	Y	N	3302	Liberal	Libéral	47	Iqaluit	62
+3600	ED61-001	02	Nancy		Karetak-Lindell	F	Y	N	3302	Liberal	Libéral	48	Iqaluit	132
+3600	ED61-001	02	Nancy		Karetak-Lindell	F	Y	N	3302	Liberal	Libéral	49	Iqaluit	95
+3600	ED61-001	02	Nancy		Karetak-Lindell	F	Y	N	3302	Liberal	Libéral	5	Resolute Bay	38
+3600	ED61-001	02	Nancy		Karetak-Lindell	F	Y	N	3302	Liberal	Libéral	5	Iqaluit	52
+3600	ED61-001	02	Nancy		Karetak-Lindell	F	Y	N	3302	Liberal	Libéral	50	Achiwapaschikisit	19
+3600	ED61-001	02	Nancy		Karetak-Lindell	F	Y	N	3302	Liberal	Libéral	6	Nanisivik	36
+3600	ED61-001	02	Nancy		Karetak-Lindell	F	Y	N	3302	Liberal	Libéral	7	Arctic Bay	59
+3600	ED61-001	02	Nancy		Karetak-Lindell	F	Y	N	3302	Liberal	Libéral	8	Pond Inlet	84
+3600	ED61-001	02	Nancy		Karetak-Lindell	F	Y	N	3302	Liberal	Libéral	9	Clyde River	60
+3600	ED61-001	02	Nancy		Karetak-Lindell	F	Y	N	3302	Liberal	Libéral	SVR/R+S-1		31
+3600	ED61-001	02	Nancy		Karetak-Lindell	F	Y	N	3302	Liberal	Libéral	SVR/R+S-2		13
+3600	ED61-001	03	Hunter		Tootoo	M	N	N	1710	N.D.P.	N.P.D.	1	Alert	0
+3600	ED61-001	03	Hunter		Tootoo	M	N	N	1710	N.D.P.	N.P.D.	1	Pond Inlet	16
+3600	ED61-001	03	Hunter		Tootoo	M	N	N	1710	N.D.P.	N.P.D.	10	Taloyoak	76
+3600	ED61-001	03	Hunter		Tootoo	M	N	N	1710	N.D.P.	N.P.D.	11	Cambridge Bay	22
+3600	ED61-001	03	Hunter		Tootoo	M	N	N	1710	N.D.P.	N.P.D.	12	Cambridge Bay	35
+3600	ED61-001	03	Hunter		Tootoo	M	N	N	1710	N.D.P.	N.P.D.	18	Coppermine	36
+3600	ED61-001	03	Hunter		Tootoo	M	N	N	1710	N.D.P.	N.P.D.	19	Coppermine	45
+3600	ED61-001	03	Hunter		Tootoo	M	N	N	1710	N.D.P.	N.P.D.	2	Polaris	6
+3600	ED61-001	03	Hunter		Tootoo	M	N	N	1710	N.D.P.	N.P.D.	2	Cambridge Bay	10
+3600	ED61-001	03	Hunter		Tootoo	M	N	N	1710	N.D.P.	N.P.D.	20	Umingmaktok	4
+3600	ED61-001	03	Hunter		Tootoo	M	N	N	1710	N.D.P.	N.P.D.	21	Bathurst Inlet	2
+3600	ED61-001	03	Hunter		Tootoo	M	N	N	1710	N.D.P.	N.P.D.	22	Gjoa Haven	129
+3600	ED61-001	03	Hunter		Tootoo	M	N	N	1710	N.D.P.	N.P.D.	23	Pelly Bay	14
+3600	ED61-001	03	Hunter		Tootoo	M	N	N	1710	N.D.P.	N.P.D.	24	Igloolik	125
+3600	ED61-001	03	Hunter		Tootoo	M	N	N	1710	N.D.P.	N.P.D.	25	Hall Beach	56
+3600	ED61-001	03	Hunter		Tootoo	M	N	N	1710	N.D.P.	N.P.D.	26	Repulse Bay	17
+3600	ED61-001	03	Hunter		Tootoo	M	N	N	1710	N.D.P.	N.P.D.	27	Baker Lake	63
+3600	ED61-001	03	Hunter		Tootoo	M	N	N	1710	N.D.P.	N.P.D.	28	Baker Lake	59
+3600	ED61-001	03	Hunter		Tootoo	M	N	N	1710	N.D.P.	N.P.D.	29	Chesterfield Inlet	37
+3600	ED61-001	03	Hunter		Tootoo	M	N	N	1710	N.D.P.	N.P.D.	3	Rankin Inlet	6
+3600	ED61-001	03	Hunter		Tootoo	M	N	N	1710	N.D.P.	N.P.D.	30	Rankin Inlet	80
+3600	ED61-001	03	Hunter		Tootoo	M	N	N	1710	N.D.P.	N.P.D.	31	Rankin Inlet	69
+3600	ED61-001	03	Hunter		Tootoo	M	N	N	1710	N.D.P.	N.P.D.	32	Rankin Inlet	73
+3600	ED61-001	03	Hunter		Tootoo	M	N	N	1710	N.D.P.	N.P.D.	33	Whale Cove	10
+3600	ED61-001	03	Hunter		Tootoo	M	N	N	1710	N.D.P.	N.P.D.	34	Arviat	23
+3600	ED61-001	03	Hunter		Tootoo	M	N	N	1710	N.D.P.	N.P.D.	35	Arviat	34
+3600	ED61-001	03	Hunter		Tootoo	M	N	N	1710	N.D.P.	N.P.D.	36	Coral Harbour	47
+3600	ED61-001	03	Hunter		Tootoo	M	N	N	1710	N.D.P.	N.P.D.	37	Sanikiluaq	54
+3600	ED61-001	03	Hunter		Tootoo	M	N	N	1710	N.D.P.	N.P.D.	38	Broughton Island	12
+3600	ED61-001	03	Hunter		Tootoo	M	N	N	1710	N.D.P.	N.P.D.	39	Pangnirtung	42
+3600	ED61-001	03	Hunter		Tootoo	M	N	N	1710	N.D.P.	N.P.D.	4	Grise Fiord	9
+3600	ED61-001	03	Hunter		Tootoo	M	N	N	1710	N.D.P.	N.P.D.	4	Pangnirtung	6
+3600	ED61-001	03	Hunter		Tootoo	M	N	N	1710	N.D.P.	N.P.D.	40	Pangnirtung	42
+3600	ED61-001	03	Hunter		Tootoo	M	N	N	1710	N.D.P.	N.P.D.	43	Cape Dorset	68
+3600	ED61-001	03	Hunter		Tootoo	M	N	N	1710	N.D.P.	N.P.D.	44	Lake Harbour	8
+3600	ED61-001	03	Hunter		Tootoo	M	N	N	1710	N.D.P.	N.P.D.	45	Iqaluit	30
+3600	ED61-001	03	Hunter		Tootoo	M	N	N	1710	N.D.P.	N.P.D.	46	Iqaluit	24
+3600	ED61-001	03	Hunter		Tootoo	M	N	N	1710	N.D.P.	N.P.D.	47	Iqaluit	34
+3600	ED61-001	03	Hunter		Tootoo	M	N	N	1710	N.D.P.	N.P.D.	48	Iqaluit	47
+3600	ED61-001	03	Hunter		Tootoo	M	N	N	1710	N.D.P.	N.P.D.	49	Iqaluit	63
+3600	ED61-001	03	Hunter		Tootoo	M	N	N	1710	N.D.P.	N.P.D.	5	Resolute Bay	14
+3600	ED61-001	03	Hunter		Tootoo	M	N	N	1710	N.D.P.	N.P.D.	5	Iqaluit	14
+3600	ED61-001	03	Hunter		Tootoo	M	N	N	1710	N.D.P.	N.P.D.	50	Achiwapaschikisit	19
+3600	ED61-001	03	Hunter		Tootoo	M	N	N	1710	N.D.P.	N.P.D.	6	Nanisivik	7
+3600	ED61-001	03	Hunter		Tootoo	M	N	N	1710	N.D.P.	N.P.D.	7	Arctic Bay	21
+3600	ED61-001	03	Hunter		Tootoo	M	N	N	1710	N.D.P.	N.P.D.	8	Pond Inlet	74
+3600	ED61-001	03	Hunter		Tootoo	M	N	N	1710	N.D.P.	N.P.D.	9	Clyde River	13
+3600	ED61-001	03	Hunter		Tootoo	M	N	N	1710	N.D.P.	N.P.D.	SVR/R+S-1		9
+3600	ED61-001	03	Hunter		Tootoo	M	N	N	1710	N.D.P.	N.P.D.	SVR/R+S-2		6
+3600	ED61-001	04	John		Turner	M	N	N	447	Reform	Réforme	1	Alert	0
+3600	ED61-001	04	John		Turner	M	N	N	447	Reform	Réforme	1	Pond Inlet	1
+3600	ED61-001	04	John		Turner	M	N	N	447	Reform	Réforme	10	Taloyoak	13
+3600	ED61-001	04	John		Turner	M	N	N	447	Reform	Réforme	11	Cambridge Bay	25
+3600	ED61-001	04	John		Turner	M	N	N	447	Reform	Réforme	12	Cambridge Bay	15
+3600	ED61-001	04	John		Turner	M	N	N	447	Reform	Réforme	18	Coppermine	8
+3600	ED61-001	04	John		Turner	M	N	N	447	Reform	Réforme	19	Coppermine	9
+3600	ED61-001	04	John		Turner	M	N	N	447	Reform	Réforme	2	Polaris	23
+3600	ED61-001	04	John		Turner	M	N	N	447	Reform	Réforme	2	Cambridge Bay	3
+3600	ED61-001	04	John		Turner	M	N	N	447	Reform	Réforme	20	Umingmaktok	2
+3600	ED61-001	04	John		Turner	M	N	N	447	Reform	Réforme	21	Bathurst Inlet	3
+3600	ED61-001	04	John		Turner	M	N	N	447	Reform	Réforme	22	Gjoa Haven	9
+3600	ED61-001	04	John		Turner	M	N	N	447	Reform	Réforme	23	Pelly Bay	13
+3600	ED61-001	04	John		Turner	M	N	N	447	Reform	Réforme	24	Igloolik	15
+3600	ED61-001	04	John		Turner	M	N	N	447	Reform	Réforme	25	Hall Beach	16
+3600	ED61-001	04	John		Turner	M	N	N	447	Reform	Réforme	26	Repulse Bay	2
+3600	ED61-001	04	John		Turner	M	N	N	447	Reform	Réforme	27	Baker Lake	9
+3600	ED61-001	04	John		Turner	M	N	N	447	Reform	Réforme	28	Baker Lake	12
+3600	ED61-001	04	John		Turner	M	N	N	447	Reform	Réforme	29	Chesterfield Inlet	3
+3600	ED61-001	04	John		Turner	M	N	N	447	Reform	Réforme	3	Rankin Inlet	6
+3600	ED61-001	04	John		Turner	M	N	N	447	Reform	Réforme	30	Rankin Inlet	15
+3600	ED61-001	04	John		Turner	M	N	N	447	Reform	Réforme	31	Rankin Inlet	10
+3600	ED61-001	04	John		Turner	M	N	N	447	Reform	Réforme	32	Rankin Inlet	15
+3600	ED61-001	04	John		Turner	M	N	N	447	Reform	Réforme	33	Whale Cove	42
+3600	ED61-001	04	John		Turner	M	N	N	447	Reform	Réforme	34	Arviat	7
+3600	ED61-001	04	John		Turner	M	N	N	447	Reform	Réforme	35	Arviat	9
+3600	ED61-001	04	John		Turner	M	N	N	447	Reform	Réforme	36	Coral Harbour	4
+3600	ED61-001	04	John		Turner	M	N	N	447	Reform	Réforme	37	Sanikiluaq	11
+3600	ED61-001	04	John		Turner	M	N	N	447	Reform	Réforme	38	Broughton Island	7
+3600	ED61-001	04	John		Turner	M	N	N	447	Reform	Réforme	39	Pangnirtung	3
+3600	ED61-001	04	John		Turner	M	N	N	447	Reform	Réforme	4	Grise Fiord	1
+3600	ED61-001	04	John		Turner	M	N	N	447	Reform	Réforme	4	Pangnirtung	2
+3600	ED61-001	04	John		Turner	M	N	N	447	Reform	Réforme	40	Pangnirtung	6
+3600	ED61-001	04	John		Turner	M	N	N	447	Reform	Réforme	43	Cape Dorset	10
+3600	ED61-001	04	John		Turner	M	N	N	447	Reform	Réforme	44	Lake Harbour	1
+3600	ED61-001	04	John		Turner	M	N	N	447	Reform	Réforme	45	Iqaluit	6
+3600	ED61-001	04	John		Turner	M	N	N	447	Reform	Réforme	46	Iqaluit	5
+3600	ED61-001	04	John		Turner	M	N	N	447	Reform	Réforme	47	Iqaluit	8
+3600	ED61-001	04	John		Turner	M	N	N	447	Reform	Réforme	48	Iqaluit	11
+3600	ED61-001	04	John		Turner	M	N	N	447	Reform	Réforme	49	Iqaluit	15
+3600	ED61-001	04	John		Turner	M	N	N	447	Reform	Réforme	5	Resolute Bay	13
+3600	ED61-001	04	John		Turner	M	N	N	447	Reform	Réforme	5	Iqaluit	3
+3600	ED61-001	04	John		Turner	M	N	N	447	Reform	Réforme	50	Achiwapaschikisit	4
+3600	ED61-001	04	John		Turner	M	N	N	447	Reform	Réforme	6	Nanisivik	21
+3600	ED61-001	04	John		Turner	M	N	N	447	Reform	Réforme	7	Arctic Bay	4
+3600	ED61-001	04	John		Turner	M	N	N	447	Reform	Réforme	8	Pond Inlet	11
+3600	ED61-001	04	John		Turner	M	N	N	447	Reform	Réforme	9	Clyde River	7
+3600	ED61-001	04	John		Turner	M	N	N	447	Reform	Réforme	SVR/R+S-1		4
+3600	ED61-001	04	John		Turner	M	N	N	447	Reform	Réforme	SVR/R+S-2		5
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	1	Mould Bay	0
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	1	Tuktoyaktuk	0
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	10	Inuvik	40
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	11	Inuvik	51
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	12	Inuvik	58
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	13	Inuvik	56
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	14	Inuvik	54
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	15	Aklavik	44
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	16	Aklavik	41
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	17	Fort McPherson	16
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	18	Fort McPherson	91
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	19	Arctic Red River	22
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	2	Sachs Harbour	17
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	2	Inuvik	19
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	20	Fort Good Hope	71
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	21	Colville Lake	27
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	22	Fort Franklin	104
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	23	Norman Wells	144
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	24	Fort Norman	60
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	25	Wrigley	24
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	26	Nahanni Butte	23
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	27	Fort Simpson	50
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	28	Fort Simpson	107
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	29	Jean Marie River	0
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	3	Holman	54
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	3	Fort Simpson	31
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	30	Fort Liard	58
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	31	Trout Lake	41
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	32	Rae Lakes	97
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	33	Snare Lakes	38
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	34	Lac la Martre	158
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	35	Rae	222
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	36	Rae	161
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	37	Edzo	58
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	38	Fort Providence	79
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	39	Camlaren	16
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	39-1	Koala	0
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	4	Tuktoyaktuk	25
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	4	Rae	0
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	40	Detah	35
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	41	Lutselk'e	60
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	42	Yellowknife	22
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	43	Yellowknife	141
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	44	Yellowknife	66
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	45	Yellowknife	60
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	46	Yellowknife	44
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	47	Yellowknife	63
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	48	Yellowknife	55
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	49	Yellowknife	74
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	5	Tuktoyaktuk	25
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	5	Yellowknife	109
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	50	Yellowknife	52
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	51	Yellowknife	66
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	52	Yellowknife	33
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	53	Yellowknife	67
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	54	Yellowknife	52
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	55	Yellowknife	62
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	56	Yellowknife	54
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	57	Yellowknife	60
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	58A	Yellowknife	53
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	58B	Yellowknife	54
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	59	Yellowknife	44
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	6	Anderson River	0
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	6	Hay River	18
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	60	Yellowknife	61
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	61	Yellowknife	42
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	62A	Yellowknife	57
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	62B	Yellowknife	62
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	63	Yellowknife	55
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	64	Yellowknife	66
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	65	Yellowknife	55
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	66	Yellowknife	51
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	67	Yellowknife	58
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	68	Yellowknife	57
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	69	Yellowknife	64
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	7	Cape Parry	0
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	7	Fort Smith	21
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	70	Yellowknife	54
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	71	Yellowknife	92
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	72	Kakisa	0
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	73	Enterprise	26
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	74	Hay River	37
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	75	Hay River	45
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	76	Hay River	65
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	77	Hay River	88
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	78	Hay River	50
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	79	Hay River	85
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	8	Paulatuk	41
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	80	Hay River	88
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	81	Hay River	34
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	82	Fort Resolution	81
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	83	Fort Smith	70
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	84	Fort Smith	66
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	85	Fort Smith	44
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	86	Fort Smith	89
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	87	Fort Smith	77
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	9	Inuvik	75
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	SVR/RÉS-1		58
+3600	ED61-002	01	Ethel		Blondin-Andrew	F	Y	Y	5564	Liberal	Libéral	SVR/RÉS-2		124
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	1	Mould Bay	0
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	1	Tuktoyaktuk	0
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	10	Inuvik	5
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	11	Inuvik	7
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	12	Inuvik	8
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	13	Inuvik	22
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	14	Inuvik	24
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	15	Aklavik	3
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	16	Aklavik	1
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	17	Fort McPherson	6
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	18	Fort McPherson	6
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	19	Arctic Red River	6
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	2	Sachs Harbour	2
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	2	Inuvik	8
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	20	Fort Good Hope	4
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	21	Colville Lake	1
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	22	Fort Franklin	3
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	23	Norman Wells	32
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	24	Fort Norman	6
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	25	Wrigley	1
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	26	Nahanni Butte	1
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	27	Fort Simpson	13
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	28	Fort Simpson	10
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	29	Jean Marie River	0
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	3	Holman	3
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	3	Fort Simpson	4
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	30	Fort Liard	9
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	31	Trout Lake	2
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	32	Rae Lakes	4
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	33	Snare Lakes	1
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	34	Lac la Martre	7
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	35	Rae	16
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	36	Rae	11
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	37	Edzo	16
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	38	Fort Providence	12
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	39	Camlaren	17
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	39-1	Koala	0
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	4	Tuktoyaktuk	7
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	4	Rae	0
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	40	Detah	1
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	41	Lutselk'e	3
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	42	Yellowknife	5
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	43	Yellowknife	29
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	44	Yellowknife	35
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	45	Yellowknife	25
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	46	Yellowknife	28
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	47	Yellowknife	35
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	48	Yellowknife	25
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	49	Yellowknife	30
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	5	Tuktoyaktuk	11
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	5	Yellowknife	73
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	50	Yellowknife	28
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	51	Yellowknife	33
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	52	Yellowknife	8
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	53	Yellowknife	26
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	54	Yellowknife	28
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	55	Yellowknife	19
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	56	Yellowknife	43
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	57	Yellowknife	22
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	58A	Yellowknife	36
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	58B	Yellowknife	34
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	59	Yellowknife	30
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	6	Anderson River	0
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	6	Hay River	7
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	60	Yellowknife	34
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	61	Yellowknife	23
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	62A	Yellowknife	22
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	62B	Yellowknife	47
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	63	Yellowknife	53
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	64	Yellowknife	33
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	65	Yellowknife	26
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	66	Yellowknife	34
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	67	Yellowknife	26
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	68	Yellowknife	45
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	69	Yellowknife	36
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	7	Cape Parry	0
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	7	Fort Smith	11
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	70	Yellowknife	37
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	71	Yellowknife	60
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	72	Kakisa	0
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	73	Enterprise	0
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	74	Hay River	13
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	75	Hay River	21
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	76	Hay River	11
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	77	Hay River	15
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	78	Hay River	12
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	79	Hay River	29
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	8	Paulatuk	3
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	80	Hay River	37
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	81	Hay River	1
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	82	Fort Resolution	7
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	83	Fort Smith	12
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	84	Fort Smith	24
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	85	Fort Smith	8
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	86	Fort Smith	21
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	87	Fort Smith	27
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	9	Inuvik	14
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	SVR/RÉS-1		9
+3600	ED61-002	02	Bob		Dowdall	M	N	N	1687	Progressive Conservative	Progressiste-Conservateur	SVR/RÉS-2		44
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	1	Mould Bay	0
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	1	Tuktoyaktuk	0
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	10	Inuvik	27
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	11	Inuvik	41
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	12	Inuvik	40
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	13	Inuvik	27
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	14	Inuvik	33
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	15	Aklavik	29
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	16	Aklavik	28
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	17	Fort McPherson	36
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	18	Fort McPherson	104
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	19	Arctic Red River	36
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	2	Sachs Harbour	16
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	2	Inuvik	11
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	20	Fort Good Hope	76
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	21	Colville Lake	15
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	22	Fort Franklin	23
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	23	Norman Wells	33
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	24	Fort Norman	44
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	25	Wrigley	19
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	26	Nahanni Butte	12
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	27	Fort Simpson	20
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	28	Fort Simpson	51
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	29	Jean Marie River	0
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	3	Holman	29
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	3	Fort Simpson	1
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	30	Fort Liard	14
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	31	Trout Lake	13
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	32	Rae Lakes	2
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	33	Snare Lakes	2
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	34	Lac la Martre	4
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	35	Rae	11
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	36	Rae	6
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	37	Edzo	12
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	38	Fort Providence	59
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	39	Camlaren	7
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	39-1	Koala	0
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	4	Tuktoyaktuk	20
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	4	Rae	0
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	40	Detah	11
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	41	Lutselk'e	9
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	42	Yellowknife	1
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	43	Yellowknife	16
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	44	Yellowknife	9
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	45	Yellowknife	14
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	46	Yellowknife	11
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	47	Yellowknife	18
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	48	Yellowknife	6
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	49	Yellowknife	11
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	5	Tuktoyaktuk	14
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	5	Yellowknife	8
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	50	Yellowknife	4
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	51	Yellowknife	12
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	52	Yellowknife	1
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	53	Yellowknife	7
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	54	Yellowknife	13
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	55	Yellowknife	13
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	56	Yellowknife	12
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	57	Yellowknife	7
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	58A	Yellowknife	5
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	58B	Yellowknife	4
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	59	Yellowknife	5
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	6	Anderson River	0
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	6	Hay River	5
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	60	Yellowknife	3
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	61	Yellowknife	12
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	62A	Yellowknife	5
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	62B	Yellowknife	3
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	63	Yellowknife	5
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	64	Yellowknife	10
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	65	Yellowknife	4
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	66	Yellowknife	9
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	67	Yellowknife	13
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	68	Yellowknife	7
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	69	Yellowknife	5
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	7	Cape Parry	0
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	7	Fort Smith	7
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	70	Yellowknife	9
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	71	Yellowknife	8
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	72	Kakisa	0
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	73	Enterprise	14
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	74	Hay River	2
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	75	Hay River	13
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	76	Hay River	17
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	77	Hay River	18
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	78	Hay River	6
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	79	Hay River	16
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	8	Paulatuk	3
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	80	Hay River	19
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	81	Hay River	5
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	82	Fort Resolution	55
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	83	Fort Smith	16
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	84	Fort Smith	30
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	85	Fort Smith	6
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	86	Fort Smith	28
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	87	Fort Smith	14
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	9	Inuvik	37
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	SVR/RÉS-1		34
+3600	ED61-002	03	Wally		Firth	M	N	N	1567	Independent	Indépendant	SVR/RÉS-2		17
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	1	Mould Bay	0
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	1	Tuktoyaktuk	0
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	10	Inuvik	17
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	11	Inuvik	17
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	12	Inuvik	16
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	13	Inuvik	32
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	14	Inuvik	20
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	15	Aklavik	7
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	16	Aklavik	9
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	17	Fort McPherson	4
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	18	Fort McPherson	21
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	19	Arctic Red River	0
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	2	Sachs Harbour	1
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	2	Inuvik	12
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	20	Fort Good Hope	24
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	21	Colville Lake	2
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	22	Fort Franklin	8
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	23	Norman Wells	36
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	24	Fort Norman	11
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	25	Wrigley	1
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	26	Nahanni Butte	9
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	27	Fort Simpson	21
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	28	Fort Simpson	18
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	29	Jean Marie River	0
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	3	Holman	35
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	3	Fort Simpson	3
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	30	Fort Liard	20
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	31	Trout Lake	9
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	32	Rae Lakes	11
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	33	Snare Lakes	4
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	34	Lac la Martre	10
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	35	Rae	19
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	36	Rae	3
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	37	Edzo	12
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	38	Fort Providence	133
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	39	Camlaren	21
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	39-1	Koala	0
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	4	Tuktoyaktuk	5
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	4	Rae	0
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	40	Detah	10
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	41	Lutselk'e	16
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	42	Yellowknife	2
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	43	Yellowknife	65
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	44	Yellowknife	81
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	45	Yellowknife	48
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	46	Yellowknife	39
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	47	Yellowknife	55
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	48	Yellowknife	33
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	49	Yellowknife	46
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	5	Tuktoyaktuk	10
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	5	Yellowknife	74
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	50	Yellowknife	15
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	51	Yellowknife	49
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	52	Yellowknife	7
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	53	Yellowknife	69
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	54	Yellowknife	63
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	55	Yellowknife	59
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	56	Yellowknife	52
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	57	Yellowknife	57
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	58A	Yellowknife	41
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	58B	Yellowknife	30
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	59	Yellowknife	45
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	6	Anderson River	0
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	6	Hay River	8
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	60	Yellowknife	41
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	61	Yellowknife	38
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	62A	Yellowknife	50
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	62B	Yellowknife	34
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	63	Yellowknife	22
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	64	Yellowknife	72
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	65	Yellowknife	49
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	66	Yellowknife	45
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	67	Yellowknife	44
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	68	Yellowknife	45
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	69	Yellowknife	43
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	7	Cape Parry	0
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	7	Fort Smith	10
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	70	Yellowknife	46
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	71	Yellowknife	34
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	72	Kakisa	0
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	73	Enterprise	2
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	74	Hay River	24
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	75	Hay River	15
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	76	Hay River	25
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	77	Hay River	20
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	78	Hay River	16
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	79	Hay River	36
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	8	Paulatuk	3
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	80	Hay River	46
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	81	Hay River	3
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	82	Fort Resolution	26
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	83	Fort Smith	43
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	84	Fort Smith	33
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	85	Fort Smith	18
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	86	Fort Smith	27
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	87	Fort Smith	25
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	9	Inuvik	31
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	SVR/RÉS-1		12
+3600	ED61-002	04	Mary	Beth	Levan	F	N	N	2579	N.D.P.	N.P.D.	SVR/RÉS-2		56
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	1	Mould Bay	0
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	1	Tuktoyaktuk	0
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	10	Inuvik	6
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	11	Inuvik	16
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	12	Inuvik	10
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	13	Inuvik	28
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	14	Inuvik	20
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	15	Aklavik	4
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	16	Aklavik	1
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	17	Fort McPherson	6
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	18	Fort McPherson	8
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	19	Arctic Red River	0
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	2	Sachs Harbour	2
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	2	Inuvik	8
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	20	Fort Good Hope	11
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	21	Colville Lake	2
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	22	Fort Franklin	10
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	23	Norman Wells	85
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	24	Fort Norman	5
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	25	Wrigley	13
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	26	Nahanni Butte	1
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	27	Fort Simpson	26
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	28	Fort Simpson	27
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	29	Jean Marie River	0
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	3	Holman	11
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	3	Fort Simpson	5
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	30	Fort Liard	7
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	31	Trout Lake	12
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	32	Rae Lakes	3
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	33	Snare Lakes	6
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	34	Lac la Martre	7
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	35	Rae	5
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	36	Rae	2
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	37	Edzo	10
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	38	Fort Providence	19
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	39	Camlaren	11
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	39-1	Koala	0
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	4	Tuktoyaktuk	6
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	4	Rae	0
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	40	Detah	0
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	41	Lutselk'e	0
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	42	Yellowknife	4
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	43	Yellowknife	23
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	44	Yellowknife	31
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	45	Yellowknife	35
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	46	Yellowknife	17
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	47	Yellowknife	44
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	48	Yellowknife	19
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	49	Yellowknife	19
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	5	Tuktoyaktuk	3
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	5	Yellowknife	47
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	50	Yellowknife	19
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	51	Yellowknife	22
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	52	Yellowknife	19
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	53	Yellowknife	22
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	54	Yellowknife	27
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	55	Yellowknife	17
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	56	Yellowknife	43
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	57	Yellowknife	22
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	58A	Yellowknife	35
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	58B	Yellowknife	37
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	59	Yellowknife	35
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	6	Anderson River	0
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	6	Hay River	15
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	60	Yellowknife	29
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	61	Yellowknife	33
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	62A	Yellowknife	63
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	62B	Yellowknife	49
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	63	Yellowknife	25
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	64	Yellowknife	41
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	65	Yellowknife	20
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	66	Yellowknife	39
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	67	Yellowknife	32
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	68	Yellowknife	45
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	69	Yellowknife	31
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	7	Cape Parry	0
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	7	Fort Smith	10
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	70	Yellowknife	49
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	71	Yellowknife	41
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	72	Kakisa	0
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	73	Enterprise	9
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	74	Hay River	36
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	75	Hay River	26
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	76	Hay River	44
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	77	Hay River	50
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	78	Hay River	25
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	79	Hay River	64
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	8	Paulatuk	3
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	80	Hay River	62
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	81	Hay River	2
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	82	Fort Resolution	23
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	83	Fort Smith	20
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	84	Fort Smith	21
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	85	Fort Smith	4
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	86	Fort Smith	16
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	87	Fort Smith	42
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	9	Inuvik	18
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	SVR/RÉS-1		7
+3600	ED61-002	05	Mike		Watt	M	N	N	1966	Reform	Réforme	SVR/RÉS-2		39

@@ -1,0 +1,491 @@
+event_number	ed_code	ballot_sequence_number	candidate_first_name	candidate_middle_name	candidate_last_name	candidate_gender_code	elected_indicator	incumbent_indicator	candidate_ed_vote_count	candidate_party_english_name	candidate_party_french_name	poll_number	polling_station_name	candidate_poll_vote_count
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	1	Old Crow	33
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	10	Koidern	0
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	11	Burwash Landing	23
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	12	Destruction Bay	5
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	13	Pelly Crossing	26
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	14	Carmacks	37
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	15	Faro	0
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	16	Faro	0
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	17	Faro	37
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	18	Little Salmon	0
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	19	Ross River	25
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	2	Eagle Plains	0
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	20A	Haines Junction	49
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	20B	Haines Junction	46
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	21	Takhini	6
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	22	Upper Laberge	31
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	23	Takhini	21
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	24	Takhini	53
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	25	Whitehorse	64
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	26A	Whitehorse	57
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	26B	Whitehorse	29
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	27	Whitehorse	23
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	28	Whitehorse	52
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	29	Whitehorse	61
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	3	Dawson	73
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	30	Whitehorse	28
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	31	Whitehorse	73
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	32	Whitehorse	58
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	33	Whitehorse	72
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	34	Whitehorse	73
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	35	Whitehorse	100
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	36	Whitehorse	78
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	37	Whitehorse	43
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	38	Whitehorse	25
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	39	Whitehorse	23
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	4	Dawson	69
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	40	Whitehorse	100
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	41A	Whitehorse	89
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	41B	Whitehorse	75
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	41C	Whitehorse	94
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	42	Whitehorse	66
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	43A	Whitehorse	81
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	43B	Whitehorse	99
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	44A	Whitehorse	56
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	44B	Whitehorse	38
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	45	Whitehorse	28
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	46	Whitehorse	33
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	47	Whitehorse	43
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	48	Whitehorse	51
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	49	Whitehorse	65
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	5	Klondike	35
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	50	Whitehorse	33
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	500	Mobile poll/Bureau itinérant	10
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	51	Whitehorse	32
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	52	Whitehorse	49
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	53	Whitehorse	91
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	54	Whitehorse	117
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	55	Whitehorse	78
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	56	Whitehorse	74
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	57	Whitehorse	116
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	58	Whitehorse	119
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	59	Whitehorse	103
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	6	Keno Hill	0
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	60	MacRae	48
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	600	Dawson	26
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	601	Mayo	10
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	602	Beaver Creek	6
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	603	Pelly Crossing	6
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	604	Faro	1
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	605	Ross River	14
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	606	Haines Junction	2
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	607	Takhini	2
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	608	Whitehorse	81
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	609	Whitehorse	58
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	610	MacRae	15
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	611	Carcross	7
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	612	Swift River	4
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	613	Watson Lake	17
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	61A	MacRae	59
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	61B	MacRae	72
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	62	MacRae	49
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	63	MacRae	81
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	64	Marsh Lake	66
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	65	Carcross	46
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	66	Tagish	28
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	67	Johnsons Crossing	0
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	68	Teslin	60
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	69	Swift River	0
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	7	Stewart Crossing	0
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	70	Tuchitua	0
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	71	Watson Lake	30
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	72	Watson Lake	23
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	73	Upper Liard	38
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	74	Watson Lake	60
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	8	Mayo	58
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	9	Beaver Creek	11
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	S/R 1	SVR Group 1/RÉS Groupe 1	7
+3700	ED60-001	1	Larry		Bagnell	M	Y	N	4293	Liberal	Libéral	S/R 2	SVR Group 2/RÉS Groupe 2	140
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	1	Old Crow	0
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	10	Koidern	0
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	11	Burwash Landing	0
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	12	Destruction Bay	1
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	13	Pelly Crossing	1
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	14	Carmacks	1
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	15	Faro	0
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	16	Faro	0
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	17	Faro	0
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	18	Little Salmon	0
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	19	Ross River	2
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	2	Eagle Plains	0
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	20A	Haines Junction	2
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	20B	Haines Junction	2
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	21	Takhini	0
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	22	Upper Laberge	1
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	23	Takhini	0
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	24	Takhini	2
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	25	Whitehorse	0
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	26A	Whitehorse	1
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	26B	Whitehorse	2
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	27	Whitehorse	0
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	28	Whitehorse	0
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	29	Whitehorse	1
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	3	Dawson	0
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	30	Whitehorse	0
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	31	Whitehorse	0
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	32	Whitehorse	0
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	33	Whitehorse	0
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	34	Whitehorse	0
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	35	Whitehorse	1
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	36	Whitehorse	2
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	37	Whitehorse	1
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	38	Whitehorse	2
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	39	Whitehorse	0
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	4	Dawson	1
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	40	Whitehorse	2
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	41A	Whitehorse	1
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	41B	Whitehorse	0
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	41C	Whitehorse	1
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	42	Whitehorse	0
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	43A	Whitehorse	0
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	43B	Whitehorse	0
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	44A	Whitehorse	0
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	44B	Whitehorse	1
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	45	Whitehorse	1
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	46	Whitehorse	0
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	47	Whitehorse	0
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	48	Whitehorse	0
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	49	Whitehorse	1
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	5	Klondike	0
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	50	Whitehorse	0
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	500	Mobile poll/Bureau itinérant	3
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	51	Whitehorse	0
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	52	Whitehorse	0
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	53	Whitehorse	0
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	54	Whitehorse	0
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	55	Whitehorse	2
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	56	Whitehorse	2
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	57	Whitehorse	1
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	58	Whitehorse	0
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	59	Whitehorse	1
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	6	Keno Hill	0
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	60	MacRae	0
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	600	Dawson	3
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	601	Mayo	0
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	602	Beaver Creek	0
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	603	Pelly Crossing	0
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	604	Faro	0
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	605	Ross River	0
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	606	Haines Junction	0
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	607	Takhini	0
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	608	Whitehorse	1
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	609	Whitehorse	3
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	610	MacRae	0
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	611	Carcross	0
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	612	Swift River	0
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	613	Watson Lake	0
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	61A	MacRae	0
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	61B	MacRae	0
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	62	MacRae	0
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	63	MacRae	1
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	64	Marsh Lake	0
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	65	Carcross	1
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	66	Tagish	0
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	67	Johnsons Crossing	0
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	68	Teslin	1
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	69	Swift River	0
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	7	Stewart Crossing	0
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	70	Tuchitua	0
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	71	Watson Lake	1
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	72	Watson Lake	0
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	73	Upper Liard	0
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	74	Watson Lake	0
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	8	Mayo	0
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	9	Beaver Creek	0
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	S/R 1	SVR Group 1/RÉS Groupe 1	0
+3700	ED60-001	2	Geoffrey		Capp	M	N	N	53	No Affiliation	Aucune appartenance	S/R 2	SVR Group 2/RÉS Groupe 2	3
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	1	Old Crow	4
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	10	Koidern	0
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	11	Burwash Landing	0
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	12	Destruction Bay	3
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	13	Pelly Crossing	5
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	14	Carmacks	11
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	15	Faro	0
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	16	Faro	0
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	17	Faro	7
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	18	Little Salmon	0
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	19	Ross River	7
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	2	Eagle Plains	0
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	20A	Haines Junction	13
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	20B	Haines Junction	13
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	21	Takhini	3
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	22	Upper Laberge	9
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	23	Takhini	9
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	24	Takhini	20
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	25	Whitehorse	25
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	26A	Whitehorse	11
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	26B	Whitehorse	10
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	27	Whitehorse	5
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	28	Whitehorse	14
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	29	Whitehorse	12
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	3	Dawson	22
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	30	Whitehorse	12
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	31	Whitehorse	22
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	32	Whitehorse	12
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	33	Whitehorse	12
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	34	Whitehorse	6
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	35	Whitehorse	17
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	36	Whitehorse	9
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	37	Whitehorse	10
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	38	Whitehorse	2
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	39	Whitehorse	6
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	4	Dawson	26
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	40	Whitehorse	16
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	41A	Whitehorse	11
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	41B	Whitehorse	11
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	41C	Whitehorse	13
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	42	Whitehorse	8
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	43A	Whitehorse	12
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	43B	Whitehorse	11
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	44A	Whitehorse	8
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	44B	Whitehorse	8
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	45	Whitehorse	11
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	46	Whitehorse	8
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	47	Whitehorse	16
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	48	Whitehorse	14
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	49	Whitehorse	12
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	5	Klondike	22
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	50	Whitehorse	8
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	500	Mobile poll/Bureau itinérant	7
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	51	Whitehorse	9
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	52	Whitehorse	9
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	53	Whitehorse	18
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	54	Whitehorse	23
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	55	Whitehorse	25
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	56	Whitehorse	12
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	57	Whitehorse	19
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	58	Whitehorse	31
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	59	Whitehorse	32
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	6	Keno Hill	0
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	60	MacRae	15
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	600	Dawson	7
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	601	Mayo	4
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	602	Beaver Creek	0
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	603	Pelly Crossing	4
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	604	Faro	0
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	605	Ross River	0
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	606	Haines Junction	0
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	607	Takhini	1
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	608	Whitehorse	8
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	609	Whitehorse	15
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	610	MacRae	3
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	611	Carcross	1
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	612	Swift River	1
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	613	Watson Lake	1
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	61A	MacRae	16
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	61B	MacRae	17
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	62	MacRae	4
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	63	MacRae	34
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	64	Marsh Lake	14
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	65	Carcross	6
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	66	Tagish	13
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	67	Johnsons Crossing	0
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	68	Teslin	7
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	69	Swift River	0
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	7	Stewart Crossing	0
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	70	Tuchitua	0
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	71	Watson Lake	23
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	72	Watson Lake	8
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	73	Upper Liard	8
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	74	Watson Lake	23
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	8	Mayo	8
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	9	Beaver Creek	2
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	S/R 1	SVR Group 1/RÉS Groupe 1	3
+3700	ED60-001	3	Don		Cox	M	N	N	991	Progressive Conservative	Progressiste-Conservateur	S/R 2	SVR Group 2/RÉS Groupe 2	34
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	1	Old Crow	71
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	10	Koidern	0
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	11	Burwash Landing	8
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	12	Destruction Bay	3
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	13	Pelly Crossing	109
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	14	Carmacks	104
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	15	Faro	0
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	16	Faro	0
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	17	Faro	43
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	18	Little Salmon	0
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	19	Ross River	35
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	2	Eagle Plains	0
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	20A	Haines Junction	51
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	20B	Haines Junction	56
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	21	Takhini	12
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	22	Upper Laberge	28
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	23	Takhini	60
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	24	Takhini	86
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	25	Whitehorse	58
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	26A	Whitehorse	40
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	26B	Whitehorse	53
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	27	Whitehorse	16
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	28	Whitehorse	41
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	29	Whitehorse	35
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	3	Dawson	73
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	30	Whitehorse	29
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	31	Whitehorse	51
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	32	Whitehorse	56
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	33	Whitehorse	34
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	34	Whitehorse	55
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	35	Whitehorse	47
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	36	Whitehorse	46
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	37	Whitehorse	33
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	38	Whitehorse	32
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	39	Whitehorse	18
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	4	Dawson	67
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	40	Whitehorse	73
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	41A	Whitehorse	30
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	41B	Whitehorse	39
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	41C	Whitehorse	43
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	42	Whitehorse	55
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	43A	Whitehorse	39
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	43B	Whitehorse	55
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	44A	Whitehorse	94
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	44B	Whitehorse	59
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	45	Whitehorse	38
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	46	Whitehorse	38
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	47	Whitehorse	78
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	48	Whitehorse	107
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	49	Whitehorse	67
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	5	Klondike	55
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	50	Whitehorse	49
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	500	Mobile poll/Bureau itinérant	16
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	51	Whitehorse	31
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	52	Whitehorse	44
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	53	Whitehorse	96
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	54	Whitehorse	75
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	55	Whitehorse	84
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	56	Whitehorse	65
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	57	Whitehorse	67
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	58	Whitehorse	82
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	59	Whitehorse	76
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	6	Keno Hill	0
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	60	MacRae	57
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	600	Dawson	14
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	601	Mayo	13
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	602	Beaver Creek	5
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	603	Pelly Crossing	12
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	604	Faro	9
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	605	Ross River	6
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	606	Haines Junction	3
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	607	Takhini	2
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	608	Whitehorse	76
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	609	Whitehorse	79
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	610	MacRae	9
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	611	Carcross	10
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	612	Swift River	13
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	613	Watson Lake	10
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	61A	MacRae	71
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	61B	MacRae	72
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	62	MacRae	44
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	63	MacRae	113
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	64	Marsh Lake	48
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	65	Carcross	57
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	66	Tagish	21
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	67	Johnsons Crossing	0
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	68	Teslin	70
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	69	Swift River	0
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	7	Stewart Crossing	0
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	70	Tuchitua	0
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	71	Watson Lake	35
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	72	Watson Lake	26
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	73	Upper Liard	28
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	74	Watson Lake	47
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	8	Mayo	78
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	9	Beaver Creek	13
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	S/R 1	SVR Group 1/RÉS Groupe 1	9
+3700	ED60-001	4	Louise		Hardy	F	N	Y	4223	N.D.P.	N.P.D.	S/R 2	SVR Group 2/RÉS Groupe 2	168
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	1	Old Crow	3
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	10	Koidern	0
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	11	Burwash Landing	12
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	12	Destruction Bay	14
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	13	Pelly Crossing	17
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	14	Carmacks	38
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	15	Faro	0
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	16	Faro	0
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	17	Faro	38
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	18	Little Salmon	0
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	19	Ross River	29
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	2	Eagle Plains	0
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	20A	Haines Junction	41
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	20B	Haines Junction	40
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	21	Takhini	5
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	22	Upper Laberge	51
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	23	Takhini	31
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	24	Takhini	99
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	25	Whitehorse	93
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	26A	Whitehorse	31
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	26B	Whitehorse	51
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	27	Whitehorse	34
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	28	Whitehorse	69
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	29	Whitehorse	46
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	3	Dawson	38
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	30	Whitehorse	46
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	31	Whitehorse	94
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	32	Whitehorse	37
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	33	Whitehorse	47
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	34	Whitehorse	43
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	35	Whitehorse	70
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	36	Whitehorse	70
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	37	Whitehorse	49
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	38	Whitehorse	25
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	39	Whitehorse	15
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	4	Dawson	52
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	40	Whitehorse	57
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	41A	Whitehorse	55
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	41B	Whitehorse	55
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	41C	Whitehorse	74
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	42	Whitehorse	25
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	43A	Whitehorse	44
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	43B	Whitehorse	57
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	44A	Whitehorse	27
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	44B	Whitehorse	33
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	45	Whitehorse	21
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	46	Whitehorse	31
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	47	Whitehorse	40
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	48	Whitehorse	34
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	49	Whitehorse	42
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	5	Klondike	55
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	50	Whitehorse	28
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	500	Mobile poll/Bureau itinérant	11
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	51	Whitehorse	23
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	52	Whitehorse	26
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	53	Whitehorse	50
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	54	Whitehorse	57
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	55	Whitehorse	59
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	56	Whitehorse	41
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	57	Whitehorse	49
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	58	Whitehorse	64
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	59	Whitehorse	48
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	6	Keno Hill	0
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	60	MacRae	34
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	600	Dawson	16
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	601	Mayo	10
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	602	Beaver Creek	0
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	603	Pelly Crossing	10
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	604	Faro	10
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	605	Ross River	9
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	606	Haines Junction	3
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	607	Takhini	10
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	608	Whitehorse	64
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	609	Whitehorse	53
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	610	MacRae	12
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	611	Carcross	5
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	612	Swift River	15
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	613	Watson Lake	35
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	61A	MacRae	59
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	61B	MacRae	62
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	62	MacRae	44
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	63	MacRae	89
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	64	Marsh Lake	82
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	65	Carcross	32
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	66	Tagish	45
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	67	Johnsons Crossing	0
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	68	Teslin	30
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	69	Swift River	0
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	7	Stewart Crossing	0
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	70	Tuchitua	0
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	71	Watson Lake	58
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	72	Watson Lake	39
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	73	Upper Liard	31
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	74	Watson Lake	81
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	8	Mayo	30
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	9	Beaver Creek	6
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	S/R 1	SVR Group 1/RÉS Groupe 1	10
+3700	ED60-001	5	Jim		Kenyon	M	N	N	3659	Canadian Alliance	Alliance Canadienne	S/R 2	SVR Group 2/RÉS Groupe 2	241

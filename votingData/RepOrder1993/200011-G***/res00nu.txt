@@ -1,0 +1,193 @@
+event_number	ed_code	ballot_sequence_number	candidate_first_name	candidate_middle_name	candidate_last_name	candidate_gender_code	elected_indicator	incumbent_indicator	candidate_ed_vote_count	candidate_party_english_name	candidate_party_french_name	poll_number	polling_station_name	candidate_poll_vote_count
+3700	ED62-001	1	Palluq	Susan	Enuaraq	F	N	N	1410	N.D.P.	N.P.D.	10	Taloyoak	12
+3700	ED62-001	1	Palluq	Susan	Enuaraq	F	N	N	1410	N.D.P.	N.P.D.	11	Cambridge Bay	18
+3700	ED62-001	1	Palluq	Susan	Enuaraq	F	N	N	1410	N.D.P.	N.P.D.	12	Cambridge Bay	21
+3700	ED62-001	1	Palluq	Susan	Enuaraq	F	N	N	1410	N.D.P.	N.P.D.	18	Coppermine	16
+3700	ED62-001	1	Palluq	Susan	Enuaraq	F	N	N	1410	N.D.P.	N.P.D.	19	Coppermine	22
+3700	ED62-001	1	Palluq	Susan	Enuaraq	F	N	N	1410	N.D.P.	N.P.D.	2	Polaris	3
+3700	ED62-001	1	Palluq	Susan	Enuaraq	F	N	N	1410	N.D.P.	N.P.D.	20	Umingmaktok	1
+3700	ED62-001	1	Palluq	Susan	Enuaraq	F	N	N	1410	N.D.P.	N.P.D.	21	Bathurst Inlet	4
+3700	ED62-001	1	Palluq	Susan	Enuaraq	F	N	N	1410	N.D.P.	N.P.D.	22	Gjoa Haven	67
+3700	ED62-001	1	Palluq	Susan	Enuaraq	F	N	N	1410	N.D.P.	N.P.D.	23	Pelly Bay	30
+3700	ED62-001	1	Palluq	Susan	Enuaraq	F	N	N	1410	N.D.P.	N.P.D.	24	Igloolik	93
+3700	ED62-001	1	Palluq	Susan	Enuaraq	F	N	N	1410	N.D.P.	N.P.D.	25	Hall Beach	27
+3700	ED62-001	1	Palluq	Susan	Enuaraq	F	N	N	1410	N.D.P.	N.P.D.	26	Repulse Bay	24
+3700	ED62-001	1	Palluq	Susan	Enuaraq	F	N	N	1410	N.D.P.	N.P.D.	27	Baker Lake	23
+3700	ED62-001	1	Palluq	Susan	Enuaraq	F	N	N	1410	N.D.P.	N.P.D.	28	Baker Lake	16
+3700	ED62-001	1	Palluq	Susan	Enuaraq	F	N	N	1410	N.D.P.	N.P.D.	29	Chesterfield Inlet	21
+3700	ED62-001	1	Palluq	Susan	Enuaraq	F	N	N	1410	N.D.P.	N.P.D.	30	Rankin Inlet	18
+3700	ED62-001	1	Palluq	Susan	Enuaraq	F	N	N	1410	N.D.P.	N.P.D.	31	Rankin Inlet	15
+3700	ED62-001	1	Palluq	Susan	Enuaraq	F	N	N	1410	N.D.P.	N.P.D.	32	Rankin Inlet	23
+3700	ED62-001	1	Palluq	Susan	Enuaraq	F	N	N	1410	N.D.P.	N.P.D.	33	Whale Cove	6
+3700	ED62-001	1	Palluq	Susan	Enuaraq	F	N	N	1410	N.D.P.	N.P.D.	34	Arviat	15
+3700	ED62-001	1	Palluq	Susan	Enuaraq	F	N	N	1410	N.D.P.	N.P.D.	35	Arviat	8
+3700	ED62-001	1	Palluq	Susan	Enuaraq	F	N	N	1410	N.D.P.	N.P.D.	36	Coral Harbour	14
+3700	ED62-001	1	Palluq	Susan	Enuaraq	F	N	N	1410	N.D.P.	N.P.D.	37	Sanikiluaq	34
+3700	ED62-001	1	Palluq	Susan	Enuaraq	F	N	N	1410	N.D.P.	N.P.D.	38	Broughton Island	47
+3700	ED62-001	1	Palluq	Susan	Enuaraq	F	N	N	1410	N.D.P.	N.P.D.	39	Pangnirtung	39
+3700	ED62-001	1	Palluq	Susan	Enuaraq	F	N	N	1410	N.D.P.	N.P.D.	4	Grise Fiord	11
+3700	ED62-001	1	Palluq	Susan	Enuaraq	F	N	N	1410	N.D.P.	N.P.D.	40	Pangnirtung	23
+3700	ED62-001	1	Palluq	Susan	Enuaraq	F	N	N	1410	N.D.P.	N.P.D.	43	Cape Dorset	55
+3700	ED62-001	1	Palluq	Susan	Enuaraq	F	N	N	1410	N.D.P.	N.P.D.	44	Lake Harbour	15
+3700	ED62-001	1	Palluq	Susan	Enuaraq	F	N	N	1410	N.D.P.	N.P.D.	45	Iqaluit	36
+3700	ED62-001	1	Palluq	Susan	Enuaraq	F	N	N	1410	N.D.P.	N.P.D.	46	Iqaluit	31
+3700	ED62-001	1	Palluq	Susan	Enuaraq	F	N	N	1410	N.D.P.	N.P.D.	47	Iqaluit	39
+3700	ED62-001	1	Palluq	Susan	Enuaraq	F	N	N	1410	N.D.P.	N.P.D.	48	Iqaluit	82
+3700	ED62-001	1	Palluq	Susan	Enuaraq	F	N	N	1410	N.D.P.	N.P.D.	49A	Iqaluit	69
+3700	ED62-001	1	Palluq	Susan	Enuaraq	F	N	N	1410	N.D.P.	N.P.D.	49B	Iqaluit	19
+3700	ED62-001	1	Palluq	Susan	Enuaraq	F	N	N	1410	N.D.P.	N.P.D.	5	Resolute Bay	16
+3700	ED62-001	1	Palluq	Susan	Enuaraq	F	N	N	1410	N.D.P.	N.P.D.	6	Nanisivik	10
+3700	ED62-001	1	Palluq	Susan	Enuaraq	F	N	N	1410	N.D.P.	N.P.D.	600	Pond Inlet	9
+3700	ED62-001	1	Palluq	Susan	Enuaraq	F	N	N	1410	N.D.P.	N.P.D.	601	Cambridge Bay	0
+3700	ED62-001	1	Palluq	Susan	Enuaraq	F	N	N	1410	N.D.P.	N.P.D.	602	Rankin Inlet	1
+3700	ED62-001	1	Palluq	Susan	Enuaraq	F	N	N	1410	N.D.P.	N.P.D.	603	Pangnirtung	1
+3700	ED62-001	1	Palluq	Susan	Enuaraq	F	N	N	1410	N.D.P.	N.P.D.	604	Iqaluit	23
+3700	ED62-001	1	Palluq	Susan	Enuaraq	F	N	N	1410	N.D.P.	N.P.D.	7	Arctic Bay	57
+3700	ED62-001	1	Palluq	Susan	Enuaraq	F	N	N	1410	N.D.P.	N.P.D.	8	Pond Inlet	121
+3700	ED62-001	1	Palluq	Susan	Enuaraq	F	N	N	1410	N.D.P.	N.P.D.	9	Clyde River	169
+3700	ED62-001	1	Palluq	Susan	Enuaraq	F	N	N	1410	N.D.P.	N.P.D.	S/R 1	SVR Group 1/RÉS Groupe 1	1
+3700	ED62-001	1	Palluq	Susan	Enuaraq	F	N	N	1410	N.D.P.	N.P.D.	S/R 2	SVR Group 2/RÉS Groupe 2	5
+3700	ED62-001	2	Brian	Robert	Jones	M	N	N	349	Green Party	Parti Vert	10	Taloyoak	4
+3700	ED62-001	2	Brian	Robert	Jones	M	N	N	349	Green Party	Parti Vert	11	Cambridge Bay	20
+3700	ED62-001	2	Brian	Robert	Jones	M	N	N	349	Green Party	Parti Vert	12	Cambridge Bay	36
+3700	ED62-001	2	Brian	Robert	Jones	M	N	N	349	Green Party	Parti Vert	18	Coppermine	13
+3700	ED62-001	2	Brian	Robert	Jones	M	N	N	349	Green Party	Parti Vert	19	Coppermine	9
+3700	ED62-001	2	Brian	Robert	Jones	M	N	N	349	Green Party	Parti Vert	2	Polaris	5
+3700	ED62-001	2	Brian	Robert	Jones	M	N	N	349	Green Party	Parti Vert	20	Umingmaktok	1
+3700	ED62-001	2	Brian	Robert	Jones	M	N	N	349	Green Party	Parti Vert	21	Bathurst Inlet	0
+3700	ED62-001	2	Brian	Robert	Jones	M	N	N	349	Green Party	Parti Vert	22	Gjoa Haven	11
+3700	ED62-001	2	Brian	Robert	Jones	M	N	N	349	Green Party	Parti Vert	23	Pelly Bay	11
+3700	ED62-001	2	Brian	Robert	Jones	M	N	N	349	Green Party	Parti Vert	24	Igloolik	19
+3700	ED62-001	2	Brian	Robert	Jones	M	N	N	349	Green Party	Parti Vert	25	Hall Beach	4
+3700	ED62-001	2	Brian	Robert	Jones	M	N	N	349	Green Party	Parti Vert	26	Repulse Bay	7
+3700	ED62-001	2	Brian	Robert	Jones	M	N	N	349	Green Party	Parti Vert	27	Baker Lake	7
+3700	ED62-001	2	Brian	Robert	Jones	M	N	N	349	Green Party	Parti Vert	28	Baker Lake	4
+3700	ED62-001	2	Brian	Robert	Jones	M	N	N	349	Green Party	Parti Vert	29	Chesterfield Inlet	4
+3700	ED62-001	2	Brian	Robert	Jones	M	N	N	349	Green Party	Parti Vert	30	Rankin Inlet	9
+3700	ED62-001	2	Brian	Robert	Jones	M	N	N	349	Green Party	Parti Vert	31	Rankin Inlet	4
+3700	ED62-001	2	Brian	Robert	Jones	M	N	N	349	Green Party	Parti Vert	32	Rankin Inlet	9
+3700	ED62-001	2	Brian	Robert	Jones	M	N	N	349	Green Party	Parti Vert	33	Whale Cove	2
+3700	ED62-001	2	Brian	Robert	Jones	M	N	N	349	Green Party	Parti Vert	34	Arviat	5
+3700	ED62-001	2	Brian	Robert	Jones	M	N	N	349	Green Party	Parti Vert	35	Arviat	1
+3700	ED62-001	2	Brian	Robert	Jones	M	N	N	349	Green Party	Parti Vert	36	Coral Harbour	5
+3700	ED62-001	2	Brian	Robert	Jones	M	N	N	349	Green Party	Parti Vert	37	Sanikiluaq	14
+3700	ED62-001	2	Brian	Robert	Jones	M	N	N	349	Green Party	Parti Vert	38	Broughton Island	4
+3700	ED62-001	2	Brian	Robert	Jones	M	N	N	349	Green Party	Parti Vert	39	Pangnirtung	8
+3700	ED62-001	2	Brian	Robert	Jones	M	N	N	349	Green Party	Parti Vert	4	Grise Fiord	4
+3700	ED62-001	2	Brian	Robert	Jones	M	N	N	349	Green Party	Parti Vert	40	Pangnirtung	8
+3700	ED62-001	2	Brian	Robert	Jones	M	N	N	349	Green Party	Parti Vert	43	Cape Dorset	7
+3700	ED62-001	2	Brian	Robert	Jones	M	N	N	349	Green Party	Parti Vert	44	Lake Harbour	8
+3700	ED62-001	2	Brian	Robert	Jones	M	N	N	349	Green Party	Parti Vert	45	Iqaluit	7
+3700	ED62-001	2	Brian	Robert	Jones	M	N	N	349	Green Party	Parti Vert	46	Iqaluit	6
+3700	ED62-001	2	Brian	Robert	Jones	M	N	N	349	Green Party	Parti Vert	47	Iqaluit	9
+3700	ED62-001	2	Brian	Robert	Jones	M	N	N	349	Green Party	Parti Vert	48	Iqaluit	16
+3700	ED62-001	2	Brian	Robert	Jones	M	N	N	349	Green Party	Parti Vert	49A	Iqaluit	23
+3700	ED62-001	2	Brian	Robert	Jones	M	N	N	349	Green Party	Parti Vert	49B	Iqaluit	4
+3700	ED62-001	2	Brian	Robert	Jones	M	N	N	349	Green Party	Parti Vert	5	Resolute Bay	3
+3700	ED62-001	2	Brian	Robert	Jones	M	N	N	349	Green Party	Parti Vert	6	Nanisivik	0
+3700	ED62-001	2	Brian	Robert	Jones	M	N	N	349	Green Party	Parti Vert	600	Pond Inlet	2
+3700	ED62-001	2	Brian	Robert	Jones	M	N	N	349	Green Party	Parti Vert	601	Cambridge Bay	5
+3700	ED62-001	2	Brian	Robert	Jones	M	N	N	349	Green Party	Parti Vert	602	Rankin Inlet	0
+3700	ED62-001	2	Brian	Robert	Jones	M	N	N	349	Green Party	Parti Vert	603	Pangnirtung	0
+3700	ED62-001	2	Brian	Robert	Jones	M	N	N	349	Green Party	Parti Vert	604	Iqaluit	1
+3700	ED62-001	2	Brian	Robert	Jones	M	N	N	349	Green Party	Parti Vert	7	Arctic Bay	11
+3700	ED62-001	2	Brian	Robert	Jones	M	N	N	349	Green Party	Parti Vert	8	Pond Inlet	12
+3700	ED62-001	2	Brian	Robert	Jones	M	N	N	349	Green Party	Parti Vert	9	Clyde River	6
+3700	ED62-001	2	Brian	Robert	Jones	M	N	N	349	Green Party	Parti Vert	S/R 1	SVR Group 1/RÉS Groupe 1	0
+3700	ED62-001	2	Brian	Robert	Jones	M	N	N	349	Green Party	Parti Vert	S/R 2	SVR Group 2/RÉS Groupe 2	1
+3700	ED62-001	3	Nancy		Karetak-Lindell	F	Y	Y	5327	Liberal	Libéral	10	Taloyoak	108
+3700	ED62-001	3	Nancy		Karetak-Lindell	F	Y	Y	5327	Liberal	Libéral	11	Cambridge Bay	105
+3700	ED62-001	3	Nancy		Karetak-Lindell	F	Y	Y	5327	Liberal	Libéral	12	Cambridge Bay	147
+3700	ED62-001	3	Nancy		Karetak-Lindell	F	Y	Y	5327	Liberal	Libéral	18	Coppermine	113
+3700	ED62-001	3	Nancy		Karetak-Lindell	F	Y	Y	5327	Liberal	Libéral	19	Coppermine	105
+3700	ED62-001	3	Nancy		Karetak-Lindell	F	Y	Y	5327	Liberal	Libéral	2	Polaris	17
+3700	ED62-001	3	Nancy		Karetak-Lindell	F	Y	Y	5327	Liberal	Libéral	20	Umingmaktok	4
+3700	ED62-001	3	Nancy		Karetak-Lindell	F	Y	Y	5327	Liberal	Libéral	21	Bathurst Inlet	3
+3700	ED62-001	3	Nancy		Karetak-Lindell	F	Y	Y	5327	Liberal	Libéral	22	Gjoa Haven	197
+3700	ED62-001	3	Nancy		Karetak-Lindell	F	Y	Y	5327	Liberal	Libéral	23	Pelly Bay	83
+3700	ED62-001	3	Nancy		Karetak-Lindell	F	Y	Y	5327	Liberal	Libéral	24	Igloolik	240
+3700	ED62-001	3	Nancy		Karetak-Lindell	F	Y	Y	5327	Liberal	Libéral	25	Hall Beach	153
+3700	ED62-001	3	Nancy		Karetak-Lindell	F	Y	Y	5327	Liberal	Libéral	26	Repulse Bay	117
+3700	ED62-001	3	Nancy		Karetak-Lindell	F	Y	Y	5327	Liberal	Libéral	27	Baker Lake	163
+3700	ED62-001	3	Nancy		Karetak-Lindell	F	Y	Y	5327	Liberal	Libéral	28	Baker Lake	163
+3700	ED62-001	3	Nancy		Karetak-Lindell	F	Y	Y	5327	Liberal	Libéral	29	Chesterfield Inlet	109
+3700	ED62-001	3	Nancy		Karetak-Lindell	F	Y	Y	5327	Liberal	Libéral	30	Rankin Inlet	158
+3700	ED62-001	3	Nancy		Karetak-Lindell	F	Y	Y	5327	Liberal	Libéral	31	Rankin Inlet	114
+3700	ED62-001	3	Nancy		Karetak-Lindell	F	Y	Y	5327	Liberal	Libéral	32	Rankin Inlet	151
+3700	ED62-001	3	Nancy		Karetak-Lindell	F	Y	Y	5327	Liberal	Libéral	33	Whale Cove	72
+3700	ED62-001	3	Nancy		Karetak-Lindell	F	Y	Y	5327	Liberal	Libéral	34	Arviat	378
+3700	ED62-001	3	Nancy		Karetak-Lindell	F	Y	Y	5327	Liberal	Libéral	35	Arviat	166
+3700	ED62-001	3	Nancy		Karetak-Lindell	F	Y	Y	5327	Liberal	Libéral	36	Coral Harbour	189
+3700	ED62-001	3	Nancy		Karetak-Lindell	F	Y	Y	5327	Liberal	Libéral	37	Sanikiluaq	188
+3700	ED62-001	3	Nancy		Karetak-Lindell	F	Y	Y	5327	Liberal	Libéral	38	Broughton Island	92
+3700	ED62-001	3	Nancy		Karetak-Lindell	F	Y	Y	5327	Liberal	Libéral	39	Pangnirtung	171
+3700	ED62-001	3	Nancy		Karetak-Lindell	F	Y	Y	5327	Liberal	Libéral	4	Grise Fiord	32
+3700	ED62-001	3	Nancy		Karetak-Lindell	F	Y	Y	5327	Liberal	Libéral	40	Pangnirtung	158
+3700	ED62-001	3	Nancy		Karetak-Lindell	F	Y	Y	5327	Liberal	Libéral	43	Cape Dorset	258
+3700	ED62-001	3	Nancy		Karetak-Lindell	F	Y	Y	5327	Liberal	Libéral	44	Lake Harbour	108
+3700	ED62-001	3	Nancy		Karetak-Lindell	F	Y	Y	5327	Liberal	Libéral	45	Iqaluit	72
+3700	ED62-001	3	Nancy		Karetak-Lindell	F	Y	Y	5327	Liberal	Libéral	46	Iqaluit	71
+3700	ED62-001	3	Nancy		Karetak-Lindell	F	Y	Y	5327	Liberal	Libéral	47	Iqaluit	101
+3700	ED62-001	3	Nancy		Karetak-Lindell	F	Y	Y	5327	Liberal	Libéral	48	Iqaluit	190
+3700	ED62-001	3	Nancy		Karetak-Lindell	F	Y	Y	5327	Liberal	Libéral	49A	Iqaluit	187
+3700	ED62-001	3	Nancy		Karetak-Lindell	F	Y	Y	5327	Liberal	Libéral	49B	Iqaluit	59
+3700	ED62-001	3	Nancy		Karetak-Lindell	F	Y	Y	5327	Liberal	Libéral	5	Resolute Bay	63
+3700	ED62-001	3	Nancy		Karetak-Lindell	F	Y	Y	5327	Liberal	Libéral	6	Nanisivik	30
+3700	ED62-001	3	Nancy		Karetak-Lindell	F	Y	Y	5327	Liberal	Libéral	600	Pond Inlet	11
+3700	ED62-001	3	Nancy		Karetak-Lindell	F	Y	Y	5327	Liberal	Libéral	601	Cambridge Bay	12
+3700	ED62-001	3	Nancy		Karetak-Lindell	F	Y	Y	5327	Liberal	Libéral	602	Rankin Inlet	26
+3700	ED62-001	3	Nancy		Karetak-Lindell	F	Y	Y	5327	Liberal	Libéral	603	Pangnirtung	9
+3700	ED62-001	3	Nancy		Karetak-Lindell	F	Y	Y	5327	Liberal	Libéral	604	Iqaluit	33
+3700	ED62-001	3	Nancy		Karetak-Lindell	F	Y	Y	5327	Liberal	Libéral	7	Arctic Bay	114
+3700	ED62-001	3	Nancy		Karetak-Lindell	F	Y	Y	5327	Liberal	Libéral	8	Pond Inlet	175
+3700	ED62-001	3	Nancy		Karetak-Lindell	F	Y	Y	5327	Liberal	Libéral	9	Clyde River	70
+3700	ED62-001	3	Nancy		Karetak-Lindell	F	Y	Y	5327	Liberal	Libéral	S/R 1	SVR Group 1/RÉS Groupe 1	15
+3700	ED62-001	3	Nancy		Karetak-Lindell	F	Y	Y	5327	Liberal	Libéral	S/R 2	SVR Group 2/RÉS Groupe 2	27
+3700	ED62-001	4	Mike		Sherman	M	N	N	633	Progressive Conservative	Progressiste-Conservateur	10	Taloyoak	9
+3700	ED62-001	4	Mike		Sherman	M	N	N	633	Progressive Conservative	Progressiste-Conservateur	11	Cambridge Bay	13
+3700	ED62-001	4	Mike		Sherman	M	N	N	633	Progressive Conservative	Progressiste-Conservateur	12	Cambridge Bay	24
+3700	ED62-001	4	Mike		Sherman	M	N	N	633	Progressive Conservative	Progressiste-Conservateur	18	Coppermine	12
+3700	ED62-001	4	Mike		Sherman	M	N	N	633	Progressive Conservative	Progressiste-Conservateur	19	Coppermine	13
+3700	ED62-001	4	Mike		Sherman	M	N	N	633	Progressive Conservative	Progressiste-Conservateur	2	Polaris	8
+3700	ED62-001	4	Mike		Sherman	M	N	N	633	Progressive Conservative	Progressiste-Conservateur	20	Umingmaktok	0
+3700	ED62-001	4	Mike		Sherman	M	N	N	633	Progressive Conservative	Progressiste-Conservateur	21	Bathurst Inlet	1
+3700	ED62-001	4	Mike		Sherman	M	N	N	633	Progressive Conservative	Progressiste-Conservateur	22	Gjoa Haven	26
+3700	ED62-001	4	Mike		Sherman	M	N	N	633	Progressive Conservative	Progressiste-Conservateur	23	Pelly Bay	4
+3700	ED62-001	4	Mike		Sherman	M	N	N	633	Progressive Conservative	Progressiste-Conservateur	24	Igloolik	22
+3700	ED62-001	4	Mike		Sherman	M	N	N	633	Progressive Conservative	Progressiste-Conservateur	25	Hall Beach	7
+3700	ED62-001	4	Mike		Sherman	M	N	N	633	Progressive Conservative	Progressiste-Conservateur	26	Repulse Bay	9
+3700	ED62-001	4	Mike		Sherman	M	N	N	633	Progressive Conservative	Progressiste-Conservateur	27	Baker Lake	9
+3700	ED62-001	4	Mike		Sherman	M	N	N	633	Progressive Conservative	Progressiste-Conservateur	28	Baker Lake	7
+3700	ED62-001	4	Mike		Sherman	M	N	N	633	Progressive Conservative	Progressiste-Conservateur	29	Chesterfield Inlet	3
+3700	ED62-001	4	Mike		Sherman	M	N	N	633	Progressive Conservative	Progressiste-Conservateur	30	Rankin Inlet	23
+3700	ED62-001	4	Mike		Sherman	M	N	N	633	Progressive Conservative	Progressiste-Conservateur	31	Rankin Inlet	9
+3700	ED62-001	4	Mike		Sherman	M	N	N	633	Progressive Conservative	Progressiste-Conservateur	32	Rankin Inlet	12
+3700	ED62-001	4	Mike		Sherman	M	N	N	633	Progressive Conservative	Progressiste-Conservateur	33	Whale Cove	2
+3700	ED62-001	4	Mike		Sherman	M	N	N	633	Progressive Conservative	Progressiste-Conservateur	34	Arviat	14
+3700	ED62-001	4	Mike		Sherman	M	N	N	633	Progressive Conservative	Progressiste-Conservateur	35	Arviat	9
+3700	ED62-001	4	Mike		Sherman	M	N	N	633	Progressive Conservative	Progressiste-Conservateur	36	Coral Harbour	5
+3700	ED62-001	4	Mike		Sherman	M	N	N	633	Progressive Conservative	Progressiste-Conservateur	37	Sanikiluaq	10
+3700	ED62-001	4	Mike		Sherman	M	N	N	633	Progressive Conservative	Progressiste-Conservateur	38	Broughton Island	9
+3700	ED62-001	4	Mike		Sherman	M	N	N	633	Progressive Conservative	Progressiste-Conservateur	39	Pangnirtung	9
+3700	ED62-001	4	Mike		Sherman	M	N	N	633	Progressive Conservative	Progressiste-Conservateur	4	Grise Fiord	3
+3700	ED62-001	4	Mike		Sherman	M	N	N	633	Progressive Conservative	Progressiste-Conservateur	40	Pangnirtung	7
+3700	ED62-001	4	Mike		Sherman	M	N	N	633	Progressive Conservative	Progressiste-Conservateur	43	Cape Dorset	15
+3700	ED62-001	4	Mike		Sherman	M	N	N	633	Progressive Conservative	Progressiste-Conservateur	44	Lake Harbour	18
+3700	ED62-001	4	Mike		Sherman	M	N	N	633	Progressive Conservative	Progressiste-Conservateur	45	Iqaluit	27
+3700	ED62-001	4	Mike		Sherman	M	N	N	633	Progressive Conservative	Progressiste-Conservateur	46	Iqaluit	29
+3700	ED62-001	4	Mike		Sherman	M	N	N	633	Progressive Conservative	Progressiste-Conservateur	47	Iqaluit	36
+3700	ED62-001	4	Mike		Sherman	M	N	N	633	Progressive Conservative	Progressiste-Conservateur	48	Iqaluit	56
+3700	ED62-001	4	Mike		Sherman	M	N	N	633	Progressive Conservative	Progressiste-Conservateur	49A	Iqaluit	59
+3700	ED62-001	4	Mike		Sherman	M	N	N	633	Progressive Conservative	Progressiste-Conservateur	49B	Iqaluit	22
+3700	ED62-001	4	Mike		Sherman	M	N	N	633	Progressive Conservative	Progressiste-Conservateur	5	Resolute Bay	6
+3700	ED62-001	4	Mike		Sherman	M	N	N	633	Progressive Conservative	Progressiste-Conservateur	6	Nanisivik	12
+3700	ED62-001	4	Mike		Sherman	M	N	N	633	Progressive Conservative	Progressiste-Conservateur	600	Pond Inlet	0
+3700	ED62-001	4	Mike		Sherman	M	N	N	633	Progressive Conservative	Progressiste-Conservateur	601	Cambridge Bay	2
+3700	ED62-001	4	Mike		Sherman	M	N	N	633	Progressive Conservative	Progressiste-Conservateur	602	Rankin Inlet	6
+3700	ED62-001	4	Mike		Sherman	M	N	N	633	Progressive Conservative	Progressiste-Conservateur	603	Pangnirtung	1
+3700	ED62-001	4	Mike		Sherman	M	N	N	633	Progressive Conservative	Progressiste-Conservateur	604	Iqaluit	18
+3700	ED62-001	4	Mike		Sherman	M	N	N	633	Progressive Conservative	Progressiste-Conservateur	7	Arctic Bay	12
+3700	ED62-001	4	Mike		Sherman	M	N	N	633	Progressive Conservative	Progressiste-Conservateur	8	Pond Inlet	17
+3700	ED62-001	4	Mike		Sherman	M	N	N	633	Progressive Conservative	Progressiste-Conservateur	9	Clyde River	7
+3700	ED62-001	4	Mike		Sherman	M	N	N	633	Progressive Conservative	Progressiste-Conservateur	S/R 1	SVR Group 1/RÉS Groupe 1	3
+3700	ED62-001	4	Mike		Sherman	M	N	N	633	Progressive Conservative	Progressiste-Conservateur	S/R 2	SVR Group 2/RÉS Groupe 2	8
